@@ -5,8 +5,6 @@ alertmsg: >
   Information will be added via the links above. Check back soon for additional information. Some materials are available only to MMED participants.
 ---
 
-{{site.url}}
-
 <div class="col-lg-2">
 </div>
 <div class="col-lg-8">
