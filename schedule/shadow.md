@@ -1,11 +1,8 @@
 ---
-layout: page
+layout: clinic
 redirect: http://www.ici3d.org/MMED2017/schedule
 tab: Schedule
-title: MMED 2017
 subtitle: Faculty Schedule
-longtitle: Clinic on Meaningful Modeling of Epidemiological Data
-summary: The eighth annual MMED clinic  ~  May 29 - June 9, 2017  ~  Muizenberg, Cape Town, South Africa
 alerttype: danger
 alertmsg: >
   <ul>
