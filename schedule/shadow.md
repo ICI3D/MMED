@@ -2,6 +2,7 @@
 layout: clinic
 redirect: http://www.ici3d.org/MMED/schedule
 tab: Schedule
+title: Shadow
 subtitle: Faculty Schedule
 alerttype: danger
 alertmsg: >

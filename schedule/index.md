@@ -2,6 +2,7 @@
 layout: redirect
 redirect: ../development
 tab: Schedule
+title: Schedule
 subtitle: Clinic Schedule
 alerttype: warning
 alertmsg: Unless otherwise noted, all materials made available through this website are licensed through a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC-BY International License</a>. <a rel="license" href="../license">Click here for license details</a>.
