@@ -1,6 +1,6 @@
 ---
 layout: clinic
-redirect: http://www.ici3d.org/MMED2017/schedule
+redirect: http://www.ici3d.org/MMED/schedule
 tab: Schedule
 subtitle: Faculty Schedule
 alerttype: danger
