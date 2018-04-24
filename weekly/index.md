@@ -11,7 +11,7 @@ You are receiving this email because you will be participating in the 2018 Clini
 Please note that you will need access to the MMED participants GitHub repository to prepare for the Clinic. You will be invited to join the repository after you've completed the following steps:
 
 - Create a GitHub account (register for an account at <https://github.com/>; you may skip this step if you already have a GitHub account)
-- Email your GitHub username and a recent photograph to <github@ici3d.org> by 14:00 (Cape Town time, or 8am Eastern) by Monday, May 1.
+- Email your GitHub username and a recent photograph to <github@ici3d.org> by 14:00 (Cape Town time, or 8am Eastern) by Tuesday, May 1.
 
 Photographs will be used to create a directory of participants. If you would prefer that your photo be shared only among Clinic participants, please indicate that in your email. Otherwise, the directory will be made publicly available.
 
