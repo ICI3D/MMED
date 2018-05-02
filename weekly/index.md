@@ -4,6 +4,20 @@ redirect: ../development
 subtitle: Weekly Messages
 ---
 
+## Message 2
+
+Thank you to everyone who has sent their GitHub information and photo. If you have not already sent your GitHub username and a recent photo to <github@ici3d.org>, please do so as soon as possible. **You will need to log in to your GitHub account to access some preparation materials.**
+
+This week, we ask that you:
+
+1. Please fill out [this form](http://www.ici3d.org/MMED/logistics/logisticsForm) to let us know if you have any **dietary restrictions**, your **t-shirt size**, and a few field trip related questions no later than **17:00 SAST on Tuesday 8 May**.
+
+1. Check out the [MMED Poster Guidelines](http://www.ici3d.org/MMED/posters), and begin working on your poster. If you would prefer not to travel with your poster, note that you can submit your poster to <posters@ici3d.org> by 17:00 (South African standard time) on May 18 to have your poster printed for you and delivered to AIMS. Additional information about submitting your poster for printing is available via the link above.
+
+If you are a Twitter user, you are also encouraged to follow [our twitter feed](https://twitter.com/ICI3D/). You may also want to follow our most Twitter-active faculty members: [@jd_mathbio](https://twitter.com/jd_mathbio), [@EvaUje](https://twitter.com/EvaUje), [@lechaquel](https://twitter.com/lechaquel), and [@SACEMAdirector](https://twitter.com/SACEMAdirector)
+
+If you have any thoughts, comments, or questions about MMED content, please email us at <faculty@ici3d.org>. For logistical information, please continue to contact Faikah Bruce, the ICI3D Program assistant, at <admin@ici3d.org>. North American participants who have not yet booked flights need to do so as soon as possible, unless alternative arrangements have already been approved.
+
 ## Message 1
 
 You are receiving this email because you will be participating in the 2018 Clinic on the Meaningful Modeling of Epidemiological Data (MMED), to be held at the African Institute for Mathematical Sciences in Muizenberg, South Africa, from May 28-June 8. Each week between now and the Clinic, you will receive a message from the MMED Faculty asking you to look at certain information or complete a specific task in preparation for the Clinic.
