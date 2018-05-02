@@ -69,7 +69,7 @@ alertmsg: >
     - Tutorial 4 Summary ([Kassanjee](../team/kassanjee)) - [Slides](../tutorials/Bellan-Tutorial4_Summary.pdf)
 -   17:00 – 18:00 [**Poster session II**](../posters/sessions)
 -   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 **Real-world example (optional lecture):** Research Talks (TBD)
+-   19:00 – 20:00 **Real-world example (optional lecture):** Research Talk (Florian Marx)
 
 ### Wednesday, 30 May
 
