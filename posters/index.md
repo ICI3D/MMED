@@ -1,17 +1,19 @@
 ---
-layout: redirect
+layout: clinic
 redirect: ../development
-subtitle: Poster preparation
+tab: Preparation
+title: Posters
+subtitle: Guidelines for poster preparation
 ---
 
-[Poster sessions](./sessions) will be held in the lecture hall and AIMS Common Area. You will be asked to stand by your poster during a specified session. All participants should circulate among posters during the poster session (aside from when they are presenting their own poster) and discuss the research presented. The posters will remain up for the duration of the Clinic, so that participants presenting during the same time will have an opportunity to read and discuss each other's posters and others in the AIMS community can view the posters.
+Poster sessions will be held in the lecture hall and AIMS Common Area. You will be asked to stand by your poster during a specified session. All participants should circulate among posters during the poster session (aside from when they are presenting their own poster) and discuss the research presented. The posters will remain up for the duration of the Clinic, so that participants presenting during the same time will have an opportunity to read and discuss each other's posters and others in the AIMS community can view the posters.
 
 -   Do not use a font size below 24pts anywhere on your poster.
 -   Be sure to attribute any figures or photographs taken from outside sources (eg, give the author, year, and source for figures borrowed from published papers).
 -   Clearly label the axes on all figures.
 -   You do not need to print your poster on a large format printer. Printing your poster on individual sheets of paper is absolutely fine.
 -   **We can print your poster for you**
-    -     To take advantage of this option, format your poster for printing on A1 size paper, and email a PDF of your poster to <a href="mailto:posters@ici3d.org?Subject=Email%20from%20ici3d.org" target="top" title="For questions or assistance, please email us!">posters@ici3d.org</a> by 5 PM (Cape Town time) on Friday, 19 May.
+    -     To take advantage of this option, format your poster for printing on A1 size paper, and email a PDF of your poster to <a href="mailto:posters@ici3d.org?Subject=Email%20from%20ici3d.org" target="top" title="For questions or assistance, please email us!">posters@ici3d.org</a> by 17:00 SAST on Friday 18 May.
     -     There is no charge for one A1 poster per participant.
 -   There are many online sources describing how to design and structure the contents of your poster. [This site](http://people.eku.edu/ritchisong/posterpres.html) is a good starting point.
 -   Even if you print your poster ahead of time, please bring an electronic copy with you to the Clinic.
@@ -42,7 +44,7 @@ You can structure your poster however you like and should feel free to use mater
 
 -   *If you are presenting a previous project:* What are you working on now? What will be most useful to you in the coming weeks?
 
-## Guidelines
+## Additional guidelines
 
 -   Explain in words any equations you show.
 -   Diagrams often complement equations nicely to give a conceptual overview of a model.
