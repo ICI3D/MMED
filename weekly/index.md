@@ -50,13 +50,35 @@ In addition, we would like to make sure you are aware that you will be working o
 
 **Please remember to complete [the quiz associated with R tutorials 0-3](https://ugeorgia.qualtrics.com/jfe/form/SV_ewzWcNolLzhBhLD) here.**
 
+## Messages 2 & 3 (COMBINED IN 2018 DUE TO WM2 GLITCH)
+
+**Please note: We attempted to send a message last week but realized today that it did not go through. We have therefore combined weekly messages 2 and 3 below. Apologies for any confusion or inconvenience.**
+
+Thank you to everyone who has sent their GitHub information and photo. If you have not already sent your GitHub username and a recent photo to <github@ici3d.org>, please do so as soon as possible. **You will need to log in to your GitHub account to access some preparation materials.**
+
+This week, we ask that you:
+
+1. Please fill out [this form](http://www.ici3d.org/MMED/logistics/logisticsForm) to let us know if you have any **dietary restrictions**, your **t-shirt size**, and a few field trip related questions no later than **17:00 SAST on Thursday 10 May**.
+
+1. Check out the [MMED Poster Guidelines](http://www.ici3d.org/MMED/posters), and begin working on your poster. If you would prefer not to travel with your poster, note that you can submit your poster to <posters@ici3d.org> by 17:00 (South African standard time) on May 18 to have your poster printed for you and delivered to AIMS. Additional information about submitting your poster for printing is available via the link above.
+
+1. Please begin to familiarize yourself with the computer programs that will be used at MMED. You can find a list of software to install (along with information about poster preparation and other preparatory materials) linked from the [Preparation page](http://www.ici3d.org/MMED/preparation).
+
+    - We ask that you install R and Rstudio on a computer and begin to work with them this week. **You should work through the Rstudio tutorial and the three introductory R tutorials (i.e. Tutorials 0-3 on [the preparation page](http://www.ici3d.org/MMED2018/preparation/) before the Clinic and complete [the associated quiz](https://ugeorgia.qualtrics.com/jfe/form/SV_ewzWcNolLzhBhLD) here.**
+
+1. North American participants who have not yet booked flights need to do so as soon as possible, unless alternative arrangements have already been approved.
+
+If you are a Twitter user, you are encouraged to follow [our twitter feed](https://twitter.com/ICI3D/). You may also want to follow our most Twitter-active faculty members: [@jd_mathbio](https://twitter.com/jd_mathbio), [@EvaUje](https://twitter.com/EvaUje), [@lechaquel](https://twitter.com/lechaquel), and [@SACEMAdirector](https://twitter.com/SACEMAdirector). If you are a Facebook user, you are encouraged to join [our facebook group](https://www.facebook.com/groups/206225166162804/).
+
+If you have any thoughts, comments, or questions about MMED content, please email us at <faculty@ici3d.org>.
+
+For logistical information, please continue to contact Faikah Bruce, the ICI3D Program assistant, at <admin@ici3d.org>.
+
 ## Message 3
 
 This week, please begin to familiarize yourself with the computer programs that will be used at MMED. You can find a list of software to install (along with information about poster preparation and other preparatory materials) linked from the [Preparation page](http://www.ici3d.org/MMED2018/preparation).
 
 We ask that you install R and Rstudio on a computer and begin to work with them this week. **You should work through the Rstudio tutorial and the three introductory R tutorials (i.e. Tutorials 0-3 on [the preparation page](http://www.ici3d.org/MMED2018/preparation/) before the Clinic and complete [the associated quiz](https://ugeorgia.qualtrics.com/jfe/form/SV_ewzWcNolLzhBhLD) here.**
-
-In addition, if you will be bringing a laptop to the Clinic, please be sure to install all the required software on your machine before your arrival.
 
 If you are a facebook user, you are also encouraged to join [our facebook group](https://www.facebook.com/groups/206225166162804/).
 
