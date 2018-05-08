@@ -1,7 +1,8 @@
 ---
-layout: redirect
+layout: clinic
 redirect: ../development
 tab: Preparation
+title: Preparation
 subtitle: Preparation for the Clinic
 alerttype: success
 alertmsg: Please prepare for the Clinic by completing the following tasks. <b>You will need to be logged into your GitHub account to access some of the materials linked below.</b>
@@ -12,8 +13,8 @@ alertmsg: Please prepare for the Clinic by completing the following tasks. <b>Yo
 Prepare a poster presentation to share your research.
 
 - Poster preparation guidelines are available [here](../posters).  
-- Be sure to submit your poster by the May 19 deadline, if you would like us to print it for you.
-- See [this page](../posters/sessions) for poster session assignments.
+- Be sure to submit your poster by the May 18 deadline, if you would like us to print it for you.
+- See [this page](../posters/sessions) for poster session assignments. (to be added)
 
 ### <a id="#Software"></a> 2. Software installation
 
@@ -28,7 +29,7 @@ If you plan to bring a laptop to use during the Clinic, please install the follo
 
 Please let us know if you have trouble installing any of the above software!
 
-> **Note:** Even if you are not bringing a laptop to the Clinic, you will need access to a computer with both R and R Studio installed to prepare for the Clinic.
+> **Note:** _If you will be bringing a laptop to the Clinic_, please be sure to install all the required software on your machine before your arrival. Please also note that you will need to have administrative permissions on the laptop you bring to the Clinic. _Even if you are not bringing a laptop to the Clinic_, you will need access to a computer with both R and R Studio installed to prepare for the Clinic.
 
 ### 3. Introductory tutorials
 
