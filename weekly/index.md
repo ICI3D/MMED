@@ -30,17 +30,19 @@ Thanks for reading, and have a great Clinic!
 
 1. Please review the [logistical information](http://www.ici3d.org/MMED/logistics/) provided. **Note that some updates have been made in the last week, including additional details about arrivals and registration.** For example, the page includes a link to the current weather and forecast for Muizenberg. As you prepare to travel to AIMS, please keep in mind that it is winter in South Africa and consider packing a sweater and/or heavy jacket, especially if you are coming from a tropical location. Be sure to check out the information page for more helpful tips! If you are flying into CPT, please pay particular attention to the arrival schedule, and let us know immediately via email to <arrival@ici3d.org> if there is any problem or discrepancy. We will update this schedule with shuttle times in the next couple of days. We recommend printing a copy of this page and bringing it with you to ensure you know where to go upon arrival and how to contact us in case of a delay. If you have trouble finding someone at the airport please call Igsaan (+27 72 216 5628, AIMS Head of Facilities & Logistics) or Steve (+27 71 923 8832).
 
-1. Please make sure your poster is ready to go ([see guidelines](http://www.ici3d.org/MMED/posters)). All posters we have received have been sent for printing. If we have not received your poster, the deadline for printing has passed and we expect you to print it and bring it with you. Everyone should also bring an electronic copy of their poster.
+1. Please make sure your poster is ready to go ([see guidelines](http://www.ici3d.org/MMED/posters)). All posters we received by the deadline have been sent for printing. If we have not received your poster, please be aware that the deadline for printing has passed and we expect you to print it and bring it with you. Everyone should also bring an electronic copy of their poster.
 
 1. Please ensure you have completed the required R and git tutorials and the associated online [quiz](https://ugeorgia.qualtrics.com/jfe/form/SV_ewzWcNolLzhBhLD) if you haven't already.
 
-1. Please note that we have posted the first set of possible projects on the [projects page](http://www.ici3d.org/MMED2018/projects/). We will be posting more over the next few days. We recommend that you browse through the project descriptions before the Clinic to familiarize yourself with the options.
+1. Please note that we have posted the first set of possible projects on the [projects page](http://www.ici3d.org/MMED/projects/). We will be posting more over the next few days. We recommend that you browse through the project descriptions before the Clinic to familiarize yourself with the options.
 
-1. If you will be bringing a laptop computer to the Clinic, now would be a good time to double-check that you have all of the [necessary software](http://www.ici3d.org/MMED2018/preparation#Software) installed on the computer you will be using. Desktop computers (with appropriate software) will be available for use by those who need them.
+1. If you will be bringing a laptop computer to the Clinic, now would be a good time to double-check that you have all of the [necessary software](http://www.ici3d.org/MMED/preparation#Software) installed on the computer you will be using. Desktop computers (with appropriate software) will be available for use by those who need them.
 
 1. Finally, everyone should note that breakfast at AIMS is served from 7:45 to 8:30. If you arrive in Muizenberg after 18:00 on Sunday, you will need to register on Monday morning, so be sure to give yourself sufficient time to register and eat!
 
-1. Please do not hesitate to let us know at <faculty@ici3d.org> if you have any questions!
+1. Finally, please do not hesitate to let us know at <faculty@ici3d.org> if you have any questions!
+
+** Add water information, and ... anything else we need them to know! **
 
 ## Message 4
 
@@ -51,6 +53,10 @@ This week, we ask that you:
 1. Begin to familiarize yourself with git, the version control system we'll be using for collaborative projects. To do this, please complete [this free, browser-based tutorial from Codecademy](https://www.codecademy.com/learn/learn-git). If you are already comfortable using git, you can skip this activity, but if you're new to git or your skills are rusty, please take the time to work through all four lessons (Basic Git Workflow, How to Backtrack in Git, Git Branching, and Git Teamwork). Investing 2-3 hours of time learning git _now_ will pay off down the line! More information is available on the [preparation page](http://www.ici3d.org/MMED/preparation).
 
 1. Please complete [the quiz associated with R tutorials 0-3](https://ugeorgia.qualtrics.com/jfe/form/SV_ewzWcNolLzhBhLD), if you have not already done so.
+
+1. Submit your poster to <posters@ici3d.org> by 17:00 SAST on May 18, if you would like to have your poster printed for you and delivered to AIMS.
+
+1. Check out the [MMED clinic website](http://www.ici3d.org/MMED), for logistical information, the latest version of the draft schedule, and more.
 
 In addition, we would like to make sure you are aware that you will be working on group projects during the second week of the Clinic and that you will be responsible for submitting a written report on your project by August 1. Guidelines for preparing and submitting the report are available [here](http://www.ici3d.org/MMED/projects/projectReports). We will begin providing outlines of potential projects next week. In the meantime, if you have a data set that you would be able to share and that you think could form the basis of a good project, please let us know as soon as possible, and **no later than 12:00 SAST on Monday 21 May**, by sending an email to <projects@ici3d.org>.
 
