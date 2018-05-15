@@ -21,17 +21,15 @@ alertmsg: >
 ### Monday, 28 May
 
 -   8:00 – 8:25 Registration and welcome, AIMS lobby
-    -   If you have a laptop, please see Jan in the IT office (Room 110) during registration to get set up with wifi access.
     -   **Please gather in the main lecture hall by 8:30.**
 -   8:30 – 9:00 Welcome and Motivation for Workshop ([Mthombothi](../team/mthombothi), [Pulliam](../team/pulliam), and [Hargrove](../team/hargrove))
--   9:00 – 10:00 **Lecture:** Public Health, Epidemiology, and Models ([Bellan](../team/bellan) or [Grebe](../team/grebe)) - [Slides](https://ndownloader.figshare.com/files/8541811)
+-   9:00 – 10:00 **Lecture:** Public Health, Epidemiology, and Models ([Grebe](../team/grebe)) - [Slides](https://ndownloader.figshare.com/files/8541811)
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 10:45 **Organizational session:** [MMED Road Map](../roadmap) and programme overview ([Pulliam](../team/pulliam))
 -   10:45 – 11:30 **Lecture:** Introduction to Thinking About Data I ([Williams](../team/williams)) - [Slides](https://ndownloader.figshare.com/files/8541904)
 -   11:30 – 12:30 **Lecture:** Introduction to dynamic modeling of infectious diseases ([Pulliam](../team/pulliam)) - [Slides](https://ndownloader.figshare.com/files/8541817)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    -   If you still need wifi access, please see Jan in the IT office (Room 110) between 13:30 and 14:00 to get this set up.
-    - If you plan to use your laptop for the 15:00 computer exercise, Cari and Juliet will help you get set up at 12:30 in the main lecture hall.
+    - If you plan to use your laptop for the 15:00 computer exercise, Eva and Juliet will help you get set up at 12:30 in the main lecture hall.
 -   14:00 – 15:00 **_Parallel sessions_**
     -   **Track A:** Introduction to infectious disease data ([Bruce](../team/bruce)) - [Slides](https://ndownloader.figshare.com/files/8544970)
     -   **Track B:** Foundations of dynamic modeling ([Dushoff](../team/dushoff)) - [Slides](https://ndownloader.figshare.com/files/8541910) - [Handouts](https://github.com/ICI3D/MMEDparticipants/raw/master/Handouts/Dushoff-FoundationsDynMomdelSIRModelFamily.pdf)
@@ -66,7 +64,7 @@ alertmsg: >
 -   16:00 – 16:50 **Computer Session:** [R Tutorials](../tutorials) continued ([Green](../team/green), [Mthombothi](../team/mthombothi), Ngognghala, [Scott](../team/scott))
 -   16:50 – 17:00 **Discussion:**
     - Lab 1 Summary ([Mthombothi](../team/mthombothi)) - [Slides](../tutorials/Lab1_summary.pdf)
-    - Tutorial 4 Summary ([Kassanjee](../team/kassanjee)) - [Slides](../tutorials/Bellan-Tutorial4_Summary.pdf)
+    - Tutorial 4 Summary ([Kassanjee](../team/kassanjee)) - Slides to be added
 -   17:00 – 18:00 [**Poster session II**](../posters/sessions)
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example (optional lecture):** Research Talk (Florian Marx)
@@ -83,9 +81,9 @@ alertmsg: >
     - You will need the most recent version of the ICI3D R package for this tutorial. If you are using your laptop for the tutorials, please update the package before you begin by running the command <b><code>devtools::install_github('ICI3D/ici3d-pkg')</code></b> in R studio.
     - To run the tutorial, first load the ICI3D R package (<b><code>require('ICI3D')</code></b>), then load the tutorial (<b><code>hivTutorial()</code></b>).
     -   If you finish all five versions of the model for the Harare data before lunch, move on to working on data from other countries.
-    -   **Additional info:** Distributed Delay Models of Survival (Boxcar Models) - [Slides](../tutorials/Bellan-DistributedDelay.pdf)
+    -   **Additional info:** Distributed Delay Models of Survival (Boxcar Models) - [Slides](../tutorials/distributedDelay.pdf)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - **Please fill in the <a href='../logistics/weekend1'>weekend activities form</a>! (Due by 15:30 on Wed 31 May.).**
+    - **Please fill in the <a href='../logistics/weekend1'>weekend activities form</a>! (Due by 15:30 on Wed 30 May.).**
 -   14:00 – 14:30 **Computer Session:** Harare/other data in same groups. (with TBD)
 -   14:30 – 15:30 **Discussion:** Harare tutorial ([Hargrove](../team/hargrove)) - [Slides](../tutorials/HargroveHIVTutorialSummary.pdf)
 -   15:30 – 16:00 *Tea* and **poster set-up**
@@ -107,11 +105,11 @@ alertmsg: >
 -   12:00 – 12:30 **Discussion:** MMED research projects ([Borchering](../team/borchering))
     - [Potential project groups](../projects/)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
--   14:00 – 15:30 **Lecture:** Participatory coding of a dynamical model ([Bellan](../team/bellan) or [Pearson](../team/pearson), with [Pulliam](../team/pulliam)) [Code on Tutorials page](../tutorials)
+-   14:00 – 15:30 **Lecture:** Participatory coding of a dynamical model ([Pearson](../team/pearson), with [Pulliam](../team/pulliam)) [Code on Tutorials page](../tutorials)
 -   15:30 – 16:00 *Tea*
--   16:00 – 16:45 **Lecture:** Introduction to Likelihood ([Bellan](../team/bellan) or [Ujeneza](../team/ujeneza)) - [Slides](https://ndownloader.figshare.com/files/8541898)
+-   16:00 – 16:45 **Lecture:** Introduction to Likelihood ([Ujeneza](../team/ujeneza)) - [Slides](https://ndownloader.figshare.com/files/8541898)
 -   16:45 – 18:00 **Computer Session:** [R Tutorials](../tutorials) - Lab 5: Introduction to Likelihood Lab (with TBD)
-    - Lab 5 Summary ([van Schalkwyk](../team/vanschalkwyk)) - [Slides](../tutorials/BellanGreen_LikelihoodLabSummary.pdf)
+    - Lab 5 Summary ([van Schalkwyk](../team/vanschalkwyk)) - Slides to be added
 -   18:00 – 18:30 *Dinner*
 -   19:30 – 21:00 **Social activity:** Drumming
 
@@ -146,7 +144,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   9:45 – 10:30 **Computer Session:** Tutorial catch-up, as needed (with TBD)
 -   10:30 – 11:00 A good chance to sign up for project groups and *Coffee break*
 -   11:00 – 12:30 **Lecture:** Participatory coding for Variability,
-    Sampling Distributions, and Simulation Lecture ([Bellan](../team/bellan) or [Dushoff](../team/dushoff))  - [Code on Tutorials page](../tutorials)
+    Sampling Distributions, and Simulation Lecture ([Dushoff](../team/dushoff))  - [Code on Tutorials page](../tutorials)
 -   12:30 – 14:00 **Social Activity:** Group lunch at Kalky's
 -   14:00 – Free/working afternoon
 
@@ -161,7 +159,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   9:15 – 9:30 **Organizational Session:** Schedule and goals for the second week ([Borchering](../team/borchering))
 -   9:30 – 10:00 **Work Session:** Project groups meet for the first time (All instructors)
 -   10:00 – 10:30 *Coffee break*
--   10:30 – 11:30 **Computer Session:** Introduction to GitHub ([Bellan](../team/bellan) or [Grebe](../team/grebe)) (with TBD)
+-   10:30 – 11:30 **Computer Session:** Introduction to GitHub ([Grebe](../team/grebe)) (with TBD)
 -   11:30 – 12:30 **Work Session:** Work plans for group projects (Project groups)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
 -   14:00 – 15:30 **Lecture:** Likelihood fitting and dynamic models II ([Pearson](../team/pearson)) - [Slides](https://ndownloader.figshare.com/files/8590054) - [Handouts](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/Dushoff-FittingDynModel_II_handouts.pdf)
@@ -173,7 +171,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 
 ### Tuesday, 5 June
 
--   8:30 – 10:00 **Lecture**: Introduction to Monte Carlo Markov Chains (MCMC) ([Bellan](../team/bellan) or [Pearson](../team/pearson)) - [Slides (180mb read-only powerpoint slide set with embedded movies)](https://ndownloader.figshare.com/files/8597005)
+-   8:30 – 10:00 **Lecture**: Introduction to Monte Carlo Markov Chains (MCMC) ([Pearson](../team/pearson)) - [Slides (180mb read-only powerpoint slide set with embedded movies)](https://ndownloader.figshare.com/files/8597005)
 	- **Download** the lecture locally from an AIMS computer on the desktop if you login as *guest* or, if you have an AIMS account, find it at /srv/local/guest/Desktop
 -   10:00 – 10:30 *Coffee break*
 -   10:30 - 11:30 **Computer session**: MCMC fitting Labs 7-8 in [R Tutorials](../tutorials) (with TBD) - Slides to be added
@@ -192,7 +190,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 
 ### Wednesday, 6 June
 
--   8:30 – 9:30 **Lecture**:  Model assessment ([Dushoff](../team/dushoff)) - Slides to be added
+-   8:30 – 9:30 **Lecture**: Model assessment ([Dushoff](../team/dushoff)) - Slides to be added
 -   9:30 - 10:00 **Computer Session:** Tutorial catch-up, as needed (with TBD)
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:30 **Work Session** (Project groups)
@@ -208,7 +206,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 
 ### Thursday, 7 June
 
--   8:30 – 9:15 **Lecture:** A decision tree for vaccine trial design during public health emergencies (work from the WHO Blueprint for Research & Development) ([Bellan](../team/bellan) or [Dushoff](../team/dushoff)) - [Slides](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/BellanDecTreeUI.pdf)
+-   8:30 – 9:15 **Lecture:** A decision tree for vaccine trial design during public health emergencies (work from the WHO Blueprint for Research & Development) ([Dushoff](../team/dushoff)) - [Slides](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/BellanDecTreeUI.pdf)
 -   9:15 - 10:00 **Computer Session:** Tutorial catch-up, as needed (with TBD)
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:30 **Work Session** (Project groups) - Mentors
