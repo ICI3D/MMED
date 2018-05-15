@@ -18,7 +18,9 @@ This week, we ask that you:
 
 1. Submit your poster to <posters@ici3d.org> by 17:00 SAST on May 18, if you would like to have your poster printed for you and delivered to AIMS.
 
-In addition, we would like to make sure you are aware that you will be working on group projects during the second week of the Clinic and that you will be responsible for submitting a written report on your project by August 1. Guidelines for preparing and submitting the report are available [here](http://www.ici3d.org/MMED/projects/projectReports). We will begin providing outlines of potential projects next week. In the meantime, if you have a data set that you would be able to share and that you think could form the basis of a good project, please let us know as soon as possible, and **no later than 12:00 SAST on Monday 21 May**, by sending an email to <projects@ici3d.org>.
+1. Check out the [MMED clinic website](http://www.ici3d.org/MMED), for logistical information, the latest version of the draft schedule, and more.
+
+In addition, we would like to make sure you are aware that you will be working on group projects during the second week of the Clinic and that you will be responsible for submitting a written report on your project by August 1. Guidelines for preparing and submitting the report are available [here](http://www.ici3d.org/MMED/projects/projectReports). We will begin providing outlines of potential projects next week. _In the meantime, if you have a data set that you would be able to share and that you think could form the basis of a good project, please let us know as soon as possible, and **no later than 12:00 SAST on Monday 21 May**, by sending an email to <projects@ici3d.org>._
 
 ## Messages 2 & 3
 
