@@ -6,6 +6,18 @@ title: Weekly Messages
 subtitle: Weekly Messages
 ---
 
+## Message 4
+
+The Clinic is approaching at rate 1!
+
+This week, we ask that you:
+
+1. Begin to familiarize yourself with git, the version control system we'll be using for collaborative projects. To do this, please complete [this free, browser-based tutorial from Codecademy](https://www.codecademy.com/learn/learn-git). If you are already comfortable using git, you can skip this activity, but if you're new to git or your skills are rusty, please take the time to work through all four lessons (Basic Git Workflow, How to Backtrack in Git, Git Branching, and Git Teamwork). Investing 2-3 hours of time learning git _now_ will pay off down the line! More information is available on the [preparation page](http://www.ici3d.org/MMED/preparation).
+
+1. Please complete [the quiz associated with R tutorials 0-3](https://ugeorgia.qualtrics.com/jfe/form/SV_ewzWcNolLzhBhLD), if you have not already done so.
+
+In addition, we would like to make sure you are aware that you will be working on group projects during the second week of the Clinic and that you will be responsible for submitting a written report on your project by August 1. Guidelines for preparing and submitting the report are available [here](http://www.ici3d.org/MMED/projects/projectReports). We will begin providing outlines of potential projects next week. In the meantime, if you have a data set that you would be able to share and that you think could form the basis of a good project, please let us know as soon as possible, and **no later than 12:00 SAST on Monday 21 May**, by sending an email to <projects@ici3d.org>.
+
 ## Messages 2 & 3
 
 **Please note: We attempted to send a message last week but realized today that it did not go through. We have therefore combined weekly messages 2 and 3 below. Apologies for any confusion or inconvenience.**
