@@ -22,7 +22,7 @@ alertmsg: >
 
 -   8:00 – 8:25 Registration and welcome, AIMS lobby
     -   **Please gather in the main lecture hall by 8:30.**
--   8:30 – 9:00 Welcome and Motivation for Workshop ([Mthombothi](../team/mthombothi), [Pulliam](../team/pulliam), and [Hargrove](../team/hargrove))
+-   8:30 – 9:00 Welcome and Motivation for Workshop ([Pulliam](../team/pulliam), [Mthombothi](../team/mthombothi), and [Hargrove](../team/hargrove))
 -   9:00 – 10:00 **Lecture:** Public Health, Epidemiology, and Models ([Grebe](../team/grebe)) - [Slides](https://ndownloader.figshare.com/files/8541811)
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 10:45 **Organizational session:** [MMED Road Map](../roadmap) and programme overview ([Pulliam](../team/pulliam))
