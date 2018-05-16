@@ -1,6 +1,7 @@
 ---
 layout: page
 tab: Projects
+title: Potential project
 subtitle: Outbreak Investigation
 ---
 
