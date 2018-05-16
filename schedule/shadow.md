@@ -92,7 +92,7 @@ alertmsg: >
     -   **Track B:** Formulating Research Questions B ([Pulliam](../team/pulliam))
 -   17:00 – 18:00 [**Poster session III**](../posters/sessions)
 -   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 **Real-world example (optional lecture):** Research Talks (TBD)
+-   19:00 – 20:00 **Real-world example (optional lecture):** Research Talks (Jacky Snoep)
 
 ### Thursday, 31 May
 

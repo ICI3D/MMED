@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: clinic
 tab: Projects
 title: Potential project
 subtitle: Outbreak Investigation
