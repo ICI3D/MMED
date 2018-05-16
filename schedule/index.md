@@ -95,8 +95,8 @@ The MMED program includes a number of parallel sessions for participants with di
 -   14:30 – 15:30 **Discussion:** Harare tutorial ([Hargrove](../team/hargrove)) - [Slides](../tutorials/HargroveHIVTutorialSummary.pdf)
 -   15:30 – 16:00 *Tea* and **poster set-up**
 -   16:00 – 17:00 _**Parallel sessions**_
-    -   **Track A:** Formulating Research Questions A ([van Schalkwyk](../team/vanschalkwyk))
-    -   **Track B:** Formulating Research Questions B ([Borchering](../team/borchering))
+    -   **Track A:** Formulating Research Questions A ([Borchering](../team/borchering))
+    -   **Track B:** Formulating Research Questions B ([Pulliam](../team/pulliam))
 -   17:00 – 18:00 [**Poster session III**](../posters/sessions)
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example (optional lecture):** Research Talks (TBD)
@@ -116,14 +116,14 @@ The MMED program includes a number of parallel sessions for participants with di
 -   15:30 – 16:00 *Tea*
 -   16:00 – 16:45 **Lecture:** Introduction to Likelihood ([Ujeneza](../team/ujeneza)) - [Slides](https://ndownloader.figshare.com/files/8541898)
 -   16:45 – 18:00 **Computer Session:** [R Tutorials](../tutorials) - Lab 5: Introduction to Likelihood Lab (with TBD)
-    - Lab 5 Summary ([van Schalkwyk](../team/vanschalkwyk)) - Slides to be added
+    - Lab 5 Summary ([Pearson](../team/pearson)) - Slides to be added
 -   18:00 – 18:30 *Dinner*
 -   19:30 – 21:00 **Social activity:** Drumming
 
 ### Friday, 1 June
 
 -   8:30 – 10:00  _**Parallel sessions**_
-        -   **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology II: RCT's ([van Schalkwyk](../team/vanschalkwyk)) - [Slides](https://ndownloader.figshare.com/files/8583781) - [R Tutorials](../tutorials) - Lab 4: Study Design for Clinical Trials (with [TBD)
+        -   **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology II: RCT's (TBD) - [Slides](https://ndownloader.figshare.com/files/8583781) - [R Tutorials](../tutorials) - Lab 4: Study Design for Clinical Trials (with [TBD)
     - [Dataset for Lab 4](https://github.com/ICI3D/datasets/blob/master/clinicalTrials/MuTxT.Rdata?raw=true)
     - Lab 4 Summary ([Bruce](../team/bruce)) - Slides to be added
     -   **Track B:** **Exercise:** Description of proposed model and assumptions ([Pulliam](../team/pulliam))
