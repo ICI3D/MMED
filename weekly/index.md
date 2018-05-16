@@ -42,7 +42,7 @@ Thanks for reading, and have a great Clinic!
 
 1. Finally, please do not hesitate to let us know at <faculty@ici3d.org> if you have any questions!
 
-** Add water information, and ... anything else we need them to know! **
+** Add water information, and AIMS info **
 
 ## Message 4
 
