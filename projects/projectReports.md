@@ -1,7 +1,8 @@
 ---
 layout: clinic
-redirect: ../development
+layout: clinic
 tab: Projects
+title: Potential project
 subtitle: Project Report Guidelines
 ---
 

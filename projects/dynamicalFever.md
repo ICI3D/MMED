@@ -1,6 +1,7 @@
 ---
 layout: clinic
 tab: Projects
+title: Potential project
 subtitle: Dynamical Fever
 ---
 

@@ -13,7 +13,7 @@ alertmsg: >
 
 - [Screening algorithms and HIV risk to blood transfusion recipients](./screeningAlgorithms)
     - Faculty lead: Eduard
-- [Malaria Immunity](./malariaImmunity)
+- [Dynamics of Malaria Immunity](./malariaImmunity)
         - Faculty lead: Jonathan
 - [Mechanisms of seasonality](./seasonalData)
     - Faculty lead: Becky

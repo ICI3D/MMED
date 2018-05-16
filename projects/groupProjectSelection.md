@@ -1,5 +1,6 @@
 ---
 layout: clinic
+tab: Projects
 title: MMED 2018
 subtitle: Group Project Sign-up
 ---

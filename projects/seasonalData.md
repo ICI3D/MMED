@@ -1,6 +1,7 @@
 ---
 layout: clinic
 tab: Projects
+title: Potential project
 subtitle: Identifying mechanisms of seasonality in infectious disease case data
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: clinic
 tab: Projects
+title: Potential project
 subtitle: Comparative dynamics of trypanosomiasis in tsetse fly populations
 ---
 

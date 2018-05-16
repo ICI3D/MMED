@@ -1,6 +1,7 @@
 ---
 layout: clinic
 tab: Projects
+title: Potential project
 subtitle: Screening algorithms and HIV risk to blood transfusion recipients
 ---
 
