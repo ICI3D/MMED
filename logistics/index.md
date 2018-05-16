@@ -9,7 +9,7 @@ subtitle: Logistical information
 ## Arrival
 
 ### For everyone
-- Please review this important information for visitors to AIMS and South Africa prior to arrival. [to be added]
+- Please review this [important information for visitors to AIMS and South Africa](./ImportantInfoAIMS.pdf) prior to arrival.
 - Most participants will be staying in the Empire Building, across the street from AIMS. Upon arrival at AIMS, one or more volunteers will be available in the lobby to answer any questions you may have and take you to your room.
 
 #### For those arriving by air
@@ -33,7 +33,7 @@ subtitle: Logistical information
 
 - All MMED participants are expected to engage fully in the MMED program. This includes attending all MMED sessions (other than those designated as optional).
 - Please be aware that participants come from a wide variety of backgrounds and cultures. This diversity adds greatly to the MMED experience, and all participants should strive to create a welcoming, respectful learning environment.
-- All MMED participants should follow the AIMS house rules [to be added]. Because all MMED students are guests of AIMS, these rules apply whether you are housed in AIMS accommodations or elsewhere (e.g., in the Empire Building).
+- All MMED participants should follow the [AIMS house rules](./AIMS_house_rules.pdf). Because all MMED students are guests of AIMS, these rules apply whether you are housed in AIMS accommodations or elsewhere (e.g., in the Empire Building).
 - Laptop use will not be allowed in the lecture hall during lectures or discussions.
 
 ## Muizenberg
