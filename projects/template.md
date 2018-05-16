@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: clinic
 tab: Projects
-title: Project Title
+title: Potential project
 subtitle: Project Title
 ---
 
