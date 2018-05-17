@@ -145,8 +145,6 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 
 ### Saturday, 2 June
 
-> **NB: Move reading session back to Saturday (or remove)** Decision tree session can go in second week somewhere. Let's give someone else an opportunity to develop reading session (Carl? Florian?). How much time does it need?
-
 -   9:00 – 9:45 **Reading session:**
 -   9:45 – 10:30 **Computer Session:** Tutorial catch-up, as needed (with TBD)
 -   10:30 – 11:00 A good chance to sign up for project groups and *Coffee break*
