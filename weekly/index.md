@@ -43,6 +43,7 @@ Thanks for reading, and have a great Clinic!
 1. Finally, please do not hesitate to let us know at <faculty@ici3d.org> if you have any questions!
 
 ** Add water information, and AIMS info **
+** Photo release form and Emergency contact form BY FRIDAY!**
 
 ## Message 4
 
