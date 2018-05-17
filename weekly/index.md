@@ -26,6 +26,8 @@ Just a few final notes to help you get the most out of the next two weeks:
 
 Thanks for reading, and have a great Clinic!
 
+** Add shared photo album **
+
 ## Message 5 (combined 5-6 from previous year)
 
 1. Please review the [logistical information](http://www.ici3d.org/MMED/logistics/) provided. **Note that some updates have been made in the last week, including additional details about arrivals and registration.** For example, the page includes a link to the current weather and forecast for Muizenberg. As you prepare to travel to AIMS, please keep in mind that it is winter in South Africa and consider packing a sweater and/or heavy jacket, especially if you are coming from a tropical location. Be sure to check out the information page for more helpful tips! If you are flying into CPT, please pay particular attention to the arrival schedule, and let us know immediately via email to <arrival@ici3d.org> if there is any problem or discrepancy. We will update this schedule with shuttle times in the next couple of days. We recommend printing a copy of this page and bringing it with you to ensure you know where to go upon arrival and how to contact us in case of a delay. If you have trouble finding someone at the airport please call Igsaan (+27 72 216 5628, AIMS Head of Facilities & Logistics) or Steve (+27 71 923 8832).
