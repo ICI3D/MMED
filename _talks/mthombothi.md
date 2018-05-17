@@ -4,7 +4,7 @@ tab: Talks
 title: Zinhle Mthombothi
 type: mentor
 role: Mentor
-img: team/mthombothi.jpg
+img: mentors/mthombothi.jpg
 session: Friday 2 June, 15:00, AIMS Main Lecture Hall
 topic: (title to be added)
 abstract: (to be added)
