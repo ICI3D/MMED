@@ -29,7 +29,7 @@ alertmsg: >
 -   10:45 – 11:30 **Lecture:** Introduction to Thinking About Data I ([Williams](../team/williams)) - [Slides](https://ndownloader.figshare.com/files/8541904)
 -   11:30 – 12:30 **Lecture:** Introduction to dynamic modeling of infectious diseases ([Pulliam](../team/pulliam)) - [Slides](https://ndownloader.figshare.com/files/8541817)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - If you plan to use your laptop for the 15:00 computer exercise, Eva and Juliet will help you get set up at 12:30 in the main lecture hall.
+    - If you plan to use your laptop for the 15:00 computer exercise, Eva and Carl will help you get set up at 12:30 in the main lecture hall.
 -   14:00 – 15:00 **_Parallel sessions_**
     -   **Track A:** Introduction to infectious disease data ([Bruce](../team/bruce)) - [Slides](https://ndownloader.figshare.com/files/8544970)
     -   **Track B:** Foundations of dynamic modeling ([Dushoff](../team/dushoff)) - [Slides](https://ndownloader.figshare.com/files/8541910) - [Handouts](https://github.com/ICI3D/MMEDparticipants/raw/master/Handouts/Dushoff-FoundationsDynMomdelSIRModelFamily.pdf)
@@ -61,13 +61,13 @@ alertmsg: >
     -   **Track B:** **Computer Session:** [R Tutorials](../tutorials) - Lab 1: ODE models in R (as needed), and Lab 2A: Basic stochastic simulation models (with TBD)
     - Lab 2A Summary ([Borchering](../team/borchering)) - [Slides](../tutorials/Borchering-stoch-sim-lab-summary.pdf)
 -   15:30 – 16:00 *Tea* and **poster set-up**
--   16:00 – 16:50 **Computer Session:** [R Tutorials](../tutorials) continued ([Green](../team/green), [Mthombothi](../team/mthombothi), Ngognghala, [Scott](../team/scott))
+-   16:00 – 16:50 **Computer Session:** [R Tutorials](../tutorials) continued ([Kassanjee](../team/kassanjee), [Mthombothi](../team/mthombothi), TBD)
 -   16:50 – 17:00 **Discussion:**
     - Lab 1 Summary ([Mthombothi](../team/mthombothi)) - [Slides](../tutorials/Lab1_summary.pdf)
     - Tutorial 4 Summary ([Kassanjee](../team/kassanjee)) - Slides to be added
 -   17:00 – 18:00 [**Poster session II**](../posters/sessions)
 -   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 **Real-world example (optional lecture):** Research Talk (Florian Marx)
+-   19:00 – 20:00 **Real-world example (optional lecture):** Guest lecture ([Florian Marx](../talks/marx))
 
 ### Wednesday, 30 May
 
@@ -84,15 +84,15 @@ alertmsg: >
     -   **Additional info:** Distributed Delay Models of Survival (Boxcar Models) - [Slides](../tutorials/distributedDelay.pdf)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - **Please fill in the <a href='../logistics/weekend1'>weekend activities form</a>! (Due by 15:30 on Wed 30 May.).**
--   14:00 – 14:30 **Computer Session:** Harare/other data in same groups. (with TBD)
+-   14:00 – 14:30 **Computer Session:** Harare/other data in same groups (with TBD)
 -   14:30 – 15:30 **Discussion:** Harare tutorial ([Hargrove](../team/hargrove)) - [Slides](../tutorials/HargroveHIVTutorialSummary.pdf)
 -   15:30 – 16:00 *Tea* and **poster set-up**
 -   16:00 – 17:00 _**Parallel sessions**_
-    -   **Track A:** Formulating Research Questions A ([Borchering](../team/borchering))
-    -   **Track B:** Formulating Research Questions B ([Pulliam](../team/pulliam))
+    -   **Track A:** Formulating Research Questions A ([Pulliam](../team/pulliam))
+    -   **Track B:** Formulating Research Questions B ([Borchering](../team/borchering))
 -   17:00 – 18:00 [**Poster session III**](../posters/sessions)
 -   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 **Real-world example (optional lecture):** Research Talks (Jacky Snoep)
+-   19:00 – 20:00 **Real-world example (optional lecture):** Guest lecture ([Jacky Snoep](../talks/snoep))
 
 ### Thursday, 31 May
 
@@ -105,7 +105,7 @@ alertmsg: >
 -   12:00 – 12:30 **Discussion:** MMED research projects ([Borchering](../team/borchering))
     - [Potential project groups](../projects/)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
--   14:00 – 15:30 **Lecture:** Participatory coding of a dynamical model ([Pearson](../team/pearson), with [Pulliam](../team/pulliam)) [Code on Tutorials page](../tutorials)
+-   14:00 – 15:30 **Lecture:** Participatory coding of a dynamical model ([Pearson](../team/pearson), with [Pulliam](../team/pulliam)) - Code to be added on [Tutorials](../tutorials) page
 -   15:30 – 16:00 *Tea*
 -   16:00 – 16:45 **Lecture:** Introduction to Likelihood ([Ujeneza](../team/ujeneza)) - [Slides](https://ndownloader.figshare.com/files/8541898)
 -   16:45 – 18:00 **Computer Session:** [R Tutorials](../tutorials) - Lab 5: Introduction to Likelihood Lab (with TBD)
@@ -116,7 +116,7 @@ alertmsg: >
 ### Friday, 1 June
 
 -   8:30 – 10:00  _**Parallel sessions**_
-        -   **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology II: RCT's (TBD) - [Slides](https://ndownloader.figshare.com/files/8583781) - [R Tutorials](../tutorials) - Lab 4: Study Design for Clinical Trials (with TBD)
+        -   **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology II: RCT's (Pearson) - [Slides](https://ndownloader.figshare.com/files/8583781) - [R Tutorials](../tutorials) - Lab 4: Study Design for Clinical Trials (with TBD)
     - [Dataset for Lab 4](https://github.com/ICI3D/datasets/blob/master/clinicalTrials/MuTxT.Rdata?raw=true)
     - Lab 4 Summary ([Bruce](../team/bruce)) - Slides to be added
     -   **Track B:** **Exercise:** Description of proposed model and assumptions ([Pulliam](../team/pulliam))
@@ -128,7 +128,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
     - Lab Summary ([Pearson](../team/pearson)) - Slides to be added
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - Please fill in [this form](../logistics/tutorialCatchUp) to indicate what you will work on during the tutorial catch-up session on Saturday.
--   14:00 – 15:30 **Mentor presentations** ([Buri Gershom](../talks/16agershom), [Kathleen Green](../talks/16bgreen), [Zinhle Mthombothi](../talks/16cmthombothi); Moderator: [Dushoff](../team/dushoff))
+-   14:00 – 15:30 **Mentor presentations** ([Reshma Kassanjee](../talks/kassanjee), [Zinhle Mthombothi](../talks/mthombothi), [Thumbi Mwangi](../talks/mwangi), [Roger Ying](../talks/ying); Moderator: [Dushoff](../team/dushoff))
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:00 **MMED Projects** (Moderator: [Pulliam](../team/pulliam))
     - Project group sign-up will be available after this session
@@ -138,13 +138,10 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 
 ### Saturday, 2 June
 
-> **NB: Move reading session back to Saturday (or remove)** Decision tree session can go in second week somewhere. Let's give someone else an opportunity to develop reading session (Carl? Florian?). How much time does it need?
-
--   9:00 – 9:45 **Reading session:**
--   9:45 – 10:30 **Computer Session:** Tutorial catch-up, as needed (with TBD)
--   10:30 – 11:00 A good chance to sign up for project groups and *Coffee break*
--   11:00 – 12:30 **Lecture:** Participatory coding for Variability,
+-   9:00 – 10:30 **Lecture:** Participatory coding for Variability,
     Sampling Distributions, and Simulation Lecture ([Dushoff](../team/dushoff))  - [Code on Tutorials page](../tutorials)
+-   10:30 – 11:00 A good chance to sign up for project groups and *Coffee break*
+-   11:00 – 12:30 **Computer Session:** Tutorial catch-up, as needed (with TBD)
 -   12:30 – 14:00 **Social Activity:** Group lunch at Kalky's
 -   14:00 – Free/working afternoon
 
@@ -174,7 +171,9 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   8:30 – 10:00 **Lecture**: Introduction to Monte Carlo Markov Chains (MCMC) ([Pearson](../team/pearson)) - [Slides (180mb read-only powerpoint slide set with embedded movies)](https://ndownloader.figshare.com/files/8597005)
 	- **Download** the lecture locally from an AIMS computer on the desktop if you login as *guest* or, if you have an AIMS account, find it at /srv/local/guest/Desktop
 -   10:00 – 10:30 *Coffee break*
--   10:30 - 11:30 **Computer session**: MCMC fitting Labs 7-8 in [R Tutorials](../tutorials) (with TBD) - Slides to be added
+-   10:30 - 11:30 **Computer session**: MCMC fitting Labs 7-8 in [R Tutorials](../tutorials) (with TBD)
+    - Lab 7 Summary (TBD) - Slides to be added
+    - Lab 8 Summary (TBD) - Slides to be added
 -   11:30 – 12:30 **Work Session** (Project groups); **MedPH break-out group** ([Borchering](../team/borchering), [Mthombothi](../team/mthombothi))
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
 -   14:00 – 14:45 **Lecture**: Data wrangling I: Data management and cleaning ([Dushoff](../team/dushoff)) - [Slides](https://mac-theobio.github.io/QMEE/cleaning.slides.html ) - [2016 lecture slides on data bases](../materials/dataManagement.pdf)
@@ -186,7 +185,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
     - 16:30 – 17:30 **Mentoring Session** - TBD
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00
-    **[AIMS Public Lecture Series](https://www.aims.ac.za/en/research-centre/public-lectures) (optional):** [Jonathan Dushoff](../team/dushoff) - TBD
+    **[AIMS Public Lecture Series](https://www.aims.ac.za/en/research-centre/public-lectures) (optional):** [Jonathan Dushoff](../talks/dushoff)
 
 ### Wednesday, 6 June
 
@@ -202,7 +201,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   16:00 – 17:30 **Work Session** (Project groups)
     - 16:30 – 17:30 **Mentoring Session** - TBD
 -   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 **Real-world example (optional lecture):** Research Talk ([van Schalkwyk](../team/vanschalkwyk))
+-   19:00 – 20:00 **Real-world example (optional lecture):** Research Talk ([van Schalkwyk](../talks/vanschalkwyk))
 
 ### Thursday, 7 June
 
