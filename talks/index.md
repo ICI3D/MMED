@@ -27,6 +27,8 @@ subtitle: MMED 2018 Research Talks
   {% endif %}
 {% endfor %}
 
+{% include centerTable.html %}
+
 ## Faculty
 
 <br>
@@ -45,9 +47,6 @@ subtitle: MMED 2018 Research Talks
 </div><!-- team-member media -->
   {% endif %}
 {% endfor %}
-
-{% include centerTable.html %}
-
 
 {% for speaker in site.talks %}
   {% if speaker.type == "observer" %}
