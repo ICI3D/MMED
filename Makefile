@@ -11,6 +11,8 @@ target = Makefile
 
 Sources += Makefile .ignore .gitignore
 
+Sources += notes.md mmed_team.txt
+
 ms = makestuff
 -include local.mk
 -include $(ms)/os.mk

@@ -1,7 +1,3 @@
-_site/
-.sass-cache/
-.jekyll-metadata
-
 ## Content from .ignore
 local.mk
 target.mk
@@ -16,24 +12,9 @@ commit.time
 commit.default
 dotdir/
 clonedir/
-.clean_dir
-*.hup
-*.oldfile
-*.olddiff
-*.log
-*.aux
-.*.aux
-*.blg
-*.bbl
-*.bcf
-*.run.xml
-.texdeps/
-makestuff
+all.time
 up.time
-commit.time
-commit.default
-dotdir/
-clonedir/
+all.time
 .clean_dir
 *.hup
 *.oldfile
