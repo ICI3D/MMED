@@ -136,7 +136,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
     - **Additional info:** Parameter transformation - [Slides](../tutorials/parameterTransformations.pdf)
     - Lab Summary ([Pulliam](../team/pulliam)) - Slides to be added
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - Please fill in [this form](../logistics/tutorialCatchUp) to indicate what you will work on during the tutorial catch-up session on Saturdayand whom you would like to meet for a mentoring session next week. (Due by 17:00 on Friday 1 June.)
+    - Please fill in [this form](../logistics/tutorialCatchUp) to indicate what you will work on during the tutorial catch-up session on Saturday and whom you would like to meet for a mentoring session next week. (Due by 17:00 on Friday 1 June.)
 -   14:00 – 15:30 **Mentor presentations** ([Reshma [Kassanjee](../team/kassanjee)](../talks/[Kassanjee](../team/kassanjee)), [Zinhle [Mthombothi](../team/mthombothi)](../talks/[Mthombothi](../team/mthombothi)), [Thumbi [Mwangi](../team/mwangi)](../talks/[Mwangi](../team/mwangi)), [Roger [Ying](../team/ying)](../talks/[Ying](../team/ying)); Moderator: [Dushoff](../team/dushoff))
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:00 **MMED Projects** (Moderator: [Pulliam](../team/pulliam))
