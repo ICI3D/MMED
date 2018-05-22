@@ -30,7 +30,7 @@ Thanks for reading, and have a great Clinic!
 
 ## Message 5 (combined 5-6 from previous year)
 
-1. Please review the [logistical information](http://www.ici3d.org/MMED/logistics/) provided. **Note that some updates have been made in the last week, including additional details about arrivals and registration.** For example, the page includes a link to the current weather and forecast for Muizenberg. As you prepare to travel to AIMS, please keep in mind that it is winter in South Africa and consider packing a sweater and/or heavy jacket, especially if you are coming from a tropical location. Be sure to check out the information page for more helpful tips! If you are flying into CPT, please pay particular attention to the arrival schedule, and let us know immediately via email to <arrival@ici3d.org> if there is any problem or discrepancy. We will update this schedule with shuttle times in the next couple of days. We recommend printing a copy of this page and bringing it with you to ensure you know where to go upon arrival and how to contact us in case of a delay. If you have trouble finding someone at the airport please call Igsaan (+27 72 216 5628, AIMS Head of Facilities & Logistics) or Steve (+27 71 923 8832).
+1. Please review the [logistical information](http://www.ici3d.org/MMED/logistics/) provided. As you prepare to travel to AIMS, please keep in mind that it is winter in South Africa and consider packing a sweater and/or heavy jacket. Be sure to check out the information page for more helpful tips! If you are flying into CPT, please pay particular attention to the arrival schedule, and let us know immediately via email to <arrival@ici3d.org> if there is any problem or discrepancy. We will update this schedule with shuttle times in the next couple of days. We recommend printing a copy of this page and bringing it with you to ensure you know where to go upon arrival and how to contact us in case of a delay. If you have trouble finding someone at the airport please call Igsaan (+27 72 216 5628, AIMS Head of Facilities & Logistics) or Faikah (+27 83 360 3257).
 
 1. Please make sure your poster is ready to go ([see guidelines](http://www.ici3d.org/MMED/posters)). All posters we received by the deadline have been sent for printing. If we have not received your poster, please be aware that the deadline for printing has passed and we expect you to print it and bring it with you. Everyone should also bring an electronic copy of their poster.
 
@@ -40,12 +40,12 @@ Thanks for reading, and have a great Clinic!
 
 1. If you will be bringing a laptop computer to the Clinic, now would be a good time to double-check that you have all of the [necessary software](http://www.ici3d.org/MMED/preparation#Software) installed on the computer you will be using. Desktop computers (with appropriate software) will be available for use by those who need them.
 
-1. Finally, everyone should note that breakfast at AIMS is served from 7:45 to 8:30. If you arrive in Muizenberg after 18:00 on Sunday, you will need to register on Monday morning, so be sure to give yourself sufficient time to register and eat!
+1. Please fill out the attached forms (for photo release form and emergency contact) and return them to <forms@ici3d.org> form **by Friday!**
+
+1. Note that breakfast at AIMS is served from 7:45 to 8:30. If you arrive in Muizenberg after 18:00 on Sunday, you will need to register on Monday morning, so be sure to give yourself sufficient time to register and eat!
 
 1. Finally, please do not hesitate to let us know at <faculty@ici3d.org> if you have any questions!
 
-** Add water information, and AIMS info **
-** Photo release form and Emergency contact form BY FRIDAY!**
 
 ## Message 4
 
