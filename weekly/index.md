@@ -8,6 +8,24 @@ subtitle: Weekly Messages
 
 ## Message 4
 
+1. Please review the [logistical information](http://www.ici3d.org/MMED/logistics/) provided. As you prepare to travel to AIMS, please keep in mind that it is winter in South Africa and consider packing a sweater and/or heavy jacket. Be sure to check out the information page for more helpful tips! If you are flying into CPT, please pay particular attention to the [arrival schedule](../logistics/arrivalDetails), and let us know immediately via email to <arrival@ici3d.org> if there is any problem or discrepancy. We will update this schedule with shuttle times in the next couple of days. We recommend printing a copy of this page and bringing it with you to ensure you know where to go upon arrival and how to contact us in case of a delay. If you have trouble finding someone at the airport please call Igsaan (+27 72 216 5628, AIMS Head of Facilities & Logistics) or Faikah (+27 83 360 3257, ICI3D Program Assistant).
+
+1. Please make sure your poster is ready to go ([see guidelines](http://www.ici3d.org/MMED/posters)). All posters that we received by the deadline have been sent for printing. If we have not received your poster, please be aware that the deadline for printing has passed and we expect you to print it and bring it with you. Everyone should also bring an electronic copy of their poster.
+
+1. Please ensure you have completed the required R and git tutorials and the associated online [quiz](https://ugeorgia.qualtrics.com/jfe/form/SV_ewzWcNolLzhBhLD).
+
+1. Please note that we have posted the first set of possible projects on the [projects page](http://www.ici3d.org/MMED/projects/). We will be posting more over the next few days. We recommend that you browse through the project descriptions before the Clinic to familiarize yourself with the options.
+
+1. If you will be bringing a laptop computer to the Clinic, now would be a good time to double-check that you have all of the [necessary software](http://www.ici3d.org/MMED/preparation#Software) installed on the computer you will be using. Desktop computers (with appropriate software) will be available for use by those who need them.
+
+1. Please fill out the attached forms (for photo release form and emergency contact) and return them to <forms@ici3d.org> form **by 15:00 SAST on Friday 25 May!**
+
+1. Note that breakfast at AIMS is served from 7:45 to 8:30. If you arrive in Muizenberg after 18:00 on Sunday, you will need to register on Monday morning, so be sure to give yourself sufficient time to register and eat!
+
+1. Finally, please do not hesitate to let us know at <faculty@ici3d.org> if you have any questions!
+
+## Message 4
+
 The Clinic is approaching at rate 1!
 
 This week, we ask that you:
