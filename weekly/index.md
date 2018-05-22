@@ -1,11 +1,6 @@
----
-layout: redirect
-redirect: ../development
-subtitle: Weekly Messages
----
+# [Weekly messages](www.ici3d.org/MMED/weekly)
 
 ## Notes
-* Do we need this header? Wait for JP to make the public version
 * Eliminate unnecessary date and year refs (keep the dates of the clinic in Message 1, request people do things by "next Tuesday" when possible)
 
 ## Message 6 (SEND ON MONDAY OF FIRST WEEK!)
@@ -21,26 +16,24 @@ Just a few final notes to help you get the most out of the next two weeks:
     - There are _two exceptions_ to this: If you've previously attended the DAIDD clinic, you've been placed in Track A. If you've previously attended the MMED clinic (eg, as a MedPh student), you've been placed in Track B.
     - Track assignments are available from [this link](www.ici3d.org/MMED/participants/trackAssignments), and also indicated by color (A = red, B = blue) on the participant facebook.
     - We have considered the track assignments carefully and ask that you not change tracks; however, if you feel strongly that you would get more out of being in the other track, please discuss this with **Gavin Hitchcock**, who will reassign you if he agrees.
-- There are several opportunities throughout the Clinic for participants to sign up for short one-on-one meetings with the MMED faculty. These are referred to as **Mentoring Sessions** on the schedule, and the first one is on Tuesday afternoon. These meetings are an opportunity for you to get to know the faculty better and for you to make sure you get _what you need_ from the Clinic. You can use the time however you like - e.g., to seek career advice, get guidance on a research project, or find out more about the faculty member's background. We suggest you pay close attention through the first week to figure out which faculty member/s you would most like to meet with and sign up for at least one meeting! In the meantime, you can learn more about each of the faculty members from the links provided on the [MMED Instructors page](http://www.ici3d.org/MMED/team/).
-- On the **morning of Saturday 2 June**, Carl Pearson will lead a discussion of two papers that [???]. These papers are available via links from the schedule page and also in the **Readings** folder of the MMEDparticipants repository. Please be sure to read them before the morning of the 2nd.
+- In the second week of the Clinic, there are several opportunities for participants to sign up for short one-on-one meetings with the MMED faculty. These are referred to as **Mentoring Sessions** on the schedule. These meetings are an opportunity for you to get to know the faculty better and for you to make sure you get _what you need_ from the Clinic. You can use the time however you like - e.g., to seek career advice, get guidance on a research project, or find out more about the faculty member's background. We suggest you pay close attention through the first week to figure out which faculty member/s you would most like to meet with. At the end of the week, you'll be given an opportunity to sign up for meetings. You can also learn more about each of the faculty members from the links provided on the [MMED Instructors page](http://www.ici3d.org/MMED/team/).
+- Lastly, we have created a shared photo album for MMED 2018. Please feel free to upload any photos you take during the Clinic and to browse those posted by others.
 
 Thanks for reading, and have a great Clinic!
 
-** Add shared photo album **
-
 ## Message 5 (combined 5-6 from previous year)
 
-1. Please review the [logistical information](http://www.ici3d.org/MMED/logistics/) provided. As you prepare to travel to AIMS, please keep in mind that it is winter in South Africa and consider packing a sweater and/or heavy jacket. Be sure to check out the information page for more helpful tips! If you are flying into CPT, please pay particular attention to the arrival schedule, and let us know immediately via email to <arrival@ici3d.org> if there is any problem or discrepancy. We will update this schedule with shuttle times in the next couple of days. We recommend printing a copy of this page and bringing it with you to ensure you know where to go upon arrival and how to contact us in case of a delay. If you have trouble finding someone at the airport please call Igsaan (+27 72 216 5628, AIMS Head of Facilities & Logistics) or Faikah (+27 83 360 3257).
+1. Please review the [logistical information](http://www.ici3d.org/MMED/logistics/) provided. As you prepare to travel to AIMS, please keep in mind that it is winter in South Africa and consider packing a sweater and/or heavy jacket. Be sure to check out the information page for more helpful tips! If you are flying into CPT, please pay particular attention to the arrival schedule, and let us know immediately via email to <arrival@ici3d.org> if there is any problem or discrepancy. We will update this schedule with shuttle times in the next couple of days. We recommend printing a copy of this page and bringing it with you to ensure you know where to go upon arrival and how to contact us in case of a delay. If you have trouble finding someone at the airport please call Igsaan (+27 72 216 5628, AIMS Head of Facilities & Logistics) or Faikah (+27 83 360 3257, ICI3D Program Assistant).
 
-1. Please make sure your poster is ready to go ([see guidelines](http://www.ici3d.org/MMED/posters)). All posters we received by the deadline have been sent for printing. If we have not received your poster, please be aware that the deadline for printing has passed and we expect you to print it and bring it with you. Everyone should also bring an electronic copy of their poster.
+1. Please make sure your poster is ready to go ([see guidelines](http://www.ici3d.org/MMED/posters)). All posters that we received by the deadline have been sent for printing. If we have not received your poster, please be aware that the deadline for printing has passed and we expect you to print it and bring it with you. Everyone should also bring an electronic copy of their poster.
 
-1. Please ensure you have completed the required R and git tutorials and the associated online [quiz](https://ugeorgia.qualtrics.com/jfe/form/SV_ewzWcNolLzhBhLD) if you haven't already.
+1. Please ensure you have completed the required R and git tutorials and the associated online [quiz](https://ugeorgia.qualtrics.com/jfe/form/SV_ewzWcNolLzhBhLD).
 
 1. Please note that we have posted the first set of possible projects on the [projects page](http://www.ici3d.org/MMED/projects/). We will be posting more over the next few days. We recommend that you browse through the project descriptions before the Clinic to familiarize yourself with the options.
 
 1. If you will be bringing a laptop computer to the Clinic, now would be a good time to double-check that you have all of the [necessary software](http://www.ici3d.org/MMED/preparation#Software) installed on the computer you will be using. Desktop computers (with appropriate software) will be available for use by those who need them.
 
-1. Please fill out the attached forms (for photo release form and emergency contact) and return them to <forms@ici3d.org> form **by Friday!**
+1. Please fill out the attached forms (for photo release form and emergency contact) and return them to <forms@ici3d.org> form **by 15:00 SAST on Friday 25 May!**
 
 1. Note that breakfast at AIMS is served from 7:45 to 8:30. If you arrive in Muizenberg after 18:00 on Sunday, you will need to register on Monday morning, so be sure to give yourself sufficient time to register and eat!
 
