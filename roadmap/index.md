@@ -1,5 +1,5 @@
 ---
-layout: redirect
+layout: clinic
 redirect: ../development
 tab: Roadmap
 subtitle: MMED 2018 Road Map
