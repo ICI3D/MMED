@@ -6,7 +6,9 @@ title: Weekly Messages
 subtitle: Weekly Messages
 ---
 
-## Message 4
+## Message 5
+
+Some final notes on preparing for the Clinic:
 
 1. Please review the [logistical information](http://www.ici3d.org/MMED/logistics/) provided. As you prepare to travel to AIMS, please keep in mind that it is winter in South Africa and consider packing a sweater and/or heavy jacket. Be sure to check out the information page for more helpful tips! If you are flying into CPT, please pay particular attention to the [arrival schedule](../logistics/arrivalDetails), and let us know immediately via email to <arrival@ici3d.org> if there is any problem or discrepancy. We will update this schedule with shuttle times in the next couple of days. We recommend printing a copy of this page and bringing it with you to ensure you know where to go upon arrival and how to contact us in case of a delay. If you have trouble finding someone at the airport please call Igsaan (+27 72 216 5628, AIMS Head of Facilities & Logistics) or Faikah (+27 83 360 3257, ICI3D Program Assistant).
 
@@ -23,6 +25,8 @@ subtitle: Weekly Messages
 1. Note that breakfast at AIMS is served from 7:45 to 8:30. If you arrive in Muizenberg after 18:00 on Sunday, you will need to register on Monday morning, so be sure to give yourself sufficient time to register and eat!
 
 1. Finally, please do not hesitate to let us know at <faculty@ici3d.org> if you have any questions!
+
+We are looking for to seeing you in Muizenberg next week!
 
 ## Message 4
 
