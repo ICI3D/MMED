@@ -30,6 +30,9 @@ Makefile: $(ms) $(ms)/Makefile ICI3D/Makefile
 ICI3D/Makefile:
 	git submodule update -i
 
+######################################################################
+
+Ignore += _site/
 localserve:
 	./run.sh
 
