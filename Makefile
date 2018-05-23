@@ -22,7 +22,7 @@ Ignore += local.mk
 -include local.mk
 -include $(ms)/os.mk
 
-# -include $(ms)/perl.def
+-include $(ms)/git.def
 
 Ignore += $(ms)
 ## Sources += $(ms)
