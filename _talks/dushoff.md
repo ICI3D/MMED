@@ -1,8 +1,9 @@
 ---
 name: Jonathan Dushoff, PhD
+id: dushoff
 type: faculty
 tab: Talks
-title: Jonathan Dushoff
+title: Public Lecture
 role: MMED 2018 Faculty Member
 position: Associate Professor of Biology
 affiliation: Department of Biology <br>Department of Mathematics and Statistics <br>McMaster University, Hamilton, ON, Canada

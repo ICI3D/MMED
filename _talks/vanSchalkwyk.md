@@ -1,5 +1,6 @@
 ---
 name: Cari van Schalkwyk
+id: vanschalkwyk
 type: guest
 role: Guest Speaker
 img: team/vanschalkwyk.jpg

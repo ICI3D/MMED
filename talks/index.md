@@ -15,13 +15,13 @@ subtitle: MMED 2018 Research Talks
 {% for speaker in site.talks %}
   {% if speaker.type == "mentor" %}
   <div class="team-member media" style="font-size:18px">
-    <img src="{{site.url}}/assets/img/{{speaker.img}}" class="media-object img-circle pull-left" alt="{{ speaker.name }}" height="115" />
+    <img src="{{site.url}}{{site.path}}/assets/img/{{speaker.img}}" class="media-object img-circle pull-left" alt="{{ speaker.name }}" height="115" />
     <div class="media-body">
       <h3 class="media-heading team-name">{{ speaker.name }}</h3>
       <strong>{{ speaker.topic }}</strong>
       <hr class="pull-left">
       <div class="clearfix"></div>
-      <p style="font-size:14px"> {{ speaker.session }}<br>(<a href="{{ speaker.title | downcase }}">more info</a>)</p>
+      <p style="font-size:14px"> {{ speaker.session }}<br>(<a href="{{ speaker.id | downcase }}">more info</a>)</p>
   </div><!-- media-body -->
 </div><!-- team-member media -->
   {% endif %}
@@ -36,13 +36,13 @@ subtitle: MMED 2018 Research Talks
 {% for speaker in site.talks %}
   {% if speaker.type == "faculty" %}
   <div class="team-member media" style="font-size:18px">
-    <img src="{{site.url}}/assets/img/{{speaker.img}}" class="media-object img-circle pull-left" alt="{{ speaker.name }}" height="115" />
+    <img src="{{site.url}}{{site.path}}/assets/img/{{speaker.img}}" class="media-object img-circle pull-left" alt="{{ speaker.name }}" height="115" />
     <div class="media-body">
       <h3 class="media-heading team-name">{{ speaker.name }}</h3>
       <strong>{{ speaker.topic }}</strong>
       <hr class="pull-left">
       <div class="clearfix"></div>
-      <p style="font-size:14px"> {{ speaker.session }}<br>(<a href="{{speaker.title | downcase}}">more info</a>)</p>
+      <p style="font-size:14px"> {{ speaker.session }}<br>(<a href="{{ speaker.id | downcase }}">more info</a>)</p>
   </div><!-- media-body -->
 </div><!-- team-member media -->
   {% endif %}
@@ -51,13 +51,13 @@ subtitle: MMED 2018 Research Talks
 {% for speaker in site.talks %}
   {% if speaker.type == "observer" %}
   <div class="team-member media" style="font-size:18px">
-    <img src="{{site.url}}/assets/img/{{speaker.img}}" class="media-object img-circle pull-left" alt="{{ speaker.name }}" height="115" />
+    <img src="{{site.url}}{{site.path}}/assets/img/{{speaker.img}}" class="media-object img-circle pull-left" alt="{{ speaker.name }}" height="115" />
     <div class="media-body">
       <h3 class="media-heading team-name">{{ speaker.name }}</h3>
       <strong>{{ speaker.topic }}</strong>
       <hr class="pull-left">
       <div class="clearfix"></div>
-      <p style="font-size:14px"> {{ speaker.session }}<br>(<a href="{{ speaker.title | downcase }}">more info</a>)</p>
+      <p style="font-size:14px"> {{ speaker.session }}<br>(<a href="{{ speaker.id | downcase }}">more info</a>)</p>
   </div><!-- media-body -->
 </div><!-- team-member media -->
   {% endif %}
@@ -70,13 +70,13 @@ subtitle: MMED 2018 Research Talks
 {% for speaker in site.talks %}
   {% if speaker.type == "guest" %}
   <div class="team-member media" style="font-size:18px">
-    <img src="{{site.url}}/assets/img/{{speaker.img}}" class="media-object img-circle pull-left" alt="{{ speaker.name }}" height="115" />
+    <img src="{{site.url}}{{site.path}}/assets/img/{{speaker.img}}" class="media-object img-circle pull-left" alt="{{ speaker.name }}" height="115" />
     <div class="media-body">
       <h3 class="media-heading team-name">{{ speaker.name }}</h3>
       <strong>{{ speaker.topic }}</strong>
       <hr class="pull-left">
       <div class="clearfix"></div>
-      <p style="font-size:14px"> {{ speaker.session }}<br>(<a href="{{ speaker.title | downcase}}">more info</a>)</p>
+      <p style="font-size:14px"> {{ speaker.session }}<br>(<a href="{{ speaker.id | downcase }}">more info</a>)</p>
   </div><!-- media-body -->
 </div><!-- team-member media -->
   {% endif %}

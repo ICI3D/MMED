@@ -1,7 +1,8 @@
 ---
 name: Zinhle Mthombothi
+id: mthombothi
 tab: Talks
-title: Zinhle Mthombothi
+title: Mentor Presentations
 type: mentor
 role: Mentor
 img: mentors/mthombothi.jpg

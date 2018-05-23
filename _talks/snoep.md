@@ -1,5 +1,6 @@
 ---
 name: Jacky Snoep, PhD
+id: snoep
 type: guest
 role: Guest Speaker
 img: other/snoep.jpg
