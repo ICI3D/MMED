@@ -26,7 +26,9 @@ Ignore += local.mk
 
 Ignore += $(ms)
 ## Sources += $(ms)
-Makefile: $(ms) $(ms)/Makefile 
+Makefile: $(ms) $(ms)/Makefile ICI3D/Makefile
+ICI3D/Makefile:
+	git submodule update -i
 
 localserve:
 	./run.sh
