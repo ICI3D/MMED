@@ -1,0 +1,37 @@
+absoluteurl: http://www.ici3d.org
+subdomainurl: http://www.ici3d.org/MMED
+baseurl: /MMED
+url: http://www.ici3d.org
+title: MMED 2018
+longtitle: Clinic on Meaningful Modeling of Epidemiological Data
+summary: The ninth annual MMED clinic  ~  May 28 - June 8, 2018  ~  Muizenberg, Cape Town, South Africa
+year: 2018
+markdown: kramdown
+highlighter: rouge
+includes_dir: ICI3D.github.io/_includes
+layouts_dir: ICI3D.github.io/_layouts
+collections:
+  talks:
+    output: true
+    permalink: /talks/:name/
+  team:
+    output: true
+    permalink: /team/:name/
+defaults:
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+  - scope:
+      path: ""
+      type: team
+    values:
+      layout: profile
+exclude:
+  - redirect.html
+  - README.md
+  - run.sh
+  - aims.sh
+gems:
+  - jemoji
