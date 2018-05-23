@@ -25,7 +25,7 @@ Ignore += $(ms)
 
 # -include $(ms)/perl.def
 # -include $(ms)/newtalk.def
-# -include $(ms)/repos.def
+-include $(ms)/git.def
 
 ######################################################################
 
