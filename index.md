@@ -1,8 +1,8 @@
 ---
 layout: clinic
-alerttype: warning
+alerttype: success
 alertmsg: >
-  Information will be added via the links above. Check back soon for additional information. Some materials are available only to MMED participants.
+  Information has been added via the links above. We look forward to seeing you in Muizenberg next week!
 ---
 
 <div class="col-lg-2">
