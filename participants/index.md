@@ -1,10 +1,10 @@
 ---
-layout: redirect
+layout: clinic
 redirect: ../development
 tab: Participants
-subtitle: MMED 2017 Participants
+title: Participants
+subtitle: MMED 2018 Participants
 ---
 
 - [List of participants](./participantList)
 - [Participant facebook](./participantFacebook)
-- [Clinic faculty bios](../team)
