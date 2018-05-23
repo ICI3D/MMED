@@ -9,8 +9,6 @@ alertmsg: >
   Potential group projects for the second week of the Clinic are being added below. This page is in progress.
 ---
 
-## Project groups
-
 - [Dynamical Fever](./dynamicalFever)
 - [Dynamics of Malaria Immunity](./malariaImmunity)
 - [Mechanisms of seasonality](./seasonalData)

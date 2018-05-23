@@ -21,7 +21,7 @@ subtitle: MMED 2018 Research Talks
       <strong>{{ speaker.topic }}</strong>
       <hr class="pull-left">
       <div class="clearfix"></div>
-      <p style="font-size:14px"> {{ speaker.session }}<br>(<a href="{{ speaker.id | downcase }}">more info</a>)</p>
+      <p style="font-size:14px"> {{ speaker.session }}<br>(<a href="{{site.subdomainurl}}/{{ speaker.id | downcase }}">more info</a>)</p>
   </div><!-- media-body -->
 </div><!-- team-member media -->
   {% endif %}
@@ -42,7 +42,7 @@ subtitle: MMED 2018 Research Talks
       <strong>{{ speaker.topic }}</strong>
       <hr class="pull-left">
       <div class="clearfix"></div>
-      <p style="font-size:14px"> {{ speaker.session }}<br>(<a href="{{ speaker.id | downcase }}">more info</a>)</p>
+      <p style="font-size:14px"> {{ speaker.session }}<br>(<a href="{{site.subdomainurl}}/{{ speaker.id | downcase }}">more info</a>)</p>
   </div><!-- media-body -->
 </div><!-- team-member media -->
   {% endif %}
@@ -57,7 +57,7 @@ subtitle: MMED 2018 Research Talks
       <strong>{{ speaker.topic }}</strong>
       <hr class="pull-left">
       <div class="clearfix"></div>
-      <p style="font-size:14px"> {{ speaker.session }}<br>(<a href="{{ speaker.id | downcase }}">more info</a>)</p>
+      <p style="font-size:14px"> {{ speaker.session }}<br>(<a href="{{site.subdomainurl}}/{{ speaker.id | downcase }}">more info</a>)</p>
   </div><!-- media-body -->
 </div><!-- team-member media -->
   {% endif %}
@@ -76,7 +76,7 @@ subtitle: MMED 2018 Research Talks
       <strong>{{ speaker.topic }}</strong>
       <hr class="pull-left">
       <div class="clearfix"></div>
-      <p style="font-size:14px"> {{ speaker.session }}<br>(<a href="{{ speaker.id | downcase }}">more info</a>)</p>
+      <p style="font-size:14px"> {{ speaker.session }}<br>(<a href="{{site.subdomainurl}}/{{ speaker.id | downcase }}">more info</a>)</p>
   </div><!-- media-body -->
 </div><!-- team-member media -->
   {% endif %}
