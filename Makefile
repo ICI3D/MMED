@@ -31,7 +31,7 @@ Ignore += $(ms)
 
 ## Content
 
-Makefile: 
+Ignore += gh-pages
 gh-pages.branchdir: 
 
 ######################################################################
