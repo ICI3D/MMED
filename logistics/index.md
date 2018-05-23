@@ -12,6 +12,7 @@ subtitle: Logistical information
 - Please review this [important information for visitors to AIMS and South Africa](./ImportantInfoAIMS.pdf) prior to arrival.
 - Most participants will be staying in the Empire Building, across the street from AIMS. Upon arrival at AIMS, one or more volunteers will be available in the lobby to answer any questions you may have and take you to your room.
 - **Please double check your [arrival details](./arrivalDetails) ASAP and let us know by email to <arrival@ici3d.org> if there are any changes.**
+- Please complete the [Emergency Contact](./emergencyContact) and [Photo Release](./photoRelease) forms and send completed copies to <forms@ici3d.org> by 15:00 SAST on Friday 25 May. 
 
 #### For those arriving by air
 - Due to the number of arrivals, we have arranged an airport shuttle schedule, and participants arriving at times close to each other will have been put into groups for collection. **If you are arriving on a domestic flight (eg, from Johannesburg), please make your way to the waiting area outside of ABSA Bank, Central Terminal. If you are arriving on an international flight, please wait within the International arrivals terminal. In both cases, you will be met by an AIMS representative, who will be carrying an AIMS sign. Shuttle times and groupings will be posted here closer to the time of the Clinic.**
