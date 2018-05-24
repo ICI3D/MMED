@@ -17,12 +17,14 @@ all.time
 .clean_dir
 *.oldfile
 *.olddiff
+.texdeps/
 *.log
 *.aux
 .*.aux
 *.blg
 *.bbl
 *.bcf
+*.nav
+*.snm
+*.toc
 *.run.xml
-.texdeps/
-
