@@ -25,13 +25,13 @@ Ignore += $(ms)
 
 # -include $(ms)/perl.def
 # -include $(ms)/newtalk.def
--include $(ms)/git.def
+# -include $(ms)/repos.def
 
 ######################################################################
 
 ## Content
 
-Ignore += gh-pages
+Makefile: 
 gh-pages.branchdir: 
 
 ######################################################################
