@@ -34,6 +34,8 @@ Ignore += $(ms)
 Makefile: 
 gh-pages.branchdir: 
 
+Ignore += gh-pages
+
 ######################################################################
 
 -include $(ms)/visual.mk
