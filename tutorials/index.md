@@ -1,6 +1,8 @@
 ---
 layout: clinic
 redirect: ../development
+tab: schedule
+title: Tutorials
 subtitle: ICI3D R tutorials and labs
 ---
 

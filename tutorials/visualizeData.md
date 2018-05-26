@@ -1,5 +1,7 @@
 ---
 layout: clinic
+tab: Schedule
+title: Tutorials
 subtitle: Visualizing Infectious Disease Data in R
 alerttype: warning
 alertmsg: This tutorial will give you the tools to visualize infectious disease data using R. Note that the data used in this tutorial is only accessible to ICI3D participants and should not be used for any other purpose without explicit permission.
