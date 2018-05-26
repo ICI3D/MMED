@@ -2,7 +2,7 @@
 layout: clinic
 alerttype: success
 alertmsg: >
-  Information has been added via the links above. We look forward to seeing you in Muizenberg next week!
+  Information has been added via the links above. We look forward to seeing you in Muizenberg!
 ---
 
 <div class="col-lg-2">
