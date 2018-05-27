@@ -29,7 +29,8 @@ alertmsg: >
 -   10:45 – 11:30 **Lecture:** Introduction to Thinking About Data I ([Williams](../team/williams)) - [Slides](https://ndownloader.figshare.com/files/8541904)
 -   11:30 – 12:30 **Lecture:** Introduction to dynamic modeling of infectious diseases ([Pulliam](../team/pulliam)) - [Slides](https://ndownloader.figshare.com/files/8541817)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - If you plan to use your laptop for the 15:00 computer exercise, Eva and Carl will help you get set up at 12:30 in the main lecture hall.
+    - **Eva and Carl** will help people get their laptops set up for DF at 12:30 in the main lecture hall.
+    - **13:15 Faculty meeting in Room 105**
 -   14:00 – 15:00 **_Parallel sessions_**
     -   **Track A:** Introduction to infectious disease data ([Bruce](../team/bruce)) - [Slides](https://ndownloader.figshare.com/files/8544970)
     -   **Track B:** Foundations of dynamic modeling ([Dushoff](../team/dushoff)) - [Slides](https://ndownloader.figshare.com/files/8541910) - [Handouts](https://github.com/ICI3D/MMEDparticipants/raw/master/Handouts/[Dushoff](../team/dushoff)-FoundationsDynMomdelSIRModelFamily.pdf)
