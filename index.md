@@ -2,7 +2,11 @@
 layout: clinic
 alerttype: success
 alertmsg: >
-  Information has been added via the links above. We look forward to seeing you in Muizenberg!
+  <b>Welcome to Muizenberg!</b>
+  <ul style="font-size:16px">
+    <li><a rel="posterSessions" href="./posters/sessions">Poster session</a> assignments are now available.</li>
+    <li>Track assignments are available on the <a rel="tracks" href="./participants/participantFacebook">participant facebook</a>. If your name appears in red, you are assigned to Track A. If your name appears in blue, you are assigned to Track B.</li>
+  </ul>
 ---
 
 <div class="col-lg-2">

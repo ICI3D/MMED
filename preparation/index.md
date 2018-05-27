@@ -14,7 +14,7 @@ Prepare a poster presentation to share your research.
 
 - Poster preparation guidelines are available [here](../posters).  
 - Be sure to submit your poster by the May 18 deadline, if you would like us to print it for you.
-- See [this page](../posters/sessions) for poster session assignments. (to be added)
+- See [this page](../posters/sessions) for poster session assignments.
 
 ### <a id="#Software"></a> 2. Software installation
 
