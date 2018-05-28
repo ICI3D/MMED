@@ -1,5 +1,5 @@
 ---
-layout: redirect
+layout: clinic
 redirect: ../development
 tab: Resources
 subtitle: Resources for during and after the Clinic

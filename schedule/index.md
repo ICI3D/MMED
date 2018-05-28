@@ -40,7 +40,7 @@ The MMED program includes a number of parallel sessions for participants with di
     - If you plan to use your laptop for the 15:00 computer exercise, Eva and Carl will help you get set up at 12:30 in the main lecture hall.
 -   14:00 – 15:00 **_Parallel sessions_**
     -   **Track A:** Introduction to infectious disease data ([Bruce](../team/bruce)) - [Slides](https://ndownloader.figshare.com/files/8544970)
-    -   **Track B:** Foundations of dynamic modeling ([Dushoff](../team/dushoff)) - [Slides](https://ndownloader.figshare.com/files/8541910) - [Handouts](https://github.com/ICI3D/MMEDparticipants/raw/master/Handouts/[Dushoff](../team/dushoff)-FoundationsDynMomdelSIRModelFamily.pdf)
+    -   **Track B:** Foundations of dynamic modeling ([Dushoff](../team/dushoff)) - [Slides](https://ndownloader.figshare.com/files/8541910) - [Handouts](https://github.com/ICI3D/MMEDparticipants/raw/master/Handouts/[Dushoff-FoundationsDynMomdelSIRModelFamily.pdf)
 -   15:00 – 15:30 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: [Ujeneza](../team/ujeneza))
 -   15:30 – 16:00 *Tea* and **poster set-up**
 -   16:00 – 16:50 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: [Ujeneza](../team/ujeneza))
