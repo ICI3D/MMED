@@ -60,8 +60,8 @@ alertmsg: >
     -   **Track B:** **Lecture:** Basic stochastic simulation models ([Borchering](../team/borchering)) - [Slides](https://ndownloader.figshare.com/files/8541847)
 -   14:45 – 15:30 _**Parallel sessions**_
     -   **Track A:** **Computer Session:** [R Tutorials](../tutorials) - Lab 1: ODE models in R (as needed), and Tutorial 4: Visualizing Infectious Disease Data in R (with [Bruce](../team/bruce), [Kassanjee](../team/kassanjee), [Mwangi](../team/mwangi), [Ujeneza](../team/ujeneza))
-    -   **Track B:** **Computer Session:** [R Tutorials](../tutorials) - Lab 1: ODE models in R (as needed), and Lab 2A: Basic stochastic simulation models (with [Borchering](../team/borchering), [Mthombothi](../team/mthombothi), [Pearson](../team/pearson), [Ying](../team/ying))
-    - Lab 2A Summary ([Borchering](../team/borchering)) - [Slides](../tutorials/Borchering-stoch-sim-lab-summary.pdf)
+    -   **Track B:** **Computer Session:** [R Tutorials](../tutorials) - Lab 1: ODE models in R (as needed), and Exercise 1: Basic stochastic simulation models (with [Borchering](../team/borchering), [Mthombothi](../team/mthombothi), [Pearson](../team/pearson), [Ying](../team/ying))
+    - Exercise 1 Summary ([Borchering](../team/borchering)) - [Slides](../tutorials/Borchering-stoch-sim-lab-summary.pdf)
 -   15:30 – 16:00 *Tea* and **poster set-up**
     - with Borchering, Bruce, Mwangi
 -   16:00 – 16:50 **Computer Session:** [R Tutorials](../tutorials) continued ([Bruce](../team/bruce), [Kassanjee](../team/kassanjee), [Mthombothi](../team/mthombothi), [Mwangi](../team/mwangi), [Ujeneza](../team/ujeneza))

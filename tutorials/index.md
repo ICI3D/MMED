@@ -31,7 +31,7 @@ subtitle: ICI3D R tutorials and labs
 
 ## Exercises and Examples
 
-- Exercise 1: [Basic stochastic simulation models](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Ex1_StochasticSpillover.R) - Stochastic spillover (required for Track B)
+- Exercise 1: [Basic stochastic simulation models](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_spillover_introductions.R) - Stochastic spillover (required for Track B)
 - Exercise 2: [Basic stochastic simulation models](https://raw.githubusercontent.com/ICI3D/RTutorials/master/SimpleStochastic/SimpleStochastic.R) - Demographic stochasticity (recommended for Track B)
 - [Stochastic SIR Example - Gillespie Algorithm](./gillespie)
 - [Stochastic SIR Example - Chain Binomial](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Example_chainBinom.R)
