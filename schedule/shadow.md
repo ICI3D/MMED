@@ -32,10 +32,11 @@ alertmsg: >
     - **Eva and Carl** will help people get their laptops set up for DF at 12:30 in the main lecture hall.
     - **13:15 Faculty meeting in Room 105**
 -   14:00 – 15:00 **_Parallel sessions_**
-    -   **Track A:** Introduction to infectious disease data ([Bruce](../team/bruce)) - [Slides](https://ndownloader.figshare.com/files/8544970)
-    -   **Track B:** Foundations of dynamic modeling ([Dushoff](../team/dushoff)) - [Slides](https://ndownloader.figshare.com/files/8541910) - [Handouts](https://github.com/ICI3D/MMEDparticipants/raw/master/Handouts/[Dushoff](../team/dushoff)-FoundationsDynMomdelSIRModelFamily.pdf)
+    -   **Track A:** Introduction to infectious disease data ([Bruce](../team/bruce)) - [Slides](https://ndownloader.figshare.com/files/8544970) (Brian, John, Reshma, Roger)
+    -   **Track B:** Foundations of dynamic modeling (Becky, Thumbi, Zinhle) ([Dushoff](../team/dushoff)) - [Slides](https://ndownloader.figshare.com/files/8541910) - [Handouts](https://github.com/ICI3D/MMEDparticipants/raw/master/Handouts/Dushoff-FoundationsDynMomdelSIRModelFamily.pdf)
 -   15:00 – 15:30 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: [Ujeneza](../team/ujeneza))
 -   15:30 – 16:00 *Tea* and **poster set-up**
+    - with Bruce, Kassanjee, Mthombothi
 -   16:00 – 16:50 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: [Ujeneza](../team/ujeneza))
 -   16:50 – 17:00 **_Discussion_**: Dynamical Fever and Model Worlds ([Pulliam](../team/pulliam)) - [Slides](../Materials/modelWorlds.pdf)
 -   17:00 – 18:00 [**Poster session I**](../posters/sessions)
@@ -60,8 +61,9 @@ alertmsg: >
 -   14:45 – 15:30 _**Parallel sessions**_
     -   **Track A:** **Computer Session:** [R Tutorials](../tutorials) - Lab 1: ODE models in R (as needed), and Tutorial 4: Visualizing Infectious Disease Data in R (with [Bruce](../team/bruce), [Kassanjee](../team/kassanjee), [Mwangi](../team/mwangi), [Ujeneza](../team/ujeneza))
     -   **Track B:** **Computer Session:** [R Tutorials](../tutorials) - Lab 1: ODE models in R (as needed), and Lab 2A: Basic stochastic simulation models (with [Borchering](../team/borchering), [Mthombothi](../team/mthombothi), [Pearson](../team/pearson), [Ying](../team/ying))
-    - Lab 2A Summary ([Borchering](../team/borchering)) - [Slides](../tutorials/[Borchering](../team/borchering)-stoch-sim-lab-summary.pdf)
+    - Lab 2A Summary ([Borchering](../team/borchering)) - [Slides](../tutorials/Borchering-stoch-sim-lab-summary.pdf)
 -   15:30 – 16:00 *Tea* and **poster set-up**
+    - with Borchering, Bruce, Mwangi
 -   16:00 – 16:50 **Computer Session:** [R Tutorials](../tutorials) continued ([Bruce](../team/bruce), [Kassanjee](../team/kassanjee), [Mthombothi](../team/mthombothi), [Mwangi](../team/mwangi), [Ujeneza](../team/ujeneza))
 -   16:50 – 17:00 **Discussion:**
     - Lab 1 Summary ([Mthombothi](../team/mthombothi)) - [Slides](../tutorials/Lab1_summary.pdf)
@@ -87,8 +89,9 @@ alertmsg: >
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - **Please fill in the <a href='../logistics/weekend1'>weekend activities form</a>! (Due by 13:00 on Wed 30 May.).**
 -   14:00 – 14:30 **Computer Session:** Harare/other data in same groups (with [Borchering](../team/borchering), [Hargrove](../team/hargrove), [Mwangi](../team/mwangi), [Williams](../team/williams), [Ying](../team/ying))
--   14:30 – 15:30 **Discussion:** Harare tutorial ([Hargrove](../team/hargrove)) - [Slides](../tutorials/[Hargrove](../team/hargrove)HIVTutorialSummary.pdf)
+-   14:30 – 15:30 **Discussion:** Harare tutorial ([Hargrove](../team/hargrove)) - [Slides](../tutorials/HargroveHIVTutorialSummary.pdf)
 -   15:30 – 16:00 *Tea* and **poster set-up**
+    - with Bruce, Mthombothi, Ying
 -   16:00 – 17:00 _**Parallel sessions**_
     -   **Track A:** Formulating Research Questions A ([Pulliam](../team/pulliam))
     -   **Track B:** Formulating Research Questions B ([Borchering](../team/borchering))
