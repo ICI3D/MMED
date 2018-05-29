@@ -57,6 +57,7 @@ alertmsg: >
     - You should have completed [R Tutorials I-III](../tutorials) prior to the Clinic. If you have not previously used R, we suggest you review these tutorials during this session, as the material they cover form the foundation for the computer sessions throughout the workshop. *Please use this opportunity to ask any questions you may have regarding the material in these tutorials.*
     - When you have completed Lab 1 (required), you may take a break or move on to Tutorial 4: Visualizing Infectious Disease Data in R (recommended)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
+    - **13:15 Faculty meeting in Room 105**
 -   14:00 – 14:45 _**Parallel sessions**_ (Note: for this session only, Track A participants may attend the Track B session.)
     -   **Track A:** **Lecture:** Introduction to Thinking About Data II ([Hargrove](../team/hargrove)) - [Slides](https://ndownloader.figshare.com/files/8541667)
       - with Bruce, Dushoff
@@ -92,6 +93,7 @@ alertmsg: >
     -   **Additional info:** Distributed Delay Models of Survival (Boxcar Models) - [Slides](../tutorials/distributedDelay.pdf) ([Pulliam](../team/pulliam))
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - **Please fill in the <a href='../logistics/weekend1'>weekend activities form</a>! (Due by 13:00 on Wed 30 May.).**
+    - **13:30 Faculty meeting in Room 105**
 -   14:00 – 14:30 **Computer Session:** Harare/other data in same groups (with [Borchering](../team/borchering), [Hargrove](../team/hargrove), [Mwangi](../team/mwangi), [Williams](../team/williams), [Ying](../team/ying))
 -   14:30 – 15:30 **Discussion:** Harare tutorial ([Hargrove](../team/hargrove)) - [Slides](../tutorials/HargroveHIVTutorialSummary.pdf)
 -   15:30 – 16:00 *Tea* and **poster set-up**
@@ -114,6 +116,7 @@ alertmsg: >
 -   12:00 – 12:30 **Discussion:** MMED research projects ([Borchering](../team/borchering))
     - [Potential project groups](../projects/)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
+    - **13:30 Faculty meeting in Room 105**
 -   14:00 – 15:30 **Lecture:** Participatory coding of a dynamical model ([Pearson](../team/pearson), with [Pulliam](../team/pulliam)) - Code to be added on [Tutorials](../tutorials) page
 -   15:30 – 16:00 *Tea*
 -   16:00 – 16:45 **Lecture:** Introduction to Likelihood ([Ujeneza](../team/ujeneza)) - [Slides](https://ndownloader.figshare.com/files/8541898)
@@ -136,7 +139,8 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
     - **Additional info:** Parameter transformation - [Slides](../tutorials/parameterTransformations.pdf)
     - Lab Summary ([Pulliam](../team/pulliam)) - Slides to be added
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - Please fill in [this form](../logistics/tutorialCatchUp) to indicate what you will work on during the tutorial catch-up session on Saturdayand whom you would like to meet for a mentoring session next week. (Due by 17:00 on Friday 1 June.)
+    - Please fill in [this form](../logistics/tutorialCatchUp) to indicate what you will work on during the tutorial catch-up session on Saturday and whom you would like to meet for a mentoring session next week. (Due by 17:00 on Friday 1 June.)
+    - **13:30 Faculty meeting in Room 105**
 -   14:00 – 15:30 **Mentor presentations** ([Reshma [Kassanjee](../team/kassanjee)](../talks/[Kassanjee](../team/kassanjee)), [Zinhle [Mthombothi](../team/mthombothi)](../talks/[Mthombothi](../team/mthombothi)), [Thumbi [Mwangi](../team/mwangi)](../talks/[Mwangi](../team/mwangi)), [Roger [Ying](../team/ying)](../talks/[Ying](../team/ying)); Moderator: [Dushoff](../team/dushoff))
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:00 **MMED Projects** (Moderator: [Pulliam](../team/pulliam))
