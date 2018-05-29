@@ -10,7 +10,7 @@ subtitle: Resources for during and after the Clinic
     - [MMED Glossary](http://lalashan.mcmaster.ca/theobio/mmed/index.php/Category:Definitions)
     - [Modeling concepts](./modellingConcepts)
 - Learning R
-    - [ICI3D tutorials](http://www.ici3d.org/MMED2017/tutorials/)
+    - [ICI3D tutorials](http://www.ici3d.org/MMED/tutorials/)
     - [Project Mosaic](http://mosaic-web.org/r-packages/)
     - [R Studio Cheat Sheets](http://www.rstudio.com/resources/cheatsheets)
     - [R for Data Science](http://r4ds.had.co.nz/)
