@@ -54,7 +54,7 @@ The MMED program includes a number of parallel sessions for participants with di
 
 -   8:30 – 9:15 **Lecture:** (Hidden) assumptions of simple ODE models ([Pulliam](../team/pulliam)) - Slides to be added
 -   9:15 – 10:00 **Live coding session:** Introduction to model implementation
-    ([Pearson](../team/pearson)) - [Live coding example](../tutorials/DushoffLiveSIRcoding.R)
+    ([Pearson](../team/pearson)) - [Live coding example](https://github.com/ICI3D/MMEDparticipants/raw/master/Resources/PearsonLiveCoding.zip)
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:30 **Computer Session:** [R Tutorials](../tutorials) - Lab 1: ODE models in R (with [Dushoff](../team/dushoff), [Kassanjee](../team/kassanjee), [Pulliam](../team/pulliam), [Ujeneza](../team/ujeneza), [Ying](../team/ying)); **MedPH break-out group** ([Borchering](../team/borchering), [Mthombothi](../team/mthombothi))
     - All R tutorials and labs are linked from [this page](../tutorials)

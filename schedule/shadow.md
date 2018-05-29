@@ -50,7 +50,7 @@ alertmsg: >
 
 -   8:30 – 9:15 **Lecture:** (Hidden) assumptions of simple ODE models ([Pulliam](../team/pulliam)) - Slides to be added
 -   9:15 – 10:00 **Live coding session:** Introduction to model implementation
-    ([Pearson](../team/pearson)) - [Live coding example](../tutorials/[Dushoff](../team/dushoff)LiveSIRcoding.R)
+    ([Pearson](../team/pearson)) - [Live coding example](https://github.com/ICI3D/MMEDparticipants/raw/master/Resources/PearsonLiveCoding.zip)
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:30 **Computer Session:** [R Tutorials](../tutorials) - Lab 1: ODE models in R (with [Dushoff](../team/dushoff), [Kassanjee](../team/kassanjee), [Pulliam](../team/pulliam), [Ujeneza](../team/ujeneza), [Ying](../team/ying)); **MedPH break-out group** ([Borchering](../team/borchering), [Mthombothi](../team/mthombothi))
     - All R tutorials and labs are linked from [this page](../tutorials)
@@ -80,7 +80,7 @@ alertmsg: >
 ### Wednesday, 30 May
 
 -   8:30 – 9:15 **Lecture:** Consequences of heterogeneity, and modeling options ([Dushoff](../team/dushoff)) -
-    [Slides](https://ndownloader.figshare.com/files/8541853) - [Handouts](https://github.com/ICI3D/MMEDparticipants/raw/master/Handouts/[Dushoff](../team/dushoff)-HeterogeneityHandouts.pdf)
+    [Slides](https://ndownloader.figshare.com/files/8541853) - [Handouts](https://github.com/ICI3D/MMEDparticipants/raw/master/Handouts/Dushoff-HeterogeneityHandouts.pdf)
 -   9:15 – 10:15 **Computer Session:** [R Tutorials](../tutorials) - Lab 2: Consequences of heterogeneity (with [Dushoff](../team/dushoff), [Borchering](../team/borchering), [Mwangi](../team/mwangi), [Ujeneza](../team/ujeneza), [Ying](../team/ying))
     -  Lab 2 Summary ([Ying](../team/ying)) - [Slides](../tutorials/Gershom-HeterogeneityTutorialSummary.pdf)
 -   10:15 – 10:30 *Coffee break*
@@ -99,8 +99,8 @@ alertmsg: >
 -   15:30 – 16:00 *Tea* and **poster set-up**
     - with Bruce, Mthombothi, Ying
 -   16:00 – 17:00 _**Parallel sessions**_
-    -   **Track A:** Formulating Research Questions A ([Pulliam](../team/pulliam))
-    -   **Track B:** Formulating Research Questions B ([Borchering](../team/borchering))
+    -   **Track A:** [Formulating Research Questions A]() ([Pulliam](../team/pulliam))
+    -   **Track B:** [Formulating Research Questions B]() ([Borchering](../team/borchering))
 -   17:00 – 18:00 [**Poster session III**](../posters/sessions)
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example (optional lecture):** Guest lecture ([Jacky Snoep](../talks/snoep))
@@ -141,7 +141,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - Please fill in [this form](../logistics/tutorialCatchUp) to indicate what you will work on during the tutorial catch-up session on Saturday and whom you would like to meet for a mentoring session next week. (Due by 17:00 on Friday 1 June.)
     - **13:30 Faculty meeting in Room 105**
--   14:00 – 15:30 **Mentor presentations** ([Reshma [Kassanjee](../team/kassanjee)](../talks/[Kassanjee](../team/kassanjee)), [Zinhle [Mthombothi](../team/mthombothi)](../talks/[Mthombothi](../team/mthombothi)), [Thumbi [Mwangi](../team/mwangi)](../talks/[Mwangi](../team/mwangi)), [Roger [Ying](../team/ying)](../talks/[Ying](../team/ying)); Moderator: [Dushoff](../team/dushoff))
+-   14:00 – 15:30 **Mentor presentations** (Mentors); Moderator: [Dushoff](../team/dushoff))
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:00 **MMED Projects** (Moderator: [Pulliam](../team/pulliam))
     - Project group sign-up will be available after this session
@@ -165,14 +165,14 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 
 ### Monday, 4 June
 
--   8:30 – 9:15 **Lecture:** Doing Science ([Williams](../team/williams)) - [Slides](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/[Williams](../team/williams)-DoingScience.pdf)
+-   8:30 – 9:15 **Lecture:** Doing Science ([Williams](../team/williams)) - [Slides](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/Williams-DoingScience.pdf)
 -   9:15 – 9:30 **Organizational Session:** Schedule and goals for the second week ([Borchering](../team/borchering))
 -   9:30 – 10:00 **Work Session:** Project groups meet for the first time (All instructors)
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 11:30 **Computer Session:** Introduction to GitHub ([Grebe](../team/grebe)) (with [Mthombothi](../team/mthombothi), [Mwangi](../team/mwangi), [Pearson](../team/pearson), [Ujeneza](../team/ujeneza))
 -   11:30 – 12:30 **Work Session:** Work plans for group projects (Project groups)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
--   14:00 – 15:30 **Lecture:** Likelihood fitting and dynamic models II ([Pearson](../team/pearson)) - [Slides](https://ndownloader.figshare.com/files/8590054) - [Handouts](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/[Dushoff](../team/dushoff)-FittingDynModel_II_handouts.pdf)
+-   14:00 – 15:30 **Lecture:** Likelihood fitting and dynamic models II ([Pearson](../team/pearson)) - [Slides](https://ndownloader.figshare.com/files/8590054) - [Handouts](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/Dushoff-FittingDynModel_II_handouts.pdf)
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
     - 16:30 – 17:30 **Mentoring Session**: TBD
@@ -197,7 +197,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
     - 16:30 – 17:30 **Mentoring Session** - TBD
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00
-    **[AIMS Public Lecture Series](https://www.aims.ac.za/en/research-centre/public-lectures) (optional):** [Jonathan [Dushoff](../team/dushoff)](../talks/[Dushoff](../team/dushoff))
+    **[AIMS Public Lecture Series](https://www.aims.ac.za/en/research-centre/public-lectures) (optional):** [Jonathan [Dushoff](../talks/dushoff)
 
 ### Wednesday, 6 June
 

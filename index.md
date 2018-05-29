@@ -2,13 +2,14 @@
 layout: clinic
 alerttype: success
 alertmsg: >
-  <b>Notes for Tuesday</b>
+  <b>Notes for Wednesday</b>
   <ul style="font-size:16px">
-    <li>If you are in Track A and have completed Lab 1 and Tutorials 1-4, you are encouraged to work through the stochastic simulation tutorials. We recommend you start with Exercise 2.</li>
-    <li>If you finish the computer labs early, you may take a break, but <b>all participants should be back in the computer lab by 14:45 for the tutorial summaries.</b></li>
-    <li><a href="./posters/sessions">Poster session</a> assignments are now available. <b>If you're in the Tuesday session, set up your poster during the 15:30 tea break.</b></li>
-    <li>R tutorials are available <a href = "./tutorials">here</a>.</li>
-    <li>Tonight's optional guest lecture will be given by Dr. Florian Marx from the Desmond Tutu TB Centre. You can find information about his talk <a href="./talks/marx/">here</a>.</li>
+    <li>Please fill in the <a href = "./logistics/weekend1"><b>weekend activities form</b></a> by 13:00 today.</li>
+    <li>If you're in the <a href="./posters/sessions"><b>Wednesday poster session</b></a>, please set up your poster during the 15:30 tea break.</li>
+    <li>For this afternoon's parallel sessions, <b>Track A</b> will be in the small seminar room, and <b>Track B</b> will be in the main lecture hall.</li>
+    <li><b>R tutorials</b> are available <a href = "./tutorials">here</a>.</li>
+    <li><b>Tonight's optional guest lecture</b> will be given by Prof. Jacky Snoep from SACEMA and Stellenbosch University. You can find information about his talk <a href="./talks/snoep/">here</a>.</li>
+    <li>Code from <b>Carl's Live Coding session on Tuesday</b> can now be downloaded <a href="https://github.com/ICI3D/MMEDparticipants/raw/master/Resources/PearsonLiveCoding.zip">here</a></li>.
   </ul>
 ---
 

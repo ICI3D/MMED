@@ -22,6 +22,7 @@ subtitle: Poster sessions
 
 ## Poster session III - Wednesday
 - Bouchareb, Yasser Salah Eddine
+- Hella, Jerry
 - Janse van Vuuren, Handre & Nombula, Makabongwe
 - Kamangira, Boboh
 - Kudowa, Evaristar
@@ -31,7 +32,6 @@ subtitle: Poster sessions
 - Ogwo, Grace Nnennaya
 - Oluwagbemi, Olugbenga
 - Omondi, Felgona Tana
-- Ronoh, Marilyn
 - Rerolle, Francois
 - Steinbaum, Lauren
 - Wang, Vania
@@ -42,12 +42,11 @@ subtitle: Poster sessions
 - Abide, Azeez Taofikat
 - Appiah-Kubi, Emmanuel
 - Are, Elisha
-- Hella, Jerry
 - Kawuma, Aida
-- King, Annette
 - Magagula, Vusi
 - Nyawanda, Bryan
 - Pandey, Surabhi
+- Ronoh, Marilyn
 - Suboi, Zenabu
 - van heerden, Kyle
 - Van Ness, Sarah
