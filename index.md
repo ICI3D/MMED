@@ -4,9 +4,9 @@ alerttype: success
 alertmsg: >
   <b>Welcome to Muizenberg!</b>
   <ul style="font-size:16px">
-    <li><a rel="posterSessions" href="./posters/sessions">Poster session</a> assignments are now available. <b>If you're in the Monday session, set up your poster during the 15:30 tea break.</b></li>
-    <li>If you plan to use your laptop during the afternoon tutorial session, consult with Carl and Eva to make sure you have the latest version of the ICI3D package on your computer (12:30, main lecture hall).</li>
-    <li>Track assignments are available on the <a rel="tracks" href="./participants/participantFacebook">participant facebook</a>. If your name appears in red, you are assigned to Track A. If your name appears in blue, you are assigned to Track B.</li>
+    <li><a href="./posters/sessions">Poster session</a> assignments are now available. <b>If you're in the Tuesday session, set up your poster during the 15:30 tea break.</b></li>
+    <li>R tutorials are available <a href = "./tutorials">here</a>.</li>
+    <li>Tonight's optional guest lecture will be given by Dr. Florian Marx from the Desmond Tutu TB Centre. You can find information about his talk <a href="./talks/marx/">here</a>.</li>
   </ul>
 ---
 

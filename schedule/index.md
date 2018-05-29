@@ -101,7 +101,7 @@ The MMED program includes a number of parallel sessions for participants with di
     -   **Track B:** Formulating Research Questions B ([Borchering](../team/borchering))
 -   17:00 – 18:00 [**Poster session III**](../posters/sessions)
 -   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 **Real-world example (optional lecture):** Guest lecture ([Jacky Snoep](../talks/snoep))
+-   19:00 – 20:00 **Real-world example ([optional guest lecture](../talks)):** Guest lecture ([Jacky Snoep](../talks/snoep))
 
 ### Thursday, 31 May
 
@@ -209,7 +209,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   16:00 – 17:30 **Work Session** (Project groups)
     - 16:30 – 17:30 **Mentoring Session** - TBD
 -   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 **Real-world example (optional lecture):** Research Talk ([van Schalkwyk](../talks/vanschalkwyk))
+-   19:00 – 20:00 **Real-world example ([optional guest lecture](../talks)):** Research Talk ([van Schalkwyk](../talks/vanschalkwyk))
 
 ### Thursday, 7 June
 
