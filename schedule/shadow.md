@@ -9,6 +9,7 @@ alertmsg: >
   <ul>
   <li>Please update all your presentations to <b>use the new ICI3D slide template</b>.</li>
   <li><a href="https://github.com/ICI3D/MMED/edit/master/scheduleNotes">Click here for access to the MMED 2018 Notes GD.</a></li>
+  <li><a href="https://github.com/ICI3D/MMED2017/edit/master/scheduleNotes">Click here for access to the MMED 2017 Notes GD.</a></li>
   <li>Note that links on this page do not (necessarily) work!</li>
   </ul>
 ---
@@ -57,7 +58,9 @@ alertmsg: >
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
 -   14:00 – 14:45 _**Parallel sessions**_ (Note: for this session only, Track A participants may attend the Track B session.)
     -   **Track A:** **Lecture:** Introduction to Thinking About Data II ([Hargrove](../team/hargrove)) - [Slides](https://ndownloader.figshare.com/files/8541667)
+      - with Bruce, Dushoff
     -   **Track B:** **Lecture:** Basic stochastic simulation models ([Borchering](../team/borchering)) - [Slides](https://ndownloader.figshare.com/files/8541847)
+      - with Pearson, Ujeneza
 -   14:45 – 15:30 _**Parallel sessions**_
     -   **Track A:** **Computer Session:** [R Tutorials](../tutorials) - Lab 1: ODE models in R (as needed), and Tutorial 4: Visualizing Infectious Disease Data in R (with [Bruce](../team/bruce), [Kassanjee](../team/kassanjee), [Mwangi](../team/mwangi), [Ujeneza](../team/ujeneza))
     -   **Track B:** **Computer Session:** [R Tutorials](../tutorials) - Lab 1: ODE models in R (as needed), and Exercise 1: Basic stochastic simulation models (with [Borchering](../team/borchering), [Mthombothi](../team/mthombothi), [Pearson](../team/pearson), [Ying](../team/ying))
