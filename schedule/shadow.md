@@ -11,6 +11,7 @@ alertmsg: >
   <li><a href="https://github.com/ICI3D/MMED/edit/master/scheduleNotes">Click here for access to the MMED 2018 Notes GD.</a></li>
   <li><a href="https://github.com/ICI3D/MMED2017/edit/master/scheduleNotes">Click here for access to the MMED 2017 Notes GD.</a></li>
   <li>Note that links on this page do not (necessarily) work!</li>
+  <li><b>Everyone is invited to E112 after Florian's talk!</b></li>
   </ul>
 ---
 

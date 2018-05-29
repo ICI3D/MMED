@@ -2,9 +2,8 @@
 layout: clinic
 alerttype: success
 alertmsg: >
-  <b>Welcome to Muizenberg!</b>
+  <b>Notes for Tuesday</b>
   <ul style="font-size:16px">
-    <li>For the parallel sessions on Tuesday afternoon, <b>Track A</b> will be in the small seminar room, and <b>Track B</b> will be in the main lecture hall.</li>
     <li>If you are in Track A and have completed Lab 1 and Tutorials 1-4, you are encouraged to work through the stochastic simulation tutorials. We recommend you start with Exercise 2.</li>
     <li>If you finish the computer labs early, you may take a break, but <b>all participants should be back in the computer lab by 14:45 for the tutorial summaries.</b></li>
     <li><a href="./posters/sessions">Poster session</a> assignments are now available. <b>If you're in the Tuesday session, set up your poster during the 15:30 tea break.</b></li>
