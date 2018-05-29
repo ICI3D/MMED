@@ -33,8 +33,8 @@ subtitle: ICI3D R tutorials and labs
 
 - Exercise 1: [Basic stochastic simulation models](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_spillover_introductions.R) - Stochastic spillover (required for Track B)
 - Exercise 2: [Basic stochastic simulation models](https://raw.githubusercontent.com/ICI3D/RTutorials/master/SimpleStochastic/SimpleStochastic.R) - Demographic stochasticity (recommended for Track B)
-- [Stochastic SIR Example - Gillespie Algorithm](./gillespie)
-- [Stochastic SIR Example - Chain Binomial](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Example_chainBinom.R)
+- [Stochastic SIR Example - Gillespie Algorithm](./gillespie) (optional)
+- [Stochastic SIR Example - Chain Binomial](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Example_chainBinom.R) (optional)
 
 ## Participatory Coding Archive
 - [Participatory Coding (Sampling Var & Study Design) 2017 - How does village-level ITN coverage affect village-level clinical malaria incidence?](https://github.com/ICI3D/RTutorials/raw/master/participatoryCoding_MalariaITN_2017.R)
