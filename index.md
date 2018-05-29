@@ -4,6 +4,7 @@ alerttype: success
 alertmsg: >
   <b>Welcome to Muizenberg!</b>
   <ul style="font-size:16px">
+    <li>For the parallel sessions on Tuesday afternoon, <b>Track A</b> will be in the small seminar room, and <b>Track B</b> will be in the main lecture hall.</li>
     <li><a href="./posters/sessions">Poster session</a> assignments are now available. <b>If you're in the Tuesday session, set up your poster during the 15:30 tea break.</b></li>
     <li>R tutorials are available <a href = "./tutorials">here</a>.</li>
     <li>Tonight's optional guest lecture will be given by Dr. Florian Marx from the Desmond Tutu TB Centre. You can find information about his talk <a href="./talks/marx/">here</a>.</li>
