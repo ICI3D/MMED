@@ -87,7 +87,6 @@ The MMED program includes a number of parallel sessions for participants with di
 -   10:30 – 10:45 *Sunshine break*
 -   10:45 – 11:00 **Lecture:** Introduction to models and data: HIV in Harare ([Hargrove](../team/hargrove))
 -   11:00 – 12:30 **Computer Session:** Harare data in groups of \<4 (with [Hargrove](../team/hargrove), [Kassanjee](../team/kassanjee), [Mthombothi](../team/mthombothi),[Pulliam](../team/pulliam), [Williams](../team/williams))
-    - You will need the most recent version of the ICI3D R package for this tutorial. If you are using your laptop for the tutorials, please update the package before you begin by running the command <b><code>devtools::install_github('ICI3D/ici3d-pkg')</code></b> in R studio.
     - To run the tutorial, first load the ICI3D R package (<b><code>require('ICI3D')</code></b>), then load the tutorial (<b><code>hivTutorial()</code></b>).
     -   If you finish all five versions of the model for the Harare data before lunch, move on to working on data from other countries.
     -   **Additional info:** Distributed Delay Models of Survival (Boxcar Models) - [Slides](../tutorials/distributedDelay.pdf) ([Pulliam](../team/pulliam))
