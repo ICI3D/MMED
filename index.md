@@ -2,14 +2,13 @@
 layout: clinic
 alerttype: success
 alertmsg: >
-  <b>Notes for Wednesday</b>
+  <b>Notes for Thursday</b>
   <ul style="font-size:16px">
-    <li>Please fill in the <a href = "./logistics/weekend1"><b>weekend activities form</b></a> by 13:00 today.</li>
-    <li>If you're in the <a href="./posters/sessions"><b>Wednesday poster session</b></a>, please set up your poster during the 15:30 tea break.</li>
-    <li>For this afternoon's parallel sessions, <b>Track A</b> will be in the small seminar room, and <b>Track B</b> will be in the main lecture hall.</li>
+    <li>For this morning's parallel sessions, <b>Track A</b> will be in the small seminar room, and <b>Track B</b> will be in the main lecture hall.</li>
+    <li><b>New project descriptions</b> have been posted to the list of potential topics for next week's group projects.</li>
     <li><b>R tutorials</b> are available <a href = "./tutorials">here</a>.</li>
-    <li><b>Tonight's optional guest lecture</b> will be given by Prof. Jacky Snoep from SACEMA and Stellenbosch University. You can find information about his talk <a href="./talks/snoep/">here</a>.</li>
-    <li>Code from <b>Carl's Live Coding session on Tuesday</b> can now be downloaded <a href="https://github.com/ICI3D/MMEDparticipants/raw/master/Resources/PearsonLiveCoding.zip">here</a></li>.
+    <li>Join us at 19:30 for <b>drumming</b> in the main lecture hall!</li>
+    <li>References related to HIV prevalence trends in Harare have been added <a href="https://github.com/ICI3D/MMEDparticipants/raw/master/Readings/Hargrove%202008%20Migration%20mines%20and%20mores%20SAJS%202008.pdf">here</a> and <a href="https://github.com/ICI3D/MMEDparticipants/raw/master/Readings/Hargrove%20et%20al%202011%20Declining%20HIV%20prevalence%20and%20incidence%20in%20Harare.pdf">here</a></li>.
   </ul>
 ---
 

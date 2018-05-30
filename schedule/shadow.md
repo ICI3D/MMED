@@ -108,9 +108,10 @@ alertmsg: >
 ### Thursday, 31 May
 
 -   8:30 – 10:00 _**Parallel sessions**_
-    -   **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology: Where does modeling fit? ([Bruce](../team/bruce)) - [Slides](https://ndownloader.figshare.com/files/8541838) - and [R Tutorials](../tutorials) - Lab 3: Study Design in Epidemiology (with [Bruce](../team/bruce), [Kassanjee](../team/kassanjee), [Mwangi](../team/mwangi), [Pulliam](../team/pulliam), [Ujeneza](../team/ujeneza))
+    -   **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology: Where does modeling fit? ([Bruce](../team/bruce), with Hargrove and Dushoff) - [Slides](https://ndownloader.figshare.com/files/8541838) - and [R Tutorials](../tutorials) - Lab 3: Study Design in Epidemiology (with [Bruce](../team/bruce), [Kassanjee](../team/kassanjee), [Mwangi](../team/mwangi), [Hargrove](../team/hargrove), [Ujeneza](../team/ujeneza))
     - Lab 3 Summary ([Ujeneza](../team/ujeneza)) - Slides to be added
     -   **Track B:** **Exercise:** Creating a model world to address a research question ([Pulliam](../team/pulliam)) - [Slides](../Materials/creatingAModelWorld.pdf), [Assignment and examples](../Materials/modelWorld)
+        - with Borchering and Pearson
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:00 **Lecture:** Introduction to statistical philosophy ([Dushoff](../team/dushoff)) - [Slides](https://ndownloader.figshare.com/files/8583778)
 -   12:00 – 12:30 **Discussion:** MMED research projects ([Borchering](../team/borchering))
