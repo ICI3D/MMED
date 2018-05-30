@@ -25,7 +25,7 @@ An important question in understanding malaria dynamics is how infection plays o
 
 ## Background
 
-Clinical immunity to malaria is an important medical, dynamical and public health phenomenon. The importance of *transmission from* clinically immune individuals â people who carry malaria parasites but are not clinically ill â in population-level dynamics is poorly understood.
+Clinical immunity to malaria is an important medical, dynamical and public health phenomenon. The importance of *transmission from* clinically immune individuals (people who carry malaria parasites but are not clinically ill) in population-level dynamics is poorly understood.
 
 -   Chiyaka _et al_ (2013) [The stability of malaria elimination][Chiyaka2013]. _Science_ 339: 909-910.
 -   Keegan and Dushoff (2013) [Population-level effects of clinical immunity to malaria][Keegan2013]. _BMC Infectious Diseases_ 13:428 DOI: 10.1186/1471-2334-13-428
@@ -36,14 +36,11 @@ Clinical immunity to malaria is an important medical, dynamical and public healt
 -   The [Garki project](https://en.wikipedia.org/wiki/Garki_Project) was an ambitious malaria-control and data-collection project carried out in Nigeria in the early 1970s
   - The [Garki project book][GarkiBook] is the best available explanation for [the available data][GarkiSwiss]
 
-### Gonoa study
--   The [Gonoa study][BruceParasitemia] is [a detailed study of parasitemia through time in children][GonoaData]
-
 ## Resources
 
 #### References
 
--   [Ãguas _et al_. 2008][Aguas2008] suggested that transmission from clinically immune individuals could lead to "backwards bifurcations"; this issue is also addressed by [the Chiyaka 2013 review paper][Chiyaka2013].  
+-   [Aguas _et al_. 2008][Aguas2008] suggested that transmission from clinically immune individuals could lead to "backwards bifurcations"; this issue is also addressed by [the Chiyaka 2013 review paper][Chiyaka2013].  
 -   [Short review and experimental data on Plasmodium falciparum][Pfalchapter]
 - This comes from a book on [Primate Malarias](http://www.ebook3000.com/The-Primate-Malarias_132059.html) in the 1970s. It's an old text but full of interesting (and horrifying) data.
 
