@@ -12,7 +12,7 @@ alertmsg: This tutorial will give you the tools to visualize infectious disease 
 
 ## Tutorial data
 
-The data sets necessary for this tutorial can be downloaded here:
+The data sets necessary for this tutorial can be downloaded below. You should place all datasets in a single folder on your computer.
 
 - [Botswana HIV Data](https://github.com/ICI3D/datasets/blob/master/visualizingData/HIV_Botswana.csv?raw=true)
 - [London Measles Time Series](https://github.com/ICI3D/datasets/blob/master/visualizingData/MeaslesCleanLon.csv?raw=true)

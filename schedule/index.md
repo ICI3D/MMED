@@ -93,7 +93,7 @@ The MMED program includes a number of parallel sessions for participants with di
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - **Please fill in the <a href='../logistics/weekend1'>weekend activities form</a>! (Due by 13:00 on Wed 30 May.).**
 -   14:00 – 14:30 **Computer Session:** Harare/other data in same groups (with [Borchering](../team/borchering), [Hargrove](../team/hargrove), [Mwangi](../team/mwangi), [Williams](../team/williams), [Ying](../team/ying))
--   14:30 – 15:30 **Discussion:** Harare tutorial ([Hargrove](../team/hargrove)) - [Slides](../tutorials/HargroveHIVTutorialSummary.pdf)
+-   14:30 – 15:30 **Discussion:** Harare tutorial ([Hargrove](../team/hargrove)) - Slides to be added
 -   15:30 – 16:00 *Tea* and **poster set-up**
 -   16:00 – 17:00 _**Parallel sessions**_
     -   **Track A:** Formulating Research Questions A ([Pulliam](../team/pulliam))

@@ -13,3 +13,4 @@ alertmsg: >
 - [Dynamics of Malaria Immunity](./malariaImmunity)
 - [Mechanisms of seasonality](./seasonalData)
 - [Tsetse fly population dynamics](./tsetse)
+- [Trauma Care Trial Design](./traumaTrial)
