@@ -52,7 +52,7 @@ The MMED program includes a number of parallel sessions for participants with di
 
 ### Tuesday, 29 May
 
--   8:30 – 9:15 **Lecture:** (Hidden) assumptions of simple ODE models ([Pulliam](../team/pulliam)) - Slides to be added
+-   8:30 – 9:15 **Lecture:** (Hidden) assumptions of simple ODE models ([Pulliam](../team/pulliam)) - [Slides](https://ndownloader.figshare.com/files/11756096)
 -   9:15 – 10:00 **Live coding session:** Introduction to model implementation
     ([Pearson](../team/pearson)) - [Live coding example](https://github.com/ICI3D/MMEDparticipants/raw/master/Resources/PearsonLiveCoding.zip)
 -   10:00 – 10:30 *Coffee break*
