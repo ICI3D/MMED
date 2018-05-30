@@ -11,7 +11,6 @@ alertmsg: >
   <li><a href="https://github.com/ICI3D/MMED/edit/master/scheduleNotes">Click here for access to the MMED 2018 Notes GD.</a></li>
   <li><a href="https://github.com/ICI3D/MMED2017/edit/master/scheduleNotes">Click here for access to the MMED 2017 Notes GD.</a></li>
   <li>Note that links on this page do not (necessarily) work!</li>
-  <li><b>Everyone is invited to E112 after Florian's talk!</b></li>
   </ul>
 ---
 
@@ -99,8 +98,8 @@ alertmsg: >
 -   15:30 – 16:00 *Tea* and **poster set-up**
     - with Bruce, Mthombothi, Ying
 -   16:00 – 17:00 _**Parallel sessions**_
-    -   **Track A:** [Formulating Research Questions A]() ([Pulliam](../team/pulliam))
-    -   **Track B:** [Formulating Research Questions B]() ([Borchering](../team/borchering))
+    -   **Track A:** [Formulating Research Questions A](./researchQuestionsA) ([Pulliam](../team/pulliam))
+    -   **Track B:** [Formulating Research Questions B](./researchQuestionsB) ([Borchering](../team/borchering))
 -   17:00 – 18:00 [**Poster session III**](../posters/sessions)
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example (optional lecture):** Guest lecture ([Jacky Snoep](../talks/snoep))
