@@ -15,3 +15,4 @@ alertmsg: >
 - [Tsetse fly population dynamics](./tsetse)
 - [Trauma Care Trial Design](./traumaTrial)
 - [Rabies in Kenya](./rabiesKenya)
+- [Assessing host competence for mosquito-borne infections](./hostViremia)
