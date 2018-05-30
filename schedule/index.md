@@ -72,7 +72,7 @@ The MMED program includes a number of parallel sessions for participants with di
 -   16:00 – 16:50 **Computer Session:** [R Tutorials](../tutorials) continued ([Bruce](../team/bruce), [Kassanjee](../team/kassanjee), [Mthombothi](../team/mthombothi), [Mwangi](../team/mwangi), [Ujeneza](../team/ujeneza))
 -   16:50 – 17:00 **Discussion:**
     - Lab 1 Summary ([Mthombothi](../team/mthombothi)) - [Slides](../tutorials/Lab1_summary.pdf)
-    - Tutorial 4 Summary ([Kassanjee](../team/kassanjee)) - Slides to be added
+    - Tutorial 4 Summary ([Kassanjee](../team/kassanjee)) - [Slides](../tutorials/Tutorial4_summary.pdf)
 -   17:00 – 18:00 [**Poster session II**](../posters/sessions)
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example ([optional guest lecture](../talks)):** [Florian Marx](../talks/marx)
