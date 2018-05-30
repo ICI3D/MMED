@@ -52,7 +52,7 @@ The MMED program includes a number of parallel sessions for participants with di
 
 ### Tuesday, 29 May
 
--   8:30 – 9:15 **Lecture:** (Hidden) assumptions of simple ODE models ([Pulliam](../team/pulliam)) - Slides to be added
+-   8:30 – 9:15 **Lecture:** (Hidden) assumptions of simple ODE models ([Pulliam](../team/pulliam)) - [Slides](https://ndownloader.figshare.com/files/11756096)
 -   9:15 – 10:00 **Live coding session:** Introduction to model implementation
     ([Pearson](../team/pearson)) - [Live coding example](https://github.com/ICI3D/MMEDparticipants/raw/master/Resources/PearsonLiveCoding.zip)
 -   10:00 – 10:30 *Coffee break*
@@ -72,7 +72,7 @@ The MMED program includes a number of parallel sessions for participants with di
 -   16:00 – 16:50 **Computer Session:** [R Tutorials](../tutorials) continued ([Bruce](../team/bruce), [Kassanjee](../team/kassanjee), [Mthombothi](../team/mthombothi), [Mwangi](../team/mwangi), [Ujeneza](../team/ujeneza))
 -   16:50 – 17:00 **Discussion:**
     - Lab 1 Summary ([Mthombothi](../team/mthombothi)) - [Slides](../tutorials/Lab1_summary.pdf)
-    - Tutorial 4 Summary ([Kassanjee](../team/kassanjee)) - Slides to be added
+    - Tutorial 4 Summary ([Kassanjee](../team/kassanjee)) - [Slides](../tutorials/Tutorial4_summary.pdf)
 -   17:00 – 18:00 [**Poster session II**](../posters/sessions)
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example ([optional guest lecture](../talks)):** [Florian Marx](../talks/marx)
@@ -93,7 +93,7 @@ The MMED program includes a number of parallel sessions for participants with di
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - **Please fill in the <a href='../logistics/weekend1'>weekend activities form</a>! (Due by 13:00 on Wed 30 May.).**
 -   14:00 – 14:30 **Computer Session:** Harare/other data in same groups (with [Borchering](../team/borchering), [Hargrove](../team/hargrove), [Mwangi](../team/mwangi), [Williams](../team/williams), [Ying](../team/ying))
--   14:30 – 15:30 **Discussion:** Harare tutorial ([Hargrove](../team/hargrove)) - [Slides](../tutorials/HargroveHIVTutorialSummary.pdf)
+-   14:30 – 15:30 **Discussion:** Harare tutorial ([Hargrove](../team/hargrove)) - Slides to be added
 -   15:30 – 16:00 *Tea* and **poster set-up**
 -   16:00 – 17:00 _**Parallel sessions**_
     -   **Track A:** Formulating Research Questions A ([Pulliam](../team/pulliam))

@@ -34,7 +34,7 @@ Background
 
 In recent years, outbreaks of a novel disease now known as Muizenberg Fever (MF) have occurred in Muizenberg, South Africa. The disease is also known as Muizenberg "Mathematical" Fever (MMF) since it has only been observed while the annual MMED clinic is in session at the African Institute for Mathematical Sciences (AIMS). While symptoms of the disease are almost exclusively benign, local public health professionals suggest maintaining continued vigilance so that the etiology and natural history of this disease can be better understood.
 
-![Epidemic curve from a recent MMF outbreak](./mmf2013.jpg "Epidemic curve from a recent MMF outbreak"){:width="50%"}
+![Epidemic curve from a previous MMF outbreak](./mmf2013.jpg "Epidemic curve from a recent MMF outbreak"){:width="50%"}
 
 Resources
 =========
