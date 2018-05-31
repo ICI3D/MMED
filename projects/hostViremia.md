@@ -7,7 +7,7 @@ subtitle: Assessing host competence for mosquito-borne infections
 
 ## Overview
 
-Many mosquito-transmitted viruses can infect multiple host and vector species. In order to assess the potential for such a virus to invade a new area, or the potential impact at an intervention targeted at specific hosts, it is necessary to scale from individual-level processes to population patterns. This project will focus on characterizing host viremia profiles - or how the concentration of virus in the host's blood changes as a function of time since infection - and consider different options for the calculation of quantities known as "host competence indices" that describe a host's ability to replicate and transmit a virus. If there is time, we may explore how host competence indices vary depending on the mosquito vector being considered and/or on viral strain.
+Many mosquito-transmitted viruses can infect multiple host and vector species. In order to assess the potential for such a virus to invade a new area, or the potential impact at an intervention targeted at specific hosts, it can be useful to scale from individual-level processes to population patterns. This project will focus on characterizing host viremia profiles - or how the concentration of virus in the host's blood changes as a function of time since infection. The group will also consider various indices that have been used to quantify "host competence" - a host's ability to replicate and transmit a virus. If there is time, we may explore how host competence indices vary depending on the mosquito vector being considered and/or on viral strain.
 
 ## Things to consider
 
