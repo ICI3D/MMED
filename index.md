@@ -4,11 +4,11 @@ alerttype: success
 alertmsg: >
   <b>Notes for Thursday</b>
   <ul style="font-size:16px">
-    <li>For this morning's parallel sessions, <b>Track A</b> will be in the small seminar room, and <b>Track B</b> will be in the main lecture hall.</li>
-    <li><b>New project descriptions</b> have been posted to the list of potential topics for next week's group projects.</li>
+    <li>Instructions and examples have been added for <b>Track B</b> to complete the <a href="./tutorials/modelWorld">Creating a Model World</a> assignment, which is due at <b>8:30 AM</b> on Thursday morning.</li>
+    <li><a href="./projects">New project descriptions</a> have been posted to the list of potential topics for next week's group projects.</li>
     <li><b>R tutorials</b> are available <a href = "./tutorials">here</a>.</li>
     <li>Join us at 19:30 for <b>drumming</b> in the main lecture hall!</li>
-    <li>References related to HIV prevalence trends in Harare have been added <a href="https://github.com/ICI3D/MMEDparticipants/raw/master/Readings/Hargrove%202008%20Migration%20mines%20and%20mores%20SAJS%202008.pdf">here</a> and <a href="https://github.com/ICI3D/MMEDparticipants/raw/master/Readings/Hargrove%20et%20al%202011%20Declining%20HIV%20prevalence%20and%20incidence%20in%20Harare.pdf">here</a></li>.
+    <li>References related to HIV prevalence trends in Harare have been added <a href="https://github.com/ICI3D/MMEDparticipants/raw/master/Readings/Hargrove%202008%20Migration%20mines%20and%20mores%20SAJS%202008.pdf">here</a> and <a href="https://github.com/ICI3D/MMEDparticipants/raw/master/Readings/Hargrove%20et%20al%202011%20Declining%20HIV%20prevalence%20and%20incidence%20in%20Harare.pdf">here</a>.</li>
   </ul>
 ---
 
