@@ -128,13 +128,15 @@ alertmsg: >
 ### Friday, 1 June
 
 -   8:30 – 10:00  _**Parallel sessions:**_
-    - **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology II: RCT's ([Pearson](../team/pearson)) - [Slides](https://ndownloader.figshare.com/files/8583781) - [R Tutorials](../tutorials) - Lab 4: Study Design for Clinical Trials (with [Borchering](../team/borchering), [Bruce](../team/bruce), [Kassanjee](../team/kassanjee), [Mwangi](../team/mwangi), [Pearson](../team/pearson))
+    - **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology II: RCT's ([Pearson](../team/pearson), with Borchering and Bruce) - [Slides](https://ndownloader.figshare.com/files/8583781) - and [R Tutorials](../tutorials) - Lab 4: Study Design for Clinical Trials (with [Borchering](../team/borchering), [Bruce](../team/bruce), [Kassanjee](../team/kassanjee), [Mwangi](../team/mwangi), [Pearson](../team/pearson))
     - [Dataset for Lab 4](https://github.com/ICI3D/datasets/blob/master/clinicalTrials/MuTxT.Rdata?raw=true)
     - Lab 4 Summary ([Bruce](../team/bruce)) - Slides to be added
     - **Track B:** **Exercise:** Description of proposed model and assumptions ([Pulliam](../team/pulliam))
+        - with Hargrove
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 11:15 **Lecture:** Likelihood fitting and dynamic models,
 Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pulliam))  - [Slides](https://ndownloader.figshare.com/files/8583787)
+    - with Dushoff and Ujeneza
 -   11:15 - 12:30 **Computer Session:** Lab: MLE fitting of an SIR model to prevalence data (with [Dushoff](../team/dushoff), [Mthombothi](../team/mthombothi), [Pearson](../team/pearson), [Pulliam](../team/pulliam), [Ying](../team/ying))
     - **Additional info:** Parameter transformation - [Slides](../tutorials/parameterTransformations.pdf)
     - Lab Summary ([Pulliam](../team/pulliam)) - Slides to be added
