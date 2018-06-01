@@ -2,7 +2,7 @@
 layout: clinic
 alerttype: success
 alertmsg: >
-  <b>Notes for Thursday</b>
+  <b>Notes for Friday</b>
   <ul style="font-size:16px">
     <li>For this morning's parallel sessions, <b>Track A</b> will be in the small seminar room, and <b>Track B</b> will be in the main lecture hall.</li>
     <li><b>Reminder for Track B:</b> The <a href="./tutorials/modelWorld">Creating a Model World</a> assignment is due at <b>8:30 AM</b> on Friday morning. Please remember to bring a clean, well labelled version of your diagram to this morning's first session.</li>
