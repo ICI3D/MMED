@@ -153,7 +153,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 
 ### Saturday, 2 June
 
--   9:00 – 10:30 **Lecture:** Participatory coding for Variability,
+-   9:00 – 10:30 **Live coding session:** Participatory coding for Variability,
     Sampling Distributions, and Simulation Lecture ([Dushoff](../team/dushoff))  - [Code on Tutorials page](../tutorials)
 -   10:30 – 11:00 A good chance to sign up for project groups and *Coffee break*
 -   11:00 – 12:30 **Computer Session:** Tutorial catch-up, as needed (with [Bruce](../team/bruce), [Kassanjee](../team/kassanjee), [Mwangi](../team/mwangi), [Pearson](../team/pearson), [Ying](../team/ying))
@@ -164,6 +164,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 
 -   Free day – optional group trip to Cape Point
     -   We will leave at 10:00. *Please meet in the AIMS lobby by 9:55.*
+- Faculty meeting in E310 at 16:30.
 
 ### Monday, 4 June
 
