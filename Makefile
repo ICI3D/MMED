@@ -9,6 +9,10 @@ current: target
 
 ##################################################################
 
+add.Rout: add.R
+
+##################################################################
+
 ## Defs
 
 # stuff
@@ -43,5 +47,5 @@ localserve:
 -include $(ms)/git.mk
 -include $(ms)/visual.mk
 
-# -include $(ms)/wrapR.mk
+-include $(ms)/wrapR.mk
 

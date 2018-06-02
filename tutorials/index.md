@@ -37,6 +37,14 @@ subtitle: ICI3D R tutorials and labs
 - [Stochastic SIR Example - Chain Binomial](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Example_chainBinom.R) (optional)
 
 ## Participatory Coding Archive
+- Participatory Coding (Sampling Var & Study Design) 2018 - Is aidamycin superior to cotrim for treating malaria (under construction)?
+	* [Single trial](https://github.com/ICI3D/RTutorials/raw/master/sampling_JD/cotrimStudy.R)
+	* [Many trials](https://github.com/ICI3D/RTutorials/raw/master/sampling_JD/cotrimTest.R)
+- Sampling Var & Study Design additional example 2018 - Does vaccinating schoolchildren protect elders from clinical influenza (cluster RCT)?
+	* [Single trial](https://github.com/ICI3D/RTutorials/raw/master/sampling_JD/fluStudy.R)
+	* [Many trials](https://github.com/ICI3D/RTutorials/raw/master/sampling_JD/fluTest.R)
+	* [A range of protection assumptions](https://github.com/ICI3D/RTutorials/raw/master/sampling_JD/fluExperiment.R)
+	* [Worrying about village-level variance](https://github.com/ICI3D/RTutorials/raw/master/sampling_JD/fluExperiment_again.R)
 - [Participatory Coding (Sampling Var & Study Design) 2017 - How does village-level ITN coverage affect village-level clinical malaria incidence?](https://github.com/ICI3D/RTutorials/raw/master/participatoryCoding_MalariaITN_2017.R)
 - [Participatory Coding (Dynamic Modeling) 2017 - What level of rabies vaccination is necessary to eliminate rabies in Tanzanian dogs?](https://github.com/ICI3D/RTutorials/raw/master/particCoding_Rabies2017.R)
 - [Participatory Coding (Dynamic Modeling) 2016 - How does diabetes prevalence affect active TB prevalence (or incidence)?](https://raw.githubusercontent.com/ICI3D/RTutorials/master/particCodingDynMod2016.R)
