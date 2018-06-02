@@ -128,13 +128,15 @@ alertmsg: >
 ### Friday, 1 June
 
 -   8:30 – 10:00  _**Parallel sessions:**_
-    - **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology II: RCT's ([Pearson](../team/pearson)) - [Slides](https://ndownloader.figshare.com/files/8583781) - [R Tutorials](../tutorials) - Lab 4: Study Design for Clinical Trials (with [Borchering](../team/borchering), [Bruce](../team/bruce), [Kassanjee](../team/kassanjee), [Mwangi](../team/mwangi), [Pearson](../team/pearson))
+    - **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology II: RCT's ([Pearson](../team/pearson), with Borchering and Bruce) - [Slides](https://ndownloader.figshare.com/files/8583781) - and [R Tutorials](../tutorials) - Lab 4: Study Design for Clinical Trials (with [Borchering](../team/borchering), [Bruce](../team/bruce), [Kassanjee](../team/kassanjee), [Mwangi](../team/mwangi), [Pearson](../team/pearson))
     - [Dataset for Lab 4](https://github.com/ICI3D/datasets/blob/master/clinicalTrials/MuTxT.Rdata?raw=true)
     - Lab 4 Summary ([Bruce](../team/bruce)) - Slides to be added
     - **Track B:** **Exercise:** Description of proposed model and assumptions ([Pulliam](../team/pulliam))
+        - with Hargrove
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 11:15 **Lecture:** Likelihood fitting and dynamic models,
 Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pulliam))  - [Slides](https://ndownloader.figshare.com/files/8583787)
+    - with Dushoff and Ujeneza
 -   11:15 - 12:30 **Computer Session:** Lab: MLE fitting of an SIR model to prevalence data (with [Dushoff](../team/dushoff), [Mthombothi](../team/mthombothi), [Pearson](../team/pearson), [Pulliam](../team/pulliam), [Ying](../team/ying))
     - **Additional info:** Parameter transformation - [Slides](../tutorials/parameterTransformations.pdf)
     - Lab Summary ([Pulliam](../team/pulliam)) - Slides to be added
@@ -151,7 +153,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 
 ### Saturday, 2 June
 
--   9:00 – 10:30 **Lecture:** Participatory coding for Variability,
+-   9:00 – 10:30 **Live coding session:** Participatory coding for Variability,
     Sampling Distributions, and Simulation Lecture ([Dushoff](../team/dushoff))  - [Code on Tutorials page](../tutorials)
 -   10:30 – 11:00 A good chance to sign up for project groups and *Coffee break*
 -   11:00 – 12:30 **Computer Session:** Tutorial catch-up, as needed (with [Bruce](../team/bruce), [Kassanjee](../team/kassanjee), [Mwangi](../team/mwangi), [Pearson](../team/pearson), [Ying](../team/ying))
@@ -162,6 +164,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 
 -   Free day – optional group trip to Cape Point
     -   We will leave at 10:00. *Please meet in the AIMS lobby by 9:55.*
+- Faculty meeting in E310 at 16:30.
 
 ### Monday, 4 June
 

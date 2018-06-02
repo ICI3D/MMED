@@ -6,7 +6,7 @@ tab: Projects
 title: Projects
 alerttype: warning
 alertmsg: >
-  Potential group projects for the second week of the Clinic are being added below. This page is in progress.
+  Please indicate your project preferences via <a href="./groupProjectSelection">the group project selection form</a> by 10:00 on Sunday.
 ---
 
 - [Dynamical Fever](./dynamicalFever)
@@ -17,3 +17,4 @@ alertmsg: >
 - [Rabies in Kenya](./rabiesKenya)
 - [Assessing host competence for mosquito-borne infections](./hostViremia)
 - [Outbreak investigation](./mmf)
+- [Study design for HIV and HSV interaction dynamics](hsvhiv.md)
