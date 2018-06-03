@@ -170,7 +170,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   14:00 – 15:30 **Lecture:** Likelihood fitting and dynamic models II ([Pearson](../team/pearson)) - [Slides](https://ndownloader.figshare.com/files/8590054) - [Handouts](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/Dushoff-FittingDynModel_II_handouts.pdf)
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
-    - 16:30 – 17:30 **Mentoring Session**: TBD
+    - 16:30 – 17:30 **Mentoring Session**: See [assignments](https://docs.google.com/spreadsheets/d/1dg1PoTKbKCCOD54N1duL_V9bES4Zhv6OuOVywblezSs/edit?usp=sharing)
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 GitHub practice and troubleshooting ([Pearson](../team/pearson)) and/or optional tutorial catch-up (with [Kassanjee](../team/kassanjee), [Mthombothi](../team/mthombothi), [Mwangi](../team/mwangi), [Ying](../team/ying))
 
@@ -189,7 +189,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
     - Tutorial 5 Summary ([Mwangi](../team/mwangi)) - Slides to be added
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
-    - 16:30 – 17:30 **Mentoring Session** - TBD
+    - 16:30 – 17:30 **Mentoring Session**: See [assignments](https://docs.google.com/spreadsheets/d/1dg1PoTKbKCCOD54N1duL_V9bES4Zhv6OuOVywblezSs/edit?usp=sharing)
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00
     **[AIMS Public Lecture Series](https://www.aims.ac.za/en/research-centre/public-lectures) (optional):** [Jonathan [Dushoff](../team/dushoff)](../talks/Dushoff])
@@ -206,7 +206,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
     - 14:00 – 15:00 _Optional Session:_ Stochastic modelling II ([Dushoff](../team/dushoff) or [Pearson](../team/pearson)) - Slides to be added
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
-    - 16:30 – 17:30 **Mentoring Session** - TBD
+    - 16:30 – 17:30 **Mentoring Session**: See [assignments](https://docs.google.com/spreadsheets/d/1dg1PoTKbKCCOD54N1duL_V9bES4Zhv6OuOVywblezSs/edit?usp=sharing)
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example ([optional guest lecture](../talks)):** Research Talk ([van Schalkwyk](../talks/vanschalkwyk))
 
@@ -221,7 +221,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
     - 14:00 – 15:00 _Optional Session:_ Data wrangling II ([Grebe](../team/grebe) or [Pearson](../team/pearson))
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
-    - 16:30 – 17:30 **Mentoring Session** - TBD
+    - 16:30 – 17:30 **Mentoring Session**: See [assignments](https://docs.google.com/spreadsheets/d/1dg1PoTKbKCCOD54N1duL_V9bES4Zhv6OuOVywblezSs/edit?usp=sharing)
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Work session** (Project groups)
 
@@ -231,7 +231,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   9:15 – 10:00 **Work Session** (Project groups)
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:30 **Work Session** (Project groups)
-    - 10:30 – 11:30 **Mentoring Session** - TBD
+    - 10:30 – 11:30 **Mentoring Session**: See [assignments](https://docs.google.com/spreadsheets/d/1dg1PoTKbKCCOD54N1duL_V9bES4Zhv6OuOVywblezSs/edit?usp=sharing)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
 -   14:00 – 15:30 **Final presentations**
 -   15:30 – 16:00 *Tea*

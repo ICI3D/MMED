@@ -13,27 +13,22 @@ alertmsg: >
 ---
 
 - [Dynamical Fever](./dynamicalFever)
-    - **Faculty and mentors:**  
-    - **Group members:**  Evaristar, Jerry, Marijn
-    - **Repository:**
+    - **Faculty and mentors:**  Eduard, Eva
+    - **Group members:**  Bryan, Evaristar, Jerry, Marijn
+    - **Repository:** To be added
 - [Dynamics of Malaria Immunity](./malariaImmunity)
-    - **Faculty and mentors:**  Jonathan,
+    - **Faculty and mentors:**  Jonathan, Roger
     - **Group members:**  Julius, Olugbenga, Sarah V, Surabhi, Vusi
-    - **Repository:**
+    - **Repository:** To be added
 - [Tsetse fly population dynamics](./tsetse)
-    - **Faculty and mentors:**  John,
-    - **Group members:** Elisha, Mandy, Lauren, Sarah G, Whitney
-    - **Repository:**
+    - **Faculty and mentors:**  John, Zinhle
+    - **Group members:** Elisha, Francois, Mandy, Lauren, Sarah G, Whitney
+    - **Repository:** To be added
 - [Trauma Care Trial Design](./traumaTrial)
-    - **Faculty and mentors:**  Carl,
+    - **Faculty and mentors:**  Carl, Faikah
     - **Group members:** Aida, Bridget, Chilperic, Jen, Kyle, Vania
-    - **Repository:** [traumaTrial](http://www.github.com/ICI3D/traumaTrial)
+    - **Repository:** To be added
 - [Rabies Elimination in Kenya](./rabiesKenya)
     - **Faculty and mentors:**  Juliet, Thumbi
-    - **Group members:**  Boboh, Bryan, Expeditho, Linsay, Marilyn, Mercy, Pablo
-    - **Repository:** [rabiesKenya](http://www.github.com/ICI3D/rabiesKenya)
-
-
-Need assignments:
-- Faculty: Faikah (trauma?), Eduard (dynamicalFever?), Eva (malaria?), Brian (floater?), Becky (Rabies?)
-- Mentors: Reshma (floater?), Zinhle, Roger
+    - **Group members:**  Boboh, Expeditho, Linsay, Marilyn, Mercy, Pablo
+    - **Repository:** To be added

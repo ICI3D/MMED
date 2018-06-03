@@ -169,7 +169,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 ### Monday, 4 June
 
 -   8:30 – 9:15 **Lecture:** Doing Science ([Williams](../team/williams)) - [Slides](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/Williams-DoingScience.pdf)
--   9:15 – 9:30 **Organizational Session:** Schedule and goals for the second week ([Borchering](../team/borchering))
+-   9:15 – 9:30 **Organizational Session:** [Schedule and goals for the second week](https://github.com/ICI3D/MMED/blob/master/scheduleNotes/2_Mon_0915_Borchering.md) ([Borchering](../team/borchering))
 -   9:30 – 10:00 **Work Session:** Project groups meet for the first time (All instructors)
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 11:30 **Computer Session:** Introduction to GitHub ([Grebe](../team/grebe)) (with [Mthombothi](../team/mthombothi), [Mwangi](../team/mwangi), [Pearson](../team/pearson), [Ujeneza](../team/ujeneza))
