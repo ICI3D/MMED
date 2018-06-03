@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: clinic
 tab: Logistics
 title: Tutorial Catch-up and Mentoring Session Sign-up
 ---
