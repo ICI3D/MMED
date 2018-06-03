@@ -97,3 +97,5 @@ grps <- (
   %>% arrange(., assignment)
 )
 
+write(knitr::kable(grps),file = 'assignments.md')
+
