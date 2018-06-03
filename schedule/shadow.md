@@ -211,7 +211,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - **Sign up to go to on Saturday's field trip by 13:00.** (You will need to be logged into GitHub to sign up.)
 -   14:00 – 15:30 **Work Session** (Project groups)
-    - 14:00 – 15:00 _Optional Session:_ Stochastic modelling II ([Dushoff](../team/dushoff) or [Pearson](../team/pearson)) - Slides to be added
+    - 14:00 – 15:00 _Optional Session:_ Stochastic modelling II ([Dushoff](../team/dushoff) and [Pearson](../team/pearson)) - Slides to be added
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
     - 16:30 – 17:30 **Mentoring Session** - TBD
