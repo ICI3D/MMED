@@ -1,6 +1,7 @@
 # projectGroupAssignments.R
 
 rm(list=ls())
+setwd('~/Projects/MMED/projects') # Sorry!
 require(googlesheets)
 require(tidyverse)
 
@@ -74,15 +75,17 @@ print(
   %>% arrange(.,assignment)
 )
 
-dat <- (
-  dat
-  %>% mutate(., assignment = ifelse(name%in%c('kyle','Marijn Hazelbag','Sarah Guth','Aida Kawuma'), secondChoice, assignment))
-)
-
 print(
   dat 
   %>% filter(., is.na(assignment)) 
   %>% select(., name,firstChoice,secondChoice,thirdChoice)
+)
+
+dat <- (
+  dat
+  %>% mutate(., assignment = ifelse(is.na(firstChoice), 'Dynamical fever', assignment))
+  %>% mutate(., assignment = ifelse(is.na(assignment), secondChoice, assignment))
+  %>% mutate(., assignment = ifelse(name%in%c('kyle','Bryan Nyawanda'), secondChoice, assignment))
 )
 
 grpCnt <- (

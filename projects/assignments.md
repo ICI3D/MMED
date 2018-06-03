@@ -1,5 +1,9 @@
 |name                    |assignment                     |
 |:-----------------------|:------------------------------|
+|Bryan Nyawanda          |Dynamical fever                |
+|Marijn Hazelbag         |Dynamical fever                |
+|Jerry Hella             |Dynamical fever                |
+|Evaristar Kudowa        |Dynamical fever                |
 |Olugbenga Oluwagbemi    |Dynamics of Malaria Immunity   |
 |Vusi Mpendulo Magagula  |Dynamics of Malaria Immunity   |
 |Surabhi Pandey          |Dynamics of Malaria Immunity   |
@@ -8,7 +12,6 @@
 |Expeditho Mtisi         |Rabies in Kenya                |
 |Boboh Kamangira         |Rabies in Kenya                |
 |Mercy Cianjoka          |Rabies in Kenya                |
-|Bryan Nyawanda          |Rabies in Kenya                |
 |Pablo                   |Rabies in Kenya                |
 |Marilyn Ronoh           |Rabies in Kenya                |
 |Linsay                  |Rabies in Kenya                |
@@ -22,4 +25,3 @@
 |Whitney Mgbara          |Tsetse fly population dynamics |
 |Elisha Are              |Tsetse fly population dynamics |
 |Mandy Izzo              |Tsetse fly population dynamics |
-|Marijn Hazelbag         |Tsetse fly population dynamics |
