@@ -131,9 +131,9 @@ The MMED program includes a number of parallel sessions for participants with di
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 11:15 **Lecture:** Likelihood fitting and dynamic models,
 Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pulliam))  - [Slides](https://ndownloader.figshare.com/files/8583787)
--   11:15 - 12:30 **Computer Session:** Lab: MLE fitting of an SIR model to prevalence data (with [Dushoff](../team/dushoff), [Mthombothi](../team/mthombothi), [Pearson](../team/pearson), [Pulliam](../team/pulliam), [Ying](../team/ying))
+-   11:15 - 12:30 **Computer Session:** Lab 6: MLE fitting of an SIR model to prevalence data (with [Dushoff](../team/dushoff), [Mthombothi](../team/mthombothi), [Pearson](../team/pearson), [Pulliam](../team/pulliam), [Ying](../team/ying))
     - **Additional info:** Parameter transformation - [Slides](../tutorials/parameterTransformations.pdf)
-    - Lab Summary ([Pulliam](../team/pulliam)) - Slides to be added
+    - Lab 6 Summary ([Pulliam](../team/pulliam)) - Slides to be added
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - Please fill in [this form](../logistics/tutorialCatchUp) to indicate what you will work on during the tutorial catch-up session on Saturday and whom you would like to meet for a mentoring session next week. (Due by 17:00 on Friday 1 June.)
 -   14:00 – 15:30 **Mentor presentations** ([Reshma Kassanjee](../talks/kassanjee), [Zinhle Mthombothi](../talks/mthombothi]), [Thumbi Mwangi](../talks/mwangi), [Roger Ying](../talks/ying); Moderator: [Dushoff](../team/dushoff))
