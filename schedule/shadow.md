@@ -241,9 +241,9 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   10:30 – 12:30 **Work Session** (Project groups)
     - 10:30 – 11:30 **Mentoring Session** - TBD
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
--   14:00 – 15:45 **Final presentations**
--   15:45 – 16:00 *Tea*
--   16:05 – 17:05 **Final Feedback Session** (Moderator: [Hitchcock](../team/hitchcock))
+-   14:00 – 15:30 **Final presentations**
+-   15:30 – 16:00 *Tea*
+-   16:00 – 17:00 **Final Feedback Session** (Moderator: [Hitchcock](../team/hitchcock))
 -   17:15 – 17:45 Closing session
 -   18:00 – 18:30 *Dinner*
 -   20:00 – 22:00 **Social Activity**: TBD

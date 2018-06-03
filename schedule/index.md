@@ -106,7 +106,7 @@ The MMED program includes a number of parallel sessions for participants with di
 
 -   8:30 – 10:00 _**Parallel sessions**_
     -   **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology: Where does modeling fit? ([Bruce](../team/bruce)) - [Slides](https://ndownloader.figshare.com/files/8541838) - and [R Tutorials](../tutorials) - Lab 3: Study Design in Epidemiology (with [Bruce](../team/bruce), [Kassanjee](../team/kassanjee), [Mwangi](../team/mwangi), [Hargrove](../team/hargrove), [Ujeneza](../team/ujeneza))
-    - Lab 3 Summary ([Ujeneza](../team/ujeneza)) - [Slides](../tutorials/Lab3_summary.pdf)
+    - Lab 3 Summary ([Ujeneza](../team/ujeneza)) - Slides to be added
     -   **Track B:** **Exercise:** Creating a model world to address a research question ([Pulliam](../team/pulliam)) - [Slides](../tutorials/creatingAModelWorld.pdf), [Assignment and examples](../tutorials/modelWorld)
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:00 **Lecture:** Introduction to statistical philosophy ([Dushoff](../team/dushoff)) - [Slides](https://ndownloader.figshare.com/files/8583778)
@@ -146,12 +146,12 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 
 ### Saturday, 2 June
 
--   9:00 – 10:30 **Live coding session:** Participatory coding for Variability,
+-   9:00 – 10:30 **Lecture:** Participatory coding for Variability,
     Sampling Distributions, and Simulation Lecture ([Dushoff](../team/dushoff))  - [Code on Tutorials page](../tutorials)
 -   10:30 – 11:00 A good chance to sign up for project groups and *Coffee break*
 -   11:00 – 12:30 **Computer Session:** Tutorial catch-up, as needed (with [Bruce](../team/bruce), [Kassanjee](../team/kassanjee), [Mwangi](../team/mwangi), [Pearson](../team/pearson), [Ying](../team/ying))
 -   12:30 – 14:00 **Social Activity:** Group lunch at Kalky's
--   14:00 – Free/working afternoon  
+-   14:00 – Free/working afternoon
 
 ### Sunday, 3 June
 
@@ -233,9 +233,9 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   10:30 – 12:30 **Work Session** (Project groups)
     - 10:30 – 11:30 **Mentoring Session** - TBD
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
--   14:00 – 15:45 **Final presentations**
--   15:45 – 16:00 *Tea*
--   16:05 – 17:05 **Final Feedback Session** (Moderator: [Hitchcock](../team/hitchcock))
+-   14:00 – 15:30 **Final presentations**
+-   15:30 – 16:00 *Tea*
+-   16:00 – 17:00 **Final Feedback Session** (Moderator: [Hitchcock](../team/hitchcock))
 -   17:15 – 17:45 Closing session
 -   18:00 – 18:30 *Dinner*
 -   20:00 – 22:00 **Social Activity**: TBD

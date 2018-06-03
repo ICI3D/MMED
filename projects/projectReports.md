@@ -2,7 +2,7 @@
 layout: clinic
 layout: clinic
 tab: Projects
-title: Potential project
+title: Project Reports
 subtitle: Project Report Guidelines
 ---
 

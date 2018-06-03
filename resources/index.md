@@ -2,6 +2,7 @@
 layout: clinic
 redirect: ../development
 tab: Resources
+title: Resources
 subtitle: Resources for during and after the Clinic
 ---
 
