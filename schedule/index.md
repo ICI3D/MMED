@@ -30,12 +30,12 @@ The MMED program includes a number of parallel sessions for participants with di
 
 -   8:00 – 8:25 Registration and welcome, AIMS lobby
     -   **Please gather in the main lecture hall by 8:30.**
--   8:30 – 9:00 Welcome and Motivation for Workshop ([Juliet Pulliam](../team/pulliam), [Zinhle Mthombothi](../team/mthombothi), and [Hargrove](../team/hargrove))
+-   8:30 – 9:00 Welcome and Motivation for Workshop ([Juliet Pulliam](../team/pulliam), [Zinhle Mthombothi](../team/mthombothi), and [John Hargrove](../team/hargrove))
 -   9:00 – 10:00 **Lecture:** Public Health, Epidemiology, and Models ([Eduard Grebe](../team/grebe)) - [Slides](https://ndownloader.figshare.com/files/8541811)
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 10:45 **Organizational session:** [MMED Road Map](../roadmap) and programme overview ([Juliet Pulliam](../team/pulliam))
 -   10:45 – 11:30 **Lecture:** Introduction to Thinking About Data I ([Brian Williams](../team/williams)) - [Slides](https://ndownloader.figshare.com/files/8541904)
--   11:30 – 12:30 **Lecture:** Introduction to dynamic modeling of infectious diseases ([Juliet Pulliam](../team/pulliam)) - [Slides](https://ndownloader.figshare.com/files/8541817)
+-   11:30 – 12:30 **Lecture:** Introduction to dynamic modeling of infectious diseases ([Juliet Pulliam](../team/pulliam)) - [Slides](https://ndownloader.figshare.com/files/11715233)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - If you plan to use your laptop for the 15:00 computer exercise, Eva and Carl will help you get set up at 12:30 in the main lecture hall.
 -   14:00 – 15:00 **_Parallel sessions_**
@@ -62,7 +62,7 @@ The MMED program includes a number of parallel sessions for participants with di
     - When you have completed Lab 1 (required), you may take a break or move on to Tutorial 4: Visualizing Infectious Disease Data in R (recommended)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
 -   14:00 – 14:45 _**Parallel sessions**_ (Note: for this session only, Track A participants may attend the Track B session.)
-    -   **Track A:** **Lecture:** Introduction to Thinking About Data II ([Hargrove](../team/hargrove)) - [Slides](https://ndownloader.figshare.com/files/8541667)
+    -   **Track A:** **Lecture:** Introduction to Thinking About Data II ([John Hargrove](../team/hargrove)) - [Slides](https://ndownloader.figshare.com/files/8541667)
     -   **Track B:** **Lecture:** Basic stochastic simulation models ([Rebecca Borchering](../team/borchering)) - [Slides](https://ndownloader.figshare.com/files/8541847)
 -   14:45 – 15:30 _**Parallel sessions**_
     -   **Track A:** **Computer Session:** [R Tutorials](../tutorials) - Lab 1: ODE models in R (as needed), and Tutorial 4: Visualizing Infectious Disease Data in R (with [Faikah Bruce](../team/bruce), [Reshma Kassanjee](../team/kassanjee), [Thumbi Mwangi](../team/mwangi), [Eva Ujeneza](../team/ujeneza))
@@ -85,15 +85,15 @@ The MMED program includes a number of parallel sessions for participants with di
     -  Lab 2 Summary ([Roger Ying](../team/ying)) - [Slides](../tutorials/Lab2_summary.pdf)
 -   10:15 – 10:30 *Coffee break*
 -   10:30 – 10:45 *Sunshine break*
--   10:45 – 11:00 **Lecture:** Introduction to models and data: HIV in Harare ([Hargrove](../team/hargrove))
--   11:00 – 12:30 **Computer Session:** Harare data in groups of \<4 (with [Hargrove](../team/hargrove), [Reshma Kassanjee](../team/kassanjee), [Zinhle Mthombothi](../team/mthombothi),[Juliet Pulliam](../team/pulliam), [Brian Williams](../team/williams))
+-   10:45 – 11:00 **Lecture:** Introduction to models and data: HIV in Harare ([John Hargrove](../team/hargrove))
+-   11:00 – 12:30 **Computer Session:** Harare data in groups of \<4 (with [John Hargrove](../team/hargrove), [Reshma Kassanjee](../team/kassanjee), [Zinhle Mthombothi](../team/mthombothi),[Juliet Pulliam](../team/pulliam), [Brian Williams](../team/williams))
     - To run the tutorial, first load the ICI3D R package (<b><code>require('ICI3D')</code></b>), then load the tutorial (<b><code>hivTutorial()</code></b>).
     -   If you finish all five versions of the model for the Harare data before lunch, move on to working on data from other countries.
     -   **Additional info:** Distributed Delay Models of Survival (Boxcar Models) - [Slides](../tutorials/distributedDelay.pdf) ([Juliet Pulliam](../team/pulliam))
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - **Please fill in the <a href='../logistics/weekend1'>weekend activities form</a>! (Due by 13:00 on Wed 30 May.).**
--   14:00 – 14:30 **Computer Session:** Harare/other data in same groups (with [Rebecca Borchering](../team/borchering), [Hargrove](../team/hargrove), [Thumbi Mwangi](../team/mwangi), [Brian Williams](../team/williams), [Roger Ying](../team/ying))
--   14:30 – 15:30 **Discussion:** Harare tutorial ([Hargrove](../team/hargrove)) - Slides to be added
+-   14:00 – 14:30 **Computer Session:** Harare/other data in same groups (with [Rebecca Borchering](../team/borchering), [John Hargrove](../team/hargrove), [Thumbi Mwangi](../team/mwangi), [Brian Williams](../team/williams), [Roger Ying](../team/ying))
+-   14:30 – 15:30 **Discussion:** Harare tutorial ([John Hargrove](../team/hargrove)) - Slides to be added
 -   15:30 – 16:00 *Tea* and **poster set-up**
 -   16:00 – 17:00 _**Parallel sessions**_
     -   **Track A:** Formulating Research Questions A ([Juliet Pulliam](../team/pulliam))
@@ -105,7 +105,7 @@ The MMED program includes a number of parallel sessions for participants with di
 ### Thursday, 31 May
 
 -   8:30 – 10:00 _**Parallel sessions**_
-    -   **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology: Where does modeling fit? ([Faikah Bruce](../team/bruce)) - [Slides](https://ndownloader.figshare.com/files/8541838) - and [R Tutorials](../tutorials) - Lab 3: Study Design in Epidemiology (with [Faikah Bruce](../team/bruce), [Reshma Kassanjee](../team/kassanjee), [Thumbi Mwangi](../team/mwangi), [Hargrove](../team/hargrove), [Eva Ujeneza](../team/ujeneza))
+    -   **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology: Where does modeling fit? ([Faikah Bruce](../team/bruce)) - [Slides](https://ndownloader.figshare.com/files/8541838) - and [R Tutorials](../tutorials) - Lab 3: Study Design in Epidemiology (with [Faikah Bruce](../team/bruce), [Reshma Kassanjee](../team/kassanjee), [Thumbi Mwangi](../team/mwangi), [John Hargrove](../team/hargrove), [Eva Ujeneza](../team/ujeneza))
     - Lab 3 Summary ([Eva Ujeneza](../team/ujeneza)) - [Slides](../tutorials/Lab3_summary.pdf)
     -   **Track B:** **Exercise:** Creating a model world to address a research question ([Juliet Pulliam](../team/pulliam)) - [Slides](../tutorials/creatingAModelWorld.pdf), [Assignment and examples](../tutorials/modelWorld)
 -   10:00 – 10:30 *Coffee break*
@@ -113,7 +113,7 @@ The MMED program includes a number of parallel sessions for participants with di
 -   12:00 – 12:30 **Discussion:** MMED research projects ([Rebecca Borchering](../team/borchering))
     - [Potential project groups](../projects/)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
--   14:00 – 15:30 **Lecture:** Participatory coding of a dynamical model ([Carl Pearson](../team/pearson), with [Juliet Pulliam](../team/pulliam)) - Code to be added on [Tutorials](../tutorials) page
+-   14:00 – 15:30 **Lecture:** Participatory coding of a dynamical model ([Carl Pearson](../team/pearson), with [Juliet Pulliam](../team/pulliam)) - [Code from session](https://github.com/ICI3D/MMEDparticipants/raw/master/Resources/PearsonLiveCodingSEIV.zip)
 -   15:30 – 16:00 *Tea*
 -   16:00 – 16:45 **Lecture:** Introduction to Likelihood ([Eva Ujeneza](../team/ujeneza)) - [Slides](https://ndownloader.figshare.com/files/8541898)
 -   16:45 – 18:00 **Computer Session:** [R Tutorials](../tutorials) - Lab 5: Introduction to Likelihood Lab (with [Jonathan Dushoff](../team/dushoff), [Zinhle Mthombothi](../team/mthombothi), [Carl Pearson](../team/pearson), [Eva Ujeneza](../team/ujeneza), [Roger Ying](../team/ying))
@@ -168,11 +168,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Juliet Pulliam](../team
 -   11:30 – 12:30 **Work Session:** Work plans for group projects (Project groups)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
 -   14:00 – 15:30 **Lecture:** Likelihood fitting and dynamic models II ([Carl Pearson](../team/pearson)) - [Slides](https://ndownloader.figshare.com/files/8590054) - [Handouts](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/Dushoff-FittingDynModel_II_handouts.pdf)
--   15:30 – 16:00 *Tea*
--   16:00 – 17:30 **Work Session** (Project groups)
-    - 16:30 – 17:30 **Mentoring Session**: See [assignments](https://docs.google.com/spreadsheets/d/1dg1PoTKbKCCOD54N1duL_V9bES4Zhv6OuOVywblezSs/edit?usp=sharing)
--   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 GitHub practice and troubleshooting ([Carl Pearson](../team/pearson)) (with [Reshma Kassanjee](../team/kassanjee), [Zinhle Mthombothi](../team/mthombothi), [Thumbi Mwangi](../team/mwangi), [Roger Ying](../team/ying))
+
 
 ### Tuesday, 5 June
 

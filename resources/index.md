@@ -6,6 +6,9 @@ title: Resources
 subtitle: Resources for during and after the Clinic
 ---
 
+- ICI3D materials
+    - [ICI3D Figshare Repository](https://figshare.com/collections/International_Clinics_on_Infectious_Disease_Dynamics_and_Data/3788224)
+    - [MMED 2018 Lectures and Lab Summaries](./slides)
 - Learning terminology
     - [DAIDD Glossary](https://github.com/ICI3D/MMEDparticipants/raw/master/Resources/DAIDD2016_Glossary.pdf)
     - [MMED Glossary](http://lalashan.mcmaster.ca/theobio/mmed/index.php/Category:Definitions)

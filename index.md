@@ -8,6 +8,7 @@ alertmsg: >
     <li>Please check the <b><a href="https://docs.google.com/spreadsheets/d/1dg1PoTKbKCCOD54N1duL_V9bES4Zhv6OuOVywblezSs">Mentoring Session schedule</a></b>, which is also posted on the door to the main lecture hall.</li>
     <li>Today's evening session will focus on <b>GitHub practice and troubleshooting</b>.</li>
     <li><b>R tutorials</b> are available <a href = "./tutorials">here</a>.</li>
+    <li><b>Lecture slides and tutorial summaries</b> are available <a href = "./resources/slides">here</a>. You can also find videos, slides from previous years, and materials from the DAIDD clinic in the <b><a href="https://figshare.com/collections/International_Clinics_on_Infectious_Disease_Dynamics_and_Data/3788224">ICI3D Figshare Collection</a></b>.</li>
   </ul>
 ---
 
