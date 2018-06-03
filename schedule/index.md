@@ -82,7 +82,7 @@ The MMED program includes a number of parallel sessions for participants with di
 -   8:30 – 9:15 **Lecture:** Consequences of heterogeneity, and modeling options ([Jonathan Dushoff](../team/dushoff)) -
     [Slides](https://ndownloader.figshare.com/files/8541853) - [Handouts](https://github.com/ICI3D/MMEDparticipants/raw/master/Handouts/Dushoff-HeterogeneityHandouts.pdf)
 -   9:15 – 10:15 **Computer Session:** [R Tutorials](../tutorials) - Lab 2: Consequences of heterogeneity (with [Jonathan Dushoff](../team/dushoff), [Rebecca Borchering](../team/borchering), [Thumbi Mwangi](../team/mwangi), [Eva Ujeneza](../team/ujeneza), [Roger Ying](../team/ying))
-    -  Lab 2 Summary ([Roger Ying](../team/ying)) - [Slides](../tutorials/Gershom-HeterogeneityTutorialSummary.pdf)
+    -  Lab 2 Summary ([Roger Ying](../team/ying)) - [Slides](../tutorials/Lab2_summary.pdf)
 -   10:15 – 10:30 *Coffee break*
 -   10:30 – 10:45 *Sunshine break*
 -   10:45 – 11:00 **Lecture:** Introduction to models and data: HIV in Harare ([Hargrove](../team/hargrove))
@@ -106,7 +106,7 @@ The MMED program includes a number of parallel sessions for participants with di
 
 -   8:30 – 10:00 _**Parallel sessions**_
     -   **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology: Where does modeling fit? ([Faikah Bruce](../team/bruce)) - [Slides](https://ndownloader.figshare.com/files/8541838) - and [R Tutorials](../tutorials) - Lab 3: Study Design in Epidemiology (with [Faikah Bruce](../team/bruce), [Reshma Kassanjee](../team/kassanjee), [Thumbi Mwangi](../team/mwangi), [Hargrove](../team/hargrove), [Eva Ujeneza](../team/ujeneza))
-    - Lab 3 Summary ([Eva Ujeneza](../team/ujeneza)) - Slides to be added
+    - Lab 3 Summary ([Eva Ujeneza](../team/ujeneza)) - [Slides](../tutorials/Lab3_summary.pdf)
     -   **Track B:** **Exercise:** Creating a model world to address a research question ([Juliet Pulliam](../team/pulliam)) - [Slides](../tutorials/creatingAModelWorld.pdf), [Assignment and examples](../tutorials/modelWorld)
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:00 **Lecture:** Introduction to statistical philosophy ([Jonathan Dushoff](../team/dushoff)) - [Slides](https://ndownloader.figshare.com/files/8583778)
@@ -133,7 +133,7 @@ The MMED program includes a number of parallel sessions for participants with di
 Part 1: Dynamic Model Fitting and Inference Robustness ([Juliet Pulliam](../team/pulliam))  - [Slides](https://ndownloader.figshare.com/files/8583787)
 -   11:15 - 12:30 **Computer Session:** Lab 6: MLE fitting of an SIR model to prevalence data (with [Jonathan Dushoff](../team/dushoff), [Zinhle Mthombothi](../team/mthombothi), [Carl Pearson](../team/pearson), [Juliet Pulliam](../team/pulliam), [Roger Ying](../team/ying))
     - **Additional info:** Parameter transformation - [Slides](../tutorials/parameterTransformations.pdf)
-    - Lab 6 Summary ([Juliet Pulliam](../team/pulliam)) - Slides to be added
+    - Lab 6 Summary ([Juliet Pulliam](../team/pulliam)) - [Slides](../tutorials/Lab6_summary.pdf)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - Please fill in [this form](../logistics/tutorialCatchUp) to indicate what you will work on during the tutorial catch-up session on Saturday and whom you would like to meet for a mentoring session next week. (Due by 17:00 on Friday 1 June.)
 -   14:00 – 15:30 **Mentor presentations** ([Reshma Kassanjee](../talks/kassanjee), [Zinhle Mthombothi](../talks/mthombothi]), [Thumbi Mwangi](../talks/mwangi), [Roger Ying](../talks/ying); Moderator: [Jonathan Dushoff](../team/dushoff))

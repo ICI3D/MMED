@@ -175,6 +175,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   10:30 – 11:30 **Computer Session:** Introduction to GitHub ([Grebe](../team/grebe)) (with [Mthombothi](../team/mthombothi), [Mwangi](../team/mwangi), [Pearson](../team/pearson), [Ujeneza](../team/ujeneza))
 -   11:30 – 12:30 **Work Session:** Work plans for group projects (Project groups)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
+    - **13:30 Faculty meeting in Room 105**
 -   14:00 – 15:30 **Lecture:** Likelihood fitting and dynamic models II ([Pearson](../team/pearson)) - [Slides](https://ndownloader.figshare.com/files/8590054) - [Handouts](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/Dushoff-FittingDynModel_II_handouts.pdf)
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
@@ -192,6 +193,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
     - Lab 8 Summary ([Dushoff](../team/dushoff)) - Slides to be added
 -   11:30 – 12:30 **Work Session** (Project groups); **MedPH break-out group** ([Borchering](../team/borchering), [Mthombothi](../team/mthombothi))
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
+    - **13:30 Faculty meeting in Room 105**
 -   14:00 – 14:45 **Lecture**: Data wrangling I: Data management and cleaning ([Dushoff](../team/dushoff)) - [Slides](https://mac-theobio.github.io/QMEE/cleaning.slides.html ) - [2016 lecture slides on data bases](../materials/dataManagement.pdf)
 -   14:45 – 15:30 **Computer session**: [R Tutorials](../tutorials) - Data wrangling (with (with [Dushoff](../team/dushoff), [Kassanjee](../team/kassanjee), [Mwangi](../team/mwangi), [Pulliam](../team/pulliam), [Ujeneza](../team/ujeneza))
     - Tutorial 5 Summary ([Mwangi](../team/mwangi)) - Slides to be added
@@ -210,6 +212,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   10:30 – 12:30 **Work Session** (Project groups)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - **Sign up to go to on Saturday's field trip by 13:00.** (You will need to be logged into GitHub to sign up.)
+    - **13:30 Faculty meeting in Room 105**
 -   14:00 – 15:30 **Work Session** (Project groups)
     - 14:00 – 15:00 _Optional Session:_ Stochastic modelling II ([Dushoff](../team/dushoff) and [Pearson](../team/pearson)) - Slides to be added
 -   15:30 – 16:00 *Tea*
@@ -225,6 +228,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:30 **Work Session** (Project groups) - Mentors
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
+    - **13:30 Faculty meeting in Room 105**
 -   14:00 – 15:30 **Work Session** (Project groups)
     - 14:00 – 15:00 _Optional Session:_ Data wrangling II ([Grebe](../team/grebe) or [Pearson](../team/pearson))
 -   15:30 – 16:00 *Tea*
@@ -241,6 +245,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   10:30 – 12:30 **Work Session** (Project groups)
     - 10:30 – 11:30 **Mentoring Session** - TBD
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
+    - **13:30 Faculty meeting in Room 105**
 -   14:00 – 15:30 **Final presentations**
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:00 **Final Feedback Session** (Moderator: [Hitchcock](../team/hitchcock))

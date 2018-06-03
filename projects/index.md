@@ -13,22 +13,24 @@ alertmsg: >
 ---
 
 - [Dynamical Fever](./dynamicalFever)
-    - **Faculty and mentors:**  Eduard, Eva
+    - **Faculty:**  Eduard, Eva
     - **Group members:**  Bryan, Evaristar, Jerry, Marijn
-    - **Repository:** To be added
+    - **Repository:** [dynamicalFeverFitting](http://www.github.com/ICI3D/dynamicalFeverFitting)
 - [Dynamics of Malaria Immunity](./malariaImmunity)
     - **Faculty and mentors:**  Jonathan, Roger
     - **Group members:**  Julius, Olugbenga, Sarah V, Surabhi, Vusi
-    - **Repository:** To be added
+    - **Repository:** [malariaImmunity](http://www.github.com/ICI3D/malariaImmunity)
 - [Tsetse fly population dynamics](./tsetse)
     - **Faculty and mentors:**  John, Zinhle
     - **Group members:** Elisha, Francois, Mandy, Lauren, Sarah G, Whitney
-    - **Repository:** To be added
+    - **Repository:** [tsetsePops](http://www.github.com/ICI3D/tsetsePops)
 - [Trauma Care Trial Design](./traumaTrial)
-    - **Faculty and mentors:**  Carl, Faikah
+    - **Faculty:**  Carl, Faikah
     - **Group members:** Aida, Bridget, Chilperic, Jen, Kyle, Vania
-    - **Repository:** To be added
+    - **Repository:** [traumaTrial](http://www.github.com/ICI3D/traumaTrial)
 - [Rabies Elimination in Kenya](./rabiesKenya)
     - **Faculty and mentors:**  Juliet, Thumbi
     - **Group members:**  Boboh, Expeditho, Linsay, Marilyn, Mercy, Pablo
-    - **Repository:** To be added
+    - **Repository:** [rabiesElimination](http://www.github.com/ICI3D/rabiesElimination)
+
+_Becky, Brian, and Reshma will circulate among project groups._
