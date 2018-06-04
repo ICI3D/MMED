@@ -185,7 +185,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Juliet Pulliam](../team
 -   11:30 – 12:30 **Work Session** (Project groups); **MedPH break-out group** ([Rebecca Borchering](../team/borchering), [Zinhle Mthombothi](../team/mthombothi))
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
 -   14:00 – 14:45 **Lecture**: Data wrangling I: Data management and cleaning ([Jonathan Dushoff](../team/dushoff)) - [Slides](https://mac-theobio.github.io/QMEE/cleaning.slides.html ) - [2016 lecture slides on data bases](../materials/dataManagement.pdf)
--   14:45 – 15:30 **Computer session**: [R Tutorials](../tutorials) - Data wrangling (with (with [Jonathan Dushoff](../team/dushoff), [Reshma Kassanjee](../team/kassanjee), [Thumbi Mwangi](../team/mwangi), [Juliet Pulliam](../team/pulliam), [Eva Ujeneza](../team/ujeneza))
+-   14:45 – 15:30 **Computer session**: [R Tutorials](../tutorials) - Tutorial 5: Data cleaning (recommended) (with [Jonathan Dushoff](../team/dushoff), [Reshma Kassanjee](../team/kassanjee), [Thumbi Mwangi](../team/mwangi), [Juliet Pulliam](../team/pulliam), [Eva Ujeneza](../team/ujeneza))
     - Tutorial 5 Summary ([Thumbi Mwangi](../team/mwangi)) - Slides to be added
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
