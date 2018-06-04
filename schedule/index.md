@@ -166,8 +166,12 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Juliet Pulliam](../team
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 11:30 **Computer Session:** Introduction to GitHub ([Eduard Grebe](../team/grebe)) (with [Zinhle Mthombothi](../team/mthombothi), [Thumbi Mwangi](../team/mwangi), [Carl Pearson](../team/pearson), [Eva Ujeneza](../team/ujeneza))
 -   11:30 – 12:30 **Work Session:** Work plans for group projects (Project groups)
--   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
--   14:00 – 15:30 **Lecture:** Likelihood fitting and dynamic models II ([Carl Pearson](../team/pearson)) - [Slides](https://ndownloader.figshare.com/files/8590054) - [Handouts](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/Dushoff-FittingDynModel_II_handouts.pdf)
+-   14:00 – 15:30 **Lecture:** Likelihood fitting and dynamic models II ([Pearson](../team/pearson)) - [Slides](https://ndownloader.figshare.com/files/8590054) - [Handouts](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/Dushoff-FittingDynModel_II_handouts.pdf)
+-   15:30 – 16:00 *Tea*
+-   16:00 – 17:30 **Work Session** (Project groups)
+    - 16:30 – 17:30 **Mentoring Session**: TBD
+-   18:00 – 18:30 *Dinner*
+-   19:00 – 20:00 GitHub practice and troubleshooting ([Pearson](../team/pearson)) (with [Kassanjee](../team/kassanjee), [Mthombothi](../team/mthombothi), [Mwangi](../team/mwangi), [Ying](../team/ying))
 
 
 ### Tuesday, 5 June
