@@ -21,6 +21,7 @@ subtitle: Resources for during and after the Clinic
     - [R Studio Data Wrangling Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
 - Learning Git and GitHub
     - [GitHub Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+    - [An example GitHub workflow for an MMED Project Group](./gitWorkflow.md)
 - More fun things
     - [xkcd](https://www.xkcd.com/) (comic)
     - [The 100% CI](http://www.the100.ci/) (blog)
