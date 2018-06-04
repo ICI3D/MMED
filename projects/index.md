@@ -18,11 +18,11 @@ alertmsg: >
     - **Repository:** [dynamicalFeverFitting](http://www.github.com/ICI3D/dynamicalFeverFitting)
 - [Dynamics of Malaria Immunity](./malariaImmunity)
     - **Faculty and mentors:**  Jonathan, Roger
-    - **Group members:**  Julius, Olugbenga, Sarah V, Surabhi, Vusi
+    - **Group members:**  Julius, Francois, Olugbenga, Sarah V, Surabhi, Vusi
     - **Repository:** [malariaImmunity](http://www.github.com/ICI3D/malariaImmunity)
 - [Tsetse fly population dynamics](./tsetse)
     - **Faculty and mentors:**  John, Zinhle
-    - **Group members:** Elisha, Francois, Mandy, Lauren, Sarah G, Whitney
+    - **Group members:** Elisha, Mandy, Lauren, Sarah G, Whitney
     - **Repository:** [tsetsePops](http://www.github.com/ICI3D/tsetsePops)
 - [Trauma Care Trial Design](./traumaTrial)
     - **Faculty:**  Carl, Faikah
