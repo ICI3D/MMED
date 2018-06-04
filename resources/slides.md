@@ -60,7 +60,7 @@ subtitle: MMED Lectures and Lab Summaries
 - Lab 1 Summary: ODE models in R ([Zinhle Mthombothi](../team/mthombothi)) - [Slides](../tutorials/Lab1_summary.pdf)
 - Lab 2 Summary: Consequences of heterogeneity ([Roger Ying](../team/ying)) - [Slides](../tutorials/Lab2_summary.pdf)
 - Lab 3 Summary: Study Design in Epidemiology ([Eva Ujeneza](../team/ujeneza)) - [Slides](../tutorials/Lab3_summary.pdf)
-- Lab 4 Summary: Study Design for Clinical Trials ([Faikah Bruce](../team/bruce)) - Slides to be added
+- Lab 4 Summary: Study Design for Clinical Trials ([Faikah Bruce](../team/bruce)) - [Slides](../tutorials/Lab4_summary.pdf)
 - Lab 5 Summary: Introduction to Likelihood Lab ([Carl Pearson](../team/pearson)) - Slides to be added
 - Lab 6 Summary: MLE fitting of a dynamic model to prevalence data ([Juliet Pulliam](../team/pulliam)) - [Slides](../tutorials/Lab6_summary.pdf)
 - Lab 7 Summary: MCMC fitting I ([Eduard Grebe](../team/grebe)) - Slides to be added

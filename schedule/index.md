@@ -126,7 +126,7 @@ The MMED program includes a number of parallel sessions for participants with di
 -   8:30 – 10:00  _**Parallel sessions:**_
     - **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology II: RCT's ([Carl Pearson](../team/pearson)) - [Slides](https://ndownloader.figshare.com/files/8583781) - [R Tutorials](../tutorials) - Lab 4: Study Design for Clinical Trials (with [Rebecca Borchering](../team/borchering), [Faikah Bruce](../team/bruce), [Reshma Kassanjee](../team/kassanjee), [Thumbi Mwangi](../team/mwangi), [Carl Pearson](../team/pearson))
     - [Dataset for Lab 4](https://github.com/ICI3D/datasets/blob/master/clinicalTrials/MuTxT.Rdata?raw=true)
-    - Lab 4 Summary ([Faikah Bruce](../team/bruce)) - Slides to be added
+    - Lab 4 Summary ([Faikah Bruce](../team/bruce)) - [Slides](../tutorials/Lab4_summary.pdf)
     - **Track B:** **Exercise:** Description of proposed model and assumptions ([Juliet Pulliam](../team/pulliam))
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 11:15 **Lecture:** Likelihood fitting and dynamic models,
