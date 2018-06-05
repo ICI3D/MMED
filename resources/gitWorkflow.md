@@ -9,6 +9,7 @@ subtitle: An example GitHub workflow for an MMED Project Group
 #### Before you start
 
 1. Clone the repository to an appropriate location on your local machine (eg: `git clone https://github.com/ICI3D/Sandbox.git`)
+1. Change into the directory of the cloned repository (eg: `cd Sandbox`)
 1. Create a development branch on your local machine, derived from master (`git checkout -b yourBranchName`)
 1. Create a remote version of your development branch (`git push --set-upstream origin yourBranchName`)
 
