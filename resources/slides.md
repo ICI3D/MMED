@@ -64,7 +64,6 @@ subtitle: MMED Lectures and Lab Summaries
 - Lab 5 Summary: Introduction to Likelihood Lab ([Carl Pearson](../team/pearson)) - Slides to be added
 - Lab 6 Summary: MLE fitting of a dynamic model to prevalence data ([Juliet Pulliam](../team/pulliam)) - [Slides](../tutorials/Lab6_summary.pdf)
 - Lab 7 Summary: MCMC fitting I ([Eduard Grebe](../team/grebe)) - Slides to be added
-- Lab 8 Summary: MCMC fitting II ([Jonathan Dushoff](../team/dushoff)) - Slides to be added
 
 ### Exercises
 
