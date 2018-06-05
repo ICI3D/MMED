@@ -4,6 +4,7 @@ alerttype: success
 alertmsg: >
   <b>Notes for Tuesday</b>
   <ul style="font-size:16px">
+    <li>The optional group trip on Saturday will include visits to Kirstenbosch Gardens and the Cape Town Waterfront. We will leave AIMS at 9:30 and return by 17:00. Whether or not you will attend this trip, <b>please fill out <a href="./logistics/weekend2">this form</a></b> to let us know your plans.</li>
     <li>Instructions for the Presentation on Friday and the Project Report, which is due on 1 August, are available on the <b><a href='./projects'>Projects page</a></b>.</li>
     <li>Participants in <b>Track B</b>: Please remember to post your model world diagrams and descriptions on the MMEDparticipants repository.</li>
     <li>Please check the <b><a href="https://docs.google.com/spreadsheets/d/1dg1PoTKbKCCOD54N1duL_V9bES4Zhv6OuOVywblezSs">Mentoring Session schedule</a></b>, which is also posted on the door to the main lecture hall.</li>
