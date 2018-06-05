@@ -47,6 +47,7 @@ subtitle: MMED Lectures and Lab Summaries
 - Doing Science ([Brian Williams](../team/williams)) - [Slides](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/Williams-DoingScience.pdf)
 - Likelihood fitting and dynamic models II ([Carl Pearson](../team/pearson)) - [Slides](https://ndownloader.figshare.com/files/8590054) - [Handouts](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/Dushoff-FittingDynModel_II_handouts.pdf)
 - Introduction to Monte Carlo Markov Chains (MCMC) ([Carl Pearson](../team/pearson)) - [Slides (180mb read-only powerpoint slide set with embedded movies)](https://ndownloader.figshare.com/files/8597005)
+- Introduction to Data Wrangling ([Jonathan Dushoff](../team/dushoff)) - [Slides](https://mac-theobio.github.io/QMEE/cleaning.slides.html)
 
 ## Lab Summary Slides
 
