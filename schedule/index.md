@@ -181,7 +181,6 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Juliet Pulliam](../team
 -   10:00 – 10:30 *Coffee break*
 -   10:30 - 11:30 **Computer session**: MCMC fitting Labs 7-8 in [R Tutorials](../tutorials) (with [Jonathan Dushoff](../team/dushoff), [Eduard Grebe](../team/grebe), [Reshma Kassanjee](../team/kassanjee), [Carl Pearson](../team/pearson), [Roger Ying](../team/ying))
     - Lab 7 Summary ([Eduard Grebe](../team/grebe)) - Slides to be added
-    - Lab 8 Summary ([Jonathan Dushoff](../team/dushoff)) - Slides to be added
 -   11:30 – 12:30 **Work Session** (Project groups); **MedPH break-out group** ([Rebecca Borchering](../team/borchering), [Zinhle Mthombothi](../team/mthombothi))
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
 -   14:00 – 14:45 **Lecture**: Data wrangling I: Data management and cleaning ([Jonathan Dushoff](../team/dushoff)) - [Slides](https://mac-theobio.github.io/QMEE/cleaning.slides.html ) - [2016 lecture slides on data bases](../materials/dataManagement.pdf)
