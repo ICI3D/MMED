@@ -2,11 +2,12 @@
 layout: clinic
 alerttype: success
 alertmsg: >
-  <b>Notes for Tuesday</b>
+  <b>Notes for Wednesday</b>
   <ul style="font-size:16px">
     <li>The optional <b>Stochastic modelling II session</b> will take place from 14:00-15:30 and will be broken into two parts of 45 minutes each. Part A will be a lecture by Jonathan focusing on theory, and Part B will be a live coding session by Carl focusing on implementing a chain binomial model. You may attend either, both, or neither session, depending on your needs.</li>
     <li>The optional group trip on Saturday will include visits to Kirstenbosch Gardens and the Cape Town Waterfront. We will leave AIMS at 9:30 and return by 17:00. Whether or not you will attend this trip, <b>please fill out <a href="./logistics/weekend2">this form</a></b> to let us know your plans.</li>
-    <li>Instructions for the Presentation on Friday and the Project Report, which is due on 1 August, are available on the <b><a href='./projects'>Projects page</a></b>.</li>
+    <li>Instructions for the Presentation on Friday and the Project Report, which is due on 1 August, are available on the <b><a href='./projects'>Projects page</a></b>.</li
+    <li>Please note that <b>breakfast at AIMS on Saturday</b> will be served from 7:45 to 8:15.</li>
     <li>Participants in <b>Track B</b>: Please remember to post your model world diagrams and descriptions on the MMEDparticipants repository.</li>
     <li>Please check the <b><a href="https://docs.google.com/spreadsheets/d/1dg1PoTKbKCCOD54N1duL_V9bES4Zhv6OuOVywblezSs">Mentoring Session schedule</a></b>, which is also posted on the door to the main lecture hall.</li>
     <li><b>R tutorials</b> are available <a href = "./tutorials">here</a>.</li>
