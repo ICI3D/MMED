@@ -242,4 +242,6 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Juliet Pulliam](../team
 
 ### Saturday, 9 June
 
+**Note:** Breakfast at AIMS will be served from 7:45 to 8:15.
+
 -   Clinic officially ends on Friday, but there will be an optional group trip on Saturday.
