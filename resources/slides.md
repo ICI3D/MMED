@@ -19,7 +19,7 @@ subtitle: MMED Lectures and Lab Summaries
 - Consequences of heterogeneity, and modeling options ([Jonathan Dushoff](../team/dushoff)) -
     [Slides](https://ndownloader.figshare.com/files/8541853) - [Handouts](https://github.com/ICI3D/MMEDparticipants/raw/master/Handouts/Dushoff-HeterogeneityHandouts.pdf)
 - Introduction to models and data: HIV in Harare ([John Hargrove](../team/hargrove)) - [Slides](https://ndownloader.figshare.com/files/11778914)
-- Introduction to statistical philosophy ([Jonathan Dushoff](../team/dushoff)) - [Slides](https://ndownloader.figshare.com/files/11778917)
+- Introduction to statistical philosophy ([Jonathan Dushoff](../team/dushoff)) - [Slides](https://ndownloader.figshare.com/files/11778917), [Handouts](https://github.com/dushoff/statistics_talks/blob/master/git_push/philosophy.handouts.pdf)
     - Video of the 2017 lecture given by [Jonathan Dushoff](../team/dushoff) - [Video](https://ndownloader.figshare.com/files/8732602), [Slides](https://ndownloader.figshare.com/files/8583778)
 - Introduction to Likelihood ([Eva Ujeneza](../team/ujeneza)) - [Slides](https://ndownloader.figshare.com/files/11804630)
     - Video of the 2017 lecture given by [Steve Bellan](../team/bellan) - [Video](https://figshare.com/articles/Introduction_to_Likelihood/5044636), [Slides](https://ndownloader.figshare.com/files/8541898)
@@ -48,6 +48,11 @@ subtitle: MMED Lectures and Lab Summaries
 - Likelihood fitting and dynamic models II ([Carl Pearson](../team/pearson)) - [Slides](https://ndownloader.figshare.com/files/8590054) - [Handouts](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/Dushoff-FittingDynModel_II_handouts.pdf)
 - Introduction to Monte Carlo Markov Chains (MCMC) ([Carl Pearson](../team/pearson)) - [Slides (180mb read-only powerpoint slide set with embedded movies)](https://ndownloader.figshare.com/files/8597005)
 - Introduction to Data Wrangling ([Jonathan Dushoff](../team/dushoff)) - [Slides](https://mac-theobio.github.io/QMEE/cleaning.slides.html)
+- Model Assessment ([Jonathan Dushoff](../team/dushoff)) - [Slides](https://github.com/dushoff/statistics_talks/blob/master/git_push/evaluation.draft.pdf), [Handouts](https://github.com/dushoff/statistics_talks/blob/master/git_push/evaluation.handouts.pdf)
+
+### AIMS Public Lectures
+
+- Math and Rabies Control ([Jonathan Dushoff](../team/dushoff)) - [Slides](https://github.com/dushoff/disease_model_talks/blob/master/git_push/rabies.draft.pdf)
 
 ## Lab Summary Slides
 
