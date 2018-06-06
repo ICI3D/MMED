@@ -4,11 +4,11 @@ alerttype: success
 alertmsg: >
   <b>Notes for Tuesday</b>
   <ul style="font-size:16px">
+    <li>The optional <b>Stochastic modelling II session</b> will take place from 14:00-15:30 and will be broken into two parts of 45 minutes each. Part A will be a lecture by Jonathan focusing on theory, and Part B will be a live coding session by Carl focusing on implementing a chain binomial model. You may attend either, both, or neither session, depending on your needs.</li>
     <li>The optional group trip on Saturday will include visits to Kirstenbosch Gardens and the Cape Town Waterfront. We will leave AIMS at 9:30 and return by 17:00. Whether or not you will attend this trip, <b>please fill out <a href="./logistics/weekend2">this form</a></b> to let us know your plans.</li>
     <li>Instructions for the Presentation on Friday and the Project Report, which is due on 1 August, are available on the <b><a href='./projects'>Projects page</a></b>.</li>
     <li>Participants in <b>Track B</b>: Please remember to post your model world diagrams and descriptions on the MMEDparticipants repository.</li>
     <li>Please check the <b><a href="https://docs.google.com/spreadsheets/d/1dg1PoTKbKCCOD54N1duL_V9bES4Zhv6OuOVywblezSs">Mentoring Session schedule</a></b>, which is also posted on the door to the main lecture hall.</li>
-    <li>This evening, Jonathan will be speaking in the AIMS Public Lecture Series. You can read his abstract <a href="./talks/dushoff">here</a>.</li>
     <li><b>R tutorials</b> are available <a href = "./tutorials">here</a>.</li>
     <li><b>Lecture slides and tutorial summaries</b> are available <a href = "./resources/slides">here</a>. You can also find videos, slides from previous years, and materials from the DAIDD clinic in the <b><a href="https://figshare.com/collections/International_Clinics_on_Infectious_Disease_Dynamics_and_Data/3788224">ICI3D Figshare Collection</a></b>.</li>
   </ul>
