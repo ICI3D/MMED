@@ -28,3 +28,4 @@ all.time
 *.snm
 *.toc
 *.run.xml
+.Rproj.user
