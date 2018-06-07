@@ -4,7 +4,7 @@ alerttype: success
 alertmsg: >
   <b>Notes for Thursday</b>
   <ul style="font-size:16px">
-    <li><b>We recommend you start working on your presentation for tomorrow!</b></li>
+    <li><b>Please add and commit the final slides for your group's presentation as a PDF file to the <em>projectPresentations</em> folder of the <em>MMEDparticipants repository</em> by 13:30 on Friday.</b></li>
     <li>The optional group trip on Saturday will include visits to Kirstenbosch Gardens and the Cape Town Waterfront. We will leave AIMS at 9:30 and return by 17:00.</li>
     <li>Instructions for the Presentation on Friday and the Project Report, which is due on 1 August, are available on the <b><a href='./projects'>Projects page</a></b>.</li
     <li>Please note that <b>breakfast at AIMS on Saturday</b> will be served from 7:45 to 8:15.</li>
