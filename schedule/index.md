@@ -14,9 +14,10 @@ The MMED program includes a number of parallel sessions for participants with di
 
 <div class="alert alert-warning" role="alert">
   <div class="container padding-left=0px padding-right=0px">
-    <p style="font-size:16px; margin:0px;">
-      Links to slides have been moved to <a href="../resources/slides">this page</a>.
-    </p>
+    <ul style="font-size:16px; margin:0px;">
+      <li>Links to slides have been moved to <a href="../resources/slides">this page</a>.</li>
+      <li>Links to R tutorials and exercises are available <a href="../tutorials">here</a>.</li>
+    </ul>
   </div>
 </div>
 
