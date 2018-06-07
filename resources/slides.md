@@ -49,6 +49,7 @@ subtitle: MMED Lectures and Lab Summaries
 - Introduction to Monte Carlo Markov Chains (MCMC) ([Carl Pearson](../team/pearson)) - [Slides (180mb read-only powerpoint slide set with embedded movies)](https://ndownloader.figshare.com/files/8597005)
 - Introduction to Data Wrangling ([Jonathan Dushoff](../team/dushoff)) - [Slides](https://mac-theobio.github.io/QMEE/cleaning.slides.html)
 - Model Assessment ([Jonathan Dushoff](../team/dushoff)) - [Slides](https://github.com/dushoff/statistics_talks/blob/master/git_push/evaluation.draft.pdf), [Handouts](https://github.com/dushoff/statistics_talks/blob/master/git_push/evaluation.handouts.pdf)
+- Stochastic Modeling IIA ([Jonathan Dushoff](../team/dushoff)) - [Slides](https://github.com/dushoff/disease_model_talks/blob/master/git_push/stochastic.slides.pdf), [Handouts](https://github.com/dushoff/disease_model_talks/blob/master/git_push/stochastic.handouts.pdf)
 
 ### AIMS Public Lectures
 
