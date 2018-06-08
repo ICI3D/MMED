@@ -8,7 +8,7 @@ alertmsg: >
     <li>Note that <b>some adjustments have been made to this afternoon's schedule</b>. The final presentations will be from 14:00-15:30. The feedback session will start at 16:00. The closing session will be held at 17:30 in the main lecture hall.</li>
     <li>Tonight's group social event will feature card games in the main lecture hall. Those who are interested will have a chance to learn <b><a href="https://www.pagat.com/fishing/african_casino.html">Casino</a></b>, a game popular in Southern Africa.</li>
     <li>The optional group trip on Saturday will include visits to Kirstenbosch Gardens and the Cape Town Waterfront. We will leave AIMS at 9:30 and return by 17:00. Please meet in the AIMS lobby at 9:25.</li>
-    <li>Instructions for the Presentation on Friday and the Project Report, which is due on 1 August, are available on the <b><a href='./projects'>Projects page</a></b>.</li
+    <li>Instructions for the Presentation on Friday and the Project Report, which is due on 1 August, are available on the <b><a href='./projects'>Projects page</a></b>.</li>
     <li>Please note that <b>breakfast at AIMS on Saturday</b> will be served from 7:45 to 8:15.</li>
     <li>Participants in <b>Track B</b>: Please remember to post your model world diagrams and descriptions on the MMEDparticipants repository.</li>
     <li>Please check the <b><a href="https://docs.google.com/spreadsheets/d/1dg1PoTKbKCCOD54N1duL_V9bES4Zhv6OuOVywblezSs">Mentoring Session schedule</a></b>, which is also posted on the door to the main lecture hall.</li>
