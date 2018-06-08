@@ -2,7 +2,7 @@
 layout: clinic
 alerttype: success
 alertmsg: >
-  <b>Notes for Thursday</b>
+  <b>Notes for Friday</b>
   <ul style="font-size:16px">
     <li><b>Please add and commit the final slides for your group's presentation as a PDF file to the <em>projectPresentations</em> folder of the <em>MMEDparticipants repository</em> by 13:30 on Friday.</b></li>
     <li>The optional group trip on Saturday will include visits to Kirstenbosch Gardens and the Cape Town Waterfront. We will leave AIMS at 9:30 and return by 17:00.</li>
