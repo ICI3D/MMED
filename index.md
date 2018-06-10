@@ -2,7 +2,6 @@
 layout: clinic
 alerttype: success
 alertmsg: >
-  <b>Notes for Monday</b>
   <ul style="font-size:16px">
     <li><b>Project group</b> assignments have been added to the <b><a href='./projects'>Projects page</a></b>, along with instructions for the Presentation on Friday and the Project Report, which is due on 1 August.</li>
     <li>Please check the <b><a href="https://docs.google.com/spreadsheets/d/1dg1PoTKbKCCOD54N1duL_V9bES4Zhv6OuOVywblezSs">Mentoring Session schedule</a></b>, which is also posted on the door to the main lecture hall.</li>

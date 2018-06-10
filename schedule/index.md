@@ -233,7 +233,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Juliet Pulliam](../team
 -   14:00 – 15:30 **Final presentations**
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:00 **Final Feedback Session** (Moderator: [Gavin Hitchcock](../team/hitchcock))
--   17:15 – 17:45 Closing session
+-   17:30 – Closing session
 -   18:00 – 18:30 *Dinner*
 -   20:00 – 22:00 **Social Activity**: TBD
 

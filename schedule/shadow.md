@@ -120,6 +120,7 @@ alertmsg: >
 -   14:00 – 15:30 **Lecture:** Participatory coding of a dynamical model ([Pearson](../team/pearson), with [Pulliam](../team/pulliam)) - Code to be added on [Tutorials](../tutorials) page
 -   15:30 – 16:00 *Tea*
 -   16:00 – 16:45 **Lecture:** Introduction to Likelihood ([Ujeneza](../team/ujeneza)) - [Slides](https://ndownloader.figshare.com/files/8541898)
+    - with Borchering, Bruce, Dushoff, Pulliam
 -   16:45 – 18:00 **Computer Session:** [R Tutorials](../tutorials) - Lab 5: Introduction to Likelihood Lab (with [Dushoff](../team/dushoff), [Mthombothi](../team/mthombothi), [Pearson](../team/pearson), [Ujeneza](../team/ujeneza), [Ying](../team/ying))
     - Lab 5 Summary ([Pearson](../team/pearson)) - Slides to be added
 -   18:00 – 18:30 *Dinner*
