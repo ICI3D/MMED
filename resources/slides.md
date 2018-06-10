@@ -19,7 +19,7 @@ subtitle: MMED Lectures and Lab Summaries
 - Consequences of heterogeneity, and modeling options ([Jonathan Dushoff](../team/dushoff)) -
     [Slides](https://ndownloader.figshare.com/files/8541853) - [Handouts](https://github.com/ICI3D/MMEDparticipants/raw/master/Handouts/Dushoff-HeterogeneityHandouts.pdf)
 - Introduction to models and data: HIV in Harare ([John Hargrove](../team/hargrove)) - [Slides](https://ndownloader.figshare.com/files/11778914)
-- Introduction to statistical philosophy ([Jonathan Dushoff](../team/dushoff)) - [Slides](https://ndownloader.figshare.com/files/11778917)
+- Introduction to statistical philosophy ([Jonathan Dushoff](../team/dushoff)) - [Slides](https://ndownloader.figshare.com/files/11778917), [Handouts](https://github.com/dushoff/statistics_talks/blob/master/git_push/philosophy.handouts.pdf)
     - Video of the 2017 lecture given by [Jonathan Dushoff](../team/dushoff) - [Video](https://ndownloader.figshare.com/files/8732602), [Slides](https://ndownloader.figshare.com/files/8583778)
 - Introduction to Likelihood ([Eva Ujeneza](../team/ujeneza)) - [Slides](https://ndownloader.figshare.com/files/11804630)
     - Video of the 2017 lecture given by [Steve Bellan](../team/bellan) - [Video](https://figshare.com/articles/Introduction_to_Likelihood/5044636), [Slides](https://ndownloader.figshare.com/files/8541898)
@@ -47,6 +47,13 @@ subtitle: MMED Lectures and Lab Summaries
 - Doing Science ([Brian Williams](../team/williams)) - [Slides](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/Williams-DoingScience.pdf)
 - Likelihood fitting and dynamic models II ([Carl Pearson](../team/pearson)) - [Slides](https://ndownloader.figshare.com/files/8590054) - [Handouts](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/Dushoff-FittingDynModel_II_handouts.pdf)
 - Introduction to Monte Carlo Markov Chains (MCMC) ([Carl Pearson](../team/pearson)) - [Slides (180mb read-only powerpoint slide set with embedded movies)](https://ndownloader.figshare.com/files/8597005)
+- Introduction to Data Wrangling ([Jonathan Dushoff](../team/dushoff)) - [Slides](https://mac-theobio.github.io/QMEE/cleaning.slides.html)
+- Model Assessment ([Jonathan Dushoff](../team/dushoff)) - [Slides](https://github.com/dushoff/statistics_talks/blob/master/git_push/evaluation.draft.pdf), [Handouts](https://github.com/dushoff/statistics_talks/blob/master/git_push/evaluation.handouts.pdf)
+- Stochastic Modeling IIA ([Jonathan Dushoff](../team/dushoff)) - [Slides](https://github.com/dushoff/disease_model_talks/blob/master/git_push/stochastic.slides.pdf), [Handouts](https://github.com/dushoff/disease_model_talks/blob/master/git_push/stochastic.handouts.pdf)
+
+### AIMS Public Lectures
+
+- Math and Rabies Control ([Jonathan Dushoff](../team/dushoff)) - [Slides](https://github.com/dushoff/disease_model_talks/blob/master/git_push/rabies.draft.pdf)
 
 ## Lab Summary Slides
 
@@ -60,11 +67,10 @@ subtitle: MMED Lectures and Lab Summaries
 - Lab 1 Summary: ODE models in R ([Zinhle Mthombothi](../team/mthombothi)) - [Slides](../tutorials/Lab1_summary.pdf)
 - Lab 2 Summary: Consequences of heterogeneity ([Roger Ying](../team/ying)) - [Slides](../tutorials/Lab2_summary.pdf)
 - Lab 3 Summary: Study Design in Epidemiology ([Eva Ujeneza](../team/ujeneza)) - [Slides](../tutorials/Lab3_summary.pdf)
-- Lab 4 Summary: Study Design for Clinical Trials ([Faikah Bruce](../team/bruce)) - Slides to be added
+- Lab 4 Summary: Study Design for Clinical Trials ([Faikah Bruce](../team/bruce)) - [Slides](../tutorials/Lab4_summary.pdf)
 - Lab 5 Summary: Introduction to Likelihood Lab ([Carl Pearson](../team/pearson)) - Slides to be added
 - Lab 6 Summary: MLE fitting of a dynamic model to prevalence data ([Juliet Pulliam](../team/pulliam)) - [Slides](../tutorials/Lab6_summary.pdf)
-- Lab 7 Summary: MCMC fitting I ([Eduard Grebe](../team/grebe)) - Slides to be added
-- Lab 8 Summary: MCMC fitting II ([Jonathan Dushoff](../team/dushoff)) - Slides to be added
+- Lab 7 Summary: MCMC fitting I ([Eduard Grebe](../team/grebe)) - [Slides](../tutorials/Lab7_summary.pdf)
 
 ### Exercises
 
@@ -84,3 +90,4 @@ subtitle: MMED Lectures and Lab Summaries
 	* [Many trials](https://github.com/ICI3D/RTutorials/raw/master/sampling_JD/fluTest.R)
 	* [A range of protection assumptions](https://github.com/ICI3D/RTutorials/raw/master/sampling_JD/fluExperiment.R)
 	* [Worrying about village-level variance](https://github.com/ICI3D/RTutorials/raw/master/sampling_JD/fluExperiment_again.R)
+  - Participatory coding of a stochastic model (Chain binomial SEIV) ([Carl Pearson](../team/pearson)) - [Code from session](https://github.com/ICI3D/MMEDparticipants/raw/master/Resources/PearsonLiveCodingSEIV_cb.R)

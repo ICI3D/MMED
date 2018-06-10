@@ -212,7 +212,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:30 **Work Session** (Project groups)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - **Sign up to go to on Saturday's field trip by 13:00.** (You will need to be logged into GitHub to sign up.)
+    - **Sign up to go to on Saturday's field trip by 13:00.**
     - **13:30 Faculty meeting in Room 105**
 -   14:00 – 15:30 **Work Session** (Project groups)
     - 14:00 – 15:00 _Optional Session:_ Stochastic modelling II ([Dushoff](../team/dushoff) and [Pearson](../team/pearson)) - Slides to be added
@@ -227,7 +227,8 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   8:30 – 9:15 **Lecture:** A decision tree for vaccine trial design during public health emergencies (work from the WHO Blueprint for Research & Development) ([Dushoff](../team/dushoff)) - [Slides](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/BellanDecTreeUI.pdf)
 -   9:15 - 10:00 **Computer Session:** Tutorial catch-up, as needed ([Grebe](../team/grebe), [Kassanjee](../team/kassanjee), [Mwangi](../team/mwangi), [Pearson](../team/pearson), [Ujeneza](../team/ujeneza))
 -   10:00 – 10:30 *Coffee break*
--   10:30 – 12:30 **Work Session** (Project groups) - Mentors
+-   10:30 – 12:30 **Work Session** (Project groups)
+    - 10:30 – 11:30 **Mentoring Session** - TBD
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - **13:30 Faculty meeting in Room 105**
 -   14:00 – 15:30 **Work Session** (Project groups)
@@ -243,8 +244,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   8:30 – 9:15 **Discussion**: Modeling for policy ([Williams](../team/williams))
 -   9:15 – 10:00 **Work Session** (Project groups)
 -   10:00 – 10:30 *Coffee break*
--   10:30 – 12:30 **Work Session** (Project groups)
-    - 10:30 – 11:30 **Mentoring Session** - TBD
+-   10:30 – 12:30 **Work Session** (Project groups) - Mentors
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - **13:30 Faculty meeting in Room 105**
 -   14:00 – 15:30 **Final presentations**
