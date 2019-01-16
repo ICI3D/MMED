@@ -34,5 +34,5 @@ exclude:
   - README.md
   - run.sh
   - aims.sh
-gems:
+plugins:
   - jemoji
