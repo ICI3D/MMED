@@ -1,4 +1,7 @@
 
+
+----------------------------------------------------------------------
+
 Dear Elisha, Jeanette, Laurette and Mhlanga:
 
 Thank you for agreeing to be mentors for MMED 2019.
@@ -6,12 +9,6 @@ Thank you for agreeing to be mentors for MMED 2019.
 Jonathan Dushoff and I will be working with you to prepare for MMED. Please let us know if you have any queries or suggestions regarding your role as mentors. Below is a list regarding your activities as mentors:
 
 (1) Programming: We will continue to work via RStudio and the Git command line. We will have participants take DataCamp courses on Intro to R in advance of the workshop, and Intro to Git before group projects. You have been given DataCamp accounts and can see the online courses there. Please familiarize yourself with Git or R if you are not already so you can help students. As a reminder – please check the 2018 Clinic preparation that was required by the 2018 participants (http://www.ici3d.org/MMED/preparation/)
-
-Preparation for the Clinic - ici3d.org
-International Clinics on Infectious Disease Dynamics and Data. Clinic on Meaningful Modeling of Epidemiological Data. The ninth annual MMED clinic ~ May 28 - June 8, 2018 ~ Muizenberg, Cape Town, South Africa
-www.ici3d.org
-
- 
 
 (2) Mentor presentations: We have 90 minutes allotted for your presentations on Friday Jun 1 so 17 minutes of talking + questions. You should see the mentor research presentation as an opportunity to practice speaking in front of large groups and to gain feedback on your work. You can present on a finished project, a work in progress, or an idea for a project you are thinking of initiating. If you have multiple topics you could present on and want some input on which to pick, just let me know. We'd love to give you feedback on your slides prior to the presentation. Please send me your slides by May 20 so we have ample time to look over them.
 
