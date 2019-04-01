@@ -9,9 +9,7 @@ target = Makefile
 
 # stuff
 
-Sources += Makefile .ignore .gitignore
-
-Sources += notes.md mmed_team.txt
+Sources += Makefile .gitignore
 
 ms = makestuff
 -include local.mk
@@ -31,9 +29,13 @@ Ignore += $(ms)
 
 ## Content
 
-gh-pages.branchdir: 
+Sources += notes.md mmed_team.txt
 
-Ignore += gh-pages
+Sources += weekly.md mentor_prep.md
+
+subdirs += pages
+
+Ignore += $(subdirs)
 
 ######################################################################
 
