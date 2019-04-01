@@ -2,7 +2,7 @@
 
 ----------------------------------------------------------------------
 
-Dear Elisha, Jeanette, Laurette and Mhlanga:
+Dear Elisha, Jeanette, Joseph and Laurette:
 
 Thank you for agreeing to be mentors for MMED 2019.
 
