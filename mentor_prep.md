@@ -8,9 +8,7 @@ Thank you for agreeing to be mentors for MMED 2019.
 
 Jonathan Dushoff and I will be working with you to prepare for MMED. Please let us know if you have any queries or suggestions regarding your role as mentors. Below is a list regarding your activities as mentors:
 
-CHECK Participant preparation updates, DataCamp
-
-(1) Programming: We will continue to work via RStudio and the Git command line. We will have participants take DataCamp courses on Intro to R in advance of the workshop, and Intro to Git before group projects. You have been given DataCamp accounts and can see the online courses there. Please refresh your knowledge of Git and R so you will be ready to help students. You can refer to the Clinic preparation information (http://www.ici3d.org/MMED/preparation/)
+(1) Programming: We will continue to work via RStudio and the Git command line. We will have participants go through an Intro to R in advance of the workshop, and an Intro to Git before group projects. We will send more information via our weekly participant messages. Please refresh your knowledge of Git and R so you will be ready to help students. You can refer to the Clinic preparation information (http://www.ici3d.org/MMED/preparation/)
 
 CHECK Presentation date (Jun 1 is not Friday ☺)
 
