@@ -10,7 +10,7 @@ Jonathan Dushoff and I will be working with you to prepare for MMED. Please let 
 
 CHECK Participant preparation updates, DataCamp
 
-(1) Programming: We will continue to work via RStudio and the Git command line. We will have participants take DataCamp courses on Intro to R in advance of the workshop, and Intro to Git before group projects. You have been given DataCamp accounts and can see the online courses there. Please familiarize yourself with Git or R if you are not already so you can help students. As a reminder – please check the 2018 Clinic preparation that was required by the 2018 participants (http://www.ici3d.org/MMED/preparation/)
+(1) Programming: We will continue to work via RStudio and the Git command line. We will have participants take DataCamp courses on Intro to R in advance of the workshop, and Intro to Git before group projects. You have been given DataCamp accounts and can see the online courses there. Please refresh your knowledge of Git and R so you will be ready to help students. You can refer to the Clinic preparation information (http://www.ici3d.org/MMED/preparation/)
 
 CHECK Presentation date (Jun 1 is not Friday ☺)
 
