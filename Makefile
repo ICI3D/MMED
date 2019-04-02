@@ -1,5 +1,5 @@
-
 # http://127.0.0.1:4000/
+
 ######################################################################
 
 ### Hooks for the editor to set the default target
@@ -22,8 +22,8 @@ Ignore += .gitignore
 
 msrepo = https://github.com/dushoff
 ms = makestuff
-Ignore += local.mk
--include local.mk
+$(ms)/Makefile:
+	ls ../makestuff/Makefile && /bin/ln -s ../makestuff 
 -include $(ms)/os.mk
 
 -include $(ms)/git.def
