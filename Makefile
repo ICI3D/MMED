@@ -17,8 +17,8 @@ add.Rout: add.R
 
 # stuff
 
-Sources += Makefile .ignore 
-Sources += .gitignore
+Sources += Makefile 
+Ignore += .gitignore
 
 msrepo = https://github.com/dushoff
 ms = makestuff
@@ -29,7 +29,7 @@ Ignore += local.mk
 -include $(ms)/git.def
 
 Ignore += $(ms)
-## Sources += $(ms)
+
 Makefile: $(ms) $(ms)/Makefile ICI3D/Makefile
 ICI3D/Makefile:
 	git submodule update -i
