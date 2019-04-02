@@ -14,12 +14,12 @@ alertmsg: >
   </ul>
 ---
 
-### Sunday, 27 May
+### Sunday, 26 May
 
 -   17:00 – 18:00 Registration and welcome, AIMS lobby
 -   18:00 – 18:30 *Dinner*, AIMS Dining Hall
 
-### Monday, 28 May
+### Monday, 27 May
 
 -   8:00 – 8:25 Registration and welcome, AIMS lobby
     -   **Please gather in the main lecture hall by 8:30.**
@@ -45,7 +45,7 @@ alertmsg: >
 -   19:00 – 19:30 **Social Activity:** Ice breakers
 -   19:30 – 20:30 **Social Activity:** Card games: Bullsh!t and Casino
 
-### Tuesday, 29 May
+### Tuesday, 28 May
 
 -   8:30 – 9:15 **Lecture:** (Hidden) assumptions of simple ODE models ([Pulliam](../team/pulliam)) - Slides to be added
 -   9:15 – 10:00 **Live coding session:** Introduction to model implementation
@@ -76,7 +76,7 @@ alertmsg: >
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example ([optional guest lecture](../talks)):** [Florian Marx](../talks/marx)
 
-### Wednesday, 30 May
+### Wednesday, 29 May
 
 -   8:30 – 9:15 **Lecture:** Consequences of heterogeneity, and modeling options ([Dushoff](../team/dushoff)) -
     [Slides](https://ndownloader.figshare.com/files/8541853) - [Handouts](https://github.com/ICI3D/MMEDparticipants/raw/master/Handouts/Dushoff-HeterogeneityHandouts.pdf)
@@ -104,7 +104,7 @@ alertmsg: >
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example (optional lecture):** Guest lecture ([Jacky Snoep](../talks/snoep))
 
-### Thursday, 31 May
+### Thursday, 30 May
 
 -   8:30 – 10:00 _**Parallel sessions**_
     -   **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology: Where does modeling fit? ([Bruce](../team/bruce), with Hargrove and Dushoff) - [Slides](https://ndownloader.figshare.com/files/8541838) - and [R Tutorials](../tutorials) - Lab 3: Study Design in Epidemiology (with [Bruce](../team/bruce), [Kassanjee](../team/kassanjee), [Mwangi](../team/mwangi), [Hargrove](../team/hargrove), [Ujeneza](../team/ujeneza))
@@ -126,7 +126,7 @@ alertmsg: >
 -   18:00 – 18:30 *Dinner*
 -   19:30 – 21:00 **Social activity:** Drumming
 
-### Friday, 1 June
+### Friday, 31 May
 
 -   8:30 – 10:00  _**Parallel sessions:**_
     - **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology II: RCT's ([Pearson](../team/pearson), with Borchering and Bruce) - [Slides](https://ndownloader.figshare.com/files/8583781) - and [R Tutorials](../tutorials) - Lab 4: Study Design for Clinical Trials (with [Borchering](../team/borchering), [Bruce](../team/bruce), [Kassanjee](../team/kassanjee), [Mwangi](../team/mwangi), [Pearson](../team/pearson))
@@ -152,7 +152,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   18:00 – 18:30 *Dinner*
 -   19:30 – 21:30 **Social Activity:** Movie night (TBD)
 
-### Saturday, 2 June
+### Saturday, 1 June
 
 -   9:00 – 10:30 **Live coding session:** Participatory coding for Variability,
     Sampling Distributions, and Simulation Lecture ([Dushoff](../team/dushoff))  - [Code on Tutorials page](../tutorials)
@@ -161,13 +161,13 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   12:30 – 14:00 **Social Activity:** Group lunch at Kalky's
 -   14:00 – Free/working afternoon
 
-### Sunday, 3 June
+### Sunday, 2 June
 
 -   Free day – optional group trip to Cape Point
     -   We will leave at 10:00. *Please meet in the AIMS lobby by 9:55.*
 - Faculty meeting in E310 at 16:30.
 
-### Monday, 4 June
+### Monday, 3 June
 
 -   8:30 – 9:15 **Lecture:** Doing Science ([Williams](../team/williams)) - [Slides](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/Williams-DoingScience.pdf)
 -   9:15 – 9:30 **Organizational Session:** [Schedule and goals for the second week](https://github.com/ICI3D/MMED/blob/master/scheduleNotes/2_Mon_0915_Borchering.md) ([Borchering](../team/borchering))
@@ -184,7 +184,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 GitHub practice and troubleshooting ([Pearson](../team/pearson)) and/or optional tutorial catch-up (with [Kassanjee](../team/kassanjee), [Mthombothi](../team/mthombothi), [Mwangi](../team/mwangi), [Ying](../team/ying))
 
-### Tuesday, 5 June
+### Tuesday, 4 June
 
 -   8:30 – 10:00 **Lecture**: Introduction to Monte Carlo Markov Chains (MCMC) ([Pearson](../team/pearson)) - [Slides (180mb read-only powerpoint slide set with embedded movies)](https://ndownloader.figshare.com/files/8597005)
 	- **Download** the lecture locally from an AIMS computer on the desktop if you login as *guest* or, if you have an AIMS account, find it at /srv/local/guest/Desktop
@@ -205,7 +205,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   19:00 – 20:00
     **[AIMS Public Lecture Series](https://www.aims.ac.za/en/research-centre/public-lectures) (optional):** [Jonathan [Dushoff](../talks/dushoff)
 
-### Wednesday, 6 June
+### Wednesday, 5 June
 
 -   8:30 – 9:30 **Lecture**: Model assessment ([Dushoff](../team/dushoff)) - Slides to be added
 -   9:30 - 10:00 **Computer Session:** Tutorial catch-up, as needed (with [Bruce](../team/bruce), [Borchering](../team/borchering), [Mthombothi](../team/mthombothi), [Grebe](../team/grebe), [Ying](../team/ying))
@@ -222,7 +222,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example (optional lecture):** Research Talk ([van Schalkwyk](../talks/vanschalkwyk))
 
-### Thursday, 7 June
+### Thursday, 6 June
 
 -   8:30 – 9:15 **Lecture:** A decision tree for vaccine trial design during public health emergencies (work from the WHO Blueprint for Research & Development) ([Dushoff](../team/dushoff)) - [Slides](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/BellanDecTreeUI.pdf)
 -   9:15 - 10:00 **Computer Session:** Tutorial catch-up, as needed ([Grebe](../team/grebe), [Kassanjee](../team/kassanjee), [Mwangi](../team/mwangi), [Pearson](../team/pearson), [Ujeneza](../team/ujeneza))
@@ -239,7 +239,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Work session** (Project groups)
 
-### Friday, 8 June
+### Friday, 7 June
 
 -   8:30 – 9:15 **Discussion**: Modeling for policy ([Williams](../team/williams))
 -   9:15 – 10:00 **Work Session** (Project groups)
@@ -254,6 +254,6 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   18:00 – 18:30 *Dinner*
 -   20:00 – 22:00 **Social Activity**: TBD
 
-### Saturday, 9 June
+### Saturday, 8 June
 
 -   Clinic officially ends on Friday, but there will be an optional group trip on Saturday.
