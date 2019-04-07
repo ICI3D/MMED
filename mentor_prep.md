@@ -1,6 +1,6 @@
-"Laurette Mhlanga" <laurette@sun.ac.za>, "Jeanette Dawa" <jdawa@wsuglobalhealth.org>, "Joseph B. Sempa" <sempaj@sun.ac.za>, "Elisha Are" <elishaare@sun.ac.za>
 
-----------------------------------------------------------------------
+To: mentors@ici3d.org 
+CC: Jonathan
 
 Dear Elisha, Jeanette, Joseph and Laurette:
 
@@ -20,7 +20,7 @@ Jonathan Dushoff and I will be working with you to prepare for MMED. Please let 
 
 (6) We'd like to give you the opportunity to develop a computer exercise on a topic of particular interest to you. This is optional. If interested, please let us know as soon as possible so we can give feedback on potential topics and guidance as you develop it.
 
-Finally, feel free to contact each other to facilitate coordination of your efforts (e.g. regarding questions on material, labs, git) should you find it helpful.
+Finally, feel free to contact each other to facilitate coordination of your efforts (e.g. regarding questions on material, labs, git) should you find it helpful. You can do this via the mentors address on this email.
 
 We're looking forward to seeing you all in May!
 
