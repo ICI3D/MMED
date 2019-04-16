@@ -1,5 +1,24 @@
 mmed_team.txt
 
+2019 Apr 16 (Tue)
+=================
+
+Full-group call 
+
+We all need to go over feedback from last year
+* Probably the main first-week sessions can stay the same in broad strokes
+ * but we can still tweak
+
+Talk to observers about research talks
+
+Talk to Jeff about rooms and other courses
+
+Look at ici3d package
+
+Juliet:
+* Send powerpoints of Study Design to Jim and Alex
+* Find and send last year's feedback
+
 2018 May 21 (Mon)
 =================
 
