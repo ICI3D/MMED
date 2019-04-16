@@ -23,33 +23,33 @@ alertmsg: >
 
 -   8:00 – 8:25 Registration and welcome, AIMS lobby
     -   **Please gather in the main lecture hall by 8:30.**
--   8:30 – 9:00 Welcome and Motivation for Workshop ([Pulliam](../team/Pulliam), [Mthombothi](../team/Mthombothi), and [Hargrove](../team/hargrove))
--   9:00 – 10:00 **Lecture:** Public Health, Epidemiology, and Models ([Scott?](../team/scott)) - [Slides](https://ndownloader.figshare.com/files/8541811)
+-   8:30 – 9:00 Welcome and Motivation for Workshop ([Pulliam](../team/Pulliam), [Sempa](../team/Sempa), and [Hargrove](../team/hargrove))
+-   9:00 – 10:00 **Lecture:** Public Health, Epidemiology, and Models ([Pulliam](../team/pulliam)) - [Slides](https://ndownloader.figshare.com/files/8541811)
 -   10:00 – 10:30 *Coffee break*
--   10:30 – 10:45 **Organizational session:** [MMED Road Map](../roadmap) and programme overview ([Borchering?](../team/Borchering?))
--   10:45 – 11:30 **Lecture:** Introduction to Thinking About Data I (TBD) - [Slides](https://ndownloader.figshare.com/files/8541904)
--   11:30 – 12:30 **Lecture:** Introduction to dynamic modeling of infectious diseases ([Pulliam?](../team/Pulliam?)?) - [Slides](https://ndownloader.figshare.com/files/8541817)
+-   10:30 – 10:45 **Organizational session:** [MMED Road Map](../roadmap) and programme overview ([Borchering](../team/Borchering))
+-   10:45 – 11:30 **Lecture:** Introduction to Thinking About Data I ([Scott](../team/scott)) - [Slides](https://ndownloader.figshare.com/files/8541904)
+-   11:30 – 12:30 **Lecture:** Introduction to dynamic modeling of infectious diseases ([Mthombothi](../team/mthombothi)) - [Slides](https://ndownloader.figshare.com/files/8541817)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - **TBD and TBD** will help people get their laptops set up for DF at 12:30 in the main lecture hall.
+    - **Juliet and Cari** will help people get their laptops set up for DF at 12:30 in the main lecture hall. (mentors on call)
     - **13:15 Faculty meeting in Room 105**
 -   14:00 – 15:00 **_Parallel sessions_**
-    -   **Track A:** Introduction to infectious disease data ([Mwangi?](../team/TBD)) - [Slides](https://ndownloader.figshare.com/files/8544970) (Becky, Thumbi, Zinhle, Jeanette)
+    -   **Track A:** Introduction to infectious disease data ([Mwangi](../team/mwangi)) - [Slides](https://ndownloader.figshare.com/files/8544970) (Becky, Thumbi, Zinhle, Jeanette)
     -   **Track B:** Foundations of dynamic modeling (John, Laurette, Elisha, Joseph) ([Dushoff](../team/Dushoff)) - [Slides](https://ndownloader.figshare.com/files/8541910) - [Handouts](https://github.com/ICI3D/MMEDparticipants/raw/master/Handouts/Dushoff-FoundationsDynMomdelSIRModelFamily.pdf)
--   15:00 – 15:30 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: [Mthombothi?](../team/mthombothi))
+-   15:00 – 15:30 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: [Welte](../team/welte))
 -   15:30 – 16:00 *Tea* and **poster set-up**
-    - with TBD, TBD, Mthombothi?
--   16:00 – 16:50 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: [Mthombothi?](../team/mthombothi))
--   16:50 – 17:00 **_Discussion_**: Dynamical Fever and Model Worlds ([Pulliam?](../team/Pulliam?)) - [Slides](../Materials/modelWorlds.pdf)
+    - with Are, Mhalanga, Mthombothi
+-   16:00 – 16:50 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: [Welte](../team/welte))
+-   16:50 – 17:00 **_Discussion_**: Dynamical Fever and Model Worlds ([Pulliam](../team/Pulliam)) - [Slides](../Materials/modelWorlds.pdf)
 -   17:00 – 18:00 [**Poster session I**](../posters/sessions)
 -   18:00 – 18:30 *Dinner*
--   19:00 – 19:30 **Social Activity:** Ice breakers
+-   19:00 – 19:30 **Social Activity:** Ice breakers (Paradza)
 -   19:30 – 20:30 **Social Activity:** Card games: Bullsh!t and Casino
 
 ### Tuesday, 28 May
 
--   8:30 – 9:15 **Lecture:** (Hidden) assumptions of simple ODE models ([Pulliam?](../team/Pulliam?)) - Slides to be added
+-   8:30 – 9:15 **Lecture:** (Hidden) assumptions of simple ODE models ([Pulliam](../team/Pulliam)) - Slides to be added
 -   9:15 – 10:00 **Live coding session:** Introduction to model implementation
-    ([van Schalkwyk?](../team/vanschalkwyk)) - [Live coding example](https://github.com/ICI3D/MMEDparticipants/raw/master/Resources/TBDLiveCoding.zip)
+    ([van Schalkwyk](../team/vanschalkwyk)) - [Live coding example](https://github.com/ICI3D/MMEDparticipants/raw/master/Resources/TBDLiveCoding.zip)
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:30 **Computer Session:** [R Tutorials](../tutorials) - Lab 1: ODE models in R (with [TBD](../team/TBD), [TBD](../team/TBD), [Pulliam](../team/pulliam), [TBD](../team/TBD), [TBD](../team/TBD)); **MedPH break-out group** ([Borchering](../team/Borchering), [Mthombothi](../team/Mthombothi))
     - All R tutorials and labs are linked from [this page](../tutorials)
@@ -58,7 +58,7 @@ alertmsg: >
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - **13:15 Faculty meeting in Room 105**
 -   14:00 – 14:45 _**Parallel sessions**_ (Note: for this session only, Track A participants may attend the Track B session.)
-    -   **Track A:** **Lecture:** Introduction to Thinking About Data II ([TBD](../team/TBD)) - [Slides](https://ndownloader.figshare.com/files/8541667)
+    -   **Track A:** **Lecture:** Introduction to Thinking About Data II ([Scott](../team/scott)) - [Slides](https://ndownloader.figshare.com/files/8541667)
       - with TBD, TBD, TBD
     -   **Track B:** **Lecture:** Basic stochastic simulation models ([Borchering?](../team/Borchering?)) - [Slides](https://ndownloader.figshare.com/files/8541847)
       - with TBD, TBD, TBD
