@@ -33,9 +33,9 @@ Sources += notes.md mmed_team.txt
 
 Sources += weekly.md mentor_prep.md
 
-subdirs += pages
+alldirs += pages
 
-Ignore += $(subdirs)
+Ignore += $(alldirs)
 
 ######################################################################
 
