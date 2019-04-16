@@ -27,7 +27,7 @@ alertmsg: >
 -   9:00 – 10:00 **Lecture:** Public Health, Epidemiology, and Models ([Pulliam](../team/pulliam)) - [Slides](https://ndownloader.figshare.com/files/8541811)
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 10:45 **Organizational session:** [MMED Road Map](../roadmap) and programme overview ([Borchering](../team/Borchering))
--   10:45 – 11:30 **Lecture:** Introduction to Thinking About Data I ([Scott](../team/scott)) - [Slides](https://ndownloader.figshare.com/files/8541904)
+-   10:45 – 11:30 **Lecture:** Introduction to Thinking About Data I ([Hargrove](../team/hargrove)) - [Slides](https://ndownloader.figshare.com/files/8541904)
 -   11:30 – 12:30 **Lecture:** Introduction to dynamic modeling of infectious diseases ([Mthombothi](../team/mthombothi)) - [Slides](https://ndownloader.figshare.com/files/8541817)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - **Juliet and Cari** will help people get their laptops set up for DF at 12:30 in the main lecture hall. (mentors on call)
@@ -60,14 +60,14 @@ alertmsg: >
 -   14:00 – 14:45 _**Parallel sessions**_ (Note: for this session only, Track A participants may attend the Track B session.)
     -   **Track A:** **Lecture:** Introduction to Thinking About Data II ([Scott](../team/scott)) - [Slides](https://ndownloader.figshare.com/files/8541667)
       - with TBD, TBD, TBD
-    -   **Track B:** **Lecture:** Basic stochastic simulation models ([Borchering?](../team/Borchering?)) - [Slides](https://ndownloader.figshare.com/files/8541847)
+    -   **Track B:** **Lecture:** Basic stochastic simulation models ([Borchering](../team/Borchering)) - [Slides](https://ndownloader.figshare.com/files/8541847)
       - with TBD, TBD, TBD
 -   14:45 – 15:30 _**Parallel sessions**_
     -   **Track A:** **Computer Session:** [R Tutorials](../tutorials) - Lab 1: ODE models in R (as needed), and Tutorial 4: Visualizing Infectious Disease Data in R (with [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD))
-    -   **Track B:** **Computer Session:** [R Tutorials](../tutorials) - Lab 1: ODE models in R (as needed), and Exercise 1: Basic stochastic simulation models (with [Borchering?](../team/Borchering?), [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD))
-    - Exercise 1 Summary ([Borchering?](../team/Borchering?)) - [Slides](../tutorials/Borchering-stoch-sim-lab-summary.pdf)
+    -   **Track B:** **Computer Session:** [R Tutorials](../tutorials) - Lab 1: ODE models in R (as needed), and Exercise 1: Basic stochastic simulation models (with [Borchering](../team/Borchering), [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD))
+    - Exercise 1 Summary ([Borchering](../team/Borchering)) - [Slides](../tutorials/Borchering-stoch-sim-lab-summary.pdf)
 -   15:30 – 16:00 *Tea* and **poster set-up**
-    - with TBD, TBD, TBD (1 faculty + 2 mentors)
+    - with Sempa, Dawa, Borchering
 -   16:00 – 16:50 **Computer Session:** [R Tutorials](../tutorials) continued ([TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD))
 -   16:50 – 17:00 **Discussion:**
     - Lab 1 Summary ([TBD](../team/TBD)) - [Slides](../tutorials/Lab1_summary.pdf)
@@ -89,17 +89,17 @@ alertmsg: >
     - You will need the most recent version of the ICI3D R package for this tutorial. If you are using your laptop for the tutorials, please update the package before you begin by running the command <b><code>devtools::install_github('ICI3D/ici3d-pkg')</code></b> in R studio.
     - To run the tutorial, first load the ICI3D R package (<b><code>require('ICI3D')</code></b>), then load the tutorial (<b><code>hivTutorial()</code></b>).
     -   If you finish all five versions of the model for the Harare data before lunch, move on to working on data from other countries.
-    -   **Additional info:** Distributed Delay Models of Survival (Boxcar Models) - [Slides](../tutorials/distributedDelay.pdf) ([Pulliam?](../team/Pulliam?))
+    -   **Additional info:** Distributed Delay Models of Survival (Boxcar Models) - [Slides](../tutorials/distributedDelay.pdf) ([Dushoff](../team/dushoff))
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - **Please fill in the <a href='../logistics/weekend1'>weekend activities form</a>! (Due by 13:00 on Wed 30 May.).**
     - **13:30 Faculty meeting in Room 105**
 -   14:00 – 14:30 **Computer Session:** Harare/other data in same groups (with [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD))
 -   14:30 – 15:30 **Discussion:** Harare tutorial ([TBD](../team/TBD)) - [Slides](../tutorials/TBDHIVTutorialSummary.pdf)
 -   15:30 – 16:00 *Tea* and **poster set-up**
-    - with TBD, TBD, TBD (1 faculty + 2 mentors)
+    - with Dushoff, van Schalkwyk, Welte
 -   16:00 – 17:00 _**Parallel sessions**_
-    -   **Track A:** [Formulating Research Questions A](./researchQuestionsA) ([Pulliam?](../team/Pulliam?))
-    -   **Track B:** [Formulating Research Questions B](./researchQuestionsB) ([Borchering?](../team/Borchering?))
+    -   **Track A:** [Formulating Research Questions A](./researchQuestionsA) ([Mthombothi](../team/mthombothi))
+    -   **Track B:** [Formulating Research Questions B](./researchQuestionsB) ([Borchering](../team/borchering)) - look at notes from Cari and feedback from Becky; talk also with JP
 -   17:00 – 18:00 [**Poster session III**](../posters/sessions)
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example (optional lecture):** Guest lecture ([Bobby Reiner](../talks/reiner))
@@ -107,19 +107,19 @@ alertmsg: >
 ### Thursday, 30 May
 
 -   8:30 – 10:00 _**Parallel sessions**_
-    -   **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology: Where does modeling fit? ([Scott?](../team/TBD), with TBD and TBD) - [Slides](https://ndownloader.figshare.com/files/8541838) - and [R Tutorials](../tutorials) - Lab 3: Study Design in Epidemiology (with [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD))
+    -   **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology: Where does modeling fit? ([Scott](../team/scott), with TBD and TBD) - [Slides](https://ndownloader.figshare.com/files/8541838) - and [R Tutorials](../tutorials) - Lab 3: Study Design in Epidemiology (with [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD))
     - Lab 3 Summary ([TBD](../team/TBD)) - Slides to be added
-    -   **Track B:** **Exercise:** Creating a model world to address a research question ([Pulliam](../team/Pulliam)) - [Slides](../Materials/creatingAModelWorld.pdf), [Assignment and examples](../Materials/modelWorld)
+    -   **Track B:** **Exercise:** Creating a model world to address a research question ([Mwangi](../team/mwangi)) - [Slides](../Materials/creatingAModelWorld.pdf), [Assignment and examples](../Materials/modelWorld)
         - with TBD and TBD
 -   10:00 – 10:30 *Coffee break*
--   10:30 – 12:00 **Lecture:** Introduction to statistical philosophy ([Dushoff](../team/Dushoff)) - [Slides](https://ndownloader.figshare.com/files/8583778)
--   12:00 – 12:30 **Discussion:** MMED research projects ([Borchering?](../team/Borchering?))
+-   10:30 – 12:00 **Lecture:** Introduction to statistical philosophy ([Dushoff](../team/dushoff)) - [Slides](https://ndownloader.figshare.com/files/8583778)
+-   12:00 – 12:30 **Discussion:** MMED research projects ([Borchering](../team/borchering))
     - [Potential project groups](../projects/)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - **13:30 Faculty meeting in Room 105**
--   14:00 – 15:30 **Lecture:** Participatory coding of a dynamical model ([Pulliam?](../team/pulliam), with [Mthombothi?](../team/mthombothi)) - Code to be added on [Tutorials](../tutorials) page
+-   14:00 – 15:30 **Lecture:** Participatory coding of a dynamical model ([Pulliam](../team/pulliam), with [Mthombothi](../team/mthombothi)) - Code to be added on [Tutorials](../tutorials) page
 -   15:30 – 16:00 *Tea*
--   16:00 – 16:45 **Lecture:** Introduction to Likelihood ([van Schalkwyk?](../team/vanschalkwyk)) - [Slides](https://ndownloader.figshare.com/files/8541898)
+-   16:00 – 16:45 **Lecture:** Introduction to Likelihood ([van Schalkwyk](../team/vanschalkwyk)) - [Slides](https://ndownloader.figshare.com/files/8541898)
     - with TBD, TBD, TBD, TBD
 -   16:45 – 18:00 **Computer Session:** [R Tutorials](../tutorials) - Lab 5: Introduction to Likelihood Lab (with [Dushoff?](../team/Dushoff?), [Mthombothi?](../team/Mthombothi?), [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD))
     - Lab 5 Summary ([TBD](../team/TBD)) - Slides to be added
@@ -129,34 +129,34 @@ alertmsg: >
 ### Friday, 31 May
 
 -   8:30 – 10:00  _**Parallel sessions:**_
-    - **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology II: RCT's ([Welte?](../team/TBD), with TBD and TBD) - [Slides](https://ndownloader.figshare.com/files/8583781) - and [R Tutorials](../tutorials) - Lab 4: Study Design for Clinical Trials (with [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD))
+    - **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology II: RCT's ([Welte](../team/welte), with Scott and TBD) - [Slides](https://ndownloader.figshare.com/files/8583781) - and [R Tutorials](../tutorials) - Lab 4: Study Design for Clinical Trials (with [Welte](../team/welte), [Scott](../team/scott), [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD))
     - [Dataset for Lab 4](https://github.com/ICI3D/datasets/blob/master/clinicalTrials/MuTxT.Rdata?raw=true)
     - Lab 4 Summary ([TBD](../team/TBD)) - Slides to be added
-    - **Track B:** **Exercise:** Description of proposed model and assumptions ([Mwangi?](../team/mwangi))
-        - with TBD
+    - **Track B: Exercise:** Description of proposed model and assumptions ([Mwangi](../team/mwangi))
+        - with Pulliam
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 11:15 **Lecture:** Likelihood fitting and dynamic models,
-Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam?](../team/pulliam))  - [Slides](https://ndownloader.figshare.com/files/8583787)
-    - with Dushoff? and TBD
--   11:15 - 12:30 **Computer Session:** Lab: MLE fitting of an SIR model to prevalence data (with [Dushoff?](../team/Dushoff?), [Mthombothi?](../team/Mthombothi?), [TBD](../team/TBD), [Pulliam?](../team/Pulliam?), [TBD](../team/TBD))
+Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pulliam))  - [Slides](https://ndownloader.figshare.com/files/8583787)
+    - with Dushoff and TBD
+-   11:15 - 12:30 **Computer Session:** Lab: MLE fitting of an SIR model to prevalence data (with [Dushoff](../team/Dushoff), [Mthombothi](../team/Mthombothi), [TBD](../team/TBD), [Pulliam](../team/Pulliam), [TBD](../team/TBD))
     - **Additional info:** Parameter transformation - [Slides](../tutorials/parameterTransformations.pdf)
-    - Lab Summary ([Pulliam?](../team/Pulliam?)) - Slides to be added
+    - Lab Summary ([TBD](../team/TBD)) - Slides to be added
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - Please fill in [this form](../logistics/tutorialCatchUp) to indicate what you will work on during the tutorial catch-up session on Saturday and whom you would like to meet for a mentoring session next week. (Due by 17:00 on Friday 1 June.)
     - **13:30 Faculty meeting in Room 105**
--   14:00 – 15:30 **Mentor presentations** (Mentors); Moderator: [Dushoff](../team/dushoff))
+-   14:00 – 15:30 **Mentor presentations** (Mentors); Moderator: [Hargrove](../team/hargrove))
 -   15:30 – 16:00 *Tea*
--   16:00 – 17:00 **MMED Projects** (Moderator: [Pulliam?](../team/pulliam))
+-   16:00 – 17:00 **MMED Projects** (Moderator: [Pulliam](../team/pulliam))
     - Project group sign-up will be available after this session
 -   17:00 – 18:00 **Mid-session Feedback** (Moderator: [Paradza](../team/paradza))
 -   18:00 – 18:30 *Dinner*
--   19:30 – 21:30 **Social Activity:** Movie night (TBD)
+-   19:30 – 21:30 **Social Activity** (TBD)
 
 ### Saturday, 1 June
 
 -   9:00 – 10:30 **Live coding session:** Participatory coding for Variability, Sampling Distributions, and Simulation Lecture ([Dushoff](../team/Dushoff))  - [Code on Tutorials page](../tutorials)
 -   10:30 – 11:00 A good chance to sign up for project groups and *Coffee break*
--   11:00 – 12:30 **Computer Session:** Tutorial catch-up, as needed (with [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD))
+-   11:00 – 12:30 **Computer Session:** Tutorial catch-up, as needed (with [Pulliam](../team/pulliam), [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD))
 -   12:30 – 14:00 **Social Activity:** Group lunch at Kalky's
 -   14:00 – Free/working afternoon
 
@@ -168,11 +168,13 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam?](../team/pulli
 
 ### Monday, 3 June
 
+> Go through week two on 29 April.
+
 -   8:30 – 9:15 **Lecture:** Doing Science ([Welte?](../team/welte)) - [Slides](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/TBD-DoingScience.pdf)
 -   9:15 – 9:30 **Organizational Session:** [Schedule and goals for the second week](https://github.com/ICI3D/MMED/blob/master/scheduleNotes/2_Mon_0915_Borchering?.md) ([Borchering?](../team/borchering))
 -   9:30 – 10:00 **Work Session:** Project groups meet for the first time (All instructors)
 -   10:00 – 10:30 *Coffee break*
--   10:30 – 11:30 **Computer Session:** Introduction to GitHub ([Mthombothi?](../team/TBD)) (with [Pulliam](../team/pulliam), [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD))
+-   10:30 – 11:30 **Computer Session:** Introduction to GitHub ([Mthombothi?](../team/mthombothi?)) (with [Pulliam](../team/pulliam), [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD))
 -   11:30 – 12:30 **Work Session:** Work plans for group projects (Project groups)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - **13:30 Faculty meeting in Room 105**
