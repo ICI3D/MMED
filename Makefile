@@ -7,10 +7,6 @@ target = Makefile
 
 ###################################################################
 
-# stuff
-
-Sources += Makefile .gitignore
-
 ms = makestuff
 -include local.mk
 -include $(ms)/os.mk
@@ -21,13 +17,9 @@ $(ms):
 
 Ignore += $(ms)
 
-# -include $(ms)/perl.def
-# -include $(ms)/newtalk.def
-# -include $(ms)/repos.def
-
 ######################################################################
 
-## Content
+Sources += Makefile .gitignore README.md
 
 Sources += notes.md mmed_team.txt
 
