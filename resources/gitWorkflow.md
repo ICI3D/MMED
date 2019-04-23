@@ -1,7 +1,7 @@
 ---
-layout: clinic
+layout: redirect
 redirect: ../development
-tab: Schedule
+tab: Resources
 title: Git Workflow
 subtitle: An example GitHub workflow for an MMED Project Group
 ---
