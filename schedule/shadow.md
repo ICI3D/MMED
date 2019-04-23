@@ -37,7 +37,7 @@ alertmsg: >
     -   **Track B:** Foundations of dynamic modeling (John, Laurette, Elisha, Joseph) ([Dushoff](../team/Dushoff)) - [Slides](https://ndownloader.figshare.com/files/8541910) - [Handouts](https://github.com/ICI3D/MMEDparticipants/raw/master/Handouts/Dushoff-FoundationsDynMomdelSIRModelFamily.pdf)
 -   15:00 – 15:30 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: [Welte](../team/welte))
 -   15:30 – 16:00 *Tea* and **poster set-up**
-    - with Are, Mhalanga, Mthombothi
+    - with Are, Mhlanga, Mthombothi
 -   16:00 – 16:50 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: [Welte](../team/welte))
 -   16:50 – 17:00 **_Discussion_**: Dynamical Fever and Model Worlds ([Pulliam](../team/Pulliam)) - [Slides](../Materials/modelWorlds.pdf)
 -   17:00 – 18:00 [**Poster session I**](../posters/sessions)
