@@ -1,5 +1,5 @@
 ---
-layout: clinic
+layout: redirect
 redirect: ../development
 tab: Schedule
 title: Schedule
