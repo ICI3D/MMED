@@ -1,5 +1,4 @@
 ---
-name: Zinhle Mthombothi
 tab: Team
-role: MMED Mentor
+role: Faculty Member, MMED and DAIDD clinics
 ---

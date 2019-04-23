@@ -1,5 +1,5 @@
 ---
-name: Reshma Kassanjee, PhD
+name: Laurette Mhlanga
 tab: Team
 role: MMED Mentor
 ---

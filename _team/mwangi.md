@@ -1,5 +1,4 @@
 ---
-name: Thumbi Mwangi, PhD
 tab: Team
-role: MMED Mentor
+role: Faculty Member, MMED and DAIDD clinics
 ---
