@@ -17,7 +17,7 @@ Just a few final notes to help you get the most out of the next two weeks:
     - Track assignments are available from [this link](www.ici3d.org/MMED/participants/trackAssignments), and also indicated by color (A = red, B = blue) on the participant facebook.
     - We have considered the track assignments carefully and ask that you not change tracks; however, if you feel strongly that you would get more out of being in the other track, please discuss this with **Gavin Hitchcock**, who will reassign you if he agrees.
 - In the second week of the Clinic, there are several opportunities for participants to sign up for short one-on-one meetings with the MMED faculty. These are referred to as **Mentoring Sessions** on the schedule. These meetings are an opportunity for you to get to know the faculty better and for you to make sure you get _what you need_ from the Clinic. You can use the time however you like - e.g., to seek career advice, get guidance on a research project, or find out more about the faculty member's background. We suggest you pay close attention through the first week to figure out which faculty member/s you would most like to meet with. At the end of the week, you'll be given an opportunity to sign up for meetings. You can also learn more about each of the faculty members from the links provided on the [MMED Instructors page](http://www.ici3d.org/MMED/team/).
-- Lastly, we have created a shared photo album for MMED 2018. Please feel free to upload any photos you take during the Clinic and to browse those posted by others.
+- Lastly, we have created a shared photo album for MMED 2019. Please feel free to upload any photos you take during the Clinic and to browse those posted by others.
 
 Thanks for reading, and have a great Clinic!
 
@@ -59,7 +59,7 @@ This week, we ask that you:
 
 In addition, we would like to make sure you are aware that you will be working on group projects during the second week of the Clinic and that you will be responsible for submitting a written report on your project by August 1. Guidelines for preparing and submitting the report are available [here](http://www.ici3d.org/MMED/projects/projectReports). We will begin providing outlines of potential projects next week. In the meantime, if you have a data set that you would be able to share and that you think could form the basis of a good project, please let us know as soon as possible, and **no later than 12:00 SAST on Monday 21 May**, by sending an email to <projects@ici3d.org>.
 
-## Messages 2 & 3 (COMBINED IN 2018 DUE TO WM2 GLITCH)
+## Messages 2 & 3 (COMBINED IN 2019 DUE TO WM2 GLITCH)
 
 **Please note: We attempted to send a message last week but realized today that it did not go through. We have therefore combined weekly messages 2 and 3 below. Apologies for any confusion or inconvenience.**
 
@@ -73,7 +73,7 @@ This week, we ask that you:
 
 1. Please begin to familiarize yourself with the computer programs that will be used at MMED. You can find a list of software to install (along with information about poster preparation and other preparatory materials) linked from the [Preparation page](http://www.ici3d.org/MMED/preparation).
 
-    - We ask that you install R and Rstudio on a computer and begin to work with them this week. **You should work through the Rstudio tutorial and the three introductory R tutorials (i.e. Tutorials 0-3 on [the preparation page](http://www.ici3d.org/MMED2018/preparation/) before the Clinic and complete [the associated quiz](https://ugeorgia.qualtrics.com/jfe/form/SV_ewzWcNolLzhBhLD) here.**
+    - We ask that you install R and Rstudio on a computer and begin to work with them this week. **You should work through the Rstudio tutorial and the three introductory R tutorials (i.e. Tutorials 0-3 on [the preparation page](http://www.ici3d.org/MMED2019/preparation/) before the Clinic and complete [the associated quiz](https://ugeorgia.qualtrics.com/jfe/form/SV_ewzWcNolLzhBhLD) here.**
 
 1. North American participants who have not yet booked flights need to do so as soon as possible, unless alternative arrangements have already been approved.
 
@@ -85,9 +85,9 @@ For logistical information, please continue to contact Faikah Bruce, the ICI3D P
 
 ## Message 3
 
-This week, please begin to familiarize yourself with the computer programs that will be used at MMED. You can find a list of software to install (along with information about poster preparation and other preparatory materials) linked from the [Preparation page](http://www.ici3d.org/MMED2018/preparation).
+This week, please begin to familiarize yourself with the computer programs that will be used at MMED. You can find a list of software to install (along with information about poster preparation and other preparatory materials) linked from the [Preparation page](http://www.ici3d.org/MMED2019/preparation).
 
-We ask that you install R and Rstudio on a computer and begin to work with them this week. **You should work through the Rstudio tutorial and the three introductory R tutorials (i.e. Tutorials 0-3 on [the preparation page](http://www.ici3d.org/MMED2018/preparation/) before the Clinic and complete [the associated quiz](https://ugeorgia.qualtrics.com/jfe/form/SV_ewzWcNolLzhBhLD) here.**
+We ask that you install R and Rstudio on a computer and begin to work with them this week. **You should work through the Rstudio tutorial and the three introductory R tutorials (i.e. Tutorials 0-3 on [the preparation page](http://www.ici3d.org/MMED2019/preparation/) before the Clinic and complete [the associated quiz](https://ugeorgia.qualtrics.com/jfe/form/SV_ewzWcNolLzhBhLD) here.**
 
 If you are a facebook user, you are also encouraged to join [our facebook group](https://www.facebook.com/groups/206225166162804/).
 
@@ -109,19 +109,18 @@ If you have any thoughts, comments, or questions about MMED content, please emai
 
 ## Message 1
 
-You are receiving this email because you will be participating in the 2018 Clinic on the Meaningful Modeling of Epidemiological Data (MMED), to be held at the African Institute for Mathematical Sciences in Muizenberg, South Africa, from May 28-June 8. Each week between now and the Clinic, you will receive a message from the MMED Faculty asking you to look at certain information or complete a specific task in preparation for the Clinic.
+You are receiving this email because you will be participating in the 2019 Clinic on the Meaningful Modeling of Epidemiological Data (MMED), to be held at the African Institute for Mathematical Sciences in Muizenberg, South Africa, from May 27-June 7. Each week between now and the Clinic, you will receive a message from the MMED Faculty asking you to look at certain information or complete a specific task in preparation for the Clinic.
 
 Please note that you will need access to the MMED participants GitHub repository to prepare for the Clinic. You will be invited to join the repository after you've completed the following steps:
 
 - Create a GitHub account (register for an account at <https://github.com/>; you may skip this step if you already have a GitHub account)
-- Email your GitHub username and a recent photograph to <github@ici3d.org> by 14:00 (Cape Town time, or 8am Eastern) by Tuesday, May 1.
+- Email your GitHub username and a recent photograph to <github@ici3d.org> by 14:00 (Cape Town time, or 8am Eastern) by Tuesday, 30 Apr.
 
 Photographs will be used to create a directory of participants. If you would prefer that your photo be shared only among Clinic participants, please indicate that in your email. Otherwise, the directory will be made publicly available.
-
-If you are already familiar with GitHub, you should also feel free to explore the repository on your own. Please note, however, that the repository is in development and materials are subject to change as the Clinic approaches.
 
 We have also posted a [preliminary schedule](http://www.ici3d.org/mmed/schedule).
 
 We are looking forward to seeing you in Muizenberg in May!
 
-Steve Bellan, Rebecca Borchering, Faikah Bruce, Jonathan Dushoff, Eduard Grebe, John Hargrove, Carl Pearson, Juliet Pulliam, Eva Ujeneza and Brian Williams ([The MMED faculty](http://www.ici3d.org/people/))
+Rebecca Borchering, Jonathan Dushoff, John Hargrove, Zinhle Mthombothi,Thumbi Mwangi, Juliet Pulliam, Jim Scott, Cari van Schalkwyk, Alex Welte ([The MMED faculty](http://www.ici3d.org/MMED/team/))
+
