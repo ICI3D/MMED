@@ -81,12 +81,14 @@ alertmsg: >
 -   8:30 – 9:15 **Lecture:** Consequences of heterogeneity, and modeling options ([Dushoff](../team/Dushoff)) -
     [Slides](https://ndownloader.figshare.com/files/8541853) - [Handouts](https://github.com/ICI3D/MMEDparticipants/raw/master/Handouts/Dushoff?-HeterogeneityHandouts.pdf)
 -   9:15 – 10:15 **Computer Session:** [R Tutorials](../tutorials) - Lab 2: Consequences of heterogeneity (with [Dushoff](../team/Dushoff), [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD))
+    - You will need the most recent version of the ICI3D R package for this tutorial. If you are using your laptop for the tutorials, please update the package before you begin by running the command <b><code>devtools::install_github('ICI3D/ici3d-pkg')</code></b> in R studio.
+    - To run the tutorial, first load the ICI3D R package (<b><code>library('ICI3D')</code></b>), then load the tutorial (<b><code>heterogeneityTutorial()</code></b>).
     -  Lab 2 Summary ([TBD](../team/TBD)) - [Slides](../tutorials/Gershom-HeterogeneityTutorialSummary.pdf)
 -   10:15 – 10:30 *Coffee break*
 -   10:30 – 10:45 *Sunshine break*
 -   10:45 – 11:00 **Lecture:** Introduction to models and data: HIV in Harare ([Hargrove](../team/hargrove))
 -   11:00 – 12:30 **Computer Session:** Harare data in groups of \<4 (with [Hargrove](../team/hargrove), [TBD](../team/TBD), [TBD](../team/TBD),[Pulliam](../team/Pulliam), [TBD](../team/TBD))
-    - You will need the most recent version of the ICI3D R package for this tutorial. If you are using your laptop for the tutorials, please update the package before you begin by running the command <b><code>devtools::install_github('ICI3D/ici3d-pkg')</code></b> in R studio.
+    - You will need the ICI3D R package for this tutorial.
     - To run the tutorial, first load the ICI3D R package (<b><code>require('ICI3D')</code></b>), then load the tutorial (<b><code>hivTutorial()</code></b>).
     -   If you finish all five versions of the model for the Harare data before lunch, move on to working on data from other countries.
     -   **Additional info:** Distributed Delay Models of Survival (Boxcar Models) - [Slides](../tutorials/distributedDelay.pdf) ([Dushoff](../team/dushoff))
