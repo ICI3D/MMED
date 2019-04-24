@@ -4,7 +4,7 @@ alerttype: warning
 alertmsg: >
   <ul style="font-size:16px">
     <li><b>Information on MMED 2019 is being added to this site.</b> Please check back soon for updates.</li>
-    <li>Information on this year's instructors is now available from the <b>Instructors</b> tab above.</li>
+    <li>The preliminary schedule and information about this year's instructors are now available via the relevant tabs above.</li>
     <li>Reminder: Videos, slides, and other materials from the MMED and DAIDD clinics are available from the <b><a href="https://figshare.com/collections/International_Clinics_on_Infectious_Disease_Dynamics_and_Data/3788224">ICI3D Figshare Collection</a></b>.</li>
   </ul>
 ---
