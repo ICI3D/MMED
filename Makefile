@@ -30,7 +30,7 @@ $(ms)/Makefile:
 
 Ignore += $(ms)
 
-Makefile: $(ms) $(ms)/Makefile ICI3D/Makefile
+Makefile: $(ms)/Makefile ICI3D/Makefile
 ICI3D/Makefile:
 	git submodule update -i
 
