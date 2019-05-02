@@ -1,5 +1,21 @@
 mmed_team.txt
 
+2019 2 May
+==========
+
+Full-group call 
+
+Show the landing page more.
+
+Do we need to give them more time to use computers at specific times?
+* There's a lot of standing around at break
+
+Re-add a github intro
+
+Make a local fb group and encourage them to talk about R tutorials
+
+Ask them to install package(s)
+
 2019 Apr 16 (Tue)
 =================
 
