@@ -5,7 +5,7 @@ tab: Schedule
 subtitle: Formulating Research Questions (Track B)
 ---
 
-In this exercise, we ask participants to go through a series of steps designed to help them think about their approach to research and about communicating their research to those outside their specialization.
+In this exercise, we ask participants to go through a series of steps designed to help them think about their approach to research and about communicating their research to those outside their specialization. Participants in Track B should focus on developing a research question that can be appropriately addressed with a dynamical modelling approach.
 
 ### Step 0
 
