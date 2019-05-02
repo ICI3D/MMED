@@ -146,7 +146,8 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - Please fill in [this form](../logistics/tutorialCatchUp) to indicate what you will work on during the tutorial catch-up session on Saturday and whom you would like to meet for a mentoring session next week. (Due by 17:00 on Friday 1 June.)
     - **13:30 Faculty meeting in Room 105**
--   14:00 – 15:30 **Mentor presentations** (Mentors); Moderator: [Hargrove](../team/hargrove))
+-   14:00 – 14:40 **Mentor presentations** (Mentors); Moderator: [Hargrove](../team/hargrove)) TEN MINUTE BREAK (15 min talks, 5 mins for questions)
+-   14:50 – 15:30 **Mentor presentations** (Mentors); Moderator: [Hargrove](../team/hargrove))
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:00 **MMED Projects** (Moderator: [Pulliam](../team/pulliam))
     - Project group sign-up will be available after this session
@@ -170,17 +171,15 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 
 ### Monday, 3 June
 
-> Go through week two on 29 April.
-
--   8:30 – 9:15 **Lecture:** Doing Science ([Welte?](../team/welte)) - [Slides](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/TBD-DoingScience.pdf)
--   9:15 – 9:30 **Organizational Session:** [Schedule and goals for the second week](https://github.com/ICI3D/MMED/blob/master/scheduleNotes/2_Mon_0915_Borchering?.md) ([Borchering?](../team/borchering))
+-   8:30 – 9:15 **Lecture:** Doing Science ([Welte](../team/welte)) - [Slides](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/TBD-DoingScience.pdf)
+-   9:15 – 9:30 **Organizational Session:** [Schedule and goals for the second week](https://github.com/ICI3D/MMED/blob/master/scheduleNotes/2_Mon_0915_Borchering.md) ([Borchering](../team/borchering))
 -   9:30 – 10:00 **Work Session:** Project groups meet for the first time (All instructors)
 -   10:00 – 10:30 *Coffee break*
--   10:30 – 11:30 **Computer Session:** Introduction to GitHub ([Mthombothi?](../team/mthombothi?)) (with [Pulliam](../team/pulliam), [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD))
+-   10:30 – 11:30 **Computer Session:** Introduction to GitHub ([Mthombothi](../team/mthombothi)) (with [Pulliam](../team/pulliam), [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD))
 -   11:30 – 12:30 **Work Session:** Work plans for group projects (Project groups)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - **13:30 Faculty meeting in Room 105**
--   14:00 – 15:30 **Lecture:** Likelihood fitting and dynamic models II ([Dushoff](../team/dushoff)) - [Slides](https://ndownloader.figshare.com/files/8590054) - [Handouts](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/Dushoff?-FittingDynModel_II_handouts.pdf)
+-   14:00 – 15:30 **Lecture:** Likelihood fitting and dynamic models II ([Pulliam](../team/pulliam)) - [Slides](https://ndownloader.figshare.com/files/8590054) - [Handouts](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/Dushoff?-FittingDynModel_II_handouts.pdf)
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
     - 16:30 – 17:30 **Mentoring Session**: TBD
@@ -189,7 +188,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 
 ### Tuesday, 4 June
 
--   8:30 – 10:00 **Lecture**: Introduction to Monte Carlo Markov Chains (MCMC) ([van Schalkwyk?](../team/vanschalkwyk)) - [Slides (180mb read-only powerpoint slide set with embedded movies)](https://ndownloader.figshare.com/files/8597005)
+-   8:30 – 10:00 **Lecture**: Introduction to Monte Carlo Markov Chains (MCMC) ([Dushoff](../team/dushoff)) - [Slides (180mb read-only powerpoint slide set with embedded movies)](https://ndownloader.figshare.com/files/8597005)
 	- **Download** the lecture locally from an AIMS computer on the desktop if you login as *guest* or, if you have an AIMS account, find it at /srv/local/guest/Desktop
 -   10:00 – 10:30 *Coffee break*
 -   10:30 - 11:30 **Computer session**: MCMC fitting Labs 7-8 in [R Tutorials](../tutorials) (with [Dushoff](../team/dushoff), [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD))
@@ -198,7 +197,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   11:30 – 12:30 **Work Session** (Project groups); **MedPH break-out group** ([Borchering](../team/borchering), [Mthombothi](../team/mthombothi))
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - **13:30 Faculty meeting in Room 105**
--   14:00 – 14:45 **Lecture**: Data wrangling I: Data management and cleaning ([Dushoff](../team/dushoff)) - [Slides](https://mac-theobio.github.io/QMEE/cleaning.slides.html ) - [2016 lecture slides on data bases](../materials/dataManagement.pdf)
+-   14:00 – 14:45 **Lecture**: Data wrangling I: Data management and cleaning ([Mwangi](../team/mwangi)) - [Slides](https://mac-theobio.github.io/QMEE/cleaning.slides.html ) - [2016 lecture slides on data bases](../materials/dataManagement.pdf)
 -   14:45 – 15:30 **Computer session**: [R Tutorials](../tutorials) - Data wrangling (with [TBD](../team/TBD, [TBD](../team/TBD), [TBD](../team/TBD), [Pulliam?](../team/Pulliam?), [TBD](../team/TBD))
     - Tutorial 5 Summary ([TBD](../team/TBD)) - Slides to be added
 -   15:30 – 16:00 *Tea*
@@ -206,29 +205,29 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
     - 16:30 – 17:30 **Mentoring Session** - TBD
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00
-    **[AIMS Public Lecture Series](https://www.aims.ac.za/en/research-centre/public-lectures) (optional):** [Welte?](../talks/welte)
+    **[AIMS Public Lecture Series](https://www.aims.ac.za/en/research-centre/public-lectures) (optional):** [Pulliam](../talks/pulliam)
 
 ### Wednesday, 5 June
 
--   8:30 – 9:30 **Lecture**: Model assessment ([Dushoff?](../team/Dushoff?)) - Slides to be added
--   9:30 - 10:00 **Computer Session:** Tutorial catch-up, as needed (with [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD))
+-   8:30 – 9:30 **Lecture**: Model assessment ([Dushoff](../team/Dushoff)) - Slides to be added
+-   9:30 - 10:00  **Work Session** (Project groups); **Computer Session:** Tutorial catch-up, as needed, with floaters???
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:30 **Work Session** (Project groups)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - **Sign up to go to on Saturday's field trip by 13:00.**
     - **13:30 Faculty meeting in Room 105**
 -   14:00 – 15:30 **Work Session** (Project groups)
-    - 14:00 – 15:00 _Optional Session:_ Stochastic modelling II ([Dushoff?](../team/dushoff) and [TBD](../team/TBD)??) - Slides to be added
+    - 14:00 – 15:00 _Optional Session:_ Stochastic modelling II ([Dushoff](../team/dushoff) and [TBD](../team/TBD)??) - Slides to be added
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
     - 16:30 – 17:30 **Mentoring Session** - TBD
 -   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 **Real-world example (optional lecture):** Research Talk ([Kassanjee?](../talks/kassanjee))
+-   19:00 – 20:00 **Real-world example (optional lecture):** Research Talk ([Welte](../talks/welte))
 
 ### Thursday, 6 June
 
--   8:30 – 9:15 **Lecture:** A decision tree for vaccine trial design during public health emergencies (work from the WHO Blueprint for Research & Development) ([Dushoff](../team/dushoff)) - [Slides](https://github.com/ICI3D/MMEDparticipants/raw/master/Lectures/BellanDecTreeUI.pdf)
--   9:15 - 10:00 **Computer Session:** Tutorial catch-up, as needed ([TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD), [TBD](../team/TBD))
+-   8:30 – 9:15 **Discussion**: Modeling for policy ([Hargrove](../team/hargrove)
+-   9:30 - 10:00  **Work Session** (Project groups); **Computer Session:** Tutorial catch-up, as needed, with floaters???
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:30 **Work Session** (Project groups)
     - 10:30 – 11:30 **Mentoring Session** - TBD
@@ -244,8 +243,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 
 ### Friday, 7 June
 
--   8:30 – 9:15 **Discussion**: Modeling for policy ([Pulliam??](../team/pulliam))
--   9:15 – 10:00 **Work Session** (Project groups)
+-   8:30 – 10:00 **Work Session** (Project groups)
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:30 **Work Session** (Project groups) - Mentors
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
