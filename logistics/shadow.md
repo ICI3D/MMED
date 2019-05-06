@@ -1,5 +1,5 @@
 ---
-layout: redirect
+layout: clinic
 redirect: ../development
 tab: Logistics
 title: Logistics
