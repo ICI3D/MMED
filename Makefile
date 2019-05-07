@@ -19,7 +19,7 @@ Ignore += $(ms)
 
 ######################################################################
 
-Sources += Makefile .gitignore README.md
+Sources += Makefile README.md
 
 Sources += notes.md mmed_team.txt
 
