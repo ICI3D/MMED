@@ -179,7 +179,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   16:00 – 17:30 **Work Session** (Project groups)
     - 16:30 – 17:30 **Mentoring Session** - TBD
 -   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 **[AIMS Public Lecture Series](https://www.aims.ac.za/en/research-centre/public-lectures) (optional):** [Pulliam](../talks/pulliam)
+-   19:00 – 20:00 **Real-world example (optional lecture):** Research Talk ([Pulliam](../talks/pulliam))
 
 ### Wednesday, 5 June
 
@@ -198,7 +198,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 
 ### Thursday, 6 June
 
--   8:30 – 9:15 **Discussion**: Modeling for policy ([Hargrove](../team/hargrove)
+-   8:30 – 9:15 **Discussion**: Modeling for policy ([Hargrove](../team/hargrove))
 -   9:30 - 10:00  **Work Session** (Project groups)
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:30 **Work Session** (Project groups)
