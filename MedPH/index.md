@@ -1,7 +1,7 @@
 ---
 layout: medph.page
 title: Mathematical Modeling in Medicine and Public Health
-summary: Biomathematics Honours Course for AIMS students ~ May 21 - June 8, 2018
+summary: Biomathematics Honours Course for AIMS students ~ May 20 - June 7, 2019
 repo: https://github.com/ICI3D/MathModelsMedPH
 alerttype: success
 alertmsg: <b>You will need to be logged into your GitHub account to access some of the materials linked below.</b>
@@ -36,11 +36,11 @@ alertmsg: <b>You will need to be logged into your GitHub account to access some 
       <h4>Becky Borchering, PhD, MS</h4>
 
       <ul>
-        <li> Department of Biology, University of Florida (<a href="{{site.absoluteurl}}/people/borchering">link</a>) </li>
-        <li> Email: rborchering (at) ufl (dot) edu</li>
+        <li> Department of Biology, University of Georgia (<a href="{{site.absoluteurl}}/people/borchering">link</a>) </li>
+        <li> Email: rebecca (dot) borchering (at) uga (dot) edu</li>
       </ul>
 
-      <h4> Zinhle Mthombothi (mentor), BSc, MSc </h4>
+      <h4> Zinhle Mthombothi, BSc, MSc </h4>
 
       <ul>
         <li> South African Centre for Epidemiological Modelling and Analysis, University of Stellenbosch </li>
