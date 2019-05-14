@@ -57,39 +57,15 @@ This week, we ask that you:
 
 1. Check out the [MMED clinic website](http://www.ici3d.org/MMED), for logistical information, the latest version of the draft schedule, and more.
 
+If you are a facebook user, you are also encouraged to join [our facebook group](https://www.facebook.com/groups/206225166162804/).
+
 In addition, we would like to make sure you are aware that you will be working on group projects during the second week of the Clinic and that you will be responsible for submitting a written report on your project by August 1. Guidelines for preparing and submitting the report are available [here](http://www.ici3d.org/MMED/projects/projectReports). We will begin providing outlines of potential projects next week. In the meantime, if you have a data set that you would be able to share and that you think could form the basis of a good project, please let us know as soon as possible, and **no later than 12:00 SAST on Monday 20 May**, by sending an email to <projects@ici3d.org>.
-
-## Messages 2 & 3 (COMBINED IN 2019 DUE TO WM2 GLITCH)
-
-**Please note: We attempted to send a message last week but realized today that it did not go through. We have therefore combined weekly messages 2 and 3 below. Apologies for any confusion or inconvenience.**
-
-Thank you to everyone who has sent their GitHub information and photo. If you have not already sent your GitHub username and a recent photo to <github@ici3d.org>, please do so as soon as possible. **You will need to log in to your GitHub account to access some preparation materials.**
-
-This week, we ask that you:
-
-1. Please fill out [this form](http://www.ici3d.org/MMED/logistics/logisticsForm) to let us know if you have any **dietary restrictions**, your **t-shirt size**, and a few field trip related questions no later than **17:00 SAST on Thursday 9 May**.
-
-1. Check out the [MMED Poster Guidelines](http://www.ici3d.org/MMED/posters), and begin working on your poster. If you would prefer not to travel with your poster, note that you can submit your poster to <posters@ici3d.org> by 17:00 (South African standard time) on May 18 to have your poster printed for you and delivered to AIMS. Additional information about submitting your poster for printing is available via the link above.
-
-1. Please begin to familiarize yourself with the computer programs that will be used at MMED. You can find a list of software to install (along with information about poster preparation and other preparatory materials) linked from the [Preparation page](http://www.ici3d.org/MMED/preparation).
-
-    - We ask that you install R and Rstudio on a computer and begin to work with them this week. **You should work through the Rstudio tutorial and the three introductory R tutorials (i.e. Tutorials 0-3 on [the preparation page](http://www.ici3d.org/MMED2019/preparation/) before the Clinic and complete [the associated quiz](https://ugeorgia.qualtrics.com/jfe/form/SV_ewzWcNolLzhBhLD) here.**
-
-1. North American participants who have not yet booked flights need to do so as soon as possible, unless alternative arrangements have already been approved.
-
-If you are a Twitter user, you are encouraged to follow [our twitter feed](https://twitter.com/ICI3D/). You may also want to follow our most Twitter-active faculty members: [@jd_mathbio](https://twitter.com/jd_mathbio), [@EvaUje](https://twitter.com/EvaUje), [@lechaquel](https://twitter.com/lechaquel), and [@SACEMAdirector](https://twitter.com/SACEMAdirector). If you are a Facebook user, you are encouraged to join [our facebook group](https://www.facebook.com/groups/206225166162804/).
-
-If you have any thoughts, comments, or questions about MMED content, please email us at <faculty@ici3d.org>.
-
-For logistical information, please continue to contact Amanda October, the SACEMA-ICI3D Coordinator, at <admin@ici3d.org>.
 
 ## Message 3
 
 This week, please begin to familiarize yourself with the computer programs that will be used at MMED. You can find a list of software to install (along with information about poster preparation and other preparatory materials) linked from the [Preparation page](http://www.ici3d.org/MMED2019/preparation).
 
-We ask that you install R and Rstudio on a computer and begin to work with them this week. **You should work through the Rstudio tutorial and the three introductory R tutorials (i.e. Tutorials 0-3 on [the preparation page](http://www.ici3d.org/MMED2019/preparation/) before the Clinic and complete [the associated quiz](https://ugeorgia.qualtrics.com/jfe/form/SV_ewzWcNolLzhBhLD) here.**
-
-If you are a facebook user, you are also encouraged to join [our facebook group](https://www.facebook.com/groups/206225166162804/).
+We ask that you install R and Rstudio on a computer and begin to work with them this week. **You should work through the Rstudio tutorial and the three introductory R tutorials (i.e. Tutorials 0-3 on [the preparation page](http://www.ici3d.org/MMED2019/preparation/) before the Clinic and complete [the associated quiz](https://survey.az1.qualtrics.com/jfe/form/SV_cAV8F8D4hUfiXdj) here.** If you are already an intermediate or advanced R user, you may skip to the Benchmark Questions for Tutorials 1-3, and complete the quiz. If you find that you are unfamiliar with any of the material covered in the questions, we recommend that you work through the associated tutorial.
 
 Please feel free to email us at <faculty@ici3d.org> with any thoughts or questions you have as you prepare for the Clinic.
 
