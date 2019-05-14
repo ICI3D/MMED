@@ -1,5 +1,5 @@
 ---
-layout: redirect
+layout: clinic
 redirect: ../development
 tab: Preparation
 title: Preparation
@@ -13,7 +13,7 @@ alertmsg: Please prepare for the Clinic by completing the following tasks. <b>Yo
 Prepare a poster presentation to share your research.
 
 - Poster preparation guidelines are available [here](../posters).  
-- Be sure to submit your poster by the May 18 deadline, if you would like us to print it for you.
+- Be sure to submit your poster by the May 17 deadline, if you would like us to print it for you.
 - See [this page](../posters/sessions) for poster session assignments.
 
 ### <a id="#Software"></a> 2. Software installation
@@ -42,7 +42,7 @@ When you have successfully installed both R and R Studio, please work through th
 - Tutorial 2: [More on Vectors, Data Frames, and Functions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_2.R) (required)
 - Tutorial 3: [Probability Distributions and Control Structures](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_3.R) (required)
 
-- As you complete these tutorials, please complete [the associated quiz](https://ugeorgia.qualtrics.com/jfe/form/SV_ewzWcNolLzhBhLD).
+- As you complete these tutorials, please complete [the associated quiz](https://survey.az1.qualtrics.com/jfe/form/SV_cAV8F8D4hUfiXdj).
 
 If you are unfamiliar with or rusty on your understanding of the [Binomial Distribution](http://en.wikipedia.org/wiki/Binomial_distribution), you may also want to work through the [introductory Binomial Distribution tutorial](https://raw.githubusercontent.com/ICI3D/RTutorials/master/binomialDistribution.R).
 
