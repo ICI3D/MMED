@@ -6,6 +6,14 @@ title: Weekly Messages
 subtitle: Weekly Messages
 ---
 
+## Message 3
+
+This week, please begin to familiarize yourself with the computer programs that will be used at MMED. You can find a list of software to install (along with information about poster preparation and other preparatory materials) linked from the Preparation page.
+
+We ask that you install R and Rstudio on a computer and begin to work with them this week. You should work through the Rstudio tutorial and the three introductory R tutorials (i.e. Tutorials 0-3 on the preparation page before the Clinic and complete the associated quiz here. If you are already an intermediate or advanced R user, you may skip to the Benchmark Questions for Tutorials 1-3, and complete the quiz. If you find that you are unfamiliar with any of the material covered in the questions, we recommend that you work through the associated tutorial.
+
+Please feel free to email us at <faculty@ici3d.org> with any thoughts or questions you have as you prepare for the Clinic.
+
 ## Message 2
 
 Thank you to everyone who has sent their GitHub information and photo. If you have not already sent your GitHub username and a recent photo to <github@ici3d.org>, please do so as soon as possible. **You will need to log in to your GitHub account to access some preparation materials.**
