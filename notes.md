@@ -15,10 +15,20 @@ Proposals
 * Nature HIV maps https://www.nature.com/articles/s41586-019-1200-9 (??)
 * Influenza seasonality and reporting (Becky)
 * MSF data: ascertainment of risk of infection from a a cross-sectional survey modeling to unravel circularity (Alex)
+* Dynamical fever?
+* Muizenberg fever?
+* Host viremia (looking for a sponsor)
+* Rabies (Thumbi)
 * Talk to Bobby
+
+Projects
+* Engage ourselves and participants better. Maybe a short slide show early on.
+* Better-specified projects
+* Less about what's publishable
 
 Sessions
 * Juliet will share a google doc README.md
+* Go through notes that might apply to you, make slides and share …
 
 2019 2 May
 ==========
