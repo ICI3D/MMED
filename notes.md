@@ -1,5 +1,25 @@
 mmed_team.txt
 
+2019 16 May
+==========
+
+Full-group call (yay!)
+
+Proposals
+* Vaccination strategies for rubella in RSA (Juliet)
+	* Use seroprevalence (possibly notifications later?)
+* Western Cape cervical cancer cytology data
+	* By HIV status, ART status … (Cari)
+* Malaria: refocus on less cleaning and a more specific question? Bail? (Jonathan)
+* Morsitans population dynamics. Continue with current IBM. Lots of data. (John)
+* Nature HIV maps https://www.nature.com/articles/s41586-019-1200-9 (??)
+* Influenza seasonality and reporting (Becky)
+* MSF data: ascertainment of risk of infection from a a cross-sectional survey modeling to unravel circularity (Alex)
+* Talk to Bobby
+
+Sessions
+* Juliet will share a google doc README.md
+
 2019 2 May
 ==========
 
