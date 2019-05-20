@@ -33,7 +33,7 @@ Sources += notes.md mmed_team.txt
 
 Sources += weekly.md mentor_prep.md
 
-subdirs += pages
+subdirs += pages schedule
 
 Ignore += $(subdirs)
 
