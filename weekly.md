@@ -25,19 +25,19 @@ Thanks for reading, and have a great Clinic!
 
 Some final notes on preparing for the Clinic:
 
-1. Please review the [logistical information](http://www.ici3d.org/MMED/logistics/) provided. As you prepare to travel to AIMS, please keep in mind that it is winter in South Africa and consider packing a sweater and/or heavy jacket. Be sure to check out the information page for more helpful tips! If you are flying into CPT, please pay particular attention to the [arrival schedule](../logistics/arrivalDetails), and let us know immediately via email to <arrival@ici3d.org> if there is any problem or discrepancy. We will update this schedule with shuttle times in the next couple of days. We recommend printing a copy of this page and bringing it with you to ensure you know where to go upon arrival and how to contact us in case of a delay. If you have trouble finding someone at the airport please call Igsaan (+27 72 216 5628, AIMS Head of Facilities & Logistics) or Faikah (+27 83 360 3257, ICI3D Program Assistant).
+1. Please review the [logistical information](http://www.ici3d.org/MMED/logistics/) provided. As you prepare to travel to AIMS, please keep in mind that it is winter in South Africa and consider packing a sweater and/or heavy jacket. Be sure to check out the information page for more helpful tips! If you are flying into CPT, please pay particular attention to the [arrival schedule](../logistics/airportTransfers), and let us know immediately via email to <arrival@ici3d.org> if there is any problem or discrepancy. This document also includes shuttle times for transfers from CPT to AIMS. We recommend printing a copy of this page and bringing it with you to ensure you know where to go upon arrival and how to contact us in case of a delay. If you have trouble finding the driver at the airport please call Igsaan (+27 72 216 5628, AIMS Head of Facilities & Logistics).
 
 1. Please make sure your poster is ready to go ([see guidelines](http://www.ici3d.org/MMED/posters)). All posters that we received by the deadline have been sent for printing. If we have not received your poster, please be aware that the deadline for printing has passed and we expect you to print it and bring it with you. Everyone should also bring an electronic copy of their poster.
 
-1. Please ensure you have completed the required R and git tutorials and the associated online [quiz](https://ugeorgia.qualtrics.com/jfe/form/SV_ewzWcNolLzhBhLD).
+1. Please ensure you have completed the required R and git tutorials and the associated online [quiz](https://survey.az1.qualtrics.com/jfe/form/SV_cAV8F8D4hUfiXdj).
 
 1. Please note that we have posted the first set of possible projects on the [projects page](http://www.ici3d.org/MMED/projects/). We will be posting more over the next few days. We recommend that you browse through the project descriptions before the Clinic to familiarize yourself with the options.
 
 1. If you will be bringing a laptop computer to the Clinic, now would be a good time to double-check that you have all of the [necessary software](http://www.ici3d.org/MMED/preparation#Software) installed on the computer you will be using. Desktop computers (with appropriate software) will be available for use by those who need them.
 
-1. Please fill out the attached forms (for photo release form and emergency contact) and return them to <forms@ici3d.org> form **by 15:00 SAST on Friday 25 May!**
+1. Please fill out the attached forms (for photo release form and emergency contact) and return them to <forms@ici3d.org> form **by the end of the day on Monday!**
 
-1. Note that breakfast at AIMS is served from 7:45 to 8:30. If you arrive in Muizenberg after 18:00 on Sunday, you will need to register on Monday morning, so be sure to give yourself sufficient time to register and eat!
+1. Note that breakfast at AIMS is served from 7:45 to 8:30. If you arrive in Muizenberg after 17:00 on Sunday, you will need to register on Monday morning, so be sure to give yourself sufficient time to register and eat!
 
 1. Finally, please do not hesitate to let us know at <faculty@ici3d.org> if you have any questions!
 
@@ -63,9 +63,9 @@ In addition, we would like to make sure you are aware that you will be working o
 
 ## Message 3
 
-This week, please begin to familiarize yourself with the computer programs that will be used at MMED. You can find a list of software to install (along with information about poster preparation and other preparatory materials) linked from the [Preparation page](http://www.ici3d.org/MMED2019/preparation).
+This week, please begin to familiarize yourself with the computer programs that will be used at MMED. You can find a list of software to install (along with information about poster preparation and other preparatory materials) linked from the [Preparation page](http://www.ici3d.org/MMED/preparation).
 
-We ask that you install R and Rstudio on a computer and begin to work with them this week. **You should work through the Rstudio tutorial and the three introductory R tutorials (i.e. Tutorials 0-3 on [the preparation page](http://www.ici3d.org/MMED2019/preparation/) before the Clinic and complete [the associated quiz](https://survey.az1.qualtrics.com/jfe/form/SV_cAV8F8D4hUfiXdj) here.** If you are already an intermediate or advanced R user, you may skip to the Benchmark Questions for Tutorials 1-3, and complete the quiz. If you find that you are unfamiliar with any of the material covered in the questions, we recommend that you work through the associated tutorial.
+We ask that you install R and Rstudio on a computer and begin to work with them this week. **You should work through the Rstudio tutorial and the three introductory R tutorials (i.e. Tutorials 0-3 on [the preparation page](http://www.ici3d.org/MMED/preparation/) before the Clinic and complete [the associated quiz](https://survey.az1.qualtrics.com/jfe/form/SV_cAV8F8D4hUfiXdj) here.** If you are already an intermediate or advanced R user, you may skip to the Benchmark Questions for Tutorials 1-3, and complete the quiz. If you find that you are unfamiliar with any of the material covered in the questions, we recommend that you work through the associated tutorial.
 
 Please feel free to email us at <faculty@ici3d.org> with any thoughts or questions you have as you prepare for the Clinic.
 
