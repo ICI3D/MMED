@@ -21,8 +21,6 @@ that will generate screening coverage that match data.
 - _This group will have the opportunity to:_
     - Practice fitting a simulation model to time series data for the purpose of inferring the underlying processes
 
-- Stochastic models session
-
 ## Background
 
 The results of this project will feed into a population level simulation model of HIV, HPV and cervical cancer in South Africa. This stochastic dynamical model simulates sexual behaviour, HIV and HPV transmission and progression, 
@@ -39,8 +37,8 @@ the purposes of this project we will use R.
 
 ### References
 
-- https://sti.bmj.com/content/95/2/122.abstract
+- van Schalwyk, Moodley, Welte, and Johnson. (2019) [Are associations between HIV and human papillomavirus transmission due to behavioural confounding or biological effects?](https://github.com/ICI3D/MMEDparticipants/raw/master/Readings/cancerScreening/vanSchalkwyk2019.pdf) _Sex Transm Infect_ **95**: 122–128. doi: 10.1136/sextrans-2018-053558
 
 ### Tutorials
 
-- Provide links to training materials that will help participants learn to do necessary analyses
+- [Exercise 1: Basic stochastic simulation models](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_spillover_introductions.R)
