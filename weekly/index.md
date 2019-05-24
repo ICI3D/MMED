@@ -8,11 +8,15 @@ subtitle: Weekly Messages
 
 ## Message 3
 
-This week, please begin to familiarize yourself with the computer programs that will be used at MMED. You can find a list of software to install (along with information about poster preparation and other preparatory materials) linked from the Preparation page.
+This week, we ask that you begin to familiarize yourself with the computer programs that will be used at MMED. You can find a list of software to install (along with information about poster preparation and other preparatory materials) linked from the [Preparation](http://www.ici3d.org/MMED/preparation/) page.
 
-We ask that you install R and Rstudio on a computer and begin to work with them this week. You should work through the Rstudio tutorial and the three introductory R tutorials (i.e. Tutorials 0-3 on the preparation page before the Clinic and complete the associated quiz here. If you are already an intermediate or advanced R user, you may skip to the Benchmark Questions for Tutorials 1-3, and complete the quiz. If you find that you are unfamiliar with any of the material covered in the questions, we recommend that you work through the associated tutorial.
+Please install R and Rstudio on a computer and begin to work with them. **You should work through the Rstudio tutorial and the three introductory R tutorials (i.e. Tutorials 0-3 on [the preparation page](http://www.ici3d.org/MMED/preparation/) before the Clinic and complete [the associated quiz](https://survey.az1.qualtrics.com/jfe/form/SV_cAV8F8D4hUfiXdj) here.** (If you are already an intermediate or advanced R user, you may skip to the Benchmark Questions for Tutorials 1-3, and complete the quiz. If you find that you are unfamiliar with any of the material covered in the questions, we recommend that you work through the associated tutorial.)
 
-Please feel free to email us at <faculty@ici3d.org> with any thoughts or questions you have as you prepare for the Clinic.
+You should also begin to familiarize yourself with git, the version control system we'll be using for collaborative projects. To do this, please complete [this free, browser-based tutorial from Codecademy](https://www.codecademy.com/learn/learn-git). If you are already comfortable using git, you can skip this activity, but if you're new to git (or your skills are rusty), please take the time to work through all four lessons (Basic Git Workflow, How to Backtrack in Git, Git Branching, and Git Teamwork). Investing 2-3 hours of time learning git _now_ will pay off down the line! More information is available on [the preparation page](http://www.ici3d.org/MMED/preparation).
+
+**Feedback from participants in previous years has often included comments on how they wish they had invested more time in learning R and git _before_ the beginning of the Clinic, so we encourage you to start these tutorials now and work through them steadily over the next week and a half.**
+
+If you are a Facebook user, you are also encouraged to join the [MMED 2019 Facebook Group](https://www.facebook.com/groups/406006909952568/), which you can use to post questions you have about the tutorials, as well as to start getting to know some of the participants and instructors.
 
 ## Message 2
 
