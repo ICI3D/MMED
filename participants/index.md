@@ -1,9 +1,9 @@
 ---
-layout: redirect
+layout: clinic
 redirect: ../development
 tab: Participants
 title: Participants
-subtitle: MMED 2018 Participants
+subtitle: MMED 2019 Participants
 ---
 
 - [List of participants](./participantList)
