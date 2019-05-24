@@ -1,36 +1,15 @@
 ---
-layout: redirect
+layout: clinic
 redirect: ../development
-subtitle: MMED 2018 Projects
+subtitle: MMED 2019 Projects
 tab: Projects
 title: Projects
 alerttype: warning
-alertmsg: >
-  <ul>
-  <li><b>Guidelines for the project presentations (on Friday) are available <a href="./projectPresentations">here</a>.</b></li>
-  <li><b>Guidelines for the project reports (due 1 Aug) are available <a href="./projectReports">here</a>.</b></li>
-  </ul>
+alertmsg: Potential group projects for the second week of the Clinic are being added below. This page is in progress.
 ---
 
-- [Dynamical Fever](./dynamicalFever)
-    - **Faculty:**  Eduard, Eva
-    - **Group members:**  Bryan, Evaristar, Jerry, Marijn
-    - **Repository:** [dynamicalFeverFitting](http://www.github.com/ICI3D/dynamicalFeverFitting)
-- [Dynamics of Malaria Immunity](./malariaImmunity)
-    - **Faculty and mentors:**  Jonathan, Roger
-    - **Group members:**  Julius, Francois, Olugbenga, Sarah V, Surabhi, Vusi
-    - **Repository:** [malariaImmunity](http://www.github.com/ICI3D/malariaImmunity)
+- [Estimating probabilities of entering cervical cancer screening](./cancerScreening)
+- [Mechanisms of seasonality](./seasonalData)
+- [Turning cross-sectional survey data into HIV incidence estimates](./incidenceEstimation)
 - [Tsetse fly population dynamics](./tsetse)
-    - **Faculty and mentors:**  John, Zinhle
-    - **Group members:** Elisha, Mandy, Lauren, Sarah G, Whitney
-    - **Repository:** [tsetsePops](http://www.github.com/ICI3D/tsetsePops)
-- [Trauma Care Trial Design](./traumaTrial)
-    - **Faculty:**  Carl, Faikah
-    - **Group members:** Aida, Bridget, Chilperic, Jen, Kyle, Vania
-    - **Repository:** [traumaTrial](http://www.github.com/ICI3D/traumaTrial)
 - [Rabies Elimination in Kenya](./rabiesKenya)
-    - **Faculty and mentors:**  Juliet, Thumbi
-    - **Group members:**  Boboh, Expeditho, Linsay, Marilyn, Mercy, Pablo
-    - **Repository:** [rabiesElimination](http://www.github.com/ICI3D/rabiesElimination)
-
-_Becky, Brian, and Reshma will circulate among project groups._
