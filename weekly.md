@@ -25,19 +25,19 @@ Thanks for reading, and have a great Clinic!
 
 Some final notes on preparing for the Clinic:
 
-1. Please review the [logistical information](http://www.ici3d.org/MMED/logistics/) provided. As you prepare to travel to AIMS, please keep in mind that it is winter in South Africa and consider packing a sweater and/or heavy jacket. Be sure to check out the information page for more helpful tips! If you are flying into CPT, please pay particular attention to the [arrival schedule](http://www.ici3d.org/MMED/logistics/arrivalDetails.md), and let us know immediately via email to <arrival@ici3d.org> if there is any problem or discrepancy. We will update this schedule with shuttle times in the next couple of days. We recommend printing a copy of this page and bringing it with you to ensure you know where to go upon arrival and how to contact us in case of a delay. If you have trouble finding someone at the airport please call Igsaan (+27 72 216 5628, AIMS Head of Facilities & Logistics) or Faikah (+27 83 360 3257, ICI3D Program Assistant).
+1. Please review the [logistical information](http://www.ici3d.org/MMED/logistics/) provided. As you prepare to travel to AIMS, please keep in mind that it is winter in South Africa and consider packing a sweater and/or heavy jacket. Be sure to check out the information page for more helpful tips! If you are flying into CPT, please pay particular attention to the [arrival schedule](http://www.ici3d.org/MMED/logistics/airportTransfers), and let us know immediately via email to <arrival@ici3d.org> if there is any problem or discrepancy. This document also includes shuttle times for transfers from CPT to AIMS. We recommend printing a copy of this page and bringing it with you to ensure you know where to go upon arrival and how to contact us in case of a delay. If you have trouble finding the driver at the airport please call Igsaan (+27 72 216 5628, AIMS Head of Facilities & Logistics).
 
 1. Please make sure your poster is ready to go ([see guidelines](http://www.ici3d.org/MMED/posters)). All posters that we received by the deadline have been sent for printing. If we have not received your poster, please be aware that the deadline for printing has passed and we expect you to print it and bring it with you. Everyone should also bring an electronic copy of their poster.
 
-1. Please ensure you have completed the required R and git tutorials and the associated online [quiz](https://ugeorgia.qualtrics.com/jfe/form/SV_ewzWcNolLzhBhLD).
+1. Please ensure you have completed the required R and git tutorials and the associated online [quiz](https://survey.az1.qualtrics.com/jfe/form/SV_cAV8F8D4hUfiXdj).
 
 1. Please note that we have posted the first set of possible projects on the [projects page](http://www.ici3d.org/MMED/projects/). We will be posting more over the next few days. We recommend that you browse through the project descriptions before the Clinic to familiarize yourself with the options.
 
 1. If you will be bringing a laptop computer to the Clinic, now would be a good time to double-check that you have all of the [necessary software](http://www.ici3d.org/MMED/preparation#Software) installed on the computer you will be using. Desktop computers (with appropriate software) will be available for use by those who need them.
 
-1. Please fill out the attached forms (for photo release form and emergency contact) and return them to <forms@ici3d.org> form **by 15:00 SAST on Friday 25 May!**
+1. Please fill out the attached forms (for photo release form and emergency contact) and return them to <forms@ici3d.org> form **by the end of the day on Monday!**
 
-1. Note that breakfast at AIMS is served from 7:45 to 8:30. If you arrive in Muizenberg after 18:00 on Sunday, you will need to register on Monday morning, so be sure to give yourself sufficient time to register and eat!
+1. Note that breakfast at AIMS is served from 7:45 to 8:30. If you arrive in Muizenberg after 17:00 on Sunday, you will need to register on Monday morning, so be sure to give yourself sufficient time to register and eat!
 
 1. Finally, please do not hesitate to let us know at <faculty@ici3d.org> if you have any questions!
 
@@ -57,57 +57,33 @@ This week, we ask that you:
 
 1. Check out the [MMED clinic website](http://www.ici3d.org/MMED), for logistical information, the latest version of the draft schedule, and more.
 
+If you are a facebook user, you are also encouraged to join [our facebook group](https://www.facebook.com/groups/206225166162804/).
+
 In addition, we would like to make sure you are aware that you will be working on group projects during the second week of the Clinic and that you will be responsible for submitting a written report on your project by August 1. Guidelines for preparing and submitting the report are available [here](http://www.ici3d.org/MMED/projects/projectReports). We will begin providing outlines of potential projects next week. In the meantime, if you have a data set that you would be able to share and that you think could form the basis of a good project, please let us know as soon as possible, and **no later than 12:00 SAST on Monday 20 May**, by sending an email to <projects@ici3d.org>.
-
-## Messages 2 & 3 (COMBINED IN 2019 DUE TO WM2 GLITCH)
-
-**Please note: We attempted to send a message last week but realized today that it did not go through. We have therefore combined weekly messages 2 and 3 below. Apologies for any confusion or inconvenience.**
-
-Thank you to everyone who has sent their GitHub information and photo. If you have not already sent your GitHub username and a recent photo to <github@ici3d.org>, please do so as soon as possible. **You will need to log in to your GitHub account to access some preparation materials.**
-
-This week, we ask that you:
-
-1. Please fill out [this form](http://www.ici3d.org/MMED/logistics/logisticsForm) to let us know if you have any **dietary restrictions**, your **t-shirt size**, and a few field trip related questions no later than **17:00 SAST on Thursday 9 May**.
-
-1. Check out the [MMED Poster Guidelines](http://www.ici3d.org/MMED/posters), and begin working on your poster. If you would prefer not to travel with your poster, note that you can submit your poster to <posters@ici3d.org> by 17:00 (South African standard time) on May 18 to have your poster printed for you and delivered to AIMS. Additional information about submitting your poster for printing is available via the link above.
-
-1. Please begin to familiarize yourself with the computer programs that will be used at MMED. You can find a list of software to install (along with information about poster preparation and other preparatory materials) linked from the [Preparation page](http://www.ici3d.org/MMED/preparation).
-
-    - We ask that you install R and Rstudio on a computer and begin to work with them this week. **You should work through the Rstudio tutorial and the three introductory R tutorials (i.e. Tutorials 0-3 on [the preparation page](http://www.ici3d.org/MMED2019/preparation/) before the Clinic and complete [the associated quiz](https://ugeorgia.qualtrics.com/jfe/form/SV_ewzWcNolLzhBhLD) here.**
-
-1. North American participants who have not yet booked flights need to do so as soon as possible, unless alternative arrangements have already been approved.
-
-If you are a Twitter user, you are encouraged to follow [our twitter feed](https://twitter.com/ICI3D/). You may also want to follow our most Twitter-active faculty members: [@jd_mathbio](https://twitter.com/jd_mathbio), [@EvaUje](https://twitter.com/EvaUje), [@lechaquel](https://twitter.com/lechaquel), and [@SACEMAdirector](https://twitter.com/SACEMAdirector). If you are a Facebook user, you are encouraged to join [our facebook group](https://www.facebook.com/groups/206225166162804/).
-
-If you have any thoughts, comments, or questions about MMED content, please email us at <faculty@ici3d.org>.
-
-For logistical information, please continue to contact Amanda October, the SACEMA-ICI3D Coordinator, at <admin@ici3d.org>.
 
 ## Message 3
 
-This week, please begin to familiarize yourself with the computer programs that will be used at MMED. You can find a list of software to install (along with information about poster preparation and other preparatory materials) linked from the [Preparation page](http://www.ici3d.org/MMED2019/preparation).
+This week, please begin to familiarize yourself with the computer programs that will be used at MMED. You can find a list of software to install (along with information about poster preparation and other preparatory materials) linked from the [Preparation page](http://www.ici3d.org/MMED/preparation).
 
-We ask that you install R and Rstudio on a computer and begin to work with them this week. **You should work through the Rstudio tutorial and the three introductory R tutorials (i.e. Tutorials 0-3 on [the preparation page](http://www.ici3d.org/MMED2019/preparation/) before the Clinic and complete [the associated quiz](https://ugeorgia.qualtrics.com/jfe/form/SV_ewzWcNolLzhBhLD) here.**
-
-If you are a facebook user, you are also encouraged to join [our facebook group](https://www.facebook.com/groups/206225166162804/).
+We ask that you install R and Rstudio on a computer and begin to work with them this week. **You should work through the Rstudio tutorial and the three introductory R tutorials (i.e. Tutorials 0-3 on [the preparation page](http://www.ici3d.org/MMED/preparation/) before the Clinic and complete [the associated quiz](https://survey.az1.qualtrics.com/jfe/form/SV_cAV8F8D4hUfiXdj) here.** If you are already an intermediate or advanced R user, you may skip to the Benchmark Questions for Tutorials 1-3, and complete the quiz. If you find that you are unfamiliar with any of the material covered in the questions, we recommend that you work through the associated tutorial.
 
 Please feel free to email us at <faculty@ici3d.org> with any thoughts or questions you have as you prepare for the Clinic.
 
 ## Message 2
 
-> Ask them to send arrival and departure information to Amanda no later than 10 May!
-
 Thank you to everyone who has sent their GitHub information and photo. If you have not already sent your GitHub username and a recent photo to <github@ici3d.org>, please do so as soon as possible. **You will need to log in to your GitHub account to access some preparation materials.**
 
 This week, we ask that you:
 
-1. Please fill out [this form](http://www.ici3d.org/MMED/logistics/logisticsForm) to let us know if you have any **dietary restrictions**, your **t-shirt size**, and a few field trip related questions no later than **17:00 SAST on Tuesday 8 May**.
+1. Fill out [this form](http://www.ici3d.org/MMED/logistics/logisticsForm) to let us know if you have any **dietary restrictions**, your **t-shirt size**, and a few field trip related questions no later than **17:00 SAST on Tuesday 7 May**.
 
-1. Check out the [MMED Poster Guidelines](http://www.ici3d.org/MMED/posters), and begin working on your poster. If you would prefer not to travel with your poster, note that you can submit your poster to <posters@ici3d.org> by 17:00 (South African standard time) on May 18 to have your poster printed for you and delivered to AIMS. Additional information about submitting your poster for printing is available via the link above.
+1. Check out the [MMED Poster Guidelines](http://www.ici3d.org/MMED/posters), and begin working on your poster. If you would prefer not to travel with your poster, note that you can submit your poster to <posters@ici3d.org> by 17:00 (South African standard time) on May 17 to have your poster printed for you and delivered to AIMS. Additional information about submitting your poster for printing is available via the link above.
 
-If you are a Twitter user, you are also encouraged to follow [our twitter feed](https://twitter.com/ICI3D/). You may also want to follow our most Twitter-active faculty members: [@jd_mathbio](https://twitter.com/jd_mathbio), [@EvaUje](https://twitter.com/EvaUje), [@lechaquel](https://twitter.com/lechaquel), and [@SACEMAdirector](https://twitter.com/SACEMAdirector)
+1. Send your arrival and departure information to Amanda October at <admin@ici3d.org> no later than **17:00 SAST on Friday 10 May**! This is essential for us to arrange airport transfers and accommodation. Even if you live locally, you should confirm your arrival and departure dates. By default, we expect you will arrive on 26 May and depart on 8 June. If you would prefer not to drive to Muizenberg, Amanda will also be able to assit with local transportation arrangements for participants and mentors.
 
-If you have any thoughts, comments, or questions about MMED content, please email us at <faculty@ici3d.org>. For logistical information, please continue to contact Faikah Bruce, the ICI3D Program assistant, at <admin@ici3d.org>. North American participants who have not yet booked flights need to do so as soon as possible, unless alternative arrangements have already been approved.
+If you are a Twitter user, you are also encouraged to follow [our twitter feed](https://twitter.com/ICI3D/). You may also want to follow our most Twitter-active faculty members: [@jd_mathbio](https://twitter.com/jd_mathbio), [@ThumbiMwangi](https://twitter.com/ThumbiMwangi),  and [@SACEMAdirector](https://twitter.com/SACEMAdirector).
+
+If you have any thoughts, comments, or questions about MMED content, please email us at <faculty@ici3d.org>. For logistical information, please contact Amanda October, the SACEMA-ICI3D Coordinator, at <admin@ici3d.org>.
 
 ## Message 1
 

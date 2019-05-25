@@ -1,5 +1,51 @@
 mmed_team.txt
 
+2019 16 May
+==========
+
+Full-group call (yay!)
+
+Proposals
+* Vaccination strategies for rubella in RSA (Juliet)
+	* Use seroprevalence (possibly notifications later?)
+* Western Cape cervical cancer cytology data
+	* By HIV status, ART status … (Cari)
+* Malaria: refocus on less cleaning and a more specific question? Bail? (Jonathan)
+* Morsitans population dynamics. Continue with current IBM. Lots of data. (John)
+* Nature HIV maps https://www.nature.com/articles/s41586-019-1200-9 (??)
+* Influenza seasonality and reporting (Becky)
+* MSF data: ascertainment of risk of infection from a a cross-sectional survey modeling to unravel circularity (Alex)
+* Dynamical fever?
+* Muizenberg fever?
+* Host viremia (looking for a sponsor)
+* Rabies (Thumbi)
+* Talk to Bobby
+
+Projects
+* Engage ourselves and participants better. Maybe a short slide show early on.
+* Better-specified projects
+* Less about what's publishable
+
+Sessions
+* Juliet will share a google doc README.md
+* Go through notes that might apply to you, make slides and share …
+
+2019 2 May
+==========
+
+Full-group call 
+
+Show the landing page more.
+
+Do we need to give them more time to use computers at specific times?
+* There's a lot of standing around at break
+
+Re-add a github intro
+
+Make a local fb group and encourage them to talk about R tutorials
+
+Ask them to install package(s)
+
 2019 Apr 16 (Tue)
 =================
 

@@ -19,13 +19,13 @@ Ignore += $(ms)
 
 ######################################################################
 
-Sources += Makefile .gitignore README.md
+Sources += Makefile README.md
 
 Sources += notes.md mmed_team.txt
 
 Sources += weekly.md mentor_prep.md
 
-alldirs += pages
+alldirs += pages schedule
 
 Ignore += $(alldirs)
 

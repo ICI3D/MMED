@@ -7,6 +7,7 @@ Important links (_some of these are crypto links, meaning that their privacy is 
 ## 2019
 
 - [Current Faculty Schedule](http://www.ici3d.org/MMED/schedule/shadow)
+- [MMED prep doc](https://docs.google.com/document/d/1PZqO5Q1clDNIEXh3lwkrBhGIJ0UVRRSFlTy6zmYlYj4)
 
 ## 2018
 
