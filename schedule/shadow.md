@@ -20,7 +20,7 @@ alertmsg: >
 
 -   17:00 – 18:00 Registration and welcome, AIMS lobby
 -   18:00 – 18:30 *Dinner*, AIMS Dining Hall
-- Faculty meeting in E310 at 18:00.
+    - Faculty meeting in E310 at 18:00.
 
 ### Monday, 27 May
 
@@ -242,6 +242,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
     - 16:30 – 17:30 **Mentoring Session** - TBD
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Work session** (Project groups)
+    - 19:00 – whenever Mentor dinner (venue TBD)
 
 ### Friday, 7 June
 
