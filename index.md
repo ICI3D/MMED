@@ -3,7 +3,7 @@ layout: clinic
 alerttype: success
 alertmsg: >
   <ul style="font-size:16px">
-    <li><b>We look forward to seeing you in Muizenberg!</b></li>
+    <li><b>Welcome to Muizenberg!</b> Please note that there have been some modifications to today's schedule.</li>
     <li>Information on MMED 2019 is available via the relevant tabs above.</li>
     <li>Reminder: Videos, slides, and other materials from the MMED and DAIDD clinics are available from the <b><a href="https://figshare.com/collections/International_Clinics_on_Infectious_Disease_Dynamics_and_Data/3788224">ICI3D Figshare Collection</a></b>.</li>
   </ul>

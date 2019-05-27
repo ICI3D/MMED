@@ -30,9 +30,9 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 -   8:00 – 8:25 Registration and welcome, AIMS lobby
     -   **Please gather in the main lecture hall by 8:30.**
 -   8:30 – 9:00 Welcome and Motivation for Workshop ([Juliet](../team/pulliam), [Joseph](../team/sempa), and [John](../team/hargrove))
--   9:00 – 10:00 **Lecture:** Public Health, Epidemiology, and Models ([Juliet](../team/pulliam))
+-   9:00 – 10:00 **Lecture:** Public Health, Epidemiology, and Models ([Jim](../team/scott))
 -   10:00 – 10:30 *Coffee break*
--   10:30 – 10:45 **Organizational session:** [MMED Road Map](../roadmap) and programme overview ([Becky](../team/borchering))
+-   10:30 – 10:45 **Organizational session:** [MMED Road Map](../roadmap) and programme overview ([Juliet](../team/pulliam))
 -   10:45 – 11:30 **Lecture:** Introduction to Thinking About Data I ([John](../team/hargrove))
 -   11:30 – 12:30 **Lecture:** Introduction to dynamic modeling of infectious diseases ([Zinhle](../team/mthombothi))
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
