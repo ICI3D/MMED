@@ -1,5 +1,5 @@
 ---
-layout: redirect
+layout: clinic
 redirect: ../development
 subtitle: Poster sessions
 ---
@@ -7,50 +7,37 @@ subtitle: Poster sessions
 {% include topTable.html %}
 
 ## Poster session I - Monday
-- Blows, Linsay
-- Cianjoka, Mercy
-- Foko Kuate, Chilperic Armel
-- Gobebo, Gizachew
-- Gomez, Pablo
-- Griffith, Bridget
-- Guth, Sarah
-- Hazelbag, Marijn
-- Izzo, Mandy & Schripsema, Jen
-- Lydia, Makinde Funmilayo
-- Mensah, Samuel Ofosu
-- Mgbara, Whitney
+- Alan
+- Brian
+- Enrique
+- Jessica
+- Kimberly
+- Mozart
+- Ntsieni
+- Zenabu
 
 ## Poster session III - Wednesday
-- Bouchareb, Yasser Salah Eddine
-- Hella, Jerry
-- Janse van Vuuren, Handre & Nombula, Makabongwe
-- Kamangira, Boboh
-- Kudowa, Evaristar
-- Louw, David & Njephe, Thandiwe Princess
-- Mtisi, Expeditho
-- Odhiambo, Julius
-- Ogwo, Grace Nnennaya
-- Oluwagbemi, Olugbenga
-- Omondi, Felgona Tana
-- Rerolle, Francois
-- Steinbaum, Lauren
-- Wang, Vania
+- Abi and Dylan
+- Florian
+- Gui Liu
+- Larisse
+- Lawrence
+- Mandilakhe and Priyanka
+- Mutono
+- Nicky, Richard, and Stephan
 
 {% include centerTable.html %}
 
 ## Poster session II - Tuesday
-- Abide, Azeez Taofikat
-- Appiah-Kubi, Emmanuel
-- Are, Elisha
-- Kawuma, Aida
-- Magagula, Vusi
-- Nyawanda, Bryan
-- Pandey, Surabhi
-- Ronoh, Marilyn
-- Suboi, Zenabu
-- van heerden, Kyle
-- Van Ness, Sarah
-
+- Adatia
+- Anecia
+- Hardik
+- Keerati
+- Kossi Wilfried
+- Quan Tran
+- Sara
+- Tijani
+- Villyen
 
 <br><br>
 <br><br>

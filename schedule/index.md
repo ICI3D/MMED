@@ -41,6 +41,8 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
     -   **Track A:** Introduction to infectious disease data ([Thumbi](../team/mwangi))
     -   **Track B:** Foundations of dynamic modeling ([Jonathan](../team/dushoff))
 -   15:00 – 15:30 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: [Alex](../team/welte))
+    - You will need the most recent version of the ICI3D R package for this tutorial. If you are using your laptop for the tutorials, please update the package before you begin by running the command <b><code>devtools::install_github('ICI3D/ici3d-pkg')</code></b> in R studio.
+    - To run the tutorial, first load the ICI3D R package (<b><code>library('ICI3D')</code></b>), then load the tutorial (<b><code>dynamicalFever()</code></b>).
 -   15:30 – 16:00 *Tea* and **poster set-up**
     - with Elisha, Laurette, Zinhle
 -   16:00 – 16:50 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: [Alex](../team/welte))
