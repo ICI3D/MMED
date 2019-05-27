@@ -1,4 +1,4 @@
 ---
 tab: Team
-role: Faculty Member, MMED and DAIDD clinics
+role: Faculty Member, MMED clinic
 ---

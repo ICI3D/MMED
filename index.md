@@ -3,8 +3,8 @@ layout: clinic
 alerttype: success
 alertmsg: >
   <ul style="font-size:16px">
-    <li><b>We look forward to seeing you in Muizenberg!</b></li>
-    <li>Information on MMED 2019 is available via the relevant tabs above.</li>
+    <li>If you plan to use your laptop for this afternoon's computer session, please make sure you have installed the ICI3D R package. Juliet and Cari will assist with this in the main lecture hall at 12:30.</li>
+    <li><b>Poster session assignments</b> are now available <a href = "./posters/sessions">here</a>.</li>
     <li>Reminder: Videos, slides, and other materials from the MMED and DAIDD clinics are available from the <b><a href="https://figshare.com/collections/International_Clinics_on_Infectious_Disease_Dynamics_and_Data/3788224">ICI3D Figshare Collection</a></b>.</li>
   </ul>
 ---
