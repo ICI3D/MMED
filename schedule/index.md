@@ -83,8 +83,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 ### Wednesday, 29 May
 
 -   8:30 – 10:15 **Lecture:** Consequences of heterogeneity, and modeling options ([Jonathan](../team/dushoff)) and **Computer Session:** [R Tutorials](../tutorials) - Lab 2: Consequences of heterogeneity ([Jonathan](../team/dushoff), [Laurette](../team/mhlanga), [Zinhle](../team/mthombothi), [Joseph](../team/sempa), [Alex](../team/welte)
-    - You will need the ICI3D R package for this tutorial.
-    - To run the tutorial (after installing the package), type (<b><code>ICI3D::heterogeneityTutorial()</code></b>).
+    - Please use the script on the [R Tutorials](../tutorials) page and associated data file to complete this tutorial.
     -  Lab 2 Summary ([Laurette](../team/mhlanga))
 -   10:15 – 10:30 *Coffee break*
 -   10:30 – 10:45 *Sunshine break*
