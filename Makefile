@@ -22,6 +22,7 @@ Ignore += .gitignore
 
 msrepo = https://github.com/dushoff
 ms = makestuff
+Makefile: $(ms)/Makefile
 $(ms)/Makefile:
 	ls ../makestuff/Makefile && /bin/ln -s ../makestuff 
 -include $(ms)/os.mk
@@ -30,14 +31,11 @@ $(ms)/Makefile:
 
 Ignore += $(ms)
 
-Makefile: $(ms)/Makefile ICI3D/Makefile
-ICI3D/Makefile:
-	git submodule update -i
 
 ######################################################################
 
 Ignore += _site/
-localserve:
+serve:
 	./run.sh
 
 ######################################################################
