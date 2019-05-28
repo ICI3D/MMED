@@ -3,7 +3,7 @@ layout: clinic
 alerttype: success
 alertmsg: >
   <ul style="font-size:16px">
-    <li>If you plan to use your laptop for this afternoon's computer session, please make sure you have installed the ICI3D R package. Juliet and Cari will assist with this in the main lecture hall at 12:30.</li>
+    <li>AIMS is hosting a delegation from the Japanese Consulate from 16:00 - 17:00 and requires use of the main lecture hall. <b>Please ensure that you have removed all of your personal items from the lecture hall and that all posters for today's session are hung by 15:45.</b></li>
     <li><b>Poster session assignments</b> are now available <a href = "./posters/sessions">here</a>.</li>
     <li>Reminder: Videos, slides, and other materials from the MMED and DAIDD clinics are available from the <b><a href="https://figshare.com/collections/International_Clinics_on_Infectious_Disease_Dynamics_and_Data/3788224">ICI3D Figshare Collection</a></b>.</li>
   </ul>
