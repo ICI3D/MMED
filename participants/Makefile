@@ -31,7 +31,7 @@ Ignore += $(ms)
 
 Sources += $(wildcard *.md *.pl)
 
-## 2018.list: mailing.pl
+## 2019.list: mailing.pl
 Ignore += $(wildcard *.list)
 %.list: %.md mailing.pl
 	$(PUSH)
