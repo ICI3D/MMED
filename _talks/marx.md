@@ -1,7 +1,7 @@
 ---
 name: Florian Marx, MD
 id: marx
-type: guest
+type: inactive
 role: Guest Speaker
 img: scholars/marx.jpg
 session: Tuesday 29 May, 19:00, AIMS Main Lecture Hall

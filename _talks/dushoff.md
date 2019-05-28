@@ -1,7 +1,7 @@
 ---
 name: Jonathan Dushoff, PhD
 id: dushoff
-type: faculty
+type: inactive
 tab: Talks
 title: Public Lecture
 role: MMED 2018 Faculty Member

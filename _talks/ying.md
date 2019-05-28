@@ -3,7 +3,7 @@ name: Roger Ying
 id: ying
 tab: Talks
 title: Mentor Presentations
-type: mentor
+type: inactive
 role: Mentor
 img: scholars/ying.jpg
 session: Friday 2 June, 14:00, AIMS Main Lecture Hall

@@ -1,7 +1,7 @@
 ---
 name: Jacky Snoep, PhD
 id: snoep
-type: guest
+type: inactive
 role: Guest Speaker
 img: other/snoep.jpg
 session: Wednesday 30 May, 19:00, AIMS Main Lecture Hall

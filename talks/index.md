@@ -3,7 +3,7 @@ layout: clinic
 redirect: ../development
 tab: Schedule
 title: Talks
-subtitle: MMED 2018 Research Talks
+subtitle: MMED 2019 Research Talks
 ---
 
 {% include topTable.html %}
@@ -63,12 +63,11 @@ subtitle: MMED 2018 Research Talks
   {% endif %}
 {% endfor %}
 
-## Guest Speakers<br>
-
 <br>
 
 {% for speaker in site.talks %}
   {% if speaker.type == "guest" %}
+  ## Guest Speakers<br>
   <div class="team-member media" style="font-size:18px">
     <img src="{{site.url}}{{site.path}}/assets/img/{{speaker.img}}" class="media-object img-circle pull-left" alt="{{ speaker.name }}" height="115" />
     <div class="media-body">

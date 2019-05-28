@@ -3,7 +3,7 @@ name: Reshma Kassanjee, PhD
 id: kassanjee
 tab: Talks
 title: Mentor Presentations
-type: mentor
+type: inactive
 role: Mentor
 img: mentors/kassanjee.jpg
 session: Friday 2 June, 14:00, AIMS Main Lecture Hall

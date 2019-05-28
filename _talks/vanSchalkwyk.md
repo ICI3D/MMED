@@ -1,7 +1,7 @@
 ---
 name: Cari van Schalkwyk
 id: vanschalkwyk
-type: guest
+type: inactive
 role: Guest Speaker
 img: team/vanschalkwyk.jpg
 session: Wednesday 6 June, 19:00, AIMS Main Lecture Hall

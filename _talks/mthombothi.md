@@ -3,7 +3,7 @@ name: Zinhle Mthombothi
 id: mthombothi
 tab: Talks
 title: Mentor Presentations
-type: mentor
+type: inactive
 role: Mentor
 img: mentors/mthombothi.jpg
 session: Friday 2 June, 14:00, AIMS Main Lecture Hall
