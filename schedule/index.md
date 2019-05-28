@@ -42,7 +42,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
     -   **Track B:** Foundations of dynamic modeling ([Jonathan](../team/dushoff))
 -   15:00 – 15:30 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: [Alex](../team/welte))
     - You will need the most recent version of the ICI3D R package for this tutorial. If you are using your laptop for the tutorials, please update the package before you begin by running the command <b><code>devtools::install_github('ICI3D/ici3d-pkg')</code></b> in R studio.
-    - To run the tutorial, first load the ICI3D R package (<b><code>library('ICI3D')</code></b>), then load the tutorial (<b><code>dynamicalFever()</code></b>).
+    - To run the tutorial (after installing the package), type (<b><code>ICI3D::dynamicalFever()</code></b>).
 -   15:30 – 16:00 *Tea* and **poster set-up**
     - with Elisha, Laurette, Zinhle
 -   16:00 – 16:50 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: [Alex](../team/welte))
@@ -85,14 +85,14 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 -   8:30 – 9:15 **Lecture:** Consequences of heterogeneity, and modeling options ([Jonathan](../team/dushoff))
 -   9:15 – 10:15 **Computer Session:** [R Tutorials](../tutorials) - Lab 2: Consequences of heterogeneity ([Jonathan](../team/dushoff), [Laurette](../team/mhlanga), [Zinhle](../team/mthombothi), [Joseph](../team/sempa), [Alex](../team/welte)
     - You will need the most recent version of the ICI3D R package for this tutorial. If you are using your laptop for the tutorials, please update the package before you begin by running the command <b><code>devtools::install_github('ICI3D/ici3d-pkg')</code></b> in R studio.
-    - To run the tutorial, first load the ICI3D R package (<b><code>library('ICI3D')</code></b>), then load the tutorial (<b><code>heterogeneityTutorial()</code></b>).
+    - To run the tutorial (after installing the package), type (<b><code>ICI3D::heterogeneityTutorial()</code></b>).
     -  Lab 2 Summary ([Laurette](../team/mhlanga))
 -   10:15 – 10:30 *Coffee break*
 -   10:30 – 10:45 *Sunshine break*
 -   10:45 – 11:00 **Lecture:** Introduction to models and data: HIV in Harare ([John](../team/hargrove))
 -   11:00 – 12:30 **Computer Session:** Harare data in groups of \<4 ([Elisha](../team/are), [Jonathan](../team/dushoff), [John](../team/hargrove), [Thumbi](../team/mwangi), [Alex](../team/welte))
     - You will need the ICI3D R package for this tutorial.
-    - To run the tutorial, first load the ICI3D R package (<b><code>library('ICI3D')</code></b>), then load the tutorial (<b><code>hivTutorial()</code></b>).
+    - To run the tutorial (after installing the package), type (<b><code>ICI3D::hivTutorial()</code></b>).
     -   If you finish all five versions of the model for the Harare data before lunch, move on to working on data from other countries.
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - **Please fill in the <a href='../logistics/weekend1'>weekend activities form</a>! (Due by 13:00 on Wednesday.)**
