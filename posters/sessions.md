@@ -12,7 +12,6 @@ subtitle: Poster sessions
 - Enrique
 - Jessica
 - Kimberly
-- Mozart
 - Ntsieni
 - Zenabu
 
@@ -23,6 +22,7 @@ subtitle: Poster sessions
 - Larisse
 - Lawrence
 - Mandilakhe and Priyanka
+- Mozart
 - Mutono
 - Nicky, Richard, and Stephan
 
