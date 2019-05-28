@@ -10,7 +10,7 @@ subtitle: MMED Lectures and Lab Summaries
 
 ### Plenary Sessions from Week 1
 
-- Public Health, Epidemiology, and Models ([Juliet Pulliam](../team/pulliam)) - To be added
+- Public Health, Epidemiology, and Models ([Jim Scott](../team/scott)) - To be added
 - Introduction to Thinking About Data I ([John Hargrove](../team/hargrove)) - To be added
     - Video of the 2017 lecture given by [John Hargrove](../team/hargrove) - [Video](https://ndownloader.figshare.com/files/8731852), [Slides](https://ndownloader.figshare.com/files/8541904)
 - Introduction to dynamic modeling of infectious diseases ([Zinhle Mthombothi](../team/mthombothi)) - To be added
