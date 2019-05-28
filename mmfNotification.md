@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect: https://www.dropbox.com/s/ttoj93456ps5404/mmfNotification.pdf?dl=1
+redirect: https://www.dropbox.com/s/qif38a6zajsfawf/mmfNotification.pdf?dl=1
 ---
