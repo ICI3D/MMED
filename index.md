@@ -3,7 +3,7 @@ layout: clinic
 alerttype: success
 alertmsg: >
   <ul style="font-size:16px">
-    <li>AIMS is hosting a delegation from the Japanese Consulate from 16:00 - 17:00 and requires use of the main lecture hall. <b>Please ensure that you have removed all of your personal items from the lecture hall and that all posters for today's session are hung by 15:45.</b></li>
+    <li>Abstracts for faculty and mentor research talks have been added to <b><a href='./talks'>this page</a></b></li>.
     <li><b>Poster session assignments</b> are now available <a href = "./posters/sessions">here</a>.</li>
     <li>Reminder: Videos, slides, and other materials from the MMED and DAIDD clinics are available from the <b><a href="https://figshare.com/collections/International_Clinics_on_Infectious_Disease_Dynamics_and_Data/3788224">ICI3D Figshare Collection</a></b>.</li>
   </ul>
