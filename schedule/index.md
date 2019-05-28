@@ -50,7 +50,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 -   17:00 – 18:00 [**Poster session I**](../posters/sessions)
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 19:30 **Social Activity:** Ice breakers ([Masimba](../team/Masimba))
--   19:30 – 20:30 **Social Activity:** Card games: Bullsh!t and Casino
+-   19:30 – 20:30 **Social Activity:** Card games: Bullsh!t
 
 ### Tuesday, 28 May
 
@@ -58,22 +58,22 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 -   9:15 – 10:00 **Live coding session:** Introduction to model implementation
     ([Cari](../team/vanschalkwyk))
 -   10:00 – 10:30 *Coffee break*
--   10:30 – 12:30 **Computer Session:** [R Tutorials](../tutorials) - Lab 1: ODE models in R ([Elisha](../team/Elisha), [Laurette](../team/Laurette), [Juliet](../team/pulliam), [Jim](../team/scott), [Cari](../team/vanschalkwyk)); **MedPH break-out group** ([Becky](../team/borchering), [Zinhle](../team/Zinhle))
+-   10:30 – 11:15 _**Parallel sessions**_
+    -   **Track A:** **Lecture:** Introduction to Thinking About Data II ([Jim](../team/scott)) - Main lecture hall
+    -   **Track B:** **Lecture:** Basic stochastic simulation models ([Becky](../team/borchering)) - Small lecture hall
+-   11:15 – 12:30 **Computer Session:** [R Tutorials](../tutorials) - Lab 1: ODE models in R ([Elisha](../team/Elisha), [Laurette](../team/Laurette), [Juliet](../team/pulliam), [Jim](../team/scott), [Cari](../team/vanschalkwyk)); **MedPH break-out group** ([Becky](../team/borchering), [Zinhle](../team/Zinhle))
     - All R tutorials and labs are linked from [this page](../tutorials)
     - You should have completed [R Tutorials I-III](../tutorials) prior to the Clinic. If you have not previously used R, we suggest you review these tutorials during this session, as the material they cover form the foundation for the computer sessions throughout the workshop. *Please use this opportunity to ask any questions you may have regarding the material in these tutorials.*
     - When you have completed Lab 1 (required), you may take a break or move on to Tutorial 4: Visualizing Infectious Disease Data in R (recommended)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
--   14:00 – 14:45 _**Parallel sessions**_
-    -   **Track A:** **Lecture:** Introduction to Thinking About Data II ([Jim](../team/scott))
-    -   **Track B:** **Lecture:** Basic stochastic simulation models ([Becky](../team/borchering))
--   14:45 – 15:30 _**Parallel sessions**_
+-   14:00– 15:30 _**Parallel sessions**_
     -   **Track A:** **Computer Session:** [R Tutorials](../tutorials) - Lab 1: ODE models in R (as needed), and Tutorial 4: Visualizing Infectious Disease Data in R ([Laurette](../team/Laurette), [Thumbi](../team/Thumbi), [Juliet](../team/pulliam), [Joseph](../team/Joseph))
     -   **Track B:** **Computer Session:** [R Tutorials](../tutorials) - Lab 1: ODE models in R (as needed), and Exercise 1: Basic stochastic simulation models ([Elisha](../team/are), [Becky](../team/borchering), [Jonathan](../team/dushoff), [Jim](../team/scott))
     - Exercise 1 Summary ([Becky](../team/borchering))
--   15:30 – 16:00 *Tea* and **poster set-up**
+- 15:30 – 16:00 *Tea* and **poster set-up**
     - with Joseph, John, Becky
 -   16:00 – 16:40 **Computer Session:** [R Tutorials](../tutorials) continued ([Elisha](../team/are), [Laurette](../team/mhlanga), [Zinhle](../team/mthombothi), [Joseph](../team/sempa), [Cari](../team/vanschalkwyk))
--   16:40 – 17:00 **Discussion:**
+- 16:40 – 17:00 **Discussion:**
     - Lab 1 Summary ([Elisha](../team/Elisha))
     - Tutorial 4 Summary ([Juliet](../team/pulliam))
 -   17:00 – 18:00 [**Poster session II**](../posters/sessions)
