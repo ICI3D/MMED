@@ -11,8 +11,6 @@ current: target
 
 Sources += $(wildcard resources/*.md)
 
-add.Rout: add.R
-
 ##################################################################
 
 ## Defs
@@ -28,8 +26,6 @@ Makefile: $(ms)/Makefile
 $(ms)/Makefile:
 	ls ../makestuff/Makefile && /bin/ln -s ../makestuff 
 -include $(ms)/os.mk
-
--include $(ms)/git.def
 
 Ignore += $(ms)
 
