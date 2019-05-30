@@ -50,15 +50,11 @@ subtitle: MMED Lectures and Lab Summaries
 - Model Assessment ([Jonathan Dushoff](../team/dushoff)) - [Slides](https://github.com/dushoff/statistics_talks/blob/master/git_push/evaluation.draft.pdf), [Handouts](https://github.com/dushoff/statistics_talks/blob/master/git_push/evaluation.handouts.pdf)
 - Stochastic Modeling IIA ([Jonathan Dushoff](../team/dushoff)) - [Slides](https://github.com/dushoff/disease_model_talks/blob/master/git_push/stochastic.slides.pdf), [Handouts](https://github.com/dushoff/disease_model_talks/blob/master/git_push/stochastic.handouts.pdf)
 
-### AIMS Public Lectures
-
-- To be added
-
 ## Lab Summary Slides
 
 ### Tutorials
 
-- Tutorial 4 Summary: Visualizing Infectious Disease Data in R (TBD) - To be added
+- Tutorial 4 Summary: Visualizing Infectious Disease Data in R ([Juliet](../team/pulliam)) -  - [Slides](../../tutorials/Tutorial4_summary.pdf)
 - Tutorial 5 Summary: Data Wrangling (TBD) - To be added
 
 ### Labs
@@ -78,7 +74,7 @@ subtitle: MMED Lectures and Lab Summaries
 
 ## Code from MMED 2019 Participatory Coding Sessions
 
-- Introduction to model implementation ([Cari van Schalkwyk](../team/vanschalkwyk)) - To be added
+- Introduction to model implementation ([Cari van Schalkwyk](../team/vanschalkwyk)) - [Live coding example](https://github.com/ICI3D/MMEDparticipants/raw/master/Resources/2019/vanSchalkwykLiveCoding.R)
 - Participatory coding of a dynamical model ([Juliet Pulliam](../team/pulliam)) - To be added
     - Video of the 2017 session led by [Steve Bellan](../team/bellan) - [Video](https://ndownloader.figshare.com/files/8730145)
 - Participatory Coding (Sampling Var & Study Design) ([Jonathan Dushoff](../team/dushoff)) - To be added
