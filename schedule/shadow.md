@@ -96,7 +96,7 @@ alertmsg: >
     -   **Additional info:** [Distributed Delay Models of Survival]((../tutorials/distributedDelay.pdf)) (Boxcar Models) ([Dushoff](../team/dushoff))
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - **Please fill in the <a href='../logistics/weekend1'>weekend activities form</a>! (Due by 13:00 on Wednesday.)**
-    - **13:30 Faculty meeting in Room 105**
+    - **13:15 Faculty meeting in Room 105**
 -   14:00 – 14:30 **Computer Session:** Harare/other data in same groups ([Borchering](../team/borchering), [Hargrove](../team/hargrove), [Mhlanga](../team/mhlanga), [Pulliam](../team/pulliam), [Sempa](../team/sempa))
 -   14:30 – 15:30 **Discussion:** Harare tutorial ([Hargrove](../team/hargrove))
 -   15:30 – 16:00 *Tea* and **poster set-up**
@@ -120,11 +120,12 @@ alertmsg: >
 -   12:00 – 12:30 **Discussion:** MMED research projects ([Borchering](../team/borchering))
     - [Potential project groups](../projects/)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - **13:30 Faculty meeting in Room 105**
--   14:00 – 15:30 **Lecture:** Participatory coding of a dynamical model ([Pulliam](../team/pulliam), with [Mthombothi](../team/mthombothi)) - Code on [Tutorials](../tutorials) page
+    - **13:15 Faculty meeting in Room 105**
+-   14:00 – 15:30 **Lecture:** Participatory coding of a dynamical model ([Pulliam](../team/pulliam), with [Thumbi](../team/mwangi)) - Code on [Tutorials](../tutorials) page
 -   15:30 – 16:00 *Tea*
 -   16:00 – 16:45 **Lecture:** Introduction to Likelihood ([van Schalkwyk](../team/vanschalkwyk))
-    - with TBD, TBD, TBD, TBD
+    - with Jonathan, John, Becky
+    - JP to talk to Jan about projecting upstairs
 -   16:45 – 18:00 **Computer Session:** [R Tutorials](../tutorials) - Lab 5: Introduction to Likelihood Lab ([Are](../team/are), [Borchering](../team/borchering), [Dushoff](../team/dushoff), [Sempa](../team/sempa), [van Schalkwyk](../team/vanschalkwyk))
     - Lab 5 Summary ([van Schalkwyk](../team/vanschalkwyk))
 -   18:00 – 18:30 *Dinner*
@@ -147,8 +148,8 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
     - Lab Summary: Lab 6 ([Dushoff](../team/dushoff))
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - Please fill in [this form](../logistics/tutorialCatchUp) to indicate what you will work on during the tutorial catch-up session on Saturday and whom you would like to meet for a mentoring session next week. (Due by 17:00 on Friday.)
-    - **13:30 Faculty meeting in Room 105**
--   14:00 – 14:40 **Mentor presentations** (Mentors); Moderator: [Hargrove](../team/hargrove)) TEN MINUTE BREAK (15 min talks, 5 mins for questions)
+    - **13:15 Faculty meeting in Room 105**
+-   14:00 – 14:40 **Mentor presentations** (Mentors); Moderator: [Hargrove](../team/hargrove)) [stretch breaks]
 -   14:50 – 15:30 **Mentor presentations** (Mentors); Moderator: [Hargrove](../team/hargrove))
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:00 **MMED Projects** (Moderator: [Pulliam](../team/pulliam))
@@ -160,7 +161,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 ### Saturday, 1 June
 
 -   9:00 – 10:30 **Live coding session:** Participatory coding for Variability, Sampling Distributions, and Simulation Lecture ([Dushoff](../team/Dushoff))  - [Code on Tutorials page](../tutorials)
-    - with Pulliam, TBD
+    - with TBD, TBD
 -   10:30 – 11:00 A good chance to sign up for project groups and *Coffee break*
 -   11:00 – 12:30 **Computer Session:** Tutorial catch-up, as needed ([Are](../team/are), [Mhlanga](../team/mhlanga), [Pulliam](../team/pulliam), [Sempa](../team/sempa), [Scott](../team/scott))
 -   12:30 – 14:00 **Social Activity:** Group lunch at Kalky's
@@ -170,7 +171,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 
 - Free day – optional group trip to Cape Point
     -   We will leave at 10:00. *Please meet in the AIMS lobby by 9:55.*
-- Faculty meeting in E310 at 16:30.
+- Faculty meeting in E310 at 17:30.
 
 ### Monday, 3 June
 
@@ -181,7 +182,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   10:30 – 11:30 **Computer Session:** Introduction to GitHub ([Mthombothi](../team/mthombothi)) (with [Borchering](../team/borchering), [Dushoff](../team/dushoff), [Mhlanga](../team/mhlanga), [Sempa](../team/sempa))
 -   11:30 – 12:30 **Work Session:** Work plans for group projects (Project groups)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - **13:30 Faculty meeting in Room 105**
+    - **13:15 Faculty meeting in Room 105**
 -   14:00 – 15:30 **Lecture:** Likelihood fitting and dynamic models II ([Pulliam](../team/pulliam))
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
@@ -199,7 +200,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
     - Lab 8 Summary ([Dushoff](../team/dushoff))
 -   11:30 – 12:30 **Work Session** (Project groups); **MedPH break-out group** ([Borchering](../team/borchering), [Mthombothi](../team/mthombothi))
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - **13:30 Faculty meeting in Room 105**
+    - **13:15 Faculty meeting in Room 105**
 -   14:00 – 14:45 **Lecture**: Data wrangling I: Data management and cleaning ([Mwangi](../team/mwangi))
 -   14:45 – 15:30 **Computer session**: [R Tutorials](../tutorials) - Data wrangling ([Are](../team/are), [Mhlanga](../team/mhlanga), [Mthombothi](../team/mthombothi), [Mwangi](../team/mwangi), [Pulliam](../team/Pulliam))
     - Tutorial 5 Summary ([Mwangi](../team/mwangi))
@@ -217,7 +218,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   10:30 – 12:30 **Work Session** (Project groups)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - **Sign up to go to on Saturday's field trip by 13:00.**
-    - **13:30 Faculty meeting in Room 105**
+    - **13:15 Faculty meeting in Room 105**
 -   14:00 – 15:30 **Work Session** (Project groups)
     - 14:00 – 15:00 _Optional Session:_ Stochastic modeling II ([Dushoff](../team/dushoff) and [TBD](../team/TBD)??)
 -   15:30 – 16:00 *Tea*
@@ -234,7 +235,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   10:30 – 12:30 **Work Session** (Project groups)
     - 10:30 – 11:30 **Mentoring Session** - TBD
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - **13:30 Faculty meeting in Room 105**
+    - **13:15 Faculty meeting in Room 105**
 -   14:00 – 15:30 **Work Session** (Project groups)
     - 14:00 – 15:00 _Optional Session:_ Data wrangling II ([TBD?](../team/TBD) or [TBD?](../team/TBD))
 -   15:30 – 16:00 *Tea*
@@ -250,7 +251,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:30 **Work Session** (Project groups) - Mentors
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - **13:30 Faculty meeting in Room 105**
+    - **13:15 Faculty meeting in Room 105**
 -   14:00 – 15:30 **Final presentations**
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:00 **Final Feedback Session** (Moderator: [Paradza](../team/paradza))
