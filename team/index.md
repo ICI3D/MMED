@@ -18,7 +18,7 @@ subtitle: MMED 2019 Instructional Team
 {% else %}
   {% assign usetype = member.type %}
 {% endif %}
-{% if usetype == "core" or usetype == "director" or usetype == "evaluator" %}
+{% if usetype == "core" or usetype == "director" or usetype == "evaluator"  or usetype == "observer" %}
   <div class="team-member media" style="font-size:18px">
     <img src="{{site.url}}{{site.path}}/assets/img/{{member.img}}" class="media-object img-circle pull-left" alt="{{ member.name }}" height="115" />
     <div class="media-body">
