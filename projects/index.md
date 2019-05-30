@@ -14,4 +14,5 @@ alertmsg: Potential group projects for the second week of the Clinic are being a
 - [Tsetse fly population dynamics](./tsetse)
 - [Rabies Elimination in Kenya](./rabiesKenya)
 - [Dynamics of Malaria Immunity](./malariaImmunity)
-- [Spatio temporal dynamics of Zika in the Americas](./zikaAmericas)
+- [Spatio-temporal dynamics of Zika in the Americas](./zikaAmericas)
+- Rubella vaccination in South Africa - link to be added

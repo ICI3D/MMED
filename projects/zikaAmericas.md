@@ -2,7 +2,7 @@
 layout: clinic
 tab: Projects
 title: Potential project
-subtitle: Project Title
+subtitle: Spatio-temporal dynamics of Zika in the Americas
 ---
 
 ## Overview
