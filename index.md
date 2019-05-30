@@ -4,6 +4,7 @@ alerttype: success
 alertmsg: >
   <ul style="font-size:16px">
     <li>Instructions and examples for the model world exercise are available  <b><a href='./tutorials/modelWorld'>this page</a></b>.</li>
+    <li>Please remember to post your research question in the <b><a href='www.github.com/ICI3D/MMEDparticipants'>MMEDparticipants</a></b> repository.</li>    
     <li>Abstracts for faculty and mentor research talks have been added to <b><a href='./talks'>this page</a></b>.</li>
     <li>Reminder: Videos, slides, and other materials from the MMED and DAIDD clinics are available from the <b><a href="https://figshare.com/collections/International_Clinics_on_Infectious_Disease_Dynamics_and_Data/3788224">ICI3D Figshare Collection</a></b>.</li>
   </ul>
