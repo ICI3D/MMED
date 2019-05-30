@@ -116,7 +116,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 -   12:00 – 12:30 **Discussion:** MMED research projects (Moderator: [Becky](../team/borchering))
     - [Potential project groups](../projects/)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
--   14:00 – 15:30 **Lecture:** Participatory coding of a dynamical model ([Juliet](../team/pulliam), with [Zinhle](../team/mthombothi)) - Code to be added on [Tutorials](../tutorials) page
+-   14:00 – 15:30 **Lecture:** Participatory coding of a dynamical model ([Juliet](../team/pulliam), with [Thumbi](../team/mwangi)) - Code to be added on [Tutorials](../tutorials) page
 -   15:30 – 16:00 *Tea*
 -   16:00 – 16:45 **Lecture:** Introduction to Likelihood ([Cari](../team/vanschalkwyk))
 -   16:45 – 18:00 **Computer Session:** [R Tutorials](../tutorials) - Lab 5: Introduction to Likelihood Lab ([Elisha](../team/are), [Becky](../team/borchering), [Jonathan](../team/dushoff), [Joseph](../team/sempa), [Cari](../team/vanschalkwyk))

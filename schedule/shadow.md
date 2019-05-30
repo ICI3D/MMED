@@ -121,10 +121,11 @@ alertmsg: >
     - [Potential project groups](../projects/)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - **13:15 Faculty meeting in Room 105**
--   14:00 – 15:30 **Lecture:** Participatory coding of a dynamical model ([Pulliam](../team/pulliam), with [Mthombothi](../team/mthombothi)) - Code on [Tutorials](../tutorials) page
+-   14:00 – 15:30 **Lecture:** Participatory coding of a dynamical model ([Pulliam](../team/pulliam), with [Thumbi](../team/mwangi)) - Code on [Tutorials](../tutorials) page
 -   15:30 – 16:00 *Tea*
 -   16:00 – 16:45 **Lecture:** Introduction to Likelihood ([van Schalkwyk](../team/vanschalkwyk))
-    - with TBD, TBD, TBD, TBD
+    - with Jonathan, John, Becky
+    - JP to talk to Jan about projecting upstairs
 -   16:45 – 18:00 **Computer Session:** [R Tutorials](../tutorials) - Lab 5: Introduction to Likelihood Lab ([Are](../team/are), [Borchering](../team/borchering), [Dushoff](../team/dushoff), [Sempa](../team/sempa), [van Schalkwyk](../team/vanschalkwyk))
     - Lab 5 Summary ([van Schalkwyk](../team/vanschalkwyk))
 -   18:00 – 18:30 *Dinner*
@@ -148,7 +149,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - Please fill in [this form](../logistics/tutorialCatchUp) to indicate what you will work on during the tutorial catch-up session on Saturday and whom you would like to meet for a mentoring session next week. (Due by 17:00 on Friday.)
     - **13:15 Faculty meeting in Room 105**
--   14:00 – 14:40 **Mentor presentations** (Mentors); Moderator: [Hargrove](../team/hargrove)) TEN MINUTE BREAK (15 min talks, 5 mins for questions)
+-   14:00 – 14:40 **Mentor presentations** (Mentors); Moderator: [Hargrove](../team/hargrove)) [stretch breaks]
 -   14:50 – 15:30 **Mentor presentations** (Mentors); Moderator: [Hargrove](../team/hargrove))
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:00 **MMED Projects** (Moderator: [Pulliam](../team/pulliam))
@@ -160,7 +161,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 ### Saturday, 1 June
 
 -   9:00 – 10:30 **Live coding session:** Participatory coding for Variability, Sampling Distributions, and Simulation Lecture ([Dushoff](../team/Dushoff))  - [Code on Tutorials page](../tutorials)
-    - with Pulliam, TBD
+    - with TBD, TBD
 -   10:30 – 11:00 A good chance to sign up for project groups and *Coffee break*
 -   11:00 – 12:30 **Computer Session:** Tutorial catch-up, as needed ([Are](../team/are), [Mhlanga](../team/mhlanga), [Pulliam](../team/pulliam), [Sempa](../team/sempa), [Scott](../team/scott))
 -   12:30 – 14:00 **Social Activity:** Group lunch at Kalky's
@@ -170,7 +171,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 
 - Free day – optional group trip to Cape Point
     -   We will leave at 10:00. *Please meet in the AIMS lobby by 9:55.*
-- Faculty meeting in E310 at 16:30.
+- Faculty meeting in E310 at 17:30.
 
 ### Monday, 3 June
 
