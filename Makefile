@@ -38,7 +38,9 @@ localserve:
 
 ## localserve doesn't do much, and doesn't work for me (jemoji)
 Sources += Gemfile_jd
-Ignore += Gemfile
+Ignore += Gemfile Gemfile.lock
+
+Sources +=_config.yml index.md
 
 ######################################################################
 
