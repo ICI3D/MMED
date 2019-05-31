@@ -134,7 +134,7 @@ alertmsg: >
 ### Friday, 31 May
 
 -   8:30 – 10:00  _**Parallel sessions:**_
-    - **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology II: RCT's ([Welte](../team/welte), with Scott and TBD) and [R Tutorials](../tutorials) - Lab 4: Study Design for Clinical Trials ([Borchering](../team/borchering), [Dushoff](../team/dushoff), [Mhlanga](../team/mhlanga), [Scott](../team/scott), [Welte](../team/welte))
+    - **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology II: RCT's ([Welte](../team/welte), with Scott and Borchering) and [R Tutorials](../tutorials) - Lab 4: Study Design for Clinical Trials ([Borchering](../team/borchering), [Dushoff](../team/dushoff), [Mhlanga](../team/mhlanga), [Scott](../team/scott), [Welte](../team/welte))
     - [Dataset for Lab 4](https://github.com/ICI3D/datasets/blob/master/clinicalTrials/MuTxT.Rdata?raw=true)
     - Lab 4 Summary ([Scott](../team/scott))
     - **Track B: Exercise:** Description of proposed model and assumptions ([Mwangi](../team/mwangi))
