@@ -36,6 +36,10 @@ Ignore += _site/
 localserve:
 	./run.sh
 
+## localserve doesn't do much, and doesn't work for me (jemoji)
+Sources += Gemfile_jd
+Ignore += Gemfile
+
 ######################################################################
 
 ### Makestuff
