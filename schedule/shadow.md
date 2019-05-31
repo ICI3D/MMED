@@ -166,12 +166,13 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   11:00 – 12:30 **Computer Session:** Tutorial catch-up, as needed ([Are](../team/are), [Mhlanga](../team/mhlanga), [Pulliam](../team/pulliam), [Sempa](../team/sempa), [Scott](../team/scott))
 -   12:30 – 14:00 **Social Activity:** Group lunch at Kalky's
 -   14:00 – Free/working afternoon
+-   19:00 Party in E310
 
 ### Sunday, 2 June
 
 - Free day – optional group trip to Cape Point
     -   We will leave at 10:00. *Please meet in the AIMS lobby by 9:55.*
-- Faculty meeting in E310 at 17:30.
+- **Faculty meeting in E310 at 17:30.**
 
 ### Monday, 3 June
 

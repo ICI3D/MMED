@@ -142,7 +142,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Juliet](../team/pulliam
 -   14:00 – 15:30 **Mentor presentations** (Mentors); Moderator: [John](../team/hargrove))
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:00 **MMED Projects** (Moderator: [Juliet](../team/pulliam))
-    - Project group sign-up will be available after this session
+    - Sign up for project groups [here](../projects/groupProjectSelection)
 -   17:00 – 18:00 **Mid-session Feedback** (Moderator: [Masimba](../team/paradza))
 -   18:00 – 18:30 *Dinner*
 -   19:30 – 21:30 **Social Activity:** Movie Night (_Perfect Sense_)
