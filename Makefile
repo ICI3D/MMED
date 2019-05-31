@@ -9,7 +9,7 @@ current: target
 
 ##################################################################
 
-add.Rout: add.R
+Sources += $(wildcard resources/*.md)
 
 ##################################################################
 
@@ -27,15 +27,13 @@ $(ms)/Makefile:
 	ls ../makestuff/Makefile && /bin/ln -s ../makestuff 
 -include $(ms)/os.mk
 
--include $(ms)/git.def
-
 Ignore += $(ms)
 
 
 ######################################################################
 
 Ignore += _site/
-serve:
+localserve:
 	./run.sh
 
 ######################################################################
