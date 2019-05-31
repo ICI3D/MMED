@@ -10,12 +10,12 @@ subtitle: MMED Lectures and Lab Summaries
 
 ### Plenary Sessions from Week 1
 
-- Public Health, Epidemiology, and Models ([Jim Scott](../team/scott)) - To be added
-- Introduction to Thinking About Data I ([John Hargrove](../team/hargrove)) - To be added
+- Public Health, Epidemiology, and Models ([Jim Scott](../team/scott)) - [Slides](https://ndownloader.figshare.com/files/15280175)
+- Introduction to Thinking About Data I ([John Hargrove](../team/hargrove)) - [Slides](https://ndownloader.figshare.com/articles/5043136/versions/5)
     - Video of the 2017 lecture given by [John Hargrove](../team/hargrove) - [Video](https://ndownloader.figshare.com/files/8731852), [Slides](https://ndownloader.figshare.com/files/8541904)
-- Introduction to dynamic modeling of infectious diseases ([Zinhle Mthombothi](../team/mthombothi)) - To be added
+- Introduction to dynamic modeling of infectious diseases ([Zinhle Mthombothi](../team/mthombothi)) - [Slides](https://ndownloader.figshare.com/articles/5043139/versions/5)
     - Video of the 2017 lecture given by [Steve Bellan](../team/bellan) - [Video](https://ndownloader.figshare.com/files/9442285), [Slides](https://ndownloader.figshare.com/files/8541823)
-- (Hidden) assumptions of simple ODE models ([Juliet Pulliam](../team/pulliam)) - To be added
+- (Hidden) assumptions of simple ODE models ([Juliet Pulliam](../team/pulliam)) - [Slides](https://ndownloader.figshare.com/files/15278981)
 - Consequences of heterogeneity, and modeling options ([Jonathan Dushoff](../team/dushoff)) - To be added
 - Introduction to models and data: HIV in Harare ([John Hargrove](../team/hargrove)) - To be added
 - Introduction to statistical philosophy ([Jonathan Dushoff](../team/dushoff)) - To be added
@@ -26,17 +26,17 @@ subtitle: MMED Lectures and Lab Summaries
 
 ### Track A Sessions from Week 1
 
-- Introduction to infectious disease data ([Thumbi Mwangi](../team/mwangi)) - To be added
-- Introduction to Thinking About Data II ([Jim Scott](../team/scott)) - To be added
+- Introduction to infectious disease data ([Thumbi Mwangi](../team/mwangi))- [Slides](https://ndownloader.figshare.com/files/15268580)
+- Introduction to Thinking About Data II ([Jim Scott](../team/scott)) - [Slides](https://ndownloader.figshare.com/files/15288698)
 - Study Design and Analysis in Epidemiology: Where does modeling fit? ([Jim Scott](../team/scott)) - To be added
 - Study Design and Analysis in Epidemiology II: RCT's ([Alex Welte](../team/welte)) - To be added
 
 ### Track B Sessions from Week 1
 
-- Foundations of dynamic modeling ([Jonathan Dushoff](../team/dushoff)) - To be added
+- Foundations of dynamic modeling ([Jonathan Dushoff](../team/dushoff)) - [Slides](https://ndownloader.figshare.com/articles/5042974/versions/9)
     - Video of the 2017 session led by [Jonathan Dushoff](../team/dushoff) - [Video](https://ndownloader.figshare.com/files/8730178), [Slides](https://ndownloader.figshare.com/files/8541910)
-- Basic stochastic simulation models ([Rebecca Borchering](../team/borchering)) - To be added
-- Creating a model world to address a research question ([Thumbi Mwangi](../team/mwangi)) - To be added
+- Basic stochastic simulation models ([Rebecca Borchering](../team/borchering)) - [Slides](https://ndownloader.figshare.com/files/15288623)
+- Creating a model world to address a research question ([Thumbi Mwangi](../team/mwangi)) - [Slides](https://ndownloader.figshare.com/articles/5080390/versions/3)
     - Video of the 2017 session led by [Juliet Pulliam](../team/pulliam) - [Video](https://ndownloader.figshare.com/files/8731693)
 
 ### Plenary Sessions from Week 2
