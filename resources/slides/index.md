@@ -75,7 +75,7 @@ subtitle: MMED Lectures and Lab Summaries
 ## Code from MMED 2019 Participatory Coding Sessions
 
 - Introduction to model implementation ([Cari van Schalkwyk](../team/vanschalkwyk)) - [Live coding example](https://github.com/ICI3D/MMEDparticipants/raw/master/Resources/2019/vanSchalkwykLiveCoding.R)
-- Participatory coding of a dynamical model ([Juliet Pulliam](../team/pulliam)) - To be added
+- Participatory coding of a dynamical model ([Juliet Pulliam](../team/pulliam)) - [Code](https://github.com/ICI3D/MMEDparticipants/raw/master/Resources/2019/Pulliam_participatoryCoding.R)
     - Video of the 2017 session led by [Steve Bellan](../team/bellan) - [Video](https://ndownloader.figshare.com/files/8730145)
 - Participatory Coding (Sampling Var & Study Design) ([Jonathan Dushoff](../team/dushoff)) - To be added
 - Participatory coding of a stochastic model (Chain binomial SEIV) (TBD) - To be added
