@@ -169,7 +169,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Juliet](../team/pulliam
 -   10:30 – 11:30 **Computer Session:** Introduction to GitHub ([Zinhle](../team/mthombothi))
 -   11:30 – 12:30 **Work Session:** Work plans for group projects (Project groups)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
--   14:00 – 15:30 **Lecture:** Likelihood fitting and dynamic models II ([Juliet](../team/pulliam))
+-   14:00 – 15:30 **Lecture:** Likelihood fitting and dynamic models II ([Bobby](../team/reiner))
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
     - 16:30 – 17:30 **Mentoring Session**: TBD
