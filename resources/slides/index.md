@@ -16,13 +16,13 @@ subtitle: MMED Lectures and Lab Summaries
 - Introduction to dynamic modeling of infectious diseases ([Zinhle Mthombothi](../team/mthombothi)) - [Slides](https://ndownloader.figshare.com/articles/5043139/versions/5)
     - Video of the 2017 lecture given by [Steve Bellan](../team/bellan) - [Video](https://ndownloader.figshare.com/files/9442285), [Slides](https://ndownloader.figshare.com/files/8541823)
 - (Hidden) assumptions of simple ODE models ([Juliet Pulliam](../team/pulliam)) - [Slides](https://ndownloader.figshare.com/files/15278981)
-- Consequences of heterogeneity, and modeling options ([Jonathan Dushoff](../team/dushoff)) - To be added
+- Consequences of heterogeneity, and modeling options ([Jonathan Dushoff](../team/dushoff)) - [Slides]{https://ndownloader.figshare.com/articles/5044627/versions/5}
 - Introduction to models and data: HIV in Harare ([John Hargrove](../team/hargrove)) - To be added
 - Introduction to statistical philosophy ([Jonathan Dushoff](../team/dushoff)) - To be added
     - Video of the 2017 lecture given by [Jonathan Dushoff](../team/dushoff) - [Video](https://ndownloader.figshare.com/files/8732602), [Slides](https://ndownloader.figshare.com/files/8583778)
-- Introduction to Likelihood ([Cari van Schalkwyk](../team/vanschalkwyk)) - To be added
+- Introduction to Likelihood ([Cari van Schalkwyk](../team/vanschalkwyk)) - [Slides](https://ndownloader.figshare.com/articles/5044636/versions/5)
     - Video of the 2017 lecture given by [Steve Bellan](../team/bellan) - [Video](https://figshare.com/articles/Introduction_to_Likelihood/5044636), [Slides](https://ndownloader.figshare.com/files/8541898)
-- Likelihood fitting and dynamic models, Part 1: Dynamic Model Fitting and Inference Robustness ([Juliet Pulliam](../team/pulliam)) - To be added
+- Likelihood fitting and dynamic models, Part 1: Dynamic Model Fitting and Inference Robustness ([Juliet Pulliam](../team/pulliam)) - [Slides](https://ndownloader.figshare.com/articles/5044672/versions/4)
 
 ### Track A Sessions from Week 1
 
