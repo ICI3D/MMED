@@ -185,6 +185,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - **13:15 Faculty meeting in Room 105**
 -   14:00 – 15:30 **Lecture:** Likelihood fitting and dynamic models II ([Bobby](../team/reiner))
+    - (Jonathan, Juliet)
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
     - 16:30 – 17:30 **Mentoring Session**: [schedule](https://docs.google.com/spreadsheets/d/1rqke3YCIUTSR2bx8k-eWrA2xmODGw4m-Oh0NY3k4J_M/edit?usp=sharing) (Alex, John, Juliet, Tendai)
@@ -195,6 +196,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 
 -   8:30 – 10:00 **Lecture**: Introduction to Monte Carlo Markov Chains (MCMC) ([Dushoff](../team/dushoff)) - [Slides (180mb read-only powerpoint slide set with embedded movies)](https://ndownloader.figshare.com/files/8597005)
 	- **Download** the lecture locally from an AIMS computer on the desktop if you login as *guest* or, if you have an AIMS account, find it at /srv/local/guest/Desktop
+  - (Bobby, Alex)
   - **Group photo after this lecture**
 -   10:00 – 10:30 *Coffee break*
 -   10:30 - 11:30 **Computer session**: MCMC fitting Labs 7-8 in [R Tutorials](../tutorials) ([Borchering](../team/borchering), [Dushoff](../team/dushoff), [Mhlanga](../team/mhlanga), [Sempa](../team/sempa), [van Schalkwyk](../team/vanschalkwyk))
@@ -204,6 +206,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - **13:15 Faculty meeting in Room 105**
 -   14:00 – 14:45 **Lecture**: Data wrangling I: Data management and cleaning ([Mwangi](../team/mwangi))
+    - (Jonathan, Juliet)
 -   14:45 – 15:30 **Computer session**: [R Tutorials](../tutorials) - Data wrangling ([Are](../team/are), [Mhlanga](../team/mhlanga), [Mthombothi](../team/mthombothi), [Mwangi](../team/mwangi), [Pulliam](../team/Pulliam))
     - Tutorial 5 Summary ([Mwangi](../team/mwangi))
 -   15:30 – 16:00 *Tea*
