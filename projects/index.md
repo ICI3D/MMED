@@ -12,7 +12,7 @@ alertmsg: >
   </ul>
 ---
 
-> Note: Jonathan, Zinhle, and Tendai will be "floating" faculty members, who are available to help all groups, as needed. Zinhle will also be the point person for Biomaths students.
+> Note: Jonathan, Zinhle, and Tendai will be "floating" faculty members, who are available to help all groups, as needed. Zinhle will also be the point person for Biomaths students. Jonathan, Zinhle, and Juliet will help with git and GitHub troubleshooting.
 
 - [Estimating probabilities of entering cervical cancer screening](./cancerScreening)
     - **Faculty:**  Cari
@@ -37,7 +37,7 @@ alertmsg: >
 - [Spatio-temporal dynamics of Zika in the Americas](./zikaAmericas)
     - **Faculty:**  Bobby
     - **Group members:** Larisse, Mutono, Sarah
-    - **Repository:** To be added
+    - **Repository:** [zikaAmericas](https://github.com/ICI3D/zikaAmericas)
 - [Rubella vaccination in South Africa](./rubellaSA)
     - **Faculty:**  Juliet
     - **Group members:** Adatia, Enrique, Kim, Villyen
