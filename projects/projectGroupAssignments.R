@@ -1,17 +1,14 @@
 # projectGroupAssignments.R
-
-rm(list=ls())
-setwd('~/Projects/MMED/projects') # Sorry!
 require(googlesheets)
 require(tidyverse)
 
-maxGrp <- 5
+maxGrp <- 4
 minGrp <- 2
 
-mySheets <- gs_ls()
-mySheets %>% glimpse()
+# mySheets <- gs_ls()
+# mySheets %>% glimpse()
 
-prefs <- gs_key('15EU0YCnRGf6zm_ms6S02nd8fBYWdsuhgHp_ga_L9FYo')
+prefs <- gs_key('1EmGbW6PJTwltIdDvMiF7b5Ro7QpnVFOYsu5rXmGibw8')
 
 dat <- (
   prefs
@@ -33,72 +30,82 @@ dat <- rename(dat
               , info = `Is there anything else you want us to know related to your choice of project?`
 )
 
+(
+  dat
+  %>% group_by(name)
+  %>% summarize(count = n())
+  %>% filter(count>1)
+) 
+
 dat <- (
   dat
-  %>% filter(., name != 'Kyle')
+#  %>% filter(particMedPH == 'Yes' | is.na(particMedPH))
+%>% filter(is.na(particMedPH))
+%>% filter()
 )
 
 print(dat
-      %>% filter(., !is.na(info))
+      %>% filter(!is.na(info))
       %>% select(name,info,firstChoice,secondChoice,info)
-      )
+)
 
 firstCnt <- (
   dat
-  %>% group_by(., firstChoice)
-  %>% summarize(., count = n())
+  %>% group_by(firstChoice)
+  %>% summarize(count = n())
 ) 
 
 secondCnt <- (
   dat
-  %>% group_by(., secondChoice)
-  %>% summarize(., count = n())
+  %>% group_by(secondChoice)
+  %>% summarize(count = n())
 ) 
 
 tmp <- (
   firstCnt 
-  %>% filter(., count >= minGrp) 
-#  %>% filter(., count >= maxGrp) 
-  %>% pull(., firstChoice)
+  %>% filter(count >= minGrp) 
+  %>% filter(count >= maxGrp)
+  %>% pull(firstChoice)
 )
 
 dat <- (
   dat
-  %>% mutate(., assignment = ifelse(firstChoice %in% tmp, firstChoice, NA))
-  %>% mutate(., assignment = ifelse(!is.na(info), firstChoice, assignment))
+  %>% mutate(assignment = ifelse(firstChoice %in% tmp, firstChoice, NA))
+  %>% mutate(assignment = ifelse(!is.na(info), firstChoice, assignment))
 )
 
 print(
   dat 
-  %>% filter(., !is.na(assignment)) 
-  %>% select(., name,assignment,secondChoice)
-  %>% arrange(.,assignment)
+  %>% filter(!is.na(assignment)) 
+  %>% select(name,assignment,secondChoice)
+  %>% arrange(assignment)
 )
 
 print(
   dat 
-  %>% filter(., is.na(assignment)) 
-  %>% select(., name,firstChoice,secondChoice,thirdChoice)
+  %>% filter(is.na(assignment)) 
+  %>% select(name,firstChoice,secondChoice,thirdChoice)
 )
 
 dat <- (
   dat
-  %>% mutate(., assignment = ifelse(is.na(firstChoice), 'Dynamical fever', assignment))
-  %>% mutate(., assignment = ifelse(is.na(assignment), secondChoice, assignment))
-  %>% mutate(., assignment = ifelse(name%in%c('kyle','Bryan Nyawanda'), secondChoice, assignment))
+  %>% mutate(assignment = ifelse(is.na(firstChoice), 'Dynamical fever', assignment))
+  %>% mutate(assignment = ifelse(is.na(assignment), secondChoice, assignment))
+  %>% mutate(assignment = ifelse(name%in%c('kyle','Bryan Nyawanda'), secondChoice, assignment))
 )
 
 grpCnt <- (
   dat
-  %>% group_by(., assignment)
-  %>% summarize(., count = n())
+  %>% group_by(assignment)
+  %>% summarize(count = n())
 ) 
 
 grps <- (
   dat
-  %>% select(.,name,assignment)
-  %>% arrange(., assignment)
+  %>% select(name,assignment)
+  %>% arrange(assignment)
 )
 
-write(knitr::kable(grps),file = 'assignments.md')
+write(knitr::kable(grps),file = 'projectGroupAssignments.md')
+
 
