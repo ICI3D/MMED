@@ -17,23 +17,23 @@ alertmsg: >
 - [Estimating probabilities of entering cervical cancer screening](./cancerScreening)
     - **Faculty:**  Cari
     - **Group members:** Gui, Kossi, Sylvie
-    - **Repository:** To be added
+    - **Repository:** [cancerScreening](https://github.com/ICI3D/cancerScreening)
 - [Mechanisms of seasonality](./seasonalData)
     - **Faculty:**  Becky
     - **Group members:** Alan, Anecia, Hardik
-    - **Repository:** To be added
+    - **Repository:** [seasonalData](https://github.com/ICI3D/seasonalData)
 - [Turning cross-sectional survey data into HIV incidence estimates](./incidenceEstimation)
     - **Faculty:**  Alex
     - **Group members:** Brian, Ntsieni, Tijani
-    - **Repository:** To be added
+    - **Repository:** [incidenceEstimation](https://github.com/ICI3D/incidenceEstimation)
 - [Tsetse fly population dynamics](./tsetse)
     - **Faculty:**  John
     - **Group members:** Jess, Keerati, Quan
-    - **Repository:** To be added
+    - **Repository:** [tsetse2019](https://github.com/ICI3D/tsetse2019)
 - [Rabies Elimination in Kenya](./rabiesKenya)
     - **Faculty:** Thumbi
     - **Group members:**  Florian, Lawrence, Mozart, Zenabu
-    - **Repository:** To be added
+    - **Repository:** [rabies2019](https://github.com/ICI3D/rabies2019)
 - [Spatio-temporal dynamics of Zika in the Americas](./zikaAmericas)
     - **Faculty:**  Bobby
     - **Group members:** Larisse, Mutono, Sarah
@@ -41,4 +41,4 @@ alertmsg: >
 - [Rubella vaccination in South Africa](./rubellaSA)
     - **Faculty:**  Juliet
     - **Group members:** Adatia, Enrique, Kim, Villyen
-    - **Repository:** To be added
+    - **Repository:** [rubellaSA](https://github.com/ICI3D/rubellaSA)
