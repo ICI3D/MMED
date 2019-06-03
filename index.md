@@ -3,9 +3,10 @@ layout: clinic
 alerttype: success
 alertmsg: >
   <ul style="font-size:16px">
-    <li>Please fill in <a href = "./projects/groupProjectSelection"><b>this form</b></a> to indicate your preferences for <a href = "./projects/"><b> project groups</b></a>. (Due by 10:00 on Sunday.)</li>
-    <li>Please to post your research question in the <b><a href='www.github.com/ICI3D/MMEDparticipants'>MMEDparticipants</a></b> repository.</li>    
-    <li>Abstracts for faculty and mentor research talks have been added to <b><a href='./talks'>this page</a></b>.</li>
+    <li>Please install tidyverse on your computer by running the R command <code> install.packages('tidyverse')</code> in R or Rstudio. Some groups will need this for their projects, and all participants will need it to complete Tutorial 5.</li>
+    <li>Instructions for Friday's project presentations are available <b><a href = "./projects/projectPresentations">here</a></b>. Instructions for the final reports (due 1 August) are available <b><a href = "./projects/projectReports">here</a></b>.</li>
+    <li>Slides, code, and other materials from MMED 2019 are linked from <b><a href = "./resources/slides/">this page</a></b>. As a reminder, you can download the DAIDD glossary <b><a href = "http://www.ici3d.org/DAIDD/resources/DAIDD_Glossary.pdf">here</a></b>.</li>
+    <li>The recommended git workflow is outlined on <b><a href = "./resources/gitSimple">this page</a><b>.</li>
     <li>Reminder: Videos, slides, and other materials from the MMED and DAIDD clinics are available from the <b><a href="https://figshare.com/collections/International_Clinics_on_Infectious_Disease_Dynamics_and_Data/3788224">ICI3D Figshare Collection</a></b>.</li>
   </ul>
 ---

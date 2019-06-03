@@ -1,5 +1,5 @@
 ---
-layout: redirect
+layout: clinic
 redirect: ../development
 tab: Resources
 title: Git Workflow
@@ -19,7 +19,7 @@ subtitle: An example GitHub workflow for an MMED Project Group
 
 #### Each time you're ready to add content to the master branch
 
-1. Add and commit the changes that are ready for inclusion in origin/master (eg: `git add <newfilesifany>`; `git commit -am '<your commit message>'`)
+1. Add and commit the changes that are ready for inclusion in origin/master (eg: `git add <newfilesifany>`; `git commit -m '<your commit message>'`)
 1. Pull changes from origin/master (`git pull`)
 1. While there are conflicts
 	1. Resolve conflicts
