@@ -3,6 +3,7 @@ layout: clinic
 alerttype: success
 alertmsg: >
   <ul style="font-size:16px">
+    <li>The schedule for mentoring sessions is available <b><a href = "https://docs.google.com/spreadsheets/d/1rqke3YCIUTSR2bx8k-eWrA2xmODGw4m-Oh0NY3k4J_M/edit?usp=sharinghere">here</a></b>.</li>
     <li>Please install tidyverse on your computer by running the R command <code> install.packages('tidyverse')</code> in R or Rstudio. Some groups will need this for their projects, and all participants will need it to complete Tutorial 5.</li>
     <li>Instructions for Friday's project presentations are available <b><a href = "./projects/projectPresentations">here</a></b>. Instructions for the final reports (due 1 August) are available <b><a href = "./projects/projectReports">here</a></b>.</li>
     <li>Slides, code, and other materials from MMED 2019 are linked from <b><a href = "./resources/slides/">this page</a></b>. As a reminder, you can download the DAIDD glossary <b><a href = "http://www.ici3d.org/DAIDD/resources/DAIDD_Glossary.pdf">here</a></b>.</li>

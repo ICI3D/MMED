@@ -187,7 +187,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 -   14:00 – 15:30 **Lecture:** Likelihood fitting and dynamic models II ([Bobby](../team/reiner))
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
-    - 16:30 – 17:30 **Mentoring Session**: TBD
+    - 16:30 – 17:30 **Mentoring Session**: [schedule](https://docs.google.com/spreadsheets/d/1rqke3YCIUTSR2bx8k-eWrA2xmODGw4m-Oh0NY3k4J_M/edit?usp=sharing) (Alex, John, Juliet, Tendai)
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 GitHub practice and troubleshooting ([Pulliam](../team/pulliam)) and/or optional tutorial catch-up ([Are](../team/are), [Mthombothi](../team/mthombothi), [Mwangi](../team/mwangi), [Welte](../team/welte))
 
@@ -208,7 +208,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
     - Tutorial 5 Summary ([Mwangi](../team/mwangi))
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
-    - 16:30 – 17:30 **Mentoring Session** - TBD
+    - 16:30 – 17:30 **Mentoring Session**: [schedule](https://docs.google.com/spreadsheets/d/1rqke3YCIUTSR2bx8k-eWrA2xmODGw4m-Oh0NY3k4J_M/edit?usp=sharing) - (Jonathan, Juliet, Laurette)
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example ([optional guest lecture](../talks)):** [Tendai Mugwagwa](../talks/mugwagwa)
 
@@ -225,7 +225,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
     - 14:00 – 15:00 _Optional Session:_ Stochastic modeling II ([Dushoff](../team/dushoff) and [TBD](../team/TBD)??)
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
-    - 16:30 – 17:30 **Mentoring Session** - TBD
+    - 16:30 – 17:30 **Mentoring Session**: [schedule](https://docs.google.com/spreadsheets/d/1rqke3YCIUTSR2bx8k-eWrA2xmODGw4m-Oh0NY3k4J_M/edit?usp=sharing) (Becky, Joseph, Juliet, Zinhle)
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example (optional lecture):** Research Talk ([Welte](../talks/welte))
 
@@ -242,7 +242,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
     - 14:00 – 15:00 _Optional Session:_ Data wrangling II ([TBD?](../team/TBD) or [TBD?](../team/TBD))
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
-    - 16:30 – 17:30 **Mentoring Session** - TBD
+    - 16:30 – 17:30 **Mentoring Session**: [schedule](https://docs.google.com/spreadsheets/d/1rqke3YCIUTSR2bx8k-eWrA2xmODGw4m-Oh0NY3k4J_M/edit?usp=sharing) (Bobby, Elisha, Jonathan, Joseph, Tendai)
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Work session** (Project groups)
     - 19:00 – whenever Mentor dinner (venue TBD)
@@ -251,6 +251,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pullia
 
 -   8:30 – 10:00 **Work Session** (Project groups)
 -   10:00 – 10:30 *Coffee break*
+    - 10:30 – 11:30 **Mentoring Session**: [schedule](https://docs.google.com/spreadsheets/d/1rqke3YCIUTSR2bx8k-eWrA2xmODGw4m-Oh0NY3k4J_M/edit?usp=sharing) (Cari, Elisha, Thumbi)
 -   10:30 – 12:30 **Work Session** (Project groups) - Mentors
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - **13:15 Faculty meeting in Room 105**
