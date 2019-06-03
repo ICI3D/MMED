@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1559486769811.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1977505386",
+    "id" : "E578B78F",
+    "lastKnownWriteTime" : 1559543806,
+    "last_content_update" : 1559543806912,
+    "path" : "~/Projects/MMED/projects/projectGroupAssignments.R",
+    "project_path" : "projectGroupAssignments.R",
+    "properties" : {
+        "cursorPosition" : "38,0",
+        "scrollLine" : "35"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
