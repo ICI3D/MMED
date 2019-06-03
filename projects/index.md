@@ -4,7 +4,7 @@ redirect: ../development
 subtitle: MMED 2019 Projects
 tab: Projects
 title: Projects
-alerttype: Success
+alerttype: success
 alertmsg: >
   <ul>
   <li><b>Guidelines for the project presentations (on Friday) are available <a href="./projectPresentations">here</a>.</b></li>
