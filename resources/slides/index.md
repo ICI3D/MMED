@@ -16,13 +16,13 @@ subtitle: MMED Lectures and Lab Summaries
 - Introduction to dynamic modeling of infectious diseases ([Zinhle Mthombothi](../team/mthombothi)) - [Slides](https://ndownloader.figshare.com/articles/5043139/versions/5)
     - Video of the 2017 lecture given by [Steve Bellan](../team/bellan) - [Video](https://ndownloader.figshare.com/files/9442285), [Slides](https://ndownloader.figshare.com/files/8541823)
 - (Hidden) assumptions of simple ODE models ([Juliet Pulliam](../team/pulliam)) - [Slides](https://ndownloader.figshare.com/files/15278981)
-- Consequences of heterogeneity, and modeling options ([Jonathan Dushoff](../team/dushoff)) - [Slides]{https://ndownloader.figshare.com/articles/5044627/versions/5}
+- Consequences of heterogeneity, and modeling options ([Jonathan Dushoff](../team/dushoff)) - To be added
 - Introduction to models and data: HIV in Harare ([John Hargrove](../team/hargrove)) - To be added
 - Introduction to statistical philosophy ([Jonathan Dushoff](../team/dushoff)) - To be added
     - Video of the 2017 lecture given by [Jonathan Dushoff](../team/dushoff) - [Video](https://ndownloader.figshare.com/files/8732602), [Slides](https://ndownloader.figshare.com/files/8583778)
-- Introduction to Likelihood ([Cari van Schalkwyk](../team/vanschalkwyk)) - [Slides](https://ndownloader.figshare.com/articles/5044636/versions/5)
+- Introduction to Likelihood ([Cari van Schalkwyk](../team/vanschalkwyk)) - To be added
     - Video of the 2017 lecture given by [Steve Bellan](../team/bellan) - [Video](https://figshare.com/articles/Introduction_to_Likelihood/5044636), [Slides](https://ndownloader.figshare.com/files/8541898)
-- Likelihood fitting and dynamic models, Part 1: Dynamic Model Fitting and Inference Robustness ([Juliet Pulliam](../team/pulliam)) - [Slides](https://ndownloader.figshare.com/articles/5044672/versions/4)
+- Likelihood fitting and dynamic models, Part 1: Dynamic Model Fitting and Inference Robustness ([Juliet Pulliam](../team/pulliam)) - To be added
 
 ### Track A Sessions from Week 1
 
@@ -77,5 +77,5 @@ subtitle: MMED Lectures and Lab Summaries
 - Introduction to model implementation ([Cari van Schalkwyk](../team/vanschalkwyk)) - [Live coding example](https://github.com/ICI3D/MMEDparticipants/raw/master/Resources/2019/vanSchalkwykLiveCoding.R)
 - Participatory coding of a dynamical model ([Juliet Pulliam](../team/pulliam)) - [Code](https://github.com/ICI3D/MMEDparticipants/raw/master/Resources/2019/Pulliam_participatoryCoding.R)
     - Video of the 2017 session led by [Steve Bellan](../team/bellan) - [Video](https://ndownloader.figshare.com/files/8730145)
-- Participatory Coding (Sampling Var & Study Design) ([Jonathan Dushoff](../team/dushoff)) - To be added
+- Participatory Coding (Sampling Var & Study Design) ([Jonathan Dushoff](../team/dushoff)) - [Code](https://github.com/ICI3D/MMEDparticipants/raw/master/Resources/2019/Dushoff_participatoryCoding.R)
 - Participatory coding of a stochastic model (Chain binomial SEIV) (TBD) - To be added
