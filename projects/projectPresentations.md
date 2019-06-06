@@ -8,7 +8,7 @@ subtitle: Project Presentation Guidelines
 Project presentations
 =====================
 
--   **You will be held to a strict 15-minute (maximum) time limit.**
+-   **Your presentation should take 12 minutes maximum.**
     -   There will be time for questions afterward.
 -   Do not use a font size below 16pts anywhere on your slides.
     -   Most of your fonts should be larger

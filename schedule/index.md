@@ -231,7 +231,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Juliet](../team/pulliam
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:30 **Work Session** (Project groups) - Mentors
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
--   14:00 – 15:30 **Final presentations**
+-   13:45 – 15:45 **Final presentations**
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:00 **Final Feedback Session** (Moderator: [Masimba](../team/paradza))
 -   17:15 – 17:45 Closing session
