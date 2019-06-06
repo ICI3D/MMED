@@ -213,11 +213,10 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Juliet](../team/pulliam
 
 ### Thursday, 6 June
 
--   8:30 – 9:15 **Discussion**: Modeling for policy ([John](../team/hargrove))
+-   8:30 – 9:15 **Discussion**: Modeling for policy ([Tendai](../team/mugwagwa))
 -   9:15 - 10:00  **Work Session** (Project groups)
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:30 **Work Session** (Project groups)
-    - 10:30 – 11:30 **Mentoring Session** - TBD
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
 -   14:00 – 15:30 **Work Session** (Project groups)
 -   15:30 – 16:00 *Tea*
