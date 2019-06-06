@@ -229,7 +229,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Juliet](../team/pulliam
 
 -   8:30 – 10:00 **Work Session** (Project groups)
 -   10:00 – 10:30 *Coffee break*
--   10:30 – 12:30 **Work Session** (Project groups) - Mentors
+-   10:30 – 12:30 **Work Session** (Project groups)
     - 10:30 – 11:30 **Mentoring Session**: [schedule](https://docs.google.com/spreadsheets/d/1rqke3YCIUTSR2bx8k-eWrA2xmODGw4m-Oh0NY3k4J_M/edit?usp=sharing) (Cari, Elisha, Thumbi)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
 -   14:00 – 15:30 **Final presentations**
