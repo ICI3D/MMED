@@ -237,7 +237,7 @@ Part 1: Dynamic Model Fitting and Inference Robustness ([Juliet](../team/pulliam
 -   16:00 – 17:00 **Final Feedback Session** (Moderator: [Masimba](../team/paradza))
 -   17:15 – 17:45 Closing session
 -   18:00 – 18:30 *Dinner*
--   20:00 – 22:00 **Social Activity**: TBD
+-   20:00 – 22:00 **Social Activity**: Card games
 
 ### Saturday, 8 June
 

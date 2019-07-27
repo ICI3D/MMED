@@ -3,10 +3,8 @@ layout: clinic
 alerttype: success
 alertmsg: >
   <ul style="font-size:16px">
-    <li>The schedule for mentoring sessions is available <b><a href = "https://docs.google.com/spreadsheets/d/1rqke3YCIUTSR2bx8k-eWrA2xmODGw4m-Oh0NY3k4J_M/edit?usp=sharinghere">here</a></b>.</li>
-    <li>Instructions for Friday's project presentations are available <b><a href = "./projects/projectPresentations">here</a></b>. Instructions for the final reports (due 1 August) are available <b><a href = "./projects/projectReports">here</a></b>.</li>
-    <li>Slides, code, and other materials from MMED 2019 are linked from <b><a href = "./resources/slides/">this page</a></b>. As a reminder, you can download the DAIDD glossary <b><a href = "http://www.ici3d.org/DAIDD/resources/DAIDD_Glossary.pdf">here</a></b>.</li>
-    <li>The recommended git workflow is outlined on <b><a href = "./resources/gitSimple">this page</a><b>.</li>
+    <li>Instructions for the final project reports (due 1 August) are available <b><a href = "./projects/projectReports">here</a></b>.</li>
+    <li>Slides, code, and other materials from MMED 2019 are linked from <b><a href = "./resources/slides/">this page</a></b>.</li>
     <li>Reminder: Videos, slides, and other materials from the MMED and DAIDD clinics are available from the <b><a href="https://figshare.com/collections/International_Clinics_on_Infectious_Disease_Dynamics_and_Data/3788224">ICI3D Figshare Collection</a></b>.</li>
   </ul>
 ---
