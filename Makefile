@@ -7,18 +7,6 @@ target = Makefile
 
 ###################################################################
 
-ms = makestuff
--include local.mk
--include $(ms)/os.mk
-
-Makefile: $(ms)
-$(ms): 
-	ls -d ../makestuff && /bin/ln -fs ../makestuff .
-
-Ignore += $(ms)
-
-######################################################################
-
 Sources += Makefile README.md
 
 Sources += notes.md mmed_team.txt
@@ -27,18 +15,16 @@ Sources += weekly.md mentor_prep.md
 
 alldirs += pages schedule
 
-Ignore += $(alldirs)
-
 ######################################################################
 
--include $(ms)/visual.mk
--include $(ms)/git.mk
+Ignore += makestuff
+msrepo = https://github.com/dushoff
+Makefile: makestuff/Makefile
+makestuff/Makefile:
+	git clone $(msrepo)/makestuff
+	ls $@
 
--include $(ms)/texdeps.mk
-# -include $(ms)/newtalk.mk
-
-# -include $(ms)/modules.mk
-
-# -include $(ms)/webpix.mk
-# -include $(ms)/wrapR.mk
-
+-include makestuff/os.mk
+-include makestuff/visual.mk
+-include makestuff/git.mk
+-include makestuff/projdir.mk
