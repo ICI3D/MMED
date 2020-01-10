@@ -1,9 +1,9 @@
 ---
-layout: clinic
+layout: redirect
 redirect: ../development
 tab: Team
 title: Team
-subtitle: MMED 2019 Instructional Team
+subtitle: MMED 2020 Instructional Team
 ---
 
 {% include topTable.html %}
