@@ -1,9 +1,9 @@
 ---
 layout: clinic
-alerttype: success
+alerttype: warning
 alertmsg: >
   <ul style="font-size:16px">
-    <li>Instructions for the final project reports (due 1 August) are available <b><a href = "./projects/projectReports">here</a></b>.</li>
+    <li>Information about MMED 2020 will be added to this site as it becomes available.</li>
     <li>Slides, code, and other materials from MMED 2019 are linked from <b><a href = "./resources/slides/">this page</a></b>.</li>
     <li>Reminder: Videos, slides, and other materials from the MMED and DAIDD clinics are available from the <b><a href="https://figshare.com/collections/International_Clinics_on_Infectious_Disease_Dynamics_and_Data/3788224">ICI3D Figshare Collection</a></b>.</li>
   </ul>
