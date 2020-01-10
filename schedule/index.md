@@ -1,6 +1,6 @@
 ---
-layout: clinic
-redirect: ../development
+layout: redirect
+redirect: http://www.ici3d.org/mmed/schedule/
 tab: Schedule
 title: Schedule
 subtitle: Clinic Schedule
