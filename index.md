@@ -13,6 +13,8 @@ alertmsg: >
 </div>
 <div class="col-lg-8">
   <a href="https://c1.staticflickr.com/4/3220/3822506617_b2b2dbfe2c_b.jpg"><img src="https://c1.staticflickr.com/4/3220/3822506617_b2b2dbfe2c_b.jpg" alt="" title="Muizenberg changing sheds"  style="margin:0px; display: block; width : 100%; border-radius: 50px"/></a>
+  <br>
+  <center><p>MMED 2020 is supported by the South African Centre of Excellence in Epidemiological Modelling and Analysis (SACEMA) and the MIDAS Coordination Centre, with funding from grant 1U24GM132013-01.</p></center>
 </div>
 <div class="col-lg-2">
 </div>
