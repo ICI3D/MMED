@@ -1,7 +1,7 @@
 ---
-layout: redirect
+layout: clinic
 redirect: ../development
-subtitle: MMED 2020 Projects
+subtitle: MMED 2019 Projects
 tab: Projects
 title: Projects
 alerttype: success
