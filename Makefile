@@ -1,53 +1,24 @@
-# http://127.0.0.1:4000/
 
-######################################################################
-
-### Hooks for the editor to set the default target
+## Hooks
 
 current: target
+target = Makefile
 -include target.mk
 
-##################################################################
+###################################################################
 
-Sources += $(wildcard resources/*.md)
+Sources += Makefile README.md
 
-##################################################################
+######################################################################
 
-## Defs
-
-# stuff
-
-Sources += Makefile 
-Ignore += .gitignore
-
+Ignore += makestuff
 msrepo = https://github.com/dushoff
-ms = makestuff
-Makefile: $(ms)/Makefile
-$(ms)/Makefile:
-	ls ../makestuff/Makefile && /bin/ln -s ../makestuff 
--include $(ms)/os.mk
+Makefile: makestuff/Makefile
+makestuff/Makefile:
+	git clone $(msrepo)/makestuff
+	ls $@
 
-Ignore += $(ms)
-
-
-######################################################################
-
-Ignore += _site/
-localserve:
-	./run.sh
-
-## localserve doesn't do much, and doesn't work for me (jemoji)
-Sources += Gemfile_jd
-Ignore += Gemfile Gemfile.lock
-
-Sources +=_config.yml index.md
-
-######################################################################
-
-### Makestuff
-
--include $(ms)/git.mk
--include $(ms)/visual.mk
-
--include $(ms)/wrapR.mk
-
+-include makestuff/os.mk
+-include makestuff/visual.mk
+-include makestuff/git.mk
+-include makestuff/projdir.mk
