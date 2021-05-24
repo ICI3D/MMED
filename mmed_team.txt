@@ -1,6 +1,5 @@
 
 mentors@ici3d.org
-	"Laurette Mhlanga" <laurette@sun.ac.za>, "Jeanette Dawa" <jdawa@wsuglobalhealth.org>, "Joseph B. Sempa" <sempaj@sun.ac.za>, "Elisha Are" <elishaare@sun.ac.za>
 
 faculty@ici3d.org
 
