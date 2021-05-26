@@ -9,7 +9,7 @@ target = Makefile
 
 Sources += Makefile README.md
 
-Sources += notes.md mmed_team.txt
+Sources += notes.md mmed_team.txt projects.md
 
 Sources += weekly.md mentor_prep.md
 
@@ -22,7 +22,7 @@ Ignore += *.html
 faculty_observer.html:  invitations/faculty_observer.md
 	$(pandocs)
 
-## del test.md test.html
+## del test.md test.html ##
 
 ######################################################################
 
