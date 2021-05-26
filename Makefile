@@ -15,6 +15,15 @@ Sources += weekly.md mentor_prep.md
 
 alldirs += pages schedule
 
+Sources += invitations/*.md
+Sources += invitations/faculty_observer.md
+
+Ignore += *.html
+faculty_observer.html:  invitations/faculty_observer.md
+	$(pandocs)
+
+## del test.md test.html
+
 ######################################################################
 
 Ignore += makestuff
@@ -25,6 +34,9 @@ makestuff/Makefile:
 	ls $@
 
 -include makestuff/os.mk
+
+-include makestuff/pandoc.mk
+
 -include makestuff/visual.mk
 -include makestuff/git.mk
 -include makestuff/projdir.mk

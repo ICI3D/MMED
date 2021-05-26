@@ -1,6 +1,45 @@
 mmed_team.txt
 
+projects.md
+
+https://docs.google.com/document/d/17X3dDtvVcGGIeG0tAGiKbioe2tONOREc-x6k378RG8c/edit
+
 A _few_ notes from 2018 and 19 are in the history of this page.
+
+2021 May 26 (Wed)
+=================
+
+## Application update
+
+25 applications, more expected before deadline (8 hours from now)
+
+Applications to reviewers by end of the day tomorrow (Juliet and Faikah)
+
+Jim will lead review discussions
+
+## Payment and deadlines
+
+Deadline is not expected to be an issue
+
+## Reaching out to more faculty and observers
+* JD TODO with extreme prejudice
+
+Mentors: Mutono and Larisse
+
+## Projects
+
+Becky should probably not lead a project (says Becky)
+
+Should we break the project groups by time zones?
+* How many participants will there be from each time zone?
+
+## Session structure
+
+How long should recorded lectures be? How do we structure them to be participant-friendly. Discuss more with Jim?
+
+Recorded lectures should not be too long.
+
+A few slides to guide the discussions that follow lectures
 
 19 May 2021
 ===========
@@ -37,7 +76,7 @@ Once through; revisit after faculty invitations
 ## Mentor
 
 Invite Mutono and Larisse (↔ serials)
-* TODO Zinhle and Jonathan (bekunene)
+* Zinhle and Jonathan (bekunene)
 
 Roger and Sarah
 * Revisit if we get some noes
