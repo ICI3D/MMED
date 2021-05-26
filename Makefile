@@ -16,7 +16,7 @@ Sources += weekly.md mentor_prep.md
 alldirs += pages schedule
 
 Sources += invitations/*.md
-Sources += invitations/faculty_observer.md
+## Sources += invitations/faculty_observer.md invitations/new_faculty.md
 
 Ignore += *.html
 faculty_observer.html:  invitations/faculty_observer.md
