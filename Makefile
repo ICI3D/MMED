@@ -19,7 +19,7 @@ Sources += invitations/*.md
 ## Sources += invitations/faculty_observer.md invitations/new_faculty.md
 
 Ignore += *.html
-faculty_observer.html:  invitations/faculty_observer.md
+new_faculty.html:  invitations/new_faculty.md
 	$(pandocs)
 
 ## del test.md test.html ##
