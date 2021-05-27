@@ -13,25 +13,6 @@ Sources += $(wildcard resources/*.md)
 
 ##################################################################
 
-## Defs
-
-# stuff
-
-Sources += Makefile 
-Ignore += .gitignore
-
-msrepo = https://github.com/dushoff
-ms = makestuff
-Makefile: $(ms)/Makefile
-$(ms)/Makefile:
-	ls ../makestuff/Makefile && /bin/ln -s ../makestuff 
--include $(ms)/os.mk
-
-Ignore += $(ms)
-
-
-######################################################################
-
 Ignore += _site/
 localserve:
 	./run.sh
@@ -46,8 +27,21 @@ Sources +=_config.yml index.md
 
 ### Makestuff
 
--include $(ms)/git.mk
--include $(ms)/visual.mk
+Sources += Makefile
 
--include $(ms)/wrapR.mk
+Ignore += makestuff
+msrepo = https://github.com/dushoff
 
+## Want to chain and make makestuff if it doesn't exist
+Makefile: makestuff/Makefile
+makestuff/Makefile:
+	((cd .. && $(MAKE) makestuff) && ln -s ../makestuff .) \
+	|| git clone $(msrepo)/makestuff
+	ls $@
+
+-include makestuff/os.mk
+
+## -include makestuff/pipeR.mk
+
+-include makestuff/git.mk
+-include makestuff/visual.mk
