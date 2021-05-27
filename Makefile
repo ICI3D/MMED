@@ -16,10 +16,9 @@ Sources += weekly.md mentor_prep.md
 alldirs += pages schedule
 
 Sources += invitations/*.md
-## Sources += invitations/faculty_observer.md invitations/new_faculty.md
 
 Ignore += *.html
-new_faculty.html:  invitations/new_faculty.md
+mentor.html:  invitations/mentor.md
 	$(pandocs)
 
 ## del test.md test.html ##

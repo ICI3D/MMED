@@ -1,4 +1,3 @@
-Dear Tendai,
 
 On behalf of the [ICI3D](https://www.ici3d.org/) core faculty, it is my pleasure to invite you to join us for MMED 2021 as a Faculty Member. MMED 2021 will be an online event. 
 
