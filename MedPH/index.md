@@ -1,7 +1,7 @@
 ---
 layout: medph.page
 title: Mathematical Modeling in Medicine and Public Health
-summary: Biomathematics Honours Course for AIMS students ~ May 20 - June 7, 2019
+summary: Biomathematics Honours Course for AIMS students ~ June 21 - July 9, 2021
 repo: https://github.com/ICI3D/MathModelsMedPH
 alerttype: success
 alertmsg: <b>You will need to be logged into your GitHub account to access some of the materials linked below.</b>
@@ -21,7 +21,7 @@ alertmsg: <b>You will need to be logged into your GitHub account to access some 
 
     <h2>Course overview</h2>
 
-    <p>Addressing applied problems with mathematical models is most useful when these models are closely linked to relevant data. This course will focus on models of infectious disease dynamics and methods for linking models and data. The course will occur in three parts. During the first week, students will be introduced to biological and epidemiological aspects of infectious diseases and will learn how these considerations are related to infectious disease models. Students will also develop ideas for research projects that bring together data and modeling to address an applied question in infectious disease epidemiology. In the second and third weeks, students will participate in the Clinic on the Meaningful Modeling of Epidemiological Data (<a href="http://www.ici3d.org/MMED">MMED</a>), an interactive workshop that brings together an international cohort of students and researchers to learn about data-driven infectious disease modeling and how it fits within the broader discipline of public health. MedPH students will give poster presentations of their research projects at the MMED Clinic. Finally, students will complete individual written projects.</p>
+    <p>Addressing applied problems with mathematical models is most useful when these models are closely linked to relevant data. This course will focus on models of infectious disease dynamics and methods for linking models and data. The course will occur in three parts. During the first week, students will be introduced to biological and epidemiological aspects of infectious diseases and will learn how these considerations are related to infectious disease models. Students will also develop ideas for research projects that bring together data and modeling to address an applied question in infectious disease epidemiology. In the second and third weeks, students will participate in the Clinic on the Meaningful Modeling of Epidemiological Data (<a href="http://www.ici3d.org/MMED">MMED</a>), an interactive workshop that brings together an international cohort of students and researchers to learn about data-driven infectious disease modeling and how it fits within the broader discipline of public health. MedPH students will give presentations on their proposed research projects at the MMED Clinic. Finally, students will complete individual written projects.</p>
 
     <h3>Schedule</h3>
 
@@ -33,17 +33,17 @@ alertmsg: <b>You will need to be logged into your GitHub account to access some 
     <h3>Instructors</h3>
 
     <div class="container">
-      <h4>Becky Borchering, PhD, MS</h4>
+      <h4>Juliet Pulliam, PhD</h4>
 
       <ul>
-        <li> Department of Biology, University of Georgia (<a href="{{site.absoluteurl}}/people/borchering">link</a>) </li>
-        <li> Email: rebecca (dot) borchering (at) uga (dot) edu</li>
+        <li> South African Centre for Epidemiological Modelling and Analysis, Stellenbosch University (<a href="{{site.absoluteurl}}/people/pulliam">link</a>) </li>
+        <li> Email: pulliam (at) sun (dot) ac (dot) za</li>
       </ul>
 
       <h4> Zinhle Mthombothi, BSc, MSc </h4>
 
       <ul>
-        <li> South African Centre for Epidemiological Modelling and Analysis, University of Stellenbosch </li>
+        <li> South African Centre for Epidemiological Modelling and Analysis, Stellenbosch University (<a href="{{site.absoluteurl}}/people/mthombothi">link</a>) </li>
         <li> Email: zinhlem (at) sun (dot) ac (dot) za</li>
       </ul>
 

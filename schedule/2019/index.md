@@ -1,9 +1,9 @@
 ---
-layout: redirect
-redirect: http://www.ici3d.org/mmed/schedule/
+layout: clinic
+redirect: ../development
 tab: Schedule
 title: Schedule
-subtitle: Clinic Schedule
+subtitle: 2019 Schedule
 alerttype: warning
 alertmsg: Unless otherwise noted, all materials made available through this website are licensed through a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC-BY International License</a>. <a rel="license" href="../license">Click here for license details</a>.
 ---
