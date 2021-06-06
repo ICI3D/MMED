@@ -8,6 +8,7 @@ subtitle: Resources for during and after the Clinic
 
 - ICI3D materials
     - [ICI3D Figshare Repository](https://figshare.com/collections/International_Clinics_on_Infectious_Disease_Dynamics_and_Data/3788224)
+    - [ICI3D YouTube Channel](https://www.youtube.com/channel/UCtzFZwz48_JG4Owf6gQ-rUA)
     - [MMED 2019 Lectures and Lab Summaries](./slides/)
     - [MMED 2018 Lectures and Lab Summaries](./slides/2018)
 - Learning terminology

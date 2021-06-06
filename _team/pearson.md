@@ -1,4 +1,5 @@
 ---
 tab: Team
-type: inactive
+type: Workshop
+role: Faculty Member, MMED and DAIDD clinics
 ---

@@ -1,5 +1,5 @@
 ---
 tab: Team
-type: observer
-role: Faculty Observer, MMED 2019
+type: workshop
+role: Faculty Member, MMED clinic
 ---

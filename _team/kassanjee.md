@@ -1,6 +1,4 @@
 ---
-name: Joseph Sempa, PhD
 tab: Team
-role: MMED Mentor
-type: inactive
+role: Faculty Member, MMED and DAIDD clinics
 ---

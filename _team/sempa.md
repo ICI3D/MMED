@@ -1,6 +1,6 @@
 ---
 name: Joseph Sempa, PhD
 tab: Team
-type: mentor
+type: inactive
 role: MMED Mentor
 ---
