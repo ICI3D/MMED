@@ -54,14 +54,14 @@ ICI3D::dynamicalFever()
 
 _**Please complete the following between the end of Monday's interactive session and the beginning of Tuesday's interactive session.**_
 
-- **Video lecture:** Introduction to Thinking About Data I NOTE ((hargrove)) - exists; JS to send link
+- **Video lecture:** Introduction to thinking about data I NOTE ((hargrove)) - exists; JS to send link
 - **Video lecture:** [Introduction to dynamic modeling of infectious diseases](https://youtu.be/EV5FLlrRwiQ) NOTE ((bellan))
 - **Video lecture (Track A):** Introduction to infectious disease data ((mwangi))
 - **Video lecture (Track B):** Foundations of dynamic modeling ((dushoff))
 - **Written exercise:** Formulating research questions for modeling projects NOTE Also make these available in the Assignments folder in the General Channel of the MMED Participants Team
     - Track A NOTE **TODO: JP**
     - [Track B](https://www.dropbox.com/s/tb1j4eezub3wi4t/03_ResearchQuestions.docx?dl=1)
-- **Computer exercise** NOTE (Tutorial 1-3 and collate questions) **TODO: CP**
+- **Computer exercise** NOTE (Tutorial 1-3 and collate questions) Need to ask them to have concrete things that they turn in. (prep for review session) **TODO: CP**
 - _Make sure your slides are uploaded for the Research Round Robin sessions!_
 
 _Reminder:_
@@ -72,6 +72,9 @@ _Reminder:_
 ### Tuesday, 29 June
 
 
+- 20:00-21:30 Small group session: research questions for modeling projects (All faculty) NOTE (90 mins)
+    - SHADOW - [Step-by-step guide](../Materials/researchQuestions)
+- SHADOW 21:30-22:00 Faculty meeting
 
 ### Wednesday, 30 June
 
