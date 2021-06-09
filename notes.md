@@ -6,6 +6,16 @@ https://docs.google.com/document/d/17X3dDtvVcGGIeG0tAGiKbioe2tONOREc-x6k378RG8c/
 
 A _few_ notes from 2018 and 19 are in the history of this page.
 
+2021 Jun 09 (Wed)
+================
+
+- Admissions update (JP)
+- Participants update (FB)
+- Weekly message plan (JD/CvS)
+- Discussion of progress (all faculty)
+- Assignment: update faculty profiles
+- Assignment: project descriptions for posting
+
 2021 Jun 02 (Wed)
 ================
 
@@ -168,4 +178,3 @@ BYE!!!
 ## Weekly messages
 
 ## Where to share information?
-
