@@ -4,15 +4,94 @@ projects.md
 
 https://docs.google.com/document/d/17X3dDtvVcGGIeG0tAGiKbioe2tONOREc-x6k378RG8c/edit
 
+Resources
+* Videos are on youtube channel
+* [Slides](https://www.dropbox.com/sh/v4nqwqdzo29mm05/AAAm7wFZCrQrMkTqzZcH-pzPa)
+
 A _few_ notes from 2018 and 19 are in the history of this page.
 
 2021 Jun 09 (Wed)
 ================
 
-- Admissions update (JP)
-- Participants update (FB)
-- Weekly message plan (JD/CvS)
-- Discussion of progress (all faculty)
+Admissions update (JP)
+* Thanks to reviewers!
+* 20 students admitted; 4 additional SACEMA; 4 still on wait list
+* All applicants have been notified
+
+Participants update (FB)
+* 10/11 students have confirmed
+* 4 have entered the system two (others) have paid
+* People have until the end of the day on Friday to confirm and/or register
+
+Weekly message plan (JD/CvS)
+* Running late!
+* There is no participants@ici3d.org
+* Maybe create a google mailing list
+* Faikah will add Jonathan and Cari
+
+Welcome to Bobby!
+* What things can be handed over?
+* Is Bobby a member of this repo?
+
+## Discussion of progress (all faculty)
+
+Foundations of dynamic modeling lecture
+* What should the follow-up to this look like?
+
+Introduction to likelihood video
+* Use an edited version of Steve's?
+* There's a also a video that Jim did for DAIDD
+
+What new videos do we need?
+* Tutorial reviews and other individual activities maybe could benefit from video recaps or suggestions
+* Or can we handle it interactively even during individual sessions?
+* No such videos for now
+
+How do we guide the participants through working in teams?
+* Size of groups, time zones
+* mediating through Teams (breakouts and sub-channels)
+
+Schedule drafting
+* Time zones and clear communication with participants
+* Juliet to produce the broadest outline timing by the end of the day
+* Work with JD for time-zone translation
+* Carl to report on feedback from participants
+
+Thinking about Data I
+* We will use existing video
+
+Tsetse modeling proposal
+* Was this sent to faculty@? I haven't seen it
+* 5 Jun MMED homework
+
+Modeling for Policy 7 Jul to be assigned
+* Should we talk about vaccine inequities? YES
+* Carl interested in participating
+* Will work with Becky to structure something and TODO bounce off the group
+
+Something about Becky faculty lecture
+
+Reshma has improved her github but has covid emergencies interfering with prep
+* Willing to give a discussion review to Bobby
+
+Intro to github (Zinhle)
+* Working on technology for sharing work flow
+* Will work with Cari (or Cari will share something)
+
+Public Health, Modeling Epidemiology
+* JD to figure out what is going on
+
+Likelihood series:
+* Bobby, Juliet, me, Cari, Carl?
+* Bobby to co-ordinate discussions (let us know if you don't have all emails)
+* Bobby almost certainly gaba all the emails [what I heard]
+
+Team prep
+* Faikah to start setting up; move meetings to Teams (ugh!)
+
+## New assignments TODO!
+
+JP will email:
 - Assignment: update faculty profiles
 - Assignment: project descriptions for posting
 
@@ -85,7 +164,6 @@ Jim will lead review discussions
 Deadline is not expected to be an issue
 
 ## Reaching out to more faculty and observers
-* JD TODO with extreme prejudice
 
 Mentors: Mutono and Larisse
 
