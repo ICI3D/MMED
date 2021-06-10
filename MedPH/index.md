@@ -37,7 +37,7 @@ alertmsg: <b>You will need to be logged into your GitHub account to access some 
 
       <ul>
         <li> South African Centre for Epidemiological Modelling and Analysis, Stellenbosch University (<a href="{{site.absoluteurl}}/people/pulliam">link</a>) </li>
-        <li> Email: pulliam (at) sun (dot) ac (dot) za</li>
+        <li> Email: juliet (at) ici3d (dot) org</li>
       </ul>
 
       <h4> Zinhle Mthombothi, BSc, MSc </h4>
