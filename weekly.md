@@ -83,12 +83,12 @@ You are receiving this email because you will be participating in the 2021 Clini
 Please note that you will need access to the MMED participants GitHub repository to prepare for the Clinic. You will be invited to join the repository after you've completed the following steps:
 
 - Create a GitHub account (register for an account at <https://github.com/>; you may skip this step if you already have a GitHub account)
-- Email your GitHub username and a recent photograph to <github@ici3d.org> by 14:00 (Cape Town time, or 8am Eastern) by Friday 11 June.
+- Email your GitHub username and a recent photograph to <github@ici3d.org> by Monday 14 June.
 
 Photographs will be used to create a directory of participants. If you would prefer that your photo be shared only among Clinic participants, please indicate that in your email. Otherwise, the directory will be made publicly available.
 
-We have also posted a [preliminary schedule](http://www.ici3d.org/MMED/schedule). Additional information about the program is included in the attached document, and further details will be added to the [MMED 2019 website](http://www.ici3d.org/MMED) between now and the Clinic.
+See [the Clinic website](http://www.ici3d.org/MMED) for more information; we will be updating frequently between now and the Clinic.
 
-We are looking forward to seeing you in Muizenberg in May!
+We are looking forward to seeing you!
 
-Rebecca Borchering, Jonathan Dushoff, John Hargrove, Reshma Kassanjee, Zinhle Mthombothi,Thumbi Mwangi, Carl Pearson, Juliet Pulliam, Jim Scott, Cari van Schalkwyk ([The MMED faculty](http://www.ici3d.org/MMED/team/))
+Rebecca Borchering, Jonathan Dushoff, John Hargrove, Reshma Kassanjee, Zinhle Mthombothi,Thumbi Mwangi, Carl Pearson, Juliet Pulliam, Bobby Reiner, Jim Scott, Cari van Schalkwyk ([The MMED faculty](http://www.ici3d.org/MMED/team/))

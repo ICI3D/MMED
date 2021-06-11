@@ -12,6 +12,9 @@ Sources += notes.md mmed_team.txt projects.md
 
 Sources += weekly.md mentor_prep.md
 
+weekly.html: weekly.md
+	$(pandocs)
+
 alldirs += pages schedule
 
 Sources += invitations/*.md
