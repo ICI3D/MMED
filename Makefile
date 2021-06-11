@@ -10,15 +10,20 @@ Sources += Makefile README.md
 
 Sources += notes.md mmed_team.txt projects.md
 
+alldirs += pages schedule
+
+######################################################################
+
 Sources += weekly.md mentor_prep.md
 
 weekly.html: weekly.md
 	$(pandocs)
 
-alldirs += pages schedule
+Sources += participants/*.md participants/*.txt
+
+######################################################################
 
 Sources += invitations/*.md
-## Sources += invitations/faculty_observer.md invitations/new_faculty.md
 
 Ignore += *.html
 new_faculty.html: invitations/new_faculty.md
