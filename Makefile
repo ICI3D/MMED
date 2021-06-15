@@ -1,10 +1,11 @@
 ## http://localhost:4000/schedule/shadow
-## http://localhost:4000/schedule/
+## http://localhost:4000/MMED/schedule/
 
 ## https://github.com/ICI3D/MMED/tree/gh-pages
 
 ## http://www.ici3d.org/
 ## http://www.ici3d.org/MMED/schedule/overhead
+## http://www.ici3d.org/MMED/schedule/overhead.html
 
 current: target
 target = Makefile
