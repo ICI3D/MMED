@@ -29,8 +29,6 @@ Ignore += *.html
 new_faculty.html: invitations/new_faculty.md
 	$(pandocs)
 
-## del test.md test.html ##
-
 ######################################################################
 
 Ignore += makestuff
