@@ -1,4 +1,11 @@
-## Hooks
+# http://localhost:4000/
+## http://localhost:4000/schedule/shadow
+## http://localhost:4000/schedule/
+
+## https://github.com/ICI3D/MMED/tree/gh-pages
+
+## http://www.ici3d.org/
+## http://www.ici3d.org/MMED/schedule/overhead
 
 current: target
 target = Makefile
@@ -24,6 +31,10 @@ schedule/overtime%.md: schedule/over.md timeshadow.pl
 zones = 01 02 03 04 09 09 10 11 14
 ozones = $(zones:%=schedule/overtime%.md)
 overtimes: $(ozones)
+
+######################################################################
+
+Ignore += Gemfile
 
 ######################################################################
 
