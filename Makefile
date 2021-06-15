@@ -1,4 +1,3 @@
-# http://localhost:4000/
 ## http://localhost:4000/schedule/shadow
 ## http://localhost:4000/schedule/
 
@@ -19,6 +18,8 @@ start:
 	./run.sh
 
 ######################################################################
+
+Sources += $(wildcard schedule/*.md)
 
 ## Time stamps. Right now we have Juliet's overview and a newer, trimmer over
 
