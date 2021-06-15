@@ -1,5 +1,5 @@
 ---
-layout: redirect
+layout: clinic
 redirect: ../development
 tab: Preparation
 title: Preparation
@@ -8,28 +8,55 @@ alerttype: success
 alertmsg: Please prepare for the Clinic by completing the following tasks. <b>You will need to be logged into your GitHub account to access some of the materials linked below.</b>
 ---
 
-### 1. Poster preparation
+You should complete the following steps in preparation for the clinic before the first day of the Clinic.
 
-Prepare a poster presentation to share your research.
+### 1. Research Pitch
 
-- Poster preparation guidelines are available [here](../posters).  
-- Be sure to submit your poster by the May 17 deadline, if you would like us to print it for you.
-- See [this page](../posters/sessions) for poster session assignments.
+- Prepare a short oral presentation summarizing your research (2 minutes max, 1 slide in PDF format)
+    - You may summarize recent, completed research that forms the basis for ongoing work, or you may give an overview of ongoing work or of a new project that's in development.
+    - We recommend selecting 1-2 visual aids (eg, figures or diagrams) that  will help you explain key aspects of the research. Please keep the text on your slide to a minimum.
+    - Do not attempt to explain all of the details of your project - stick to the essentials and keep it simple. You will be kept to time.
+
+- Prepare a more detailed description of your research
+    - We recommend using an existing description of your research, rather than creating something from scratch. For example, you could use a poster you have presented elsewhere, a project proposal you have written, or even compile abstracts from 2-3 projects you've published or presented at meetings.
+    - The intent here is not for you to spend hours preparing something new to share, rather to provide an easy way for others who are interested to learn more about your research and interests.
+    - Please do keep it brief (1-3 pages would be best).
+
+- Upload the PDF version of your 1-slide research pitch to the **_01_pitchSlides_** folder on the MMED Participants Team on Microsoft Teams. Use the file naming convention **01_SurnameFirstname_pitch.pdf**.
+- Upload the PDF version of your more detailed description of your research to the **_02_reserachInfo_** folder on the MMED Participants Team, using the file naming convention **02_SurnameFirstname_info.pdf**.
+- Please contact Faikah if you have any trouble accessing the MMED Participants Team or uploading your material.
 
 ### <a id="#Software"></a> 2. Software installation
 
-If you plan to bring a laptop to use during the Clinic, please install the following programs prior to arrival:
+Please install the following programs on the computer you will use during the Clinic, prior to the opening session:
 
 - Excel (or a compatible spreadsheet program)
 - [Git](http://git-scm.com/) - version control software
     - Note that recent versions of MacOS come with Git installed, so you may not need to install this program.
 - [Git Bash](http://msysgit.github.io/) (Recommended for Windows users only) -  command line access to Git on Windows
 - R - a statistical programming language (download links for [Windows](http://cran.r-project.org/bin/windows/base/), [Linux](http://cran.r-project.org/bin/linux/), and [MacOS](http://cran.r-project.org/bin/macosx/))
+    - If you already have R, please check that you have a recent version, or else update. Versions starting with 3.5 or 3.6 should be OK.
 - R Studio - a user interface for R that will be needed for computer exercises ([download link](http://www.rstudio.com/products/rstudio/download/))
+- ICI3D R package - a package containing interactive tutorials for use at the Clinic; to install, run the following lines of code from the R or Rstudio command line:
+
+<div class="row">
+<div class="col-lg-1">
+</div>
+<div class="col-lg-10">
+{% highlight r %}
+
+install.packages('remotes') # if not already installed
+remotes::install_github('ICI3D/ici3d-pkg') # DO NOT DO THIS IF YOU NEED TO UPDATE R VERSION (see above)
+
+{% endhighlight %}
+</div>
+<div class="col-lg-1">
+</div>
+</div>
 
 Please let us know if you have trouble installing any of the above software!
 
-> **Note:** _If you will be bringing a laptop to the Clinic_, please be sure to install all the required software on your machine before your arrival. Please also note that you will need to have administrative permissions on the laptop you bring to the Clinic. _Even if you are not bringing a laptop to the Clinic_, you will need access to a computer with both R and R Studio installed to prepare for the Clinic.
+> Please note that you will need to have administrative permissions on the computer you use for the Clinic. You may need to arrange this through your IT department if you are using an institutional computer.
 
 ### 3. Introductory tutorials
 
@@ -41,8 +68,6 @@ When you have successfully installed both R and R Studio, please work through th
 - Tutorial 1: [Introduction to R and its quirks](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_1.R) (required)
 - Tutorial 2: [More on Vectors, Data Frames, and Functions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_2.R) (required)
 - Tutorial 3: [Probability Distributions and Control Structures](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_3.R) (required)
-
-- As you complete these tutorials, please complete [the associated quiz](https://survey.az1.qualtrics.com/jfe/form/SV_cAV8F8D4hUfiXdj).
 
 If you are unfamiliar with or rusty on your understanding of the [Binomial Distribution](http://en.wikipedia.org/wiki/Binomial_distribution), you may also want to work through the [introductory Binomial Distribution tutorial](https://raw.githubusercontent.com/ICI3D/RTutorials/master/binomialDistribution.R).
 
