@@ -24,6 +24,7 @@ Sources += $(wildcard schedule/*.md)
 
 ## Time stamps. Right now we have Juliet's overview and a newer, trimmer over
 
+Sources += timeshadow.pl
 ## schedule/overtime03.md: schedule/over.md timeshadow.pl
 schedule/overtime%.md: schedule/over.md timeshadow.pl
 	- $(rm)
