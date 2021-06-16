@@ -1,6 +1,6 @@
 ---
 layout: clinic
-alerttype: warning
+alerttype: success
 alertmsg: >
   <ul style="font-size:16px">
     <li>Information about MMED 2021 will be added to this site as it becomes available.</li>
