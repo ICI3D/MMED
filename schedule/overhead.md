@@ -15,13 +15,12 @@ alertmsg: >
 
 __Click here for schedule overview in your time zone__
 
-* [Cape Town, South Africa (our spiritual location)](overtime10)
-* [US Pacific](overtime01)
-* [US Mountain](overtime02)
-* [US Central](overtime03)
-* [US Eastern](overtime04)
-* [UK](overtime09)
-* [West Africa](overtime09)
-* [Central Africa](overtime10)
-* [East Africa](overtime11)
+* [Cape Town (our spiritual location)](overtime10)
+* [Abu Dhabi](overtime12)
+* [Bucaramanga](overtime03)
+* [Chennai](overtime13)
 * [Dhaka](overtime14)
+* [London](overtime09)
+* [Nairobi](overtime11)
+* [New York](overtime04)
+* [Seattle](overtime01)
