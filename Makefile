@@ -31,7 +31,8 @@ schedule/overtime%.md: schedule/over.md timeshadow.pl
 	perl -wf timeshadow.pl $* $< >> $@
 	$(readonly)
 
-zones = 01 02 03 04 09 09 10 11 14
+zones = 01 03 04 09 10 11 12 13 14
+ 
 ozones = $(zones:%=schedule/overtime%.md)
 overtimes: $(ozones)
 
