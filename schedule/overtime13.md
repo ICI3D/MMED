@@ -13,14 +13,13 @@ alertmsg: >
 
 * [Main schedule](.)
 
-__Click here for schedule overview in your time zone__
+## Interactive Sessions
 
-* [Cape Town (our spiritual location)](overtime10)
-* [Abu Dhabi](overtime12)
-* [Bucaramanga](overtime03)
-* [Chennai](overtime13)
-* [Dhaka](overtime14)
-* [London](overtime09)
-* [Nairobi](overtime11)
-* [New York](overtime04)
-* [Seattle](overtime01)
+* __Part A:__ 19:30-21:30
+* (one hour break)
+* __Part B:__ 22:30-00:30
+
+## Individual Sessions
+* __Tea with African Faculty:__ 14:00
+* __Tea with North American Faculty:__ 00:00
+
