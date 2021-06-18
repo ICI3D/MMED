@@ -47,7 +47,7 @@ ICI3D::dynamicalFever()
 </div>
 </div>
 
-- 19:30-20:00 **Discussion:** Dynamical Fever ((hargrove)) HIDE - [model description](../Materials/fever), modeling terminology, and the [DAIDD glossary](http://tinyurl.com/daidd-public) - [Download the taxonomy](../Materials/modelTaxonomy) NOTE (30 mins?)
+- 19:30-20:00 **Discussion:** Dynamical Fever ((hargrove)) HIDE - [model description](../Materials/fever), modeling terminology, and the [DAIDD glossary](http://tinyurl.com/daidd-public) - [Download the taxonomy](../Materials/modelTaxonomy)
 - SHADOW 21:30-22:00 Faculty meeting
 
 #### Individual session 1
@@ -62,7 +62,7 @@ _**Please complete the following between the end of Monday's interactive session
     - Track A NOTE **TODO: JP**
     - [Track B](https://www.dropbox.com/s/tb1j4eezub3wi4t/03_ResearchQuestions.docx?dl=1)
 - **Computer exercise** NOTE (Tutorial 1-3 and collate questions) Need to ask them to have concrete things that they turn in. (prep for review session) **TODO: CP**
-- _Make sure your slides are uploaded for the Research Round Robin sessions!_
+- _Make sure your slides are uploaded for the Research Pitches!_
 
 _Reminder:_
 

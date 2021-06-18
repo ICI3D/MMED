@@ -23,12 +23,12 @@ alertmsg: <b>You will need to be logged into your GitHub account to access some 
 
     <p>Addressing applied problems with mathematical models is most useful when these models are closely linked to relevant data. This course will focus on models of infectious disease dynamics and methods for linking models and data. The course will occur in three parts. During the first week, students will be introduced to biological and epidemiological aspects of infectious diseases and will learn how these considerations are related to infectious disease models. Students will also develop ideas for research projects that bring together data and modeling to address an applied question in infectious disease epidemiology. In the second and third weeks, students will participate in the Clinic on the Meaningful Modeling of Epidemiological Data (<a href="http://www.ici3d.org/MMED">MMED</a>), an interactive workshop that brings together an international cohort of students and researchers to learn about data-driven infectious disease modeling and how it fits within the broader discipline of public health. MedPH students will give presentations on their proposed research projects at the MMED Clinic. Finally, students will complete individual written projects.</p>
 
-    <h3>Schedule</h3>
+    <!--h3>Schedule</h3>
 
     <ul>
       <li> <a href="{{page.repo}}/raw/master/MedPH_Schedule.pdf">Download the schedule for Week 1 here.</a> </li>
       <li> The <a href="http://www.ici3d.org/MMED/schedule">schedule for weeks 2 and 3</a> is the same as for the MMED Clinic.</li>
-    </ul>
+    </ul-->
 
     <h3>Instructors</h3>
 
