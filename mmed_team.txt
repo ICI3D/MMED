@@ -1,8 +1,9 @@
-team@ici3d.org ## Not yet
+team@ici3d.org :
 
 mentors@ici3d.org
 
 faculty@ici3d.org
 
 observers@ici3d.org
+* Mike and Tom
 

@@ -11,6 +11,53 @@ Resources
 
 A _few_ notes from 2018 and 19 are in the history of this page.
 
+2021 Jun 18 (Fri)
+=================
+
+faculty@ici3d.org
+observers
+
+We are team@ici3d.org
+* Introductions!
+
+Registration
+* Everyone! Most have paid, Faikah is on it
+* Wait list notified
+* Github is being pursued
+
+Please update your faculty profile
+* github.com/ICI3D/ICI3D.github.io/_data/team/surname.yml
+* You may need a pull request
+
+Please fill out your project template
+* https://github.com/ICI3D/MMED/blob/master/projects/template.md
+* You have access
+
+Schedule
+* https://docs.google.com/document/d/17X3dDtvVcGGIeG0tAGiKbioe2tONOREc-x6k378RG8c/edit 
+* Migrate to:
+	* http://www.ici3d.org/MMED/schedule/shadow
+* JD to pipe and start looking for resources
+
+Likelihood team
+* Will try to get together soon (Monday?)
+* JP to send links
+
+Mentoring
+* Zinhle (Zi) will organize a meeting with the mentoring group
+
+Hargrove project
+* https://docs.google.com/document/d/1K7AXp9OB9Fbg6K9w8hJGogphe9ObO1Eh/edit
+
+PHME lecture
+* Juliet, Jonathan and possibly Jim to update
+* https://www.youtube.com/watch?v=SKYMpRSvg2Y
+
+Beer planning
+* Very important!
+
+Adjournment
+
 2021 Jun 09 (Wed)
 ================
 
