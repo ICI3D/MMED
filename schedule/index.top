@@ -1,6 +1,6 @@
 ---
-layout: redirect
-redirect: http://www.ici3d.org/mmed/
+layout: clinic
+redirect: ../development
 tab: Schedule
 title: Schedule
 subtitle: Clinic Schedule
@@ -19,18 +19,3 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
     </ul>
   </div>
 </div>
----
-
-* [Schedule overview](overhead)
-
-__Click here for schedule in your time zone__
-
-* [Cape Town (our spiritual location)](time10)
-* [Abu Dhabi](time12)
-* [Bucaramanga](time03)
-* [Chennai](time13)
-* [Dhaka](time14)
-* [London](time09)
-* [Nairobi](time11)
-* [New York](time04)
-* [Seattle](time01)

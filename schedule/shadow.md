@@ -17,6 +17,14 @@ alertmsg: >
   </ul>
 ---
 
+* [Faculty notes page](https://github.com/ICI3D/MMED/blob/master/notes.md)
+* [Shadow rules](http://www.ici3d.org/DAIDD/shadow_rules)
+
+* [Your local (jekyll) copy of this page](http://localhost:4000/schedule/shadow)
+
+/HEAD
+
+
 ### Monday, 28 June
 
 #### Interactive session 1a
