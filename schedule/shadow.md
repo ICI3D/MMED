@@ -204,7 +204,7 @@ ICI3D::hivTutorial()
 </div>
 </div>
 
-- 18:10-18:30 NOTE **TODO: fill hole** Some sort of short research presentation?? Faculty (observer) or mentor research presentation??
+- 18:10-18:30 TBD NOTE **TODO: fill hole** Model taxonomy??
 
 #### Interactive session 4b
 
