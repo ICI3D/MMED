@@ -32,7 +32,7 @@ alertmsg: >
 **20:30-22:30 Dhaka / 19:30-21:30 Chennai / 18:30-20:30 Abu Dhabi / 17:30-19:30 Nairobi / 16:30-18:30 SAST / 15:30-17:30 London / 10:30-12:30 New York / 09:30-11:30 Bucaramanga / 07:30-09:30 Seattle**
 
 - _Please join the session by 16:25. We will begin promptly at 16:30._
-- 16:30-16:55 Welcome and motivation ((pulliam)), ((nyamai)), and ((hargrove))
+- 16:30-16:55 Welcome and motivation ((pulliam), (nyamai), and (hargrove))
 - 16:55-17:40 **Lecture:** Public Health, Epidemiology, and Models ((dushoff))
 - 17:40-17:50 **Organizational session:** [MMED Road Map](../roadmap) and programme overview ((borchering))
 - 17:50-18:05 **Organizational session:** Working with the MMED technical tools ((pearson)) NOTE (15 mins)

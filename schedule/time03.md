@@ -27,7 +27,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 
 
 - _Please join the session by 09:25. We will begin promptly at 09:30._
-- 09:30-09:55 Welcome and motivation ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)), ((nyamai)), and ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
+- 09:30-09:55 Welcome and motivation ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/), (nyamai), and [John Hargrove]({{site.subdomainurl}}/team/hargrove/))
 - 09:55-10:40 **Lecture:** Public Health, Epidemiology, and Models ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 - 10:40-10:50 **Organizational session:** [MMED Road Map](../roadmap) and programme overview ([Becky Borchering]({{site.subdomainurl}}/team/borchering/))
 - 10:50-11:05 **Organizational session:** Working with the MMED technical tools ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
