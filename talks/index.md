@@ -1,9 +1,9 @@
 ---
-layout: redirect
+layout: clinic
 redirect: ../development
 tab: Schedule
 title: Talks
-subtitle: MMED 2020 Research Talks
+subtitle: MMED 2021 Research Talks
 ---
 
 {% include topTable.html %}
