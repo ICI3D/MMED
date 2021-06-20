@@ -47,6 +47,7 @@ Sources += $(wildcard */shadow.md)
 
 ## Resources for the hacky stuff
 
+Ignore += jdresources
 jdresources: dir = ICI3D.github.io
 jdresources:
 	$(linkdir)
