@@ -28,7 +28,7 @@ Sources += $(wildcard schedule/*.md)
 ######################################################################
 
 vim_session:
-	bash -cl "vmt schedule/index.md schedule/shadow.md timeshadow.pl"
+	bash -cl "vmt schedule/index.md schedule/shadow.md"
 
 ## alldirs += ICI3D.github.io
 ICI3D.github.io/_config.yml:
@@ -42,6 +42,14 @@ Sources += _config.yml _localconfig.yml Gemfile.jd
 Ignore += Gemfile Gemfile.lock
 
 Sources += $(wildcard */shadow.md)
+
+######################################################################
+
+## Resources for the hacky stuff
+
+jdresources: dir = ICI3D.github.io
+jdresources:
+	$(linkdir)
 
 ######################################################################
 
@@ -60,10 +68,14 @@ Sources += $(wildcard *.pl)
 ## Real schedule source is the shadow
 ## schedule/shadow.md
 
-schedule/test.md: schedule/index.top schedule/shadow.md shadow.pl
+## schedule/test.md.compare: jdresources/shadow.pl
+## schedule/test.md.setgoal: schedule/test.md schedule/test.md.goal: 
+
+schedule/test.md: jdresources/faculty.tsv schedule/index.top schedule/shadow.md jdresources/shadow.pl
 	$(rm)
+	$(CAT) $(filter %.top, $^) > $@
 	$(CAT) $< > $@
-	perl -wf shadow.pl schedule/shadow.md >> $@
+	perl -wf $(filter %.pl, $^) $(filter %.tsv, $^) $(filter %.md, $^) >> $@
 	$(readonly)
 
 ## zones = time10 time08 time03 time02 time01 time00 time09 time11 time14
@@ -71,11 +83,11 @@ zones = 01 03 04 09 10 11 12 13 14
 times = $(zones:%=schedule/time%.md)
 time_setup: $(times)
 
-## schedule/time10.md: schedule/index.top schedule/test.md timeshadow.pl
-schedule/time%.md: schedule/index.top schedule/test.md timeshadow.pl
+## schedule/time10.md: schedule/index.top schedule/test.md jdresources/timeshadow.pl
+schedule/time%.md: schedule/test.md jdresources/timeshadow.pl
 	$(rm)
-	perl -wf timeshadow.pl $* schedule/test.md >> $@
-	$(readonly)
+	$(PUSHSTAR)
+	$(RO)
 
 ## git rm preparation/shadow.md ##
 Sources += $(wildcard preparation/*.md)
@@ -83,11 +95,10 @@ Sources += $(wildcard participants/*.md)
 
 ## Ad hoc overview stuff
 
-Sources += timeshadow.pl
 ## schedule/overtime03.md: schedule/over.md timeshadow.pl
-schedule/overtime%.md: schedule/over.md timeshadow.pl
+schedule/overtime%.md: schedule/over.md jdresources/timeshadow.pl
 	- $(rm)
-	perl -wf timeshadow.pl $* $< >> $@
+	perl -wf jdresources/timeshadow.pl $* $< >> $@
 	$(readonly)
 
 zones = 01 03 04 09 10 11 12 13 14
@@ -109,6 +120,8 @@ makestuff/Makefile:
 	ls $@
 
 -include makestuff/os.mk
+
+-include makestuff/compare.mk
+
 -include makestuff/visual.mk
 -include makestuff/git.mk
--include makestuff/projdir.mk

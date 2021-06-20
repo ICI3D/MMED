@@ -24,7 +24,6 @@ alertmsg: >
 
 /HEAD
 
-
 ### Monday, 28 June
 
 #### Interactive session 1a

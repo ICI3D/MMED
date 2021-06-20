@@ -1,24 +1,15 @@
----
-layout: clinic
-redirect: ../development
-tab: Schedule
-title: Schedule
-subtitle: Clinic Schedule
-alerttype: warning
-alertmsg: Unless otherwise noted, all materials made available through this website are licensed through a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC-BY International License</a>. <a rel="license" href="../license">Click here for license details</a>.
----
-
-> The MMED program includes a number of parallel sessions for participants with different backgrounds. **Track A** is designed for those with a mathematical background, particularly those who have extensive training and/or experience with differential equation models of infectious disease dynamics. **Track B** is designed for those with a background in epidemiology and/or statistics, particularly those who are involved in data collection for infectious disease systems.
-
-<div class="alert alert-warning" role="alert">
-  <div class="container padding-left=0px padding-right=0px">
-    <ul style="font-size:16px; margin:0px;">
-      <li>The schedule below is <b>preliminary</b> and subject to change.</li>
-      <li>Links to slides for the sessions below are available <a href="../resources/slides">here</a>.</li>
-      <li>Links to R tutorials and exercises are available <a href="../tutorials">here</a>.</li>
-    </ul>
-  </div>
-</div>
+paradza	Masimba Paradza
+bruce	Faikah Bruce
+hargrove	John Hargrove
+dushoff	Jonathan Dushoff
+mthombothi	Zinhle Mthombothi
+scott	Jim Scott
+borchering	Becky Borchering
+pulliam	Juliet Pulliam
+vanschalkwyk	Cari van Schalkwyk
+kassanjee	Reshma Kassanjee
+pearson	Carl Pearson
+nyamai	Mutono Nyamai
 
 
 ### Monday, 28 June
@@ -26,7 +17,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 #### Interactive session 1a
 
 - _Please join the session by 20:25. We will begin promptly at 20:30._
-- 20:30-20:55 Welcome and motivation ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)), ((nyamai)), and ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
+- 20:30-20:55 Welcome and motivation ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)), ([Mutono Nyamai]({{site.subdomainurl}}/team/nyamai/)), and ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
 - 20:55-21:40 **Lecture:** Public Health, Epidemiology, and Models ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 - 21:40-21:50 **Organizational session:** [MMED Road Map](../roadmap) and programme overview ([Becky Borchering]({{site.subdomainurl}}/team/borchering/))
 - 21:50-22:05 **Organizational session:** Working with the MMED technical tools ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
@@ -40,14 +31,14 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 <div class="row">
 <div class="col-lg-1">
 </div>
-<div class="col-lg-10">
+<div class="col-lg-3">
 {% highlight r %}
 
 ICI3D::dynamicalFever()
 
 {% endhighlight %}
 </div>
-<div class="col-lg-1">
+<div class="col-lg-8">
 </div>
 </div>
 
@@ -59,13 +50,13 @@ _**Please complete the following between the end of Monday's interactive session
 
 - **Video lecture:** Introduction to thinking about data I 
 - **Video lecture:** [Introduction to dynamic modeling of infectious diseases](https://youtu.be/EV5FLlrRwiQ) 
-- **Video lecture (Track A):** Introduction to infectious disease data ((mwangi))
-- **Video lecture (Track B):** Foundations of dynamic modeling ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
+- **Video lecture (Track A):** Introduction to infectious disease data 
+- **Video lecture (Track B):** Foundations of dynamic modeling 
 - **Written exercise:** Formulating research questions for modeling projects 
     - Track A 
     - [Track B](https://www.dropbox.com/s/tb1j4eezub3wi4t/03_ResearchQuestions.docx?dl=1)
 - **Computer exercise** 
-- _Make sure your slides are uploaded for the Research Round Robin sessions!_
+- _Make sure your slides are uploaded for the Research Pitches!_
 
 _Reminder:_
 
@@ -74,19 +65,59 @@ _Reminder:_
 
 ### Tuesday, 29 June
 
+#### Interactive session 2a
 
+- 20:30-21:30 **Research Pitches I** (Moderator: [Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
+- 21:30-21:50 **Summary and Discussion:** Introduction to thinking about data I ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
+- 21:50-22:10 **Summary and Discussion:**  Introduction to dynamic modeling of infectious diseases ([Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/))
+- 22:10–22:30 **_Parallel sessions_** 
+    -   **Track A:** Introduction to infectious disease data ((mwangi)) 
+    -   **Track B:** Foundations of dynamic modeling ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) 
+
+#### Interactive session 2b
+
+- 23:30-00:00 **Tutorial review:** Questions about Tutorials 1-3 ([Carl Pearson]({{site.subdomainurl}}/team/pearson/) and all)
 - 00:00-01:30 Small group session: research questions for modeling projects (All faculty) 
+
+#### Individual session 2
+
+- **Video lecture:** (Hidden) assumptions of simple ODE models 
+- **Coding demonstration:** Introduction to model implementation 
+- **Computer exercise:** Lab 1 - ODE models in R
+- **For Track A**
+    - **Video lecture:** Introduction to Thinking About Data II 
+    - **Computer exercise:** Tutorial 4 - Visualizing Infectious Disease Data in R
+- **For Track B**
+    - **Video lecture:** Basic stochastic simulation models 
+    - **Computer exercise:** Exercise 1 - Basic stochastic simulation models 
+    - Note: _Track A will do this later in the week_
+- **Video lecture:** Consequences of heterogeneity and modeling options 
 
 ### Wednesday, 30 June
 
+#### Interactive session 3a
+
+#### Interactive session 3b
+
+#### Individual session 3
 
 
 ### Thursday, 1 July
 
+#### Interactive session 4a
+
+#### Interactive session 4b
+
+#### Individual session 4
 
 
 ### Friday, 2 July
 
+#### Interactive session 5a
+
+#### Interactive session 5b
+
+#### Individual session 5
 
 
 ### Saturday, 3 July
@@ -95,22 +126,46 @@ _Reminder:_
 
 ### Sunday, 4 July
 
-
+(free day)
 
 ### Monday, 5 July
 
+#### Interactive session 6a
+
+#### Interactive session 6b
+
+#### Individual session 6
 
 
 ### Tuesday, 6 July
 
+#### Interactive session 7a
+
+#### Interactive session 7b
+
+#### Individual session 7
 
 
 ### Wednesday, 7 July
 
+#### Interactive session 8a
+
+#### Interactive session 8b
+
+#### Individual session 8
 
 
 ### Thursday, 8 July
 
+#### Interactive session 9a
+
+#### Interactive session 9b
+
+#### Individual session 9
 
 
 ### Friday, 9 July
+
+#### Interactive session 10a
+
+#### Interactive session 10b
