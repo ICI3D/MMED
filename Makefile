@@ -124,4 +124,5 @@ makestuff/Makefile:
 -include makestuff/compare.mk
 
 -include makestuff/visual.mk
+-include makestuff/submod.mk
 -include makestuff/git.mk
