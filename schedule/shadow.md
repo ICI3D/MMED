@@ -77,7 +77,7 @@ _**Please complete the following between the end of Monday's interactive session
 
 _Reminder:_
 
-- 21:00 Tea with North American Faculty
+- 22:00 Tea with North American Faculty
 - 11:00 Tea with African Faculty
 
 ### Tuesday, 29 June
@@ -118,7 +118,7 @@ _Reminder:_
 
 _Reminder:_
 
-- 21:00 Tea with North American Faculty
+- 22:00 Tea with North American Faculty
 - 11:00 Tea with African Faculty
 
 ### Wednesday, 30 June
@@ -163,7 +163,8 @@ ICI3D::heterogeneityTutorial()
 
 - 20:30-20:40 Lab 2 Summary ((pearson)) NOTE CHECK
 - 20:40-21:10 **Discussion:** MMED research projects ((dushoff)) NOTE 30 mins
-- 21:10-21:30 NOTE **TODO** Some sort of short research presentation?? Faculty (observer) or mentor research presentation??
+- 21:10-21:30 NOTE **TODO** Some sort of short research presentation?? Faculty (observer) or mentor research presentation?? can be used as needed...
+- SHADOW 21:30-22:00 Faculty meeting
 
 #### Individual session 3
 
@@ -175,7 +176,7 @@ ICI3D::heterogeneityTutorial()
 
 _Reminder:_
 
-- 21:00 Tea with North American Faculty
+- 22:00 Tea with North American Faculty
 - 11:00 Tea with African Faculty
 
 ### Thursday, 1 July
@@ -216,6 +217,7 @@ ICI3D::hivTutorial()
     - **Track B**
         - **Exercise:** Creating a model world to address a research question ((mwangi)) NOTE (90 mins)
 - 21:00-21:30 **Discussion:** MMED Projects ((mthombothi)) NOTE MOVED FROM FRIDAY!!!
+- SHADOW 21:30-22:00 Faculty meeting
 
 #### Individual session 4
 
@@ -232,7 +234,7 @@ ICI3D::hivTutorial()
 
 _Reminder:_
 
-- 21:00 Tea with North American Faculty
+- 22:00 Tea with North American Faculty
 - 11:00 Tea with African Faculty
 
 ### Friday, 2 July
@@ -249,19 +251,20 @@ _Reminder:_
 
 **23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
 
-- 19:30-20:30 Mentor presentations (Moderator: (reiner)) NOTE BR willing to moderate?
-- 20:30-21:30 Mid-session feedback ((bruce)) NOTE (60 mins)
+- 19:30-20:30 **Mentor presentations** (Moderator: (reiner)) NOTE BR willing to moderate?
+- 20:30-21:30 **Mid-session feedback** ((bruce)) NOTE (60 mins)
+- SHADOW 21:30-22:00 Faculty meeting
 
 #### Individual session 5
 
-- **Video lecture:** Likelihood fitting and dynamic models, Part 1: Dynamic Model Fitting and Inference Robustness NOTE (Pulliam or Reiner)
+- **Video lecture:** Likelihood fitting and dynamic models, Part 1: Dynamic Model Fitting and Inference Robustness NOTE ((pulliam) or (reiner))
 - **Video lecture:** Introduction to GitHub NOTE ((mthombothi))
 - Tutorial catch-up
 - Project preferences questionnaire [due by 12:00 on Monday]
 
 _Reminder:_
 
-- 21:00 Tea with North American Faculty
+- 22:00 Tea with North American Faculty
 
 ### Saturday, 3 July
 
@@ -270,6 +273,8 @@ _Reminder:_
 ### Sunday, 4 July
 
 (free day)
+
+- SHADOW 16:30-17:30 Faculty meeting
 
 ### Monday, 5 July
 
@@ -281,16 +286,37 @@ _Reminder:_
 
 **20:30-22:30 Dhaka / 19:30-21:30 Chennai / 18:30-20:30 Abu Dhabi / 17:30-19:30 Nairobi / 16:30-18:30 SAST / 15:30-17:30 London / 10:30-12:30 New York / 09:30-11:30 Bucaramanga / 07:30-09:30 Seattle**
 
+- 16:30-17:15 **Interactive lecture:** Doing Science ((dushoff))
+- 17:15-17:30 **Organizational session:** Schedule and goals for the second week ((borchering))
+- 17:30-18:15 **Computer session:** Introduction to GitHub (discussion and tutorial) ((pearson))
+- 18:15-18:30 **Summary and Discussion:**  Likelihood fitting and dynamic models, Part 1: Dynamic Model Fitting and Inference Robustness ((pulliam) or (reiner))
 
 #### Interactive session 6b
 
 **23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
 
+- 19:30-20:45 **_Parallel sessions_**
+    - **Track A**
+        - **Lecture:** Study Design and Analysis in Epidemiology II - RCTs ((kassanjee))
+        - **Computer session:** Lab 4 - Study design for clinical trials ((kassanjee))
+    - **Track B**
+        - **Writing exercise:** description of proposed model and assumptions ((mthombothi)) NOTE aka Model Telephone (70 mins)
+            - SHADOW [practice diagram](../tutorials/practice.Diagram.pdf), [description](../tutorials/modelDescription)
+            - SHADOW [instructions for in-person version](https://docs.google.com/document/d/1d_noXARmkB3yqg8_kUW7AqCTurWy5u84JQWsGoTVCj8)
+- 20:45-21:30 **Work session:** Project groups meet for the first time (Work plans for group projects) (all)
+- SHADOW 21:30-22:00 Faculty meeting
+
 #### Individual session 6
+
+- **Video Lecture:** Likelihood fitting and dynamic models II ((dushoff) or (reiner))
+- **Computer Session:** Lab 6 - MLE fitting of an SIR model to prevalence data
+- Tutorial catch-up, as needed
+- Work on group project
+- One-on-one mentoring sessions NOTE **TODO:** assignments
 
 _Reminder:_
 
-- 21:00 Tea with North American Faculty
+- 22:00 Tea with North American Faculty
 - 11:00 Tea with African Faculty
 
 ### Tuesday, 6 July
@@ -299,16 +325,32 @@ _Reminder:_
 
 **20:30-22:30 Dhaka / 19:30-21:30 Chennai / 18:30-20:30 Abu Dhabi / 17:30-19:30 Nairobi / 16:30-18:30 SAST / 15:30-17:30 London / 10:30-12:30 New York / 09:30-11:30 Bucaramanga / 07:30-09:30 Seattle**
 
+- 16:30-16:45 **Summary and Discussion:** Likelihood fitting and dynamic models II ((dushoff) or (reiner))
+- 16:45-16:55 **Lab 6 Summary** NOTE mentor? **TODO:** assignment
+- 16:55-17:30 **Tutorial review:** Q&A on all tutorials to date ((pulliam) and all)
+- 17:30-18:30 **Work session:** Group projects NOTE does it make sense to have these during interactive sessions? I think so...
 
 #### Interactive session 7b
 
 **23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
 
+- 19:30-20:30 **Real-world example:** Faculty research lecture ((li))
+- 20:30-21:30 Special topic sessions / group mentoring (TBD) NOTE **TODO** - what??? as requested by participants?
+- SHADOW 21:30-22:00 Faculty meeting
+
 #### Individual session 7
+
+- **Video Lecture:** Introduction to Monte Carlo Markov Chains (MCMC) ((pearson))
+- **Computer session:** Labs 7 and 8 - MCMC fitting in R
+- **Video lecture:** Data wrangling I: Data management and cleaning ((mwangi)) NOTE Why I?? Should there be a II?
+- **Computer Session:** Tutorial 5 - Data cleaning and management in R
+- **Video lecture:** Real-world example (faculty research presentation) NOTE recordings from DAIDD 2020; COVID-19 Scenario Modeling Hub recording from MIDAS ((borchering))
+- Work on group project
+- One-on-one mentoring sessions NOTE **TODO:** assignments; include? maybe too much material?
 
 _Reminder:_
 
-- 21:00 Tea with North American Faculty
+- 22:00 Tea with North American Faculty
 - 11:00 Tea with African Faculty
 
 ### Wednesday, 7 July
@@ -317,16 +359,31 @@ _Reminder:_
 
 **20:30-22:30 Dhaka / 19:30-21:30 Chennai / 18:30-20:30 Abu Dhabi / 17:30-19:30 Nairobi / 16:30-18:30 SAST / 15:30-17:30 London / 10:30-12:30 New York / 09:30-11:30 Bucaramanga / 07:30-09:30 Seattle**
 
+- 16:30-16:45 **Summary and Discussion:** Introduction to Monte Carlo Markov Chains (MCMC) ((pearson))
+- 16:45-16:55 **Lab 7 Summary** ((kassanjee))
+- 16:55-17:05 **Lab 8 Summary** ((kassanjee))
+- 17:05-17:20 **Summary and Discussion:** Data wrangling I: Data management and cleaning ((mwangi)) NOTE Why I??
+- 17:20-17:30 **Tutorial 5 Summary** NOTE mentor? **TODO:** assignment
+- 17:30-18:30 **Work session:** Group projects
 
 #### Interactive session 8b
 
 **23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
 
+- 19:30-20:30 **Real-world example:** Faculty research lecture ((hladish))
+- 20:30-21:30 **Interactive session:** Modelling for policy (Moderators: (borchering) and (pearson))
+- SHADOW 21:30-22:00 Faculty meeting
+
 #### Individual session 8
+
+- **Video lecture:** Model assessment ((dushoff))
+- **Video lecture:** Real-world example ([Faculty research presentation](https://youtu.be/L1qalfZfwEo)) NOTE (hargrove)
+- Work on group project
+- One-on-one mentoring sessions NOTE **TODO:** assignments
 
 _Reminder:_
 
-- 21:00 Tea with North American Faculty
+- 22:00 Tea with North American Faculty
 - 11:00 Tea with African Faculty
 
 ### Thursday, 8 July
@@ -335,16 +392,28 @@ _Reminder:_
 
 **20:30-22:30 Dhaka / 19:30-21:30 Chennai / 18:30-20:30 Abu Dhabi / 17:30-19:30 Nairobi / 16:30-18:30 SAST / 15:30-17:30 London / 10:30-12:30 New York / 09:30-11:30 Bucaramanga / 07:30-09:30 Seattle**
 
+- 16:30-16:45 **Summary and Discussion:** Model assessment ((dushoff))
+- 16:45-17:00 **Summary and Discussion:** Faculty research presentation ((hargrove))
+- 17:00-18:30 **Work session:** Group projects NOTE 90 mins REALLY?? **TODO** think we need at least 30 mins additional structured time...
 
 #### Interactive session 9b
 
 **23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
 
+- 19:30-20:30 Special topic sessions / group mentoring (TBD) NOTE **TODO** - what??? as requested by participants? or faculty / guest lecture??
+- 20:30-21:30 Special topic sessions / group mentoring (TBD) NOTE **TODO** - what??? as requested by participants?
+- SHADOW 21:30-22:00 Faculty meeting
+
 #### Individual session 9
+
+- Tutorial catch-up, as needed
+- Work on group project
+    - **Finalise project presentations and upload to Teams by 15:30**
+- One-on-one mentoring sessions NOTE **TODO:** assignments
 
 _Reminder:_
 
-- 21:00 Tea with North American Faculty
+- 22:00 Tea with North American Faculty
 - 11:00 Tea with African Faculty
 
 ### Friday, 9 July
@@ -353,7 +422,12 @@ _Reminder:_
 
 **20:30-22:30 Dhaka / 19:30-21:30 Chennai / 18:30-20:30 Abu Dhabi / 17:30-19:30 Nairobi / 16:30-18:30 SAST / 15:30-17:30 London / 10:30-12:30 New York / 09:30-11:30 Bucaramanga / 07:30-09:30 Seattle**
 
+- 16:30-18:30 **Group project presentations** NOTE **TODO:** assign moderator!
 
 #### Interactive session 10b
 
 **23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
+
+- 19:30-21:00 Final feedback session ((bruce)) NOTE (60-90 mins)
+- 21:00-21:15 Closing session ((dushoff) and all) NOTE (15 mins)
+- SHADOW 21:30-??? Faculty party
