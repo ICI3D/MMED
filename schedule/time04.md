@@ -16,14 +16,20 @@ nyamai	Mutono Nyamai
 
 #### Interactive session 1a
 
+
 - _Please join the session by 10:25. We will begin promptly at 10:30._
+<<<<<<< HEAD
 - 10:30-10:55 Welcome and motivation ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/)), ([Mutono Nyamai]({{site.subdomainurl}}/team/nyamai/)), and ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
+=======
+- 10:30-10:55 Welcome and motivation ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/), (nyamai), and [John Hargrove]({{site.subdomainurl}}/team/hargrove/))
+>>>>>>> 00349c7a46f7479d1e54d67d67d940b2fababbbd
 - 10:55-11:40 **Lecture:** Public Health, Epidemiology, and Models ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 - 11:40-11:50 **Organizational session:** [MMED Road Map](../roadmap) and programme overview ([Becky Borchering]({{site.subdomainurl}}/team/borchering/))
 - 11:50-12:05 **Organizational session:** Working with the MMED technical tools ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
 - 12:05-12:30 Ice breakers ([Faikah Bruce]({{site.subdomainurl}}/team/bruce/))
 
 #### Interactive session 1b
+
 
 - 13:30-15:00 **Tutorial:** Dynamical Fever - computer exercise and discussion (All faculty) 
     - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
@@ -60,22 +66,35 @@ _**Please complete the following between the end of Monday's interactive session
 
 _Reminder:_
 
-- 16:00 Tea with North American Faculty
+- 15:00 Tea with North American Faculty
 - 05:00 Tea with African Faculty
 
 ### Tuesday, 29 June
 
 #### Interactive session 2a
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 00349c7a46f7479d1e54d67d67d940b2fababbbd
 - 10:30-11:30 **Research Pitches I** (Moderator: [Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
 - 11:30-11:50 **Summary and Discussion:** Introduction to thinking about data I ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
 - 11:50-12:10 **Summary and Discussion:**  Introduction to dynamic modeling of infectious diseases ([Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/))
 - 12:10–12:30 **_Parallel sessions_** 
+<<<<<<< HEAD
     -   **Track A:** Introduction to infectious disease data ((mwangi)) 
     -   **Track B:** Foundations of dynamic modeling ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) 
 
 #### Interactive session 2b
 
+=======
+    - **Track A - Summary and Discussion:** Introduction to infectious disease data ((mwangi)) 
+    - **Track B - Summary and Discussion:** Foundations of dynamic modeling ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) 
+
+#### Interactive session 2b
+
+
+>>>>>>> 00349c7a46f7479d1e54d67d67d940b2fababbbd
 - 13:30-14:00 **Tutorial review:** Questions about Tutorials 1-3 ([Carl Pearson]({{site.subdomainurl}}/team/pearson/) and all)
 - 14:00-15:30 Small group session: research questions for modeling projects (All faculty) 
 
@@ -83,7 +102,11 @@ _Reminder:_
 
 - **Video lecture:** (Hidden) assumptions of simple ODE models 
 - **Coding demonstration:** Introduction to model implementation 
+<<<<<<< HEAD
 - **Computer exercise:** Lab 1 - ODE models in R
+=======
+- **Computer exercise:** Lab 1 - ODE models in R 
+>>>>>>> 00349c7a46f7479d1e54d67d67d940b2fababbbd
 - **For Track A**
     - **Video lecture:** Introduction to Thinking About Data II 
     - **Computer exercise:** Tutorial 4 - Visualizing Infectious Disease Data in R
@@ -91,81 +114,286 @@ _Reminder:_
     - **Video lecture:** Basic stochastic simulation models 
     - **Computer exercise:** Exercise 1 - Basic stochastic simulation models 
     - Note: _Track A will do this later in the week_
+<<<<<<< HEAD
 - **Video lecture:** Consequences of heterogeneity and modeling options 
+=======
+- **Video lecture:** Impact of contact patterns, consequences of heterogeneity, and modeling options 
+
+_Reminder:_
+
+- 15:00 Tea with North American Faculty
+- 05:00 Tea with African Faculty
+>>>>>>> 00349c7a46f7479d1e54d67d67d940b2fababbbd
 
 ### Wednesday, 30 June
 
 #### Interactive session 3a
 
+<<<<<<< HEAD
 #### Interactive session 3b
 
 #### Individual session 3
+=======
+>>>>>>> 00349c7a46f7479d1e54d67d67d940b2fababbbd
 
+- 10:30-10:45 **Summary and Discussion:** (Hidden) assumptions of simple ODE models ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
+- 10:45-10:55 **Summary and Discussion:** Introduction to model implementation ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) 
+- 10:55-11:05 Lab 1 Summary ((bolton)) 
+- 11:05-11:30 **_Parallel sessions_**
+    - **Track A - Summary and Discussion:**
+        - Introduction to Thinking About Data II ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/)) 
+        - Tutorial 4 Summary ((nyamai)) 
+    - **Track B - Summary and Discussion:**
+        - Basic stochastic simulation models ([Becky Borchering]({{site.subdomainurl}}/team/borchering/)) 
+        - Exercise 1 Summary ([Becky Borchering]({{site.subdomainurl}}/team/borchering/)) 
+- 11:30-12:30 **Research Pitches II** (Moderator: [Becky Borchering]({{site.subdomainurl}}/team/borchering/)) 
+
+#### Interactive session 3b
+
+
+- 13:30-13:45 **Summary and Discussion:** Impact of contact patterns, consequences of heterogeneity, and modeling options ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) 
+- 13:45-14:30 **Computer session:** Lab 2 - Consequences of heterogeneity in disease emergence ([Carl Pearson]({{site.subdomainurl}}/team/pearson/) and all) 
+    - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
+
+<div class="row">
+<div class="col-lg-1">
+</div>
+<div class="col-lg-3">
+{% highlight r %}
+
+ICI3D::heterogeneityTutorial()
+
+{% endhighlight %}
+</div>
+<div class="col-lg-8">
+</div>
+</div>
+
+- 14:30-14:40 Lab 2 Summary ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
+- 14:40-15:10 **Discussion:** MMED research projects ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
+- 15:10-15:30 
+
+#### Individual session 3
+
+- **Video lecture:** Introduction to models and data: HIV in Harare 
+- **Video lecture:** Real-world example (faculty research presentation) 
+- Tutorial catch-up
+- Read through research project material (and discuss during tea)
+    - Come prepared to ask questions about projects during Interactive session 4b
+
+_Reminder:_
+
+- 15:00 Tea with North American Faculty
+- 05:00 Tea with African Faculty
 
 ### Thursday, 1 July
 
 #### Interactive session 4a
 
+<<<<<<< HEAD
 #### Interactive session 4b
 
 #### Individual session 4
+=======
 
+- 10:30-10:40 Summary and Discussion: Introduction to models and data: HIV in Harare (Hargrove)
+- 10:40-12:10 **Computer session:** Model fitting ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) 
+  - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
+
+<div class="row">
+<div class="col-lg-1">
+</div>
+<div class="col-lg-3">
+{% highlight r %}
+
+ICI3D::hivTutorial()
+
+{% endhighlight %}
+</div>
+<div class="col-lg-8">
+</div>
+</div>
+
+- 12:10-12:30 TBD 
+
+#### Interactive session 4b
+
+
+- 13:30-15:00 **_Parallel sessions_**
+    - **Track A**
+        - **Live lecture:** Study Design and Analysis in Epidemiology I: Where does modeling fit? ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) 
+        - **Computer session:** Lab 3 - Study Design in Epidemiology 
+    - **Track B**
+        - **Exercise:** Creating a model world to address a research question ((mwangi)) 
+- 15:00-15:30 **Discussion:** MMED Projects ([Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/)) 
+
+#### Individual session 4
+
+- **Video lecture:** [Introduction to statistical philosophy](https://youtu.be/2V8Ss1oGwZw) 
+- **Video lecture:** Introduction to likelihood 
+- **Computer exercise:** Lab 5 - Introduction to likelihood
+- **For Track A**
+    - **Video lecture:** Basic stochastic simulation models 
+    - **Computer exercise:** Exercise 1 - Basic stochastic simulation models 
+- **For Track B**
+    - **Exercise:** Creating a model world assignment
+        - [Step-by-step guide](../tutorials/modelWorld) 
+        - Upload your initial model diagram before Friday’s interactive session (MMED Participants > General > Files > 04_modelDiagram > 04.1_InitialDiagrams) 
+>>>>>>> 00349c7a46f7479d1e54d67d67d940b2fababbbd
+
+_Reminder:_
+
+- 15:00 Tea with North American Faculty
+- 05:00 Tea with African Faculty
 
 ### Friday, 2 July
 
 #### Interactive session 5a
+<<<<<<< HEAD
 
 #### Interactive session 5b
 
 #### Individual session 5
+=======
+>>>>>>> 00349c7a46f7479d1e54d67d67d940b2fababbbd
 
+
+- 10:30-10:45 **Summary and Discussion:** Introduction to statistical philosophy ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
+- 10:45-11:00 **Summary and Discussion:** Introduction to Likelihood ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) 
+- 11:00-12:30 **Interactive lecture:** Participatory coding of a dynamical model ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
+
+#### Interactive session 5b
+
+
+- 13:30-14:30 Mentor presentations (Moderator: (reiner)) 
+- 14:30-15:30 Mid-session feedback ([Faikah Bruce]({{site.subdomainurl}}/team/bruce/)) 
+
+#### Individual session 5
+
+- **Video lecture:** Likelihood fitting and dynamic models, Part 1: Dynamic Model Fitting and Inference Robustness 
+- **Video lecture:** Introduction to GitHub 
+- Tutorial catch-up
+- Project preferences questionnaire [due by 06:00 on Monday]
+
+<<<<<<< HEAD
+=======
+_Reminder:_
+
+- 15:00 Tea with North American Faculty
 
 ### Saturday, 3 July
 
-
+(free day)
 
 ### Sunday, 4 July
 
+>>>>>>> 00349c7a46f7479d1e54d67d67d940b2fababbbd
 (free day)
 
 ### Monday, 5 July
 
+<<<<<<< HEAD
 #### Interactive session 6a
 
 #### Interactive session 6b
 
 #### Individual session 6
+=======
+_Reminder:_
 
+- 05:00 Tea with African Faculty
+
+#### Interactive session 6a
+
+
+
+#### Interactive session 6b
+>>>>>>> 00349c7a46f7479d1e54d67d67d940b2fababbbd
+
+
+#### Individual session 6
+
+_Reminder:_
+
+- 15:00 Tea with North American Faculty
+- 05:00 Tea with African Faculty
 
 ### Tuesday, 6 July
 
 #### Interactive session 7a
 
+<<<<<<< HEAD
 #### Interactive session 7b
 
 #### Individual session 7
+=======
 
+>>>>>>> 00349c7a46f7479d1e54d67d67d940b2fababbbd
+
+#### Interactive session 7b
+
+
+#### Individual session 7
+
+_Reminder:_
+
+- 15:00 Tea with North American Faculty
+- 05:00 Tea with African Faculty
 
 ### Wednesday, 7 July
 
 #### Interactive session 8a
 
+<<<<<<< HEAD
 #### Interactive session 8b
 
 #### Individual session 8
+=======
+>>>>>>> 00349c7a46f7479d1e54d67d67d940b2fababbbd
 
+
+#### Interactive session 8b
+
+
+#### Individual session 8
+
+_Reminder:_
+
+- 15:00 Tea with North American Faculty
+- 05:00 Tea with African Faculty
 
 ### Thursday, 8 July
 
 #### Interactive session 9a
+<<<<<<< HEAD
 
 #### Interactive session 9b
 
 #### Individual session 9
+=======
+>>>>>>> 00349c7a46f7479d1e54d67d67d940b2fababbbd
 
+
+
+#### Interactive session 9b
+
+
+#### Individual session 9
+
+_Reminder:_
+
+- 15:00 Tea with North American Faculty
+- 05:00 Tea with African Faculty
 
 ### Friday, 9 July
 
 #### Interactive session 10a
 
+<<<<<<< HEAD
 #### Interactive session 10b
+=======
+
+
+#### Interactive session 10b
+
+>>>>>>> 00349c7a46f7479d1e54d67d67d940b2fababbbd
