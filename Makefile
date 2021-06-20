@@ -36,10 +36,10 @@ ICI3D.github.io/_config.yml:
 cerve: ICI3D.github.io/_config.yml
 	./run.sh > jekyll.log 2>&1 &
 
+Ignore += Gemfile Gemfile.lock
+
 ## ln -s Gemfile.jd Gemfile ##
 Sources += _config.yml _localconfig.yml Gemfile.jd
-
-Ignore += Gemfile Gemfile.lock
 
 Sources += $(wildcard */shadow.md)
 
@@ -108,10 +108,6 @@ zones = 01 03 04 09 10 11 12 13 14
  
 ozones = $(zones:%=schedule/overtime%.md)
 overtimes: $(ozones)
-
-######################################################################
-
-Ignore += Gemfile
 
 ######################################################################
 
