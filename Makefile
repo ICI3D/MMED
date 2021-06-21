@@ -1,8 +1,5 @@
+## http://localhost:4000/MMED/schedule/shadow
 ## http://localhost:4000/schedule/shadow
-## http://localhost:4000/schedule/test
-## http://localhost:4000/schedule/
-
-## http://localhost:4000/MMED/schedule/ ## NOT current
 
 ## https://github.com/ICI3D/MMED/tree/gh-pages
 
@@ -38,9 +35,11 @@ cerve: ICI3D.github.io/_config.yml
 
 Ignore += Gemfile Gemfile.lock
 
-## ln -s Gemfile.jd Gemfile ##
-Sources += _config.yml _localconfig.yml Gemfile.jd
+## ln -fs Gemfile_new Gemfile ##
+## ln -fs Gemfile_orig Gemfile ##
+Sources += $(wildcard Gemfile_*)
 
+Sources += _config.yml _localconfig.yml
 Sources += $(wildcard */shadow.md)
 
 ######################################################################
