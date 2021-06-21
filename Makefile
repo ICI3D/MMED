@@ -76,7 +76,6 @@ Sources += $(wildcard *.pl)
 schedule/test.md: jdresources/faculty.tsv schedule/index.top schedule/shadow.md jdresources/shadow.pl
 	$(rm)
 	$(CAT) $(filter %.top, $^) > $@
-	$(CAT) $< > $@
 	perl -wf $(filter %.pl, $^) $(filter %.tsv, $^) $(filter %.md, $^) >> $@
 	$(readonly)
 
