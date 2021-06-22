@@ -14,7 +14,7 @@ You should complete the following steps in preparation for the clinic before the
 
 - Prepare a short oral presentation summarizing your research (2 minutes max, 1 slide in PDF format)
     - You may summarize recent, completed research that forms the basis for ongoing work, or you may give an overview of ongoing work or of a new project that's in development.
-    - We recommend selecting 1-2 visual aids (eg, figures or diagrams) that  will help you explain key aspects of the research. Please keep the text on your slide to a minimum.
+    - We recommend selecting 1-2 visual aids (eg, figures or diagrams) that will help you explain key aspects of the research. Please keep the text on your slide to a minimum.
     - Do not attempt to explain all of the details of your project - stick to the essentials and keep it simple. You will be kept to time.
 
 - Prepare a more detailed description of your research

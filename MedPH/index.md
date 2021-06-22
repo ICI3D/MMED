@@ -63,7 +63,7 @@ alertmsg: <b>You will need to be logged into your GitHub account to access some 
 
     <h2>Assignments</h2>
 
-    <p>Before submitting any assignments for this class, please review the <a href="http://www.sun.ac.za/english/faculty/education/Documents/plagiaat_nov2010_eng.pdf"><b>Stellenbosch guidelines on academic integrity</b></a></p>
+    <p>Before submitting any assignments for this class, please review the <a href="https://www.sun.ac.za/english/research-innovation/Research-Development/Documents/Policies%20and%20Guidelines/ENGLISH/SU%20Plagiarism%20Policy_2016.pdf"><b>Stellenbosch guidelines on academic integrity</b></a></p>
 
     {% include MedPH/assignments.md %}
 
