@@ -31,6 +31,10 @@ new_faculty.html: invitations/new_faculty.md
 
 ######################################################################
 
+Sources += lectures/*.md
+
+######################################################################
+
 Ignore += makestuff
 msrepo = https://github.com/dushoff
 Makefile: makestuff/Makefile
