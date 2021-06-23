@@ -13,7 +13,7 @@ target = Makefile
 
 ###################################################################
 
-Sources += Makefile README.md
+Sources += Makefile README.md figshare.md ppt.md pdf.md
 
 start:
 	./run.sh
@@ -21,6 +21,12 @@ start:
 ######################################################################
 
 Sources += $(wildcard schedule/*.md)
+
+######################################################################
+
+Ignore += materials
+## ln -fs ~/Dropbox/ICI3D_Materials materials
+## find materials/ -name "*.pdf" > pdf.md ##
 
 ######################################################################
 
@@ -44,7 +50,9 @@ Sources += $(wildcard */shadow.md)
 
 ######################################################################
 
-## Resources for the hacky stuff
+## Schedule hacking
+
+-include makestuff/perl.def
 
 Ignore += jdresources
 jdresources/%:
@@ -53,11 +61,7 @@ jdresources: dir = ICI3D.github.io
 jdresources:
 	$(linkdir)
 
-######################################################################
-
 # Copied in haste from DAIDD stuff
-
--include makestuff/perl.def
 
 Sources += index.md
 
@@ -106,6 +110,12 @@ zones = 01 03 04 09 10 11 12 13 14
  
 ozones = $(zones:%=schedule/overtime%.md)
 overtimes: $(ozones)
+
+######################################################################
+
+## submodule
+
+Sources += 
 
 ######################################################################
 

@@ -33,6 +33,9 @@ alertmsg: >
 - _Please join the session by 16:25. We will begin promptly at 16:30._
 - 16:30-16:55 Welcome and motivation ((pulliam), (nyamai), and (hargrove))
 - 16:55-17:40 **Lecture:** Public Health, Epidemiology, and Models ((dushoff))
+	* SHADOW [figshare slides](https://figshare.com/articles/journal_contribution/Public_Health_Epidemiology_and_Models/5038769)
+	* SHADOW materials/MMED2019/LectureSlides/Scott_PublicHealthEpiModels_2019.pdf
+
 - 17:40-17:50 **Organizational session:** [MMED Road Map](../roadmap) and programme overview ((borchering))
 - 17:50-18:05 **Organizational session:** Working with the MMED technical tools ((pearson)) NOTE (15 mins)
 - 18:05-18:30 Ice breakers ((bruce))
@@ -43,21 +46,9 @@ alertmsg: >
 
 - 19:30-21:00 **Tutorial:** Dynamical Fever - computer exercise and discussion (All faculty) NOTE (40 + 10 group + 40)
     - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
-
-<div class="row">
-<div class="col-lg-1">
-</div>
-<div class="col-lg-3">
-{% highlight r %}
-
-ICI3D::dynamicalFever()
-
-{% endhighlight %}
-</div>
-<div class="col-lg-8">
-</div>
-</div>
-
+	```R
+		ICI3D::dynamicalFever()
+	```
 - 19:30-20:00 **Discussion:** Dynamical Fever ((hargrove)) HIDE - [model description](../Materials/fever), modeling terminology, and the [DAIDD glossary](http://tinyurl.com/daidd-public) - [Download the taxonomy](../Materials/modelTaxonomy)
 - SHADOW 21:30-22:00 Faculty meeting
 
@@ -145,22 +136,10 @@ _Reminder:_
 
 - 19:30-19:45 **Summary and Discussion:** Impact of contact patterns, consequences of heterogeneity, and modeling options ((hargrove)) NOTE 15 mins
 - 19:45-20:30 **Computer session:** Lab 2 - Consequences of heterogeneity in disease emergence ((pearson) and all) NOTE 45 mins **TODO: Group assignments** CHECK - did we do groups for DAIDD??
-    - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
-
-<div class="row">
-<div class="col-lg-1">
-</div>
-<div class="col-lg-3">
-{% highlight r %}
-
-ICI3D::heterogeneityTutorial()
-
-{% endhighlight %}
-</div>
-<div class="col-lg-8">
-</div>
-</div>
-
+	- To get started, run the following command at the R Studio command line (after installing the ICI3D package):
+	```R
+		ICI3D::heterogeneityTutorial()
+	```
 - 20:30-20:40 Lab 2 Summary ((pearson)) NOTE CHECK
 - 20:40-21:10 **Discussion:** MMED research projects ((dushoff)) NOTE 30 mins
 - 21:10-21:30 NOTE **TODO** Some sort of short research presentation?? Faculty (observer) or mentor research presentation?? can be used as needed...
@@ -189,21 +168,9 @@ _Reminder:_
 - 16:40-18:10 **Computer session:** Model fitting ((hargrove)) NOTE 90 mins - [Tutorial notes from DAIDD](http://www.ici3d.org/DAIDD/Materials/hivTutorial)
   * SHADOW (Tutorial wrapup by (dushoff)) - [Boxcar Model Slides](http://www.ici3d.org/DAIDD/Materials/boxcarModels.pdf)
   - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
-
-<div class="row">
-<div class="col-lg-1">
-</div>
-<div class="col-lg-3">
-{% highlight r %}
-
-ICI3D::hivTutorial()
-
-{% endhighlight %}
-</div>
-<div class="col-lg-8">
-</div>
-</div>
-
+	```R
+		ICI3D::hivTutorial()
+	```
 - 18:10-18:30 TBD NOTE **TODO: fill hole** Model taxonomy??
 
 #### Interactive session 4b
