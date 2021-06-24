@@ -163,7 +163,7 @@ ICI3D::heterogeneityTutorial()
 
 - 20:30-20:40 Lab 2 Summary ((pearson)) NOTE CHECK
 - 20:40-21:10 **Discussion:** MMED research projects ((dushoff)) NOTE 30 mins
-- 21:10-21:30 NOTE **TODO** Some sort of short research presentation?? Faculty (observer) or mentor research presentation?? can be used as needed...
+- 21:10-21:30 **Mini-feedback session** ((bruce))
 - SHADOW 21:30-22:00 Faculty meeting
 
 #### Individual session 3
@@ -363,7 +363,7 @@ _Reminder:_
 - 16:45-16:55 **Lab 7 Summary** ((kassanjee))
 - 16:55-17:05 **Lab 8 Summary** ((kassanjee))
 - 17:05-17:20 **Summary and Discussion:** Data wrangling I: Data management and cleaning ((mwangi)) NOTE Why I??
-- 17:20-17:30 **Tutorial 5 Summary** NOTE mentor? **TODO:** assignment
+- 17:20-17:30 **Tutorial 5 Summary** ((dushoff))
 - 17:30-18:30 **Work session:** Group projects
 
 #### Interactive session 8b
