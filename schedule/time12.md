@@ -127,7 +127,7 @@ _Reminder:_
 	```
 - 22:30-22:40 Lab 2 Summary ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
 - 22:40-23:10 **Discussion:** MMED research projects ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
-- 23:10-23:30 
+- 23:10-23:30 **Mini-feedback session** ([Faikah Bruce]({{site.subdomainurl}}/team/bruce/))
 
 #### Individual session 3
 
@@ -297,7 +297,7 @@ _Reminder:_
 - 18:45-18:55 **Lab 7 Summary** ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
 - 18:55-19:05 **Lab 8 Summary** ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
 - 19:05-19:20 **Summary and Discussion:** Data wrangling I: Data management and cleaning ((mwangi)) 
-- 19:20-19:30 **Tutorial 5 Summary** 
+- 19:20-19:30 **Tutorial 5 Summary** ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 - 19:30-20:30 **Work session:** Group projects
 
 #### Interactive session 8b
