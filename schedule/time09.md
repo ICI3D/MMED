@@ -28,6 +28,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 - _Please join the session by 15:25. We will begin promptly at 15:30._
 - 15:30-15:55 Welcome and motivation ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/), [Mutono Nyamai]({{site.subdomainurl}}/team/nyamai/), and [John Hargrove]({{site.subdomainurl}}/team/hargrove/))
 - 15:55-16:40 **Lecture:** Public Health, Epidemiology, and Models ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
+
 - 16:40-16:50 **Organizational session:** [MMED Road Map](../roadmap) and programme overview ([Becky Borchering]({{site.subdomainurl}}/team/borchering/))
 - 16:50-17:05 **Organizational session:** Working with the MMED technical tools ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
 - 17:05-17:30 Ice breakers ([Faikah Bruce]({{site.subdomainurl}}/team/bruce/))
@@ -37,21 +38,9 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 
 - 18:30-20:00 **Tutorial:** Dynamical Fever - computer exercise and discussion (All faculty) 
     - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
-
-<div class="row">
-<div class="col-lg-1">
-</div>
-<div class="col-lg-3">
-{% highlight r %}
-
-ICI3D::dynamicalFever()
-
-{% endhighlight %}
-</div>
-<div class="col-lg-8">
-</div>
-</div>
-
+	```R
+		ICI3D::dynamicalFever()
+	```
 - 18:30-19:00 **Discussion:** Dynamical Fever ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) 
 
 #### Individual session 1
@@ -132,22 +121,10 @@ _Reminder:_
 
 - 18:30-18:45 **Summary and Discussion:** Impact of contact patterns, consequences of heterogeneity, and modeling options ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) 
 - 18:45-19:30 **Computer session:** Lab 2 - Consequences of heterogeneity in disease emergence ([Carl Pearson]({{site.subdomainurl}}/team/pearson/) and all) 
-    - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
-
-<div class="row">
-<div class="col-lg-1">
-</div>
-<div class="col-lg-3">
-{% highlight r %}
-
-ICI3D::heterogeneityTutorial()
-
-{% endhighlight %}
-</div>
-<div class="col-lg-8">
-</div>
-</div>
-
+	- To get started, run the following command at the R Studio command line (after installing the ICI3D package):
+	```R
+		ICI3D::heterogeneityTutorial()
+	```
 - 19:30-19:40 Lab 2 Summary ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
 - 19:40-20:10 **Discussion:** MMED research projects ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
 - 20:10-20:30 
@@ -173,21 +150,9 @@ _Reminder:_
 - 15:30-15:40 Summary and Discussion: Introduction to models and data: HIV in Harare (Hargrove)
 - 15:40-17:10 **Computer session:** Model fitting ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) 
   - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
-
-<div class="row">
-<div class="col-lg-1">
-</div>
-<div class="col-lg-3">
-{% highlight r %}
-
-ICI3D::hivTutorial()
-
-{% endhighlight %}
-</div>
-<div class="col-lg-8">
-</div>
-</div>
-
+	```R
+		ICI3D::hivTutorial()
+	```
 - 17:10-17:30 TBD 
 
 #### Interactive session 4b
