@@ -36,9 +36,17 @@ Ignore += materials
 vim_session:
 	bash -cl "vmt schedule/index.md schedule/shadow.md"
 
-## alldirs += ICI3D.github.io
+######################################################################
+
 ICI3D.github.io/_config.yml:
 	git submodule update -i
+
+pullup: pull ICI3D.github.io.master ICI3D.github.io.pull
+
+up.time: ICI3D.github.io.master ICI3D.github.io.all commit.time
+
+######################################################################
+
 cerve: ICI3D.github.io/_config.yml
 	./run.sh > jekyll.log 2>&1 &
 
