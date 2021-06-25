@@ -38,6 +38,8 @@ vim_session:
 
 ######################################################################
 
+Sources += ICI3D.github.io
+
 ICI3D.github.io/_config.yml:
 	git submodule update -i
 
