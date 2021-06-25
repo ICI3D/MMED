@@ -3,16 +3,16 @@ mmed_team.txt
 
 projects.md
 
-https://docs.google.com/document/d/17X3dDtvVcGGIeG0tAGiKbioe2tONOREc-x6k378RG8c/edit
-
 Resources
 * Videos are on youtube channel
 * [Slides](https://www.dropbox.com/sh/v4nqwqdzo29mm05/AAAm7wFZCrQrMkTqzZcH-pzPa)
 
-A _few_ notes from 2018 and 19 are in the history of this page.
+A _few_ meeting notes from 2018 and 19 are in the history of this page.
 
 2021 Jun 18 (Fri)
 =================
+
+[Draft schedule as google doc](https://docs.google.com/document/d/17X3dDtvVcGGIeG0tAGiKbioe2tONOREc-x6k378RG8c/edit)
 
 faculty@ici3d.org
 observers

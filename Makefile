@@ -4,6 +4,8 @@ current: target
 target = Makefile
 -include target.mk
 
+-include makestuff/perl.def
+
 ###################################################################
 
 Sources += Makefile README.md
@@ -31,6 +33,7 @@ new_faculty.html: invitations/new_faculty.md
 
 ######################################################################
 
+## lectures.filemerge: lectures.md
 Sources += lectures/*.md
 
 ######################################################################
