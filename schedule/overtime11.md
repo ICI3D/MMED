@@ -21,5 +21,5 @@ alertmsg: >
 
 ## Individual Sessions
 * __Tea with African Faculty:__ 12:00
-* __Tea with North American Faculty:__ 22:00
+* __Tea with North American Faculty:__ 23:00
 

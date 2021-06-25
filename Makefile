@@ -2,6 +2,7 @@
 ## http://localhost:4000/MMED/schedule/shadow
 ## http://localhost:4000/MMED/schedule/
 ## http://localhost:4000/schedule/
+## http://localhost:4000/schedule/
 
 ## https://github.com/ICI3D/MMED/tree/gh-pages
 
