@@ -1,4 +1,6 @@
 ## Hooks
+## This is the private side of the MMED repo
+## https://github.com/ICI3D/MMED.git
 
 current: target
 target = Makefile
@@ -33,6 +35,9 @@ new_faculty.html: invitations/new_faculty.md
 
 ######################################################################
 
+Ignore += materials
+
+Sources += lectures.md
 ## lectures.filemerge: lectures.md
 Sources += lectures/*.md
 
