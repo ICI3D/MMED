@@ -1,5 +1,7 @@
+## Sometimes we need MMED and sometimes we don't
 ## http://localhost:4000/MMED/schedule/shadow
-## http://localhost:4000/schedule/shadow
+## http://localhost:4000/MMED/schedule/
+## http://localhost:4000/schedule/
 
 ## https://github.com/ICI3D/MMED/tree/gh-pages
 
