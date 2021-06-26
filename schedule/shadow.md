@@ -22,6 +22,12 @@ alertmsg: >
 
 * [Your local (jekyll) copy of this page](http://localhost:4000/schedule/shadow)
 
+### Sunday, 27 June
+
+**20:30 Cape Town**
+
+* [Faculty meeting on Teams](https://teams.microsoft.com/_?tenantId=a6fa3b03-0a3c-4258-8433-a120dffcd348#/conversations/Planning%20Meetings?threadId=19:5a6a8001238349fd9457225eb27c8311@thread.tacv2&ctx=channel)
+
 /HEAD
 
 ### Monday, 28 June
