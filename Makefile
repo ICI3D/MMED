@@ -1,4 +1,4 @@
-## Sometimes we need MMED and sometimes we don't
+## The URL seems jekyll-version dependent (Sometimes we need MMED/)
 ## http://localhost:4000/MMED/schedule/shadow
 ## http://localhost:4000/MMED/schedule/
 ## http://localhost:4000/schedule/
