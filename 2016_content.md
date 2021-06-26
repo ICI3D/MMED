@@ -1,0 +1,36 @@
+materials/MMED2016/BellanAcuteHIVResearch.pdf
+materials/MMED2016/BellanAcuteHIVResearch.pptx
+materials/MMED2016/BellanIntroMCMC.pdf
+materials/MMED2016/BellanIntroMCMC.pptx
+materials/MMED2016/BellanIntrotoDisDynamics.pdf
+materials/MMED2016/BellanIntrotoDisDynamics.pptx
+materials/MMED2016/Bellan_StudyDesignAnalysisEpi.ppt
+materials/MMED2016/BrookAssumptionsODE_2016.pdf
+materials/MMED2016/BrookAssumptionsODE_2016.pptx
+materials/MMED2016/Bruce_IntroIDData.pdf
+materials/MMED2016/Bruce_IntroToIDdata_2016.pptx
+materials/MMED2016/DelvaAgeGapResearch.pptx
+materials/MMED2016/DelvaThinkingData1.pdf
+materials/MMED2016/DelvaThinkingData1.ppt
+materials/MMED2016/Distributed Delay.pdf
+materials/MMED2016/Distributed Delay.pptx
+materials/MMED2016/Dushoff_FoundationsDM.pdf
+materials/MMED2016/epidemicCards/
+materials/MMED2016/FittingDynModelsI.pdf
+materials/MMED2016/FittingDynModelsI.pptx
+materials/MMED2016/HeterogeneityTutorialSummary.pptx
+materials/MMED2016/IntrotoMCMC.pdf
+materials/MMED2016/MMED2016participants.pdf
+materials/MMED2016/MMED2016roadmap.pptx
+materials/MMED2016/modelWorlds/
+materials/MMED2016/NgonghalaResearchLecture2016.pdf
+materials/MMED2016/PorcoDataManagement/
+materials/MMED2016/PorcoMeaslesPresentation.pdf
+materials/MMED2016/PorcoMeaslesPresentation.pptx
+materials/MMED2016/Scott_ThinkingAboutData_WD_2016.pdf
+materials/MMED2016/Scott_ThinkingAboutData_WD_2016.ppt
+materials/MMED2016/WelteDynamicalFever_Reveal.pptx
+materials/MMED2016/WilliamsDoing.pdf
+materials/MMED2016/Williams_Mozambique.pdf
+materials/MMED2016/Williams_Mozambique.ppt
+

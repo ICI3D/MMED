@@ -11,6 +11,7 @@ target = Makefile
 ###################################################################
 
 Sources += Makefile README.md
+Sources += 2*_content.md
 
 Sources += notes.md mmed_team.txt projects.md
 
