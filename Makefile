@@ -35,7 +35,7 @@ new_faculty.html: invitations/new_faculty.md
 
 ######################################################################
 
-Ignore += materials
+Ignore += materials videos
 
 Sources += lectures.md
 ## lectures.filemerge: lectures.md
