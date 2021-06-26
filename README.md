@@ -12,9 +12,11 @@ Important links (_some of these are crypto links, meaning that their privacy is 
 
 * [Faculty notes](https://docs.google.com/document/d/1Q7h5bizBeCY1j_NZZ_bpsJ0bUB0F-wHCawhHUcRaW4A/)
 
-* [Feedback form](https://docs.google.com/forms/d/1qJRzhjUi-TYMy8y-9QlX7-V6sK3GgNlIvKuMeqqvTEE/edit#responses)
+* [Feedback form](https://docs.google.com/forms/d/1qJRzhjUi-TYMy8y-9QlX7-V6sK3GgNlIvKuMeqqvTEE/edit#responses) This seems to cover only the second half. Seems to have answers only for stuff after the midterm feedback
 
 ## 2018
+
+- [Schedule](http://www.ici3d.org/MMED/schedule/2018/)
 
 - [Feedback report](https://www.dropbox.com/s/ublszeb2o2brdaw/MMEDReport2018.pdf?dl=1)
 	* Google forms available to 2018 faculty, who should pass on relevant facts
@@ -24,7 +26,27 @@ Important links (_some of these are crypto links, meaning that their privacy is 
 
 ## 2017
 
+http://www.ici3d.org/MMED2017/schedule/
+
 - [Feedback report](https://www.dropbox.com/s/dn2icd8jp5lgwio/MMED%20Report%202017%20final.pdf?dl=1)
 	* materials/MMED2017/EvaluationFinal.pdf
 https://www.dropbox.com/s/dn2icd8jp5lgwio/MMED%20Report%202017%20final.pdf?dl=1
 - [Faculty notes](https://docs.google.com/document/d/1pGA-P2Ltmi1lHMPx5dulhU3-anbAIILKxgzwPbTgl50)
+
+## 2016
+
+http://mmed2016.ici3d.org/schedule
+
+2016_content.md
+
+## 2015
+
+materials/Evaluator_Reports/MMED2015_Report.pdf does not seem to contain anything lecture-specific ☹
+
+## 2014
+
+## 2013
+
+## 2012
+
+## 2011
