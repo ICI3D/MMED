@@ -15,6 +15,8 @@ However, these estimates and the downstream decisions are only as good as the in
 
 - When deciding on your interest in this project, please consider the following:
 
+- The faculty member leading this project is based in the UK, where it is 5 hours earlier than in Dhaka and 8 hours later than in Seattle.
+
  - _This group is recommended for:_
   * Participants working on outbreak and epidemic response
   * Participants setting data and reporting policy

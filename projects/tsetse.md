@@ -29,6 +29,8 @@ subtitle: Modelling the acquisition of trypanosome infections by tsetse,
 
 ## Things to consider
 
+- The faculty member leading this project is based in South Africa, where it is 4 hours earlier than in Dhaka and 9 hours later than in Seattle.
+
 - _This group is recommended for participants who are interested in:_
     - Tsetse flies and trypanosomiasis
     - Modelling of vector-borne pathogens
@@ -61,7 +63,7 @@ We have access to data relating the probability that female _G. pallidipes_ are 
 
 ## Resources
 
-### Detailed project Overview
+### Detailed project overview
 
 - Dowload PDF
 
