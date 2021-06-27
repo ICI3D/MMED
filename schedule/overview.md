@@ -22,3 +22,15 @@ alertmsg: >
 ## Individual Sessions
 * __Tea with African Faculty:__ 15:00 Dhaka / 14:00 Chennai / 13:00 Abu Dhabi / 12:00 Nairobi / 11:00 Cape Town / 10:00 London / 05:00 New York / 01:00 Bucaramanga / 02:00 Seattle
 * __Tea with North American Faculty:__ 01:00 Dhaka / 00:00 Chennai / 23:00 Abu Dhabi / 22:00 Nairobi / 21:00 Cape Town / 20:00 London / 15:00 New York / 14:00 Bucaramanga / 12:00 Seattle
+
+__Click here for schedule overview in your time zone only__
+
+* [Cape Town (our spiritual location)](overtime10)
+* [Abu Dhabi](overtime12)
+* [Bucaramanga](overtime03)
+* [Chennai](overtime13)
+* [Dhaka](overtime14)
+* [London](overtime09)
+* [Nairobi](overtime11)
+* [New York](overtime04)
+* [Seattle](overtime01)

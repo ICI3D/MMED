@@ -1,6 +1,6 @@
 ---
-layout: clinic
-redirect: ../development
+layout: redirect
+redirect: overview.html
 tab: Daily Schedule
 title: Daily Schedule
 subtitle: Daily Schedule
@@ -13,7 +13,7 @@ alertmsg: >
 
 * [Main schedule](.)
 
-__Click here for schedule overview in your time zone__
+__Click here for schedule overview in your time zone only__
 
 * [Cape Town (our spiritual location)](overtime10)
 * [Abu Dhabi](overtime12)

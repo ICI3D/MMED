@@ -116,6 +116,7 @@ Sources += $(wildcard preparation/*.md)
 Sources += $(wildcard participants/*.md)
 
 ## Ad hoc overview stuff
+## Maybe not currently linked anywhere 2021 Jun 27 (Sun)
 
 ## schedule/overtime03.md: schedule/over.md timeshadow.pl
 schedule/overtime%.md: schedule/over.md jdresources/timeshadow.pl
