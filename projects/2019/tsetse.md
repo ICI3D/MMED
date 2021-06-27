@@ -18,7 +18,7 @@ subtitle: An agent-based model applied to an island population of G. m. morsitan
       <p> We wish to identify the climatic factors impact tsetse birth and death rates - and whether we can detect the presence and point of action of density dependent effects.</p>
   </div>
   <div class="col-lg-4">
-      <img src="./tsetseOSU.jpg" alt="Tsetse Fly" title="Photo courtesy of Oregon State University"  style="margin:0px; display: block; width : 80%; border-radius: 50px" />
+      <img src="../tsetseOSU.jpg" alt="Tsetse Fly" title="Photo courtesy of Oregon State University"  style="margin:0px; display: block; width : 80%; border-radius: 50px" />
       <a href="https://www.flickr.com/photos/oregonstateuniversity/10040375154/in/photolist-giexJs-dteEn5-dtet98-fstqeX-dRo1dd-8UbzgF-oCDocs-zi39s-dwBgLz-7djL6s-dr7JVJ-7dgMwp-fvhuwf-d4RUJS-8on7Yc-8E1emp-3YSJr2-dr7GtW-6Vmgup-dr7whv-Bfrn5S-5KT5we-7WkSe2-BEgfNL-fnh1U4-dRo19h-dwGLHb-dr7zva-dwGMnE-dr7KLf-dr7yXa-dRhrMi-dwBgnF-dr7zTz-dwBgDH-dRo1aW-dr7K29-dr7GKC-dRhrH6-dr7y92-7WkNfg-dr7HCQ-DEij9-pPEoeU-8Mz1g-7WkRfD-dr7z5V-dRhrJV-dr7Kwq-dr7xrK">Photo courtesy of Oregon State University</a>
   </div>
 </div>
