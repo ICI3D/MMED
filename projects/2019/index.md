@@ -1,14 +1,14 @@
 ---
-layout: clinic
+layout: redirect
 redirect: ../development
-subtitle: MMED 2019 Projects
+subtitle: MMED 2020 Projects
 tab: Projects
 title: Projects
 alerttype: success
 alertmsg: >
   <ul>
-  <li><b>Guidelines for the project presentations (on Friday) are available <a href="./projectPresentations">here</a>.</b></li>
-  <li><b>Guidelines for the project reports (due 1 Aug) are available <a href="./projectReports">here</a>.</b></li>
+  <li><b>Guidelines for the project presentations (on Friday) are available <a href="../projectPresentations">here</a>.</b></li>
+  <li><b>Guidelines for the project reports (due 1 Aug) are available <a href="../projectReports">here</a>.</b></li>
   </ul>
 ---
 
