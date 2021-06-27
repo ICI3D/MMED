@@ -36,21 +36,21 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 #### Interactive session 1b
 
 
-- 20:30-22:00 **Tutorial:** Dynamical Fever - computer exercise and discussion (All faculty) 
+- 20:30-22:00 **Tutorial:** Dynamical Fever - computer exercise and discussion ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/), all faculty assisting) 
     - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
 	```R
 		ICI3D::dynamicalFever()
 	```
-- 20:30-21:00 **Discussion:** Dynamical Fever ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) 
+- 22:00-22:30 **Discussion:** Dynamical Fever ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) 
 
 #### Individual session 1
 
 _**Please complete the following between the end of Monday's interactive session and the beginning of Tuesday's interactive session.**_
 
-- **Video lecture:** Introduction to thinking about data I 
-- **Video lecture:** [Introduction to dynamic modeling of infectious diseases](https://youtu.be/EV5FLlrRwiQ) 
-- **Video lecture (Track A):** Introduction to infectious disease data 
-- **Video lecture (Track B):** Foundations of dynamic modeling 
+- **Video lecture:** Introduction to thinking about data I ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
+- **Video lecture:** [Introduction to dynamic modeling of infectious diseases](https://youtu.be/EV5FLlrRwiQ) ((bellan))
+- **Video lecture (Track A):** Introduction to infectious disease data ((mwangi))
+- **Video lecture (Track B):** Foundations of dynamic modeling ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 - **Written exercise:** Formulating research questions for modeling projects 
     - Track A 
     - [Track B](https://www.dropbox.com/s/tb1j4eezub3wi4t/03_ResearchQuestions.docx?dl=1)
@@ -303,8 +303,8 @@ _Reminder:_
 #### Interactive session 8b
 
 
-- 20:30-21:30 **Real-world example:** Faculty research lecture ((hladish))
-- 21:30-22:30 **Interactive session:** Modelling for policy (Moderators: [Becky Borchering]({{site.subdomainurl}}/team/borchering/) and [Carl Pearson]({{site.subdomainurl}}/team/pearson/))
+- 20:30-21:30 **Interactive session:** Modelling for policy (Moderators: [Becky Borchering]({{site.subdomainurl}}/team/borchering/) and [Carl Pearson]({{site.subdomainurl}}/team/pearson/))
+- 21:30-22:30 **Real-world example:** Faculty research lecture ((hladish)) 
 
 #### Individual session 8
 
