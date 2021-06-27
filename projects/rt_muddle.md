@@ -2,12 +2,12 @@
 layout: clinic
 tab: Projects
 title: Potential project
-subtitle: Data Reporting Policy Impact on Rt Estimate
+subtitle: Impact of data reporting policy on Rt estimates
 ---
 
 ## Overview
 
-Various groups world-wide performing real-time estimation of pandemic trends, such as growth rate and reproduction number, using tools like [EpiNow2](https::/github.com/epiforecasts/EpiNow2). These estimates are in turn used by officials to make policy decisions.
+Various groups world-wide are performing real-time estimation of pandemic trends, such as estimating the growth rate and reproduction number through time, using tools like [EpiNow2](https::/github.com/epiforecasts/EpiNow2). These estimates are in turn used by officials to make policy decisions.
 
 However, these estimates and the downstream decisions are only as good as the incoming data. This group will explore how different reporting choices influence estimates and ultimately what decisions can be made.
 
