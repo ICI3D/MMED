@@ -12,7 +12,9 @@ Important links (_some of these are crypto links, meaning that their privacy is 
 
 * [Faculty notes](https://docs.google.com/document/d/1Q7h5bizBeCY1j_NZZ_bpsJ0bUB0F-wHCawhHUcRaW4A/)
 
-* [Feedback form](https://docs.google.com/forms/d/1qJRzhjUi-TYMy8y-9QlX7-V6sK3GgNlIvKuMeqqvTEE/edit#responses) This seems to cover only the second half. Seems to have answers only for stuff after the midterm feedback
+No report received! We have these two surveys
+* [Mid-session](https://docs.google.com/forms/d/1BFxFBryzp9gG-GRmoqCayXGIpRmxhJEeek6urCB_i-U/edit?ts=60d8618f#responses)
+* [Final](https://docs.google.com/forms/d/1qJRzhjUi-TYMy8y-9QlX7-V6sK3GgNlIvKuMeqqvTEE/edit#responses)
 
 ## 2018
 

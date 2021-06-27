@@ -9,6 +9,49 @@ Resources
 
 A _few_ meeting notes from 2018 and 19 are in the history of this page.
 
+2021 Jun 27 (Sun)
+=================
+
+Teams startup and access for participants
+* in process
+
+Projects (we want 7)
+* tsetse John
+* Rt Carl
+* reinfections Juliet
+* transmission intervals Mike
+* transmission intervals Jonathan?? or something else
+* Maybe? Cari
+* Maybe? Bobby
+* Maybe? Participant -- not very promising
+	* follow up: John
+
+Research lectures
+* Sorted
+
+Tracks
+* Juliet to finalize assignments
+* Faikah to set up two more channels (Track A and Track B)
+
+Slides
+* pdf on Teams participants general channel
+* source on ICI3D_materials Dropbox
+* decide whether you want to make the pdf public; if so, let's link to schedule
+
+Tomorrow's schedule
+* Intro will be great (Mutono representing mentors)
+	* 8 minutes
+* PH, E and M lecture is, um, under development
+	* JD will report tonight
+* Org and icebreakers
+* Dynamical fever groups
+	* Somebody will post to participants general channel soon
+	* Link to prep page and/or install instructions JD
+* Individual sessions
+	* Update John link
+	* Thumbi send link
+
+
 2021 Jun 18 (Fri)
 =================
 

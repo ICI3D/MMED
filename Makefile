@@ -10,6 +10,11 @@ target = Makefile
 
 ###################################################################
 
+vim_session:
+	bash -cl "vmt README.md lectures.md"
+
+###################################################################
+
 Sources += Makefile README.md
 Sources += 2*_content.md
 
