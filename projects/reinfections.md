@@ -2,7 +2,7 @@
 layout: clinic
 tab: Projects
 title: Potential project
-subtitle: Analysis of reinfection trends: simulation-based validation
+subtitle: Analysis of reinfection trends - simulation-based validation
 ---
 
 ## Overview

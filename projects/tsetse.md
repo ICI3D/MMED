@@ -36,8 +36,11 @@ subtitle: Modelling the acquisition of trypanosome infections by tsetse,
     - Modelling of vector-borne pathogens
     - Engaging, interpreting, and analysing existing data
 
-- _This group will have the opportunity to engage in any of the following:_
-    - Writing code in R  
+- _This group will have the opportunity to engage in the following:_
+    - Writing code in R
+    - Designing and constructing models to fit age-prevalence data for trypanosome infection in tsetse
+    - Comparing and contrasting the dynamics of infection for three different species of trypanosome
+    - If time allows, modelling the dynamics of infection in tsetse and in vertebrate host
 
 ## Background
 
