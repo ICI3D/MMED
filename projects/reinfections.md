@@ -9,6 +9,10 @@ subtitle: Analysis of reinfection trends - simulation-based validation
 
 In light of the emergence of new SARS-CoV-2 variants and the potential for waning immunity, the risk of reinfection may change through time. This group will look at how routinely collected epidemiological data can be used to evaluate changes in reinfection risk. Specifically, we will use simulation-based validation to examine two approaches for analyzing trends in the incidence of reinfections and evaluate how these methods perform when certain assumptions are violated.
 
+Simulation-based validation is a way of testing the performance of statistical methods. In essence, it involves simulating data from a series of increasingly more realistic model worlds and examining in what situation the approach is robust and under what conditions it might break down.
+
+Both of the approaches we will consider account for the two main temporal confounders that affect the incidence of reinfections: (1) that the force of infection varies through time in a way that will affect both primary infection risk and reinfection risk and (2) that the number of people "eligible" for reinfection increases through time. However, they do not account for factors such as COVID-associated mortality or temporal variation in testing practices. We will use the simulation-based validation framework to look at the performance of these two methods when these assumptions are violated.
+
 ## Things to consider
 
 - When deciding on your interest in this project, please consider the following:
