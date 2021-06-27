@@ -43,28 +43,31 @@ alertmsg: >
 	* SHADOW ../materials/MMED2019/LectureSlides/Scott_PublicHealthEpiModels_2019.pdf
 
 - 11:40-11:50 **Organizational session:** [MMED Road Map](../roadmap) and programme overview ((borchering))
+	* SHADOW ../materials/MMED2019/MMED2019roadmap.pptx
+	* SHADOW ../materials/MMED2019/MMED2019roadmap.pdf
+	* SHADOW [roadmap/MMED2019roadmap.png](Current semi-live version)
 - 11:50-12:05 **Organizational session:** Working with the MMED technical tools ((pearson)) NOTE (15 mins)
 - 12:05-12:30 Ice breakers ((bruce))
 
 #### Interactive session 1b
 
 
-- 13:30-15:00 **Tutorial:** Dynamical Fever - computer exercise and discussion (All faculty) NOTE (40 + 10 group + 40)
+- 13:30-15:00 **Tutorial:** Dynamical Fever - computer exercise and discussion ((pulliam), all faculty assisting) NOTE (40 + 10 group + 40)
     - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
 	```R
 		ICI3D::dynamicalFever()
 	```
-- 13:30-14:00 **Discussion:** Dynamical Fever ((hargrove)) HIDE - [model description](../Materials/fever), modeling terminology, and the [DAIDD glossary](http://tinyurl.com/daidd-public) - [Download the taxonomy](../Materials/modelTaxonomy)
+- 15:00-15:30 **Discussion:** Dynamical Fever ((hargrove)) HIDE - [model description](../Materials/fever), modeling terminology, and the [DAIDD glossary](http://tinyurl.com/daidd-public) - [Download the taxonomy](../Materials/modelTaxonomy)
 - SHADOW 15:30-16:00 Faculty meeting
 
 #### Individual session 1
 
 _**Please complete the following between the end of Monday's interactive session and the beginning of Tuesday's interactive session.**_
 
-- **Video lecture:** Introduction to thinking about data I NOTE ((hargrove)) - exists; JS to send link
-- **Video lecture:** [Introduction to dynamic modeling of infectious diseases](https://youtu.be/EV5FLlrRwiQ) NOTE ((bellan))
-- **Video lecture (Track A):** Introduction to infectious disease data NOTE ((mwangi))
-- **Video lecture (Track B):** Foundations of dynamic modeling NOTE ((dushoff))
+- **Video lecture:** Introduction to thinking about data I ((hargrove))
+- **Video lecture:** [Introduction to dynamic modeling of infectious diseases](https://youtu.be/EV5FLlrRwiQ) ((bellan))
+- **Video lecture (Track A):** Introduction to infectious disease data ((mwangi))
+- **Video lecture (Track B):** Foundations of dynamic modeling ((dushoff))
 - **Written exercise:** Formulating research questions for modeling projects NOTE Also make these available in the Assignments folder in the General Channel of the MMED Participants Team
     - Track A NOTE **TODO: JP**
     - [Track B](https://www.dropbox.com/s/tb1j4eezub3wi4t/03_ResearchQuestions.docx?dl=1)
@@ -328,8 +331,8 @@ _Reminder:_
 #### Interactive session 8b
 
 
-- 13:30-14:30 **Real-world example:** Faculty research lecture ((hladish))
-- 14:30-15:30 **Interactive session:** Modelling for policy (Moderators: (borchering) and (pearson))
+- 13:30-14:30 **Interactive session:** Modelling for policy (Moderators: (borchering) and (pearson))
+- 14:30-15:30 **Real-world example:** Faculty research lecture ((hladish)) 
 - SHADOW 15:30-16:00 Faculty meeting
 
 #### Individual session 8
