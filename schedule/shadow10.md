@@ -35,7 +35,6 @@ alertmsg: >
 
 #### Interactive session 1a
 
-**20:30-22:30 Dhaka / 19:30-21:30 Chennai / 18:30-20:30 Abu Dhabi / 17:30-19:30 Nairobi / 16:30-18:30 SAST / 15:30-17:30 London / 10:30-12:30 New York / 09:30-11:30 Bucaramanga / 07:30-09:30 Seattle**
 
 - _Please join the session by 16:25. We will begin promptly at 16:30._
 - 16:30-16:55 Welcome and motivation ((pulliam), (nyamai), and (hargrove))
@@ -49,7 +48,6 @@ alertmsg: >
 
 #### Interactive session 1b
 
-**23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
 
 - 19:30-21:00 **Tutorial:** Dynamical Fever - computer exercise and discussion (All faculty) NOTE (40 + 10 group + 40)
     - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
@@ -82,7 +80,6 @@ _Reminder:_
 
 #### Interactive session 2a
 
-**20:30-22:30 Dhaka / 19:30-21:30 Chennai / 18:30-20:30 Abu Dhabi / 17:30-19:30 Nairobi / 16:30-18:30 SAST / 15:30-17:30 London / 10:30-12:30 New York / 09:30-11:30 Bucaramanga / 07:30-09:30 Seattle**
 
 - 16:30-17:30 **Research Pitches I** (Moderator: (dushoff)) NOTE JD willing to moderate?
 - 17:30-17:50 **Summary and Discussion:** Introduction to thinking about data I ((kassanjee))
@@ -93,7 +90,6 @@ _Reminder:_
 
 #### Interactive session 2b
 
-**23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
 
 - 19:30-20:00 **Tutorial review:** Questions about Tutorials 1-3 ((pearson) and all)
 - 20:00-21:30 Small group session: research questions for modeling projects (All faculty) NOTE **TODO: Group assignments**
@@ -123,7 +119,6 @@ _Reminder:_
 
 #### Interactive session 3a
 
-**20:30-22:30 Dhaka / 19:30-21:30 Chennai / 18:30-20:30 Abu Dhabi / 17:30-19:30 Nairobi / 16:30-18:30 SAST / 15:30-17:30 London / 10:30-12:30 New York / 09:30-11:30 Bucaramanga / 07:30-09:30 Seattle**
 
 - 16:30-16:45 **Summary and Discussion:** (Hidden) assumptions of simple ODE models ((pulliam))
 - 16:45-16:55 **Summary and Discussion:** Introduction to model implementation ((vanschalkwyk)) NOTE 10 mins # CHECK
@@ -139,7 +134,6 @@ _Reminder:_
 
 #### Interactive session 3b
 
-**23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
 
 - 19:30-19:45 **Summary and Discussion:** Impact of contact patterns, consequences of heterogeneity, and modeling options ((hargrove)) NOTE 15 mins
 - 19:45-20:30 **Computer session:** Lab 2 - Consequences of heterogeneity in disease emergence ((pearson) and all) NOTE 45 mins **TODO: Group assignments** CHECK - did we do groups for DAIDD??
@@ -169,7 +163,6 @@ _Reminder:_
 
 #### Interactive session 4a
 
-**20:30-22:30 Dhaka / 19:30-21:30 Chennai / 18:30-20:30 Abu Dhabi / 17:30-19:30 Nairobi / 16:30-18:30 SAST / 15:30-17:30 London / 10:30-12:30 New York / 09:30-11:30 Bucaramanga / 07:30-09:30 Seattle**
 
 - 16:30-16:40 Summary and Discussion: Introduction to models and data: HIV in Harare (Hargrove)
 - 16:40-18:10 **Computer session:** Model fitting ((hargrove)) NOTE 90 mins - [Tutorial notes from DAIDD](http://www.ici3d.org/DAIDD/Materials/hivTutorial)
@@ -182,7 +175,6 @@ _Reminder:_
 
 #### Interactive session 4b
 
-**23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
 
 - 19:30-21:00 **_Parallel sessions_**
     - **Track A**
@@ -215,7 +207,6 @@ _Reminder:_
 
 #### Interactive session 5a
 
-**20:30-22:30 Dhaka / 19:30-21:30 Chennai / 18:30-20:30 Abu Dhabi / 17:30-19:30 Nairobi / 16:30-18:30 SAST / 15:30-17:30 London / 10:30-12:30 New York / 09:30-11:30 Bucaramanga / 07:30-09:30 Seattle**
 
 - 16:30-16:45 **Summary and Discussion:** Introduction to statistical philosophy ((kassanjee))
 - 16:45-17:00 **Summary and Discussion:** Introduction to Likelihood ((vanschalkwyk)) NOTE includes Lab 5 summary
@@ -223,7 +214,6 @@ _Reminder:_
 
 #### Interactive session 5b
 
-**23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
 
 - 19:30-20:30 **Mentor presentations** (Moderator: (reiner)) NOTE BR willing to moderate?
 - 20:30-21:30 **Mid-session feedback** ((bruce)) NOTE (60 mins)
@@ -258,7 +248,6 @@ _Reminder:_
 
 #### Interactive session 6a
 
-**20:30-22:30 Dhaka / 19:30-21:30 Chennai / 18:30-20:30 Abu Dhabi / 17:30-19:30 Nairobi / 16:30-18:30 SAST / 15:30-17:30 London / 10:30-12:30 New York / 09:30-11:30 Bucaramanga / 07:30-09:30 Seattle**
 
 - 16:30-17:15 **Interactive lecture:** Doing Science ((dushoff))
 - 17:15-17:30 **Organizational session:** Schedule and goals for the second week ((borchering))
@@ -267,7 +256,6 @@ _Reminder:_
 
 #### Interactive session 6b
 
-**23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
 
 - 19:30-20:45 **_Parallel sessions_**
     - **Track A**
@@ -297,7 +285,6 @@ _Reminder:_
 
 #### Interactive session 7a
 
-**20:30-22:30 Dhaka / 19:30-21:30 Chennai / 18:30-20:30 Abu Dhabi / 17:30-19:30 Nairobi / 16:30-18:30 SAST / 15:30-17:30 London / 10:30-12:30 New York / 09:30-11:30 Bucaramanga / 07:30-09:30 Seattle**
 
 - 16:30-16:45 **Summary and Discussion:** Likelihood fitting and dynamic models II ((dushoff) or (reiner))
 - 16:45-16:55 **Lab 6 Summary** NOTE mentor? **TODO:** assignment
@@ -306,7 +293,6 @@ _Reminder:_
 
 #### Interactive session 7b
 
-**23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
 
 - 19:30-20:30 **Real-world example:** Faculty research lecture ((li))
 - 20:30-21:30 Special topic sessions / group mentoring (TBD) NOTE **TODO** - what??? as requested by participants?
@@ -331,7 +317,6 @@ _Reminder:_
 
 #### Interactive session 8a
 
-**20:30-22:30 Dhaka / 19:30-21:30 Chennai / 18:30-20:30 Abu Dhabi / 17:30-19:30 Nairobi / 16:30-18:30 SAST / 15:30-17:30 London / 10:30-12:30 New York / 09:30-11:30 Bucaramanga / 07:30-09:30 Seattle**
 
 - 16:30-16:45 **Summary and Discussion:** Introduction to Monte Carlo Markov Chains (MCMC) ((pearson))
 - 16:45-16:55 **Lab 7 Summary** ((kassanjee))
@@ -342,7 +327,6 @@ _Reminder:_
 
 #### Interactive session 8b
 
-**23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
 
 - 19:30-20:30 **Real-world example:** Faculty research lecture ((hladish))
 - 20:30-21:30 **Interactive session:** Modelling for policy (Moderators: (borchering) and (pearson))
@@ -364,7 +348,6 @@ _Reminder:_
 
 #### Interactive session 9a
 
-**20:30-22:30 Dhaka / 19:30-21:30 Chennai / 18:30-20:30 Abu Dhabi / 17:30-19:30 Nairobi / 16:30-18:30 SAST / 15:30-17:30 London / 10:30-12:30 New York / 09:30-11:30 Bucaramanga / 07:30-09:30 Seattle**
 
 - 16:30-16:45 **Summary and Discussion:** Model assessment ((dushoff))
 - 16:45-17:00 **Summary and Discussion:** Faculty research presentation ((hargrove))
@@ -372,7 +355,6 @@ _Reminder:_
 
 #### Interactive session 9b
 
-**23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
 
 - 19:30-20:30 Special topic sessions / group mentoring (TBD) NOTE **TODO** - what??? as requested by participants? or faculty / guest lecture??
 - 20:30-21:30 Special topic sessions / group mentoring (TBD) NOTE **TODO** - what??? as requested by participants?
@@ -394,13 +376,11 @@ _Reminder:_
 
 #### Interactive session 10a
 
-**20:30-22:30 Dhaka / 19:30-21:30 Chennai / 18:30-20:30 Abu Dhabi / 17:30-19:30 Nairobi / 16:30-18:30 SAST / 15:30-17:30 London / 10:30-12:30 New York / 09:30-11:30 Bucaramanga / 07:30-09:30 Seattle**
 
 - 16:30-18:30 **Group project presentations** NOTE **TODO:** assign moderator!
 
 #### Interactive session 10b
 
-**23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
 
 - 19:30-21:00 Final feedback session ((bruce)) NOTE (60-90 mins)
 - 21:00-21:15 Closing session ((dushoff) and all) NOTE (15 mins)

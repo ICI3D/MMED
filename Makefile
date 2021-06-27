@@ -96,13 +96,17 @@ schedule/test.md: jdresources/faculty.tsv schedule/index.top schedule/shadow.md 
 	perl -wf $(filter %.pl, $^) $(filter %.tsv, $^) $(filter %.md, $^) >> $@
 	$(readonly)
 
-## zones = time10 time08 time03 time02 time01 time00 time09 time11 time14
 zones = 01 03 04 09 10 11 12 13 14
 times = $(zones:%=schedule/time%.md)
-time_setup: $(times)
+shadows = $(zones:%=schedule/shadow%.md)
+time_setup: $(times) $(shadows)
 
-## schedule/time10.md: schedule/index.top schedule/test.md jdresources/timeshadow.pl
 schedule/time%.md: schedule/test.md jdresources/timeshadow.pl
+	$(rm)
+	$(PUSHSTAR)
+	$(RO)
+
+schedule/shadow%.md: schedule/shadow.md jdresources/timeshadow.pl
 	$(rm)
 	$(PUSHSTAR)
 	$(RO)
@@ -123,12 +127,6 @@ zones = 01 03 04 09 10 11 12 13 14
  
 ozones = $(zones:%=schedule/overtime%.md)
 overtimes: $(ozones)
-
-######################################################################
-
-## submodule
-
-Sources += 
 
 ######################################################################
 
