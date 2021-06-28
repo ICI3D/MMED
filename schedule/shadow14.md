@@ -66,9 +66,14 @@ alertmsg: >
 _**Please complete the following between the end of Monday's interactive session and the beginning of Tuesday's interactive session.**_
 
 - **Video lecture:** Introduction to thinking about data I ((hargrove))
+
 - **Video lecture:** [Introduction to dynamic modeling of infectious diseases](https://youtu.be/EV5FLlrRwiQ) ((bellan))
+
 - **Video lecture (Track A):** Introduction to infectious disease data ((mwangi))
-- **Video lecture (Track B):** Foundations of dynamic modeling ((dushoff))
+
+- **Video lecture (Track B):** [Foundations of dynamic modeling](https://figshare.com/articles/dataset/The_SIR_Model_Family/5042974) ((dushoff))
+	- SHADOW [lecture page](https://github.com/ICI3D/MMED/blob/master/lectures/family.md); [internal](../lectures/family.md)
+
 - **Written exercise:** Formulating research questions for modeling projects NOTE Also make these available in the Assignments folder in the General Channel of the MMED Participants Team
     - Track A NOTE **TODO: JP**
     - [Track B](https://www.dropbox.com/s/tb1j4eezub3wi4t/03_ResearchQuestions.docx?dl=1)

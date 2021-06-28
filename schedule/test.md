@@ -52,9 +52,13 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 _**Please complete the following between the end of Monday's interactive session and the beginning of Tuesday's interactive session.**_
 
 - **Video lecture:** Introduction to thinking about data I ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
+
 - **Video lecture:** [Introduction to dynamic modeling of infectious diseases](https://youtu.be/EV5FLlrRwiQ) ((bellan))
+
 - **Video lecture (Track A):** Introduction to infectious disease data ((mwangi))
-- **Video lecture (Track B):** Foundations of dynamic modeling ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
+
+- **Video lecture (Track B):** [Foundations of dynamic modeling](https://figshare.com/articles/dataset/The_SIR_Model_Family/5042974) ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
+
 - **Written exercise:** Formulating research questions for modeling projects 
     - Track A 
     - [Track B](https://www.dropbox.com/s/tb1j4eezub3wi4t/03_ResearchQuestions.docx?dl=1)
