@@ -82,6 +82,7 @@ _**Please complete the following between the end of Monday's interactive session
 - **Computer exercise** This is to assess your understanding from completing Tutorials 1-3. **Download [this script](../tutorials/MMED_123_integration.R)**, which provides instructions. When you're done, upload your modified script to Teams->General->Files->Integration123 folder, changing the file name to begin with your initials. Recommend: work with a partner or few, but you'll each need to upload a script. Note that the wording "when you're done"--if you can't finish in a few hours, upload the progress you *do* make. **In addition, please be prepared to ask any questions you had from going through Tutorials 1-3.**
 
 - _Make sure your slides are uploaded for the Research Pitches!_
+    - Upload the PDF version of your 1-slide research pitch to the **_01_pitchSlides_** folder on the MMED Participants Team on Microsoft Teams. Use the file naming convention **01_SurnameFirstname_pitch.pdf**.
 
 _Reminder:_
 
