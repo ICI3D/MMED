@@ -12,7 +12,7 @@ subtitle: Resources for during and after the Clinic
     - [MMED 2019 Lectures and Lab Summaries](./slides/)
     - [MMED 2018 Lectures and Lab Summaries](./slides/2018)
 - Learning terminology
-    - [DAIDD Glossary](http://www.ici3d.org/DAIDD/resources/DAIDD_Glossary.pdf)
+    - [ICI3D Glossary](https://www.dropbox.com/s/ff7jqdc6jja8i3d/ICI3D_Glossary.pdf?dl=1)
     - [Modeling concepts](./modellingConcepts)
 - Learning R
     - [ICI3D tutorials](http://www.ici3d.org/MMED/tutorials/)
