@@ -65,19 +65,19 @@ alertmsg: >
 
 _**Please complete the following between the end of Monday's interactive session and the beginning of Tuesday's interactive session.**_
 
-- **Video lecture:** Introduction to thinking about data I ((hargrove))
-
+- **Video lecture:** [Introduction to thinking about data I](https://figshare.com/articles/dataset/Introduction_to_Thinking_About_Data_I/5043136?file=8731852) ((hargrove))
+    - Note that this is being provided as a Figshare link. We are working on moving everything to YouTube and will update with that link when it's available.
 - **Video lecture:** [Introduction to dynamic modeling of infectious diseases](https://youtu.be/EV5FLlrRwiQ) ((bellan))
-
-- **Video lecture (Track A):** Introduction to infectious disease data ((mwangi))
+- **Video lecture (Track A):** [Introduction to infectious disease data](https://www.dropbox.com/s/wwxdx2rrubdpv1k/ThumbiMwangi_IntroInfectiousDiseaseData_2021.mov?dl=1) ((mwangi))
+    - Note that this is being provided as a Dropbox **download** link. We are working on moving everything to YouTube and will update with that link when it's available.
 
 - **Video lecture (Track B):** [Foundations of dynamic modeling](https://figshare.com/articles/dataset/The_SIR_Model_Family/5042974) ((dushoff))
 	- SHADOW [lecture page](https://github.com/ICI3D/MMED/blob/master/lectures/family.md); [internal](../lectures/family.md)
 
-- **Written exercise:** Formulating research questions for modeling projects NOTE Also make these available in the Assignments folder in the General Channel of the MMED Participants Team
-- [Track A](https://www.dropbox.com/s/cye1wh7ef7tuest/03_TrackA_ResearchQuestions.docx?dl=1)
-- [Track B](https://www.dropbox.com/s/rcc1fpaob4ecy71/03_TrackB_ResearchQuestions.docx?dl=1)
-- **Computer exercise** This is to assess your understanding from completing Tutorials 1-3. Download [this script](../tutorials/MMED_123_integration.R), which provides instructions. When you're done, upload your modified script to Teams->General->Files->Integration123 folder, changing the file name to begin with your initials. Recommend: work with a partner or few, but you'll each need to upload a script. Note that the wording "when you're done"--if you can't finish in a few hours, upload the progress you *do* make.
+- **Written exercise:** Formulating research questions for modeling projects NOTE Also make these available in the Assignments folder in the General Channel of the MMED Participants Team (done for MMED 2021)
+    - [Track A](https://www.dropbox.com/s/cye1wh7ef7tuest/03_TrackA_ResearchQuestions.docx?dl=1)
+    - [Track B](https://www.dropbox.com/s/rcc1fpaob4ecy71/03_TrackB_ResearchQuestions.docx?dl=1)
+- **Computer exercise** This is to assess your understanding from completing Tutorials 1-3. **Download [this script](../tutorials/MMED_123_integration.R)**, which provides instructions. When you're done, upload your modified script to Teams->General->Files->Integration123 folder, changing the file name to begin with your initials. Recommend: work with a partner or few, but you'll each need to upload a script. Note that the wording "when you're done"--if you can't finish in a few hours, upload the progress you *do* make. **In addition, please be prepared to ask any questions you had from going through Tutorials 1-3.**
 
 - _Make sure your slides are uploaded for the Research Pitches!_
 
@@ -94,7 +94,7 @@ _Reminder:_
 - 17:30-18:30 **Research Pitches I** (Moderator: (dushoff)) NOTE JD willing to moderate?
 - 18:30-18:50 **Summary and Discussion:** Introduction to thinking about data I ((kassanjee))
 - 18:50-19:10 **Summary and Discussion:**  Introduction to dynamic modeling of infectious diseases ((mthombothi))
-- 19:10–19:30 **_Parallel sessions_** NOTE **TODO: Track assignments**
+- 19:10–19:30 **_Parallel sessions_**
     - **Track A - Summary and Discussion:** Introduction to infectious disease data ((mwangi)) NOTE (Mike, Larisse, others?)
     - **Track B - Summary and Discussion:** Foundations of dynamic modeling ((vanschalkwyk)) NOTE (Tom, Mutono, others?)
 
@@ -102,23 +102,24 @@ _Reminder:_
 
 
 - 20:30-21:00 **Tutorial review:** Questions about Tutorials 1-3 ((pearson) and all)
+    - **Please be prepared to ask any questions you had from going through Tutorials 1-3.**
 - 21:00-22:30 Small group session: research questions for modeling projects (All faculty) NOTE **TODO: Group assignments**
     - SHADOW - [Step-by-step guide: Track A](./researchQuestionsA). [Step-by-step guide: Track B](./researchQuestionsB)
 - SHADOW 22:30-23:00 Faculty meeting
 
 #### Individual session 2
 
-- **Video lecture:** (Hidden) assumptions of simple ODE models NOTE ((pulliam))
-- **Coding demonstration:** Introduction to model implementation NOTE ((vanschalkwyk))
+- **Video lecture:** (Hidden) assumptions of simple ODE models ((pulliam))
+- **Coding demonstration:** Introduction to model implementation ((vanschalkwyk))
 - **Computer exercise:** Lab 1 - ODE models in R NOTE 45 mins
 - **For Track A**
-    - **Video lecture:** Introduction to Thinking About Data II NOTE ((kassanjee))
+    - **Video lecture:** Introduction to Thinking About Data II ((kassanjee))
     - **Computer exercise:** Tutorial 4 - Visualizing Infectious Disease Data in R
 - **For Track B**
-    - **Video lecture:** Basic stochastic simulation models NOTE ((borchering))
+    - **Video lecture:** Basic stochastic simulation models ((borchering))
     - **Computer exercise:** Exercise 1 - Basic stochastic simulation models NOTE ((borchering))
     - Note: _Track A will do this later in the week_
-- **Video lecture:** Impact of contact patterns, consequences of heterogeneity, and modeling options NOTE ((dushoff))
+- **Video lecture:** Impact of contact patterns, consequences of heterogeneity, and modeling options ((dushoff))
 
 _Reminder:_
 
