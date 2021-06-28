@@ -79,7 +79,7 @@ _**Please complete the following between the end of Monday's interactive session
 - **Written exercise:** Formulating research questions for modeling projects NOTE Also make these available in the Assignments folder in the General Channel of the MMED Participants Team
     - Track A NOTE **TODO: JP**
     - [Track B](https://www.dropbox.com/s/tb1j4eezub3wi4t/03_ResearchQuestions.docx?dl=1)
-- **Computer exercise** NOTE (Tutorial 1-3 and collate questions) Need to ask them to have concrete things that they turn in. (prep for review session) **TODO: CP**
+- **Computer exercise** This is to assess your understanding from completing Tutorials 1-3. Download [this script](), which provides instructions. When you're done, upload your modified script to Teams->General->Files->Integration123 folder, changing the file name to begin with your initials. Recommend: work with a partner or few, but you'll each need to upload a script. Note that the wording "when you're done"--if you can't finish in a few hours, upload the progress you *do* make.
 - _Make sure your slides are uploaded for the Research Pitches!_
 
 _Reminder:_
@@ -354,7 +354,7 @@ _Reminder:_
 **23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
 
 - 19:30-20:30 **Interactive session:** Modelling for policy (Moderators: (borchering) and (pearson))
-- 20:30-21:30 **Real-world example:** Faculty research lecture ((hladish)) 
+- 20:30-21:30 **Real-world example:** Faculty research lecture ((hladish))
 - SHADOW 21:30-22:00 Faculty meeting
 
 #### Individual session 8
