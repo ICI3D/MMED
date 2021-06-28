@@ -79,7 +79,7 @@ _**Please complete the following between the end of Monday's interactive session
 - **Written exercise:** Formulating research questions for modeling projects NOTE Also make these available in the Assignments folder in the General Channel of the MMED Participants Team
 - [Track A](https://www.dropbox.com/s/cye1wh7ef7tuest/03_TrackA_ResearchQuestions.docx?dl=1)
 - [Track B](https://www.dropbox.com/s/rcc1fpaob4ecy71/03_TrackB_ResearchQuestions.docx?dl=1)
-- **Computer exercise** This is to assess your understanding from completing Tutorials 1-3. Download [this script](MMED_123_integration.R), which provides instructions. When you're done, upload your modified script to Teams->General->Files->Integration123 folder, changing the file name to begin with your initials. Recommend: work with a partner or few, but you'll each need to upload a script. Note that the wording "when you're done"--if you can't finish in a few hours, upload the progress you *do* make.
+- **Computer exercise** This is to assess your understanding from completing Tutorials 1-3. Download [this script](../tutorials/MMED_123_integration.R), which provides instructions. When you're done, upload your modified script to Teams->General->Files->Integration123 folder, changing the file name to begin with your initials. Recommend: work with a partner or few, but you'll each need to upload a script. Note that the wording "when you're done"--if you can't finish in a few hours, upload the progress you *do* make.
 
 - _Make sure your slides are uploaded for the Research Pitches!_
 
