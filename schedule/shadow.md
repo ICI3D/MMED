@@ -77,8 +77,8 @@ _**Please complete the following between the end of Monday's interactive session
 	- SHADOW [lecture page](https://github.com/ICI3D/MMED/blob/master/lectures/family.md); [internal](../lectures/family.md)
 
 - **Written exercise:** Formulating research questions for modeling projects NOTE Also make these available in the Assignments folder in the General Channel of the MMED Participants Team
-    - Track A NOTE **TODO: JP**
-    - [Track B](https://www.dropbox.com/s/tb1j4eezub3wi4t/03_ResearchQuestions.docx?dl=1)
+    - [Track A](https://www.dropbox.com/s/cye1wh7ef7tuest/03_TrackA_ResearchQuestions.docx?dl=1)
+    - [Track B](https://www.dropbox.com/s/rcc1fpaob4ecy71/03_TrackB_ResearchQuestions.docx?dl=1)
 - **Computer exercise** NOTE (Tutorial 1-3 and collate questions) Need to ask them to have concrete things that they turn in. (prep for review session) **TODO: CP**
 - _Make sure your slides are uploaded for the Research Pitches!_
 
@@ -354,7 +354,7 @@ _Reminder:_
 **23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
 
 - 19:30-20:30 **Interactive session:** Modelling for policy (Moderators: (borchering) and (pearson))
-- 20:30-21:30 **Real-world example:** Faculty research lecture ((hladish)) 
+- 20:30-21:30 **Real-world example:** Faculty research lecture ((hladish))
 - SHADOW 21:30-22:00 Faculty meeting
 
 #### Individual session 8

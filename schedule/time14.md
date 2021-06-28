@@ -58,8 +58,8 @@ _**Please complete the following between the end of Monday's interactive session
 - **Video lecture (Track B):** [Foundations of dynamic modeling](https://figshare.com/articles/dataset/The_SIR_Model_Family/5042974) ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 
 - **Written exercise:** Formulating research questions for modeling projects 
-    - Track A 
-    - [Track B](https://www.dropbox.com/s/tb1j4eezub3wi4t/03_ResearchQuestions.docx?dl=1)
+    - [Track A](https://www.dropbox.com/s/cye1wh7ef7tuest/03_TrackA_ResearchQuestions.docx?dl=1)
+    - [Track B](https://www.dropbox.com/s/rcc1fpaob4ecy71/03_TrackB_ResearchQuestions.docx?dl=1)
 - **Computer exercise** 
 - _Make sure your slides are uploaded for the Research Pitches!_
 
@@ -310,7 +310,7 @@ _Reminder:_
 
 
 - 23:30-00:30 **Interactive session:** Modelling for policy (Moderators: [Becky Borchering]({{site.subdomainurl}}/team/borchering/) and [Carl Pearson]({{site.subdomainurl}}/team/pearson/))
-- 00:30-01:30 **Real-world example:** Faculty research lecture ((hladish)) 
+- 00:30-01:30 **Real-world example:** Faculty research lecture ((hladish))
 
 #### Individual session 8
 
