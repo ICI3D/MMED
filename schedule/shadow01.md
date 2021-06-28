@@ -66,15 +66,17 @@ alertmsg: >
 _**Please complete the following between the end of Monday's interactive session and the beginning of Tuesday's interactive session.**_
 
 - **Video lecture:** [Introduction to thinking about data I](https://figshare.com/articles/dataset/Introduction_to_Thinking_About_Data_I/5043136?file=8731852) ((hargrove))
-    - Note that this is being provided as a Figshare link. We are working on moving everything to YouTube and will update with that link when it's available.
+    - This Figshare link will be moved to youtube when available.
 - **Video lecture:** [Introduction to dynamic modeling of infectious diseases](https://youtu.be/EV5FLlrRwiQ) ((bellan))
 - **Video lecture (Track A):** [Introduction to infectious disease data](https://www.dropbox.com/s/wwxdx2rrubdpv1k/ThumbiMwangi_IntroInfectiousDiseaseData_2021.mov?dl=1) ((mwangi))
-    - Note that this is being provided as a Dropbox **download** link. We are working on moving everything to YouTube and will update with that link when it's available.
+    - This Dropbox download link will be moved to youtube when available.
 
 - **Video lecture (Track B):** [Foundations of dynamic modeling](https://figshare.com/articles/dataset/The_SIR_Model_Family/5042974) ((dushoff))
+    - This Figshare link points to video and slides; the video link will be moved to youtube when available.
 	- SHADOW [lecture page](https://github.com/ICI3D/MMED/blob/master/lectures/family.md); [internal](../lectures/family.md)
 
-- **Written exercise:** Formulating research questions for modeling projects NOTE Also make these available in the Assignments folder in the General Channel of the MMED Participants Team (done for MMED 2021)
+- **Written exercise:** Formulating research questions for modeling projects
+	- Also available in the Assignments folder in the General Channel of the MMED Participants Team 
     - [Track A](https://www.dropbox.com/s/cye1wh7ef7tuest/03_TrackA_ResearchQuestions.docx?dl=1)
     - [Track B](https://www.dropbox.com/s/rcc1fpaob4ecy71/03_TrackB_ResearchQuestions.docx?dl=1)
 - **Computer exercise** This is to assess your understanding from completing Tutorials 1-3. **Download [this script](../tutorials/MMED_123_integration.R)**, which provides instructions. When you're done, upload your modified script to Teams->General->Files->Integration123 folder, changing the file name to begin with your initials. Recommend: work with a partner or few, but you'll each need to upload a script. Note that the wording "when you're done"--if you can't finish in a few hours, upload the progress you *do* make. **In addition, please be prepared to ask any questions you had from going through Tutorials 1-3.**
