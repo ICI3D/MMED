@@ -22,7 +22,7 @@ alertmsg: >
 
 * [Your local (jekyll) copy of this page](http://localhost:4000/schedule/shadow)
 
-* Local-time schedules:
+* Local-time (shadow) schedules:
 	* [Cape Town](shadow10) ; [Abu Dhabi](shadow12) ; [Bucaramanga](shadow03) ; [Chennai](shadow13) ; [Dhaka](shadow14) ; [London](shadow09) ; [Nairobi](shadow11) ; [New York](shadow04) ; [Seattle](shadow01)
 
 ### Sunday, 27 June
@@ -39,8 +39,9 @@ alertmsg: >
 - _Please join the session by 07:25. We will begin promptly at 07:30._
 - 07:30-07:55 Welcome and motivation ((pulliam), (nyamai), and (hargrove))
 - 07:55-08:40 **Lecture:** Public Health, Epidemiology, and Models ((dushoff))
-	* SHADOW [figshare slides](https://figshare.com/articles/journal_contribution/Public_Health_Epidemiology_and_Models/5038769)
-	* SHADOW ../materials/MMED2019/LectureSlides/Scott_PublicHealthEpiModels_2019.pdf
+	* [Handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/public.handouts.pdf)
+	* HIDE [Slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/public.draft.pdf)
+	* SHADOW [lecture page](https://github.com/ICI3D/MMED/blob/master/lectures/phem.md); [internal](../lectures/phem.md)
 
 - 08:40-08:50 **Organizational session:** [MMED Road Map](../roadmap) and programme overview ((borchering))
 	* SHADOW ../materials/MMED2019/MMED2019roadmap.pptx

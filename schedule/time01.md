@@ -28,6 +28,8 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 - _Please join the session by 07:25. We will begin promptly at 07:30._
 - 07:30-07:55 Welcome and motivation ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/), [Mutono Nyamai]({{site.subdomainurl}}/team/nyamai/), and [John Hargrove]({{site.subdomainurl}}/team/hargrove/))
 - 07:55-08:40 **Lecture:** Public Health, Epidemiology, and Models ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
+	* [Handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/public.handouts.pdf)
+	* 
 
 - 08:40-08:50 **Organizational session:** [MMED Road Map](../roadmap) and programme overview ([Becky Borchering]({{site.subdomainurl}}/team/borchering/))
 - 08:50-09:05 **Organizational session:** Working with the MMED technical tools ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
