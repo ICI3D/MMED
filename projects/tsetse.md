@@ -2,8 +2,7 @@
 layout: clinic
 tab: Projects
 title: Tsetse fly population dynamics
-subtitle: Modelling the acquisition of trypanosome infections by tsetse,
-<em>Glossina</em> species
+subtitle: Modelling the acquisition of trypanosome infections by tsetse, <em>Glossina</em> species
 ---
 
 ## Overview
