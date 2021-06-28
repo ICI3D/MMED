@@ -29,9 +29,10 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 - 18:30-18:55 Welcome and motivation ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/), [Mutono Nyamai]({{site.subdomainurl}}/team/nyamai/), and [John Hargrove]({{site.subdomainurl}}/team/hargrove/))
 - 18:55-19:40 **Lecture:** Public Health, Epidemiology, and Models ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 	* [Handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/public.handouts.pdf)
-	* 
+	* [Slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/public.draft.pdf)
 
 - 19:40-19:50 **Organizational session:** [MMED Road Map](../roadmap) and programme overview ([Becky Borchering]({{site.subdomainurl}}/team/borchering/))
+	* [Roadmap](../roadmap/)
 - 19:50-20:05 **Organizational session:** Working with the MMED technical tools ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
 - 20:05-20:30 Ice breakers ([Faikah Bruce]({{site.subdomainurl}}/team/bruce/))
 

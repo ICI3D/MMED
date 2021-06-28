@@ -42,13 +42,12 @@ alertmsg: >
 - 16:30-16:55 Welcome and motivation ((pulliam), (nyamai), and (hargrove))
 - 16:55-17:40 **Lecture:** Public Health, Epidemiology, and Models ((dushoff))
 	* [Handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/public.handouts.pdf)
-	* HIDE [Slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/public.draft.pdf)
+	* [Slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/public.draft.pdf)
 	* SHADOW [lecture page](https://github.com/ICI3D/MMED/blob/master/lectures/phem.md); [internal](../lectures/phem.md)
 
 - 17:40-17:50 **Organizational session:** [MMED Road Map](../roadmap) and programme overview ((borchering))
-	* SHADOW ../materials/MMED2019/MMED2019roadmap.pptx
 	* SHADOW ../materials/MMED2019/MMED2019roadmap.pdf
-	* SHADOW [roadmap/MMED2019roadmap.png](Current semi-live version)
+	* [Roadmap](../roadmap/)
 - 17:50-18:05 **Organizational session:** Working with the MMED technical tools ((pearson)) NOTE (15 mins)
 - 18:05-18:30 Ice breakers ((bruce))
 

@@ -10,6 +10,7 @@ alertmsg: >
   <li>Links to slides for the sessions below are available <a href="../resources/slides">here</a>.</li>
   <li>Links to R tutorials and exercises are available <a href="../tutorials">here</a>.</li>
   <li>Please update all your presentations to <b>use the ICI3D slide template</b>.</li>
+  <li><a href="https://docs.google.com/document/d/1h2CI9CsHRebSMWATKlOg2epHh9x5IuphUovGn7YkF3k/edit#">Click here for access to the MMED 2021 Notes GD.</a></li>
   <li><a href="https://docs.google.com/document/d/1Q7h5bizBeCY1j_NZZ_bpsJ0bUB0F-wHCawhHUcRaW4A/edit#">Click here for access to the MMED 2019 Notes GD.</a></li>
   <li><a href="https://github.com/ICI3D/MMED/edit/master/scheduleNotes">Click here for access to the MMED 2018 Notes GD.</a></li>
   <li><a href="https://github.com/ICI3D/MMED2017/edit/master/scheduleNotes">Click here for access to the MMED 2017 Notes GD.</a></li>
@@ -40,13 +41,12 @@ alertmsg: >
 - 20:30-20:55 Welcome and motivation ((pulliam), (nyamai), and (hargrove))
 - 20:55-21:40 **Lecture:** Public Health, Epidemiology, and Models ((dushoff))
 	* [Handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/public.handouts.pdf)
-	* HIDE [Slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/public.draft.pdf)
+	* [Slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/public.draft.pdf)
 	* SHADOW [lecture page](https://github.com/ICI3D/MMED/blob/master/lectures/phem.md); [internal](../lectures/phem.md)
 
 - 21:40-21:50 **Organizational session:** [MMED Road Map](../roadmap) and programme overview ((borchering))
-	* SHADOW ../materials/MMED2019/MMED2019roadmap.pptx
 	* SHADOW ../materials/MMED2019/MMED2019roadmap.pdf
-	* SHADOW [roadmap/MMED2019roadmap.png](Current semi-live version)
+	* [Roadmap](../roadmap/)
 - 21:50-22:05 **Organizational session:** Working with the MMED technical tools ((pearson)) NOTE (15 mins)
 - 22:05-22:30 Ice breakers ((bruce))
 
