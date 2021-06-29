@@ -73,7 +73,7 @@ _**Please complete the following between the end of Monday's interactive session
 
 _Reminder:_
 
-- 02:00 Tea with North American Faculty
+- 02:30 Tea with North American Faculty
 - 15:00 Tea with African Faculty
 
 ### Tuesday, 29 June
@@ -155,7 +155,7 @@ _Reminder:_
 
 _Reminder:_
 
-- 02:00 Tea with North American Faculty
+- 02:30 Tea with North American Faculty
 - 15:00 Tea with African Faculty
 
 ### Thursday, 1 July
@@ -197,7 +197,7 @@ _Reminder:_
 
 _Reminder:_
 
-- 02:00 Tea with North American Faculty
+- 02:30 Tea with North American Faculty
 - 15:00 Tea with African Faculty
 
 ### Friday, 2 July
@@ -224,7 +224,7 @@ _Reminder:_
 
 _Reminder:_
 
-- 02:00 Tea with North American Faculty
+- 02:30 Tea with North American Faculty
 
 ### Saturday, 3 July
 
@@ -270,7 +270,7 @@ _Reminder:_
 
 _Reminder:_
 
-- 02:00 Tea with North American Faculty
+- 02:30 Tea with North American Faculty
 - 15:00 Tea with African Faculty
 
 ### Tuesday, 6 July
@@ -301,7 +301,7 @@ _Reminder:_
 
 _Reminder:_
 
-- 02:00 Tea with North American Faculty
+- 02:30 Tea with North American Faculty
 - 15:00 Tea with African Faculty
 
 ### Wednesday, 7 July
@@ -331,7 +331,7 @@ _Reminder:_
 
 _Reminder:_
 
-- 02:00 Tea with North American Faculty
+- 02:30 Tea with North American Faculty
 - 15:00 Tea with African Faculty
 
 ### Thursday, 8 July
@@ -358,7 +358,7 @@ _Reminder:_
 
 _Reminder:_
 
-- 02:00 Tea with North American Faculty
+- 02:30 Tea with North American Faculty
 - 15:00 Tea with African Faculty
 
 ### Friday, 9 July
