@@ -65,7 +65,7 @@ _**Please complete the following between the end of Monday's interactive session
 	- [Lecture slides (also on Teams)](https://ndownloader.figshare.com/files/8541910)
 
 - **Written exercise:** Formulating research questions for modeling projects
-	- Also available in the Assignments folder in the General Channel of the MMED Participants Team 
+	- Also available in the Assignments folder in the General Channel of the MMED Participants Team
     - [Track A](https://www.dropbox.com/s/cye1wh7ef7tuest/03_TrackA_ResearchQuestions.docx?dl=1)
     - [Track B](https://www.dropbox.com/s/rcc1fpaob4ecy71/03_TrackB_ResearchQuestions.docx?dl=1)
 - **Computer exercise** This is to assess your understanding from completing Tutorials 1-3. **Download [this script](../tutorials/MMED_123_integration.R)**, which provides instructions. When you're done, upload your modified script to Teams->General->Files->Integration123 folder, changing the file name to begin with your initials. Recommend: work with a partner or few, but you'll each need to upload a script. Note that the wording "when you're done"--if you can't finish in a few hours, upload the progress you *do* make. **In addition, please be prepared to ask any questions you had from going through Tutorials 1-3.**
@@ -103,10 +103,13 @@ _Reminder:_
 #### Individual session 2
 
 - **Video lecture:** (Hidden) assumptions of simple ODE models ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
-- **Coding demonstration:** Introduction to model implementation ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
+- **Coding demonstration:** [Introduction to model implementation](https://youtu.be/NZqNfvswtyQ) ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/))
 - **[Computer exercise:** Lab 1 - ODE models in R](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab1_ODEmodels.R) 
 - **For Track A**
     - **Video lecture:** Introduction to Thinking About Data II ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
+        - [Part 1](https://youtu.be/fz_zsswpFrc)
+        - [Part 2](https://youtu.be/rtgzcl3uwVk)
+        - [Part 3](https://youtu.be/9kfshcLBo-8)
     - [**Computer exercise:** Tutorial 4 - Visualizing Infectious Disease Data in R](../tutorials/visualizeData)
 - **For Track B**
     - **Video lecture:** Basic stochastic simulation model series: [Intro](https://www.youtube.com/watch?v=c5IlaVA8_rw), [Part 1](https://www.youtube.com/watch?v=_eNWZ1sisQE), [Part 2](https://www.youtube.com/watch?v=UxXmkAcAtLo&t=1s) (slides [here](https://www.dropbox.com/s/e7yjs53fjc35e90/BorcheringStochasticSimulation2021.pdf?dl=0) and on Teams) ([Rebecca Borchering]({{site.subdomainurl}}/team/borchering/))
