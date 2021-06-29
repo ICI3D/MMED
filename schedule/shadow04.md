@@ -118,7 +118,7 @@ _Reminder:_
 
 - **Video lecture:** (Hidden) assumptions of simple ODE models ((pulliam))
 - **Coding demonstration:** [Introduction to model implementation](https://youtu.be/NZqNfvswtyQ) ((vanschalkwyk))
-- **Computer exercise:** Lab 1 - ODE models in R NOTE 45 mins
+- **[Computer exercise:** Lab 1 - ODE models in R](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab1_ODEmodels.R) NOTE 45 mins
 - **For Track A**
     - **Video lecture:** Introduction to Thinking About Data II ((kassanjee))
         - [Part 1](https://youtu.be/fz_zsswpFrc)
