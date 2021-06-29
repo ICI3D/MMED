@@ -103,7 +103,7 @@ _Reminder:_
 - **Computer exercise:** Lab 1 - ODE models in R 
 - **For Track A**
     - **Video lecture:** Introduction to Thinking About Data II ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
-    - **Computer exercise:** Tutorial 4 - Visualizing Infectious Disease Data in R
+    - [**Computer exercise:** Tutorial 4 - Visualizing Infectious Disease Data in R](../tutorials/visualizeData)
 - **For Track B**
     - **Video lecture:** Basic stochastic simulation model series: [Intro](https://www.youtube.com/watch?v=c5IlaVA8_rw), [Part 1](https://www.youtube.com/watch?v=_eNWZ1sisQE), [Part 2](https://www.youtube.com/watch?v=UxXmkAcAtLo&t=1s) (slides [here](https://www.dropbox.com/s/e7yjs53fjc35e90/BorcheringStochasticSimulation2021.pdf?dl=0) and on Teams) ([Rebecca Borchering]({{site.subdomainurl}}/team/borchering/))
     - **Computer exercise:** Exercise 1 - Basic stochastic simulation models: [corresponding video](https://youtu.be/Z_TIjNWe69A), [Rscript](https://github.com/ICI3D/RTutorials/blob/master/ICI3D_Ex1_StochasticSpillover.R) 
