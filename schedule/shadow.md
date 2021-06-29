@@ -128,7 +128,7 @@ _Reminder:_
         - [Part 1](https://youtu.be/fz_zsswpFrc)
         - [Part 2](https://youtu.be/rtgzcl3uwVk)
         - [Part 3](https://youtu.be/9kfshcLBo-8)
-    - **Computer exercise:** Tutorial 4 - Visualizing Infectious Disease Data in R
+    - [**Computer exercise:** Tutorial 4 - Visualizing Infectious Disease Data in R](../tutorials/visualizeData)
 - **For Track B**
     - **Video lecture:** Basic stochastic simulation model series: [Intro](https://www.youtube.com/watch?v=c5IlaVA8_rw), [Part 1](https://www.youtube.com/watch?v=_eNWZ1sisQE), [Part 2](https://www.youtube.com/watch?v=UxXmkAcAtLo&t=1s) (slides [here](https://www.dropbox.com/s/e7yjs53fjc35e90/BorcheringStochasticSimulation2021.pdf?dl=0) and on Teams) ((borchering))
     - **Computer exercise:** Exercise 1 - Basic stochastic simulation models: [corresponding video](https://youtu.be/Z_TIjNWe69A), [Rscript](https://github.com/ICI3D/RTutorials/blob/master/ICI3D_Ex1_StochasticSpillover.R) NOTE ((borchering))
