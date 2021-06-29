@@ -120,6 +120,7 @@ _Reminder:_
 #### Interactive session 3a
 
 
+
 - 09:30-09:45 **Summary and Discussion:** (Hidden) assumptions of simple ODE models ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
 - 09:45-09:55 **Summary and Discussion:** Introduction to model implementation ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) 
 - 09:55-10:05 Lab 1 Summary ([Larisse Bolton]({{site.subdomainurl}}/team/bolton/)) 
@@ -133,6 +134,7 @@ _Reminder:_
 - 10:30-11:30 **Research Pitches II** (Moderator: [Rebecca Borchering]({{site.subdomainurl}}/team/borchering/)) 
 
 #### Interactive session 3b
+
 
 
 - 12:30-12:45 **Summary and Discussion:** Impact of contact patterns, consequences of heterogeneity, and modeling options ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) 

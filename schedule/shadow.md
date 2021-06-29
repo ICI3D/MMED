@@ -141,6 +141,8 @@ _Reminder:_
 
 #### Interactive session 3a
 
+SHADOW MC: Reshma
+
 **20:30-22:30 Dhaka / 19:30-21:30 Chennai / 18:30-20:30 Abu Dhabi / 17:30-19:30 Nairobi / 16:30-18:30 SAST / 15:30-17:30 London / 10:30-12:30 New York / 09:30-11:30 Bucaramanga / 07:30-09:30 Seattle**
 
 - 16:30-16:45 **Summary and Discussion:** (Hidden) assumptions of simple ODE models ((pulliam))
@@ -150,12 +152,16 @@ _Reminder:_
     - **Track A - Summary and Discussion:**
         - Introduction to Thinking About Data II ((kassanjee)) NOTE 15 mins
         - Tutorial 4 Summary ((nyamai)) NOTE 10 mins # CHECK
+		  - SHADOW Jonathan, Tom
     - **Track B - Summary and Discussion:**
         - Basic stochastic simulation models ((borchering)) NOTE 15 mins
         - Exercise 1 Summary ((borchering)) NOTE 10 mins # CHECK
+		  - SHADOW Larisse, Juliet, Mike
 - 17:30-18:30 **Research Pitches II** (Moderator: (borchering)) NOTE RB willing to moderate?
 
 #### Interactive session 3b
+
+## SHADOW MC: Jonathan
 
 **23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
 

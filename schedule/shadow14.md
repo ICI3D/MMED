@@ -137,6 +137,8 @@ _Reminder:_
 
 #### Interactive session 3a
 
+SHADOW MC: Reshma
+
 
 - 20:30-20:45 **Summary and Discussion:** (Hidden) assumptions of simple ODE models ((pulliam))
 - 20:45-20:55 **Summary and Discussion:** Introduction to model implementation ((vanschalkwyk)) NOTE 10 mins # CHECK
@@ -145,12 +147,16 @@ _Reminder:_
     - **Track A - Summary and Discussion:**
         - Introduction to Thinking About Data II ((kassanjee)) NOTE 15 mins
         - Tutorial 4 Summary ((nyamai)) NOTE 10 mins # CHECK
+		  - SHADOW Jonathan, Tom
     - **Track B - Summary and Discussion:**
         - Basic stochastic simulation models ((borchering)) NOTE 15 mins
         - Exercise 1 Summary ((borchering)) NOTE 10 mins # CHECK
+		  - SHADOW Larisse, Juliet, Mike
 - 21:30-22:30 **Research Pitches II** (Moderator: (borchering)) NOTE RB willing to moderate?
 
 #### Interactive session 3b
+
+## SHADOW MC: Jonathan
 
 
 - 23:30-23:45 **Summary and Discussion:** Impact of contact patterns, consequences of heterogeneity, and modeling options ((hargrove)) NOTE 15 mins
