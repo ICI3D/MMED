@@ -31,7 +31,7 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 	* [Handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/public.handouts.pdf)
 	* [Slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/public.draft.pdf)
 
-- 19:40-19:50 **Organizational session:** [MMED Road Map](../roadmap) and programme overview ([Becky Borchering]({{site.subdomainurl}}/team/borchering/))
+- 19:40-19:50 **Organizational session:** [MMED Road Map](../roadmap) and programme overview ([Rebecca Borchering]({{site.subdomainurl}}/team/borchering/))
 	* [Roadmap](../roadmap/)
 - 19:50-20:05 **Organizational session:** Working with the MMED technical tools ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
 - 20:05-20:30 Ice breakers ([Faikah Bruce]({{site.subdomainurl}}/team/bruce/))
@@ -44,20 +44,23 @@ alertmsg: Unless otherwise noted, all materials made available through this webs
 	```R
 		ICI3D::dynamicalFever()
 	```
-- 23:00-23:30 **Discussion:** Dynamical Fever ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) 
+- 23:00-23:30 **Discussion:** Dynamical Fever ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
+	* 
+	* 
 
 #### Individual session 1
 
 _**Please complete the following between the end of Monday's interactive session and the beginning of Tuesday's interactive session.**_
 
-- **Video lecture:** [Introduction to thinking about data I](https://figshare.com/articles/dataset/Introduction_to_Thinking_About_Data_I/5043136?file=8731852) ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
-    - This Figshare link will be moved to youtube when available.
-- **Video lecture:** [Introduction to dynamic modeling of infectious diseases](https://youtu.be/EV5FLlrRwiQ) ((bellan))
-- **Video lecture (Track A):** [Introduction to infectious disease data](https://www.dropbox.com/s/wwxdx2rrubdpv1k/ThumbiMwangi_IntroInfectiousDiseaseData_2021.mov?dl=1) ((mwangi))
-    - This Dropbox download link will be moved to youtube when available.
+- **Video lecture:** [Introduction to thinking about data I](https://www.youtube.com/watch?v=ogSh0o9cxaE) ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
+	- 
+- **Video lecture:** [Introduction to dynamic modeling of infectious diseases](https://youtu.be/EV5FLlrRwiQ) ([Steve Bellan]({{site.subdomainurl}}/team/bellan/))
+	- 
+- **Video lecture (Track A):** [Introduction to infectious disease data](https://www.youtube.com/watch?v=h4h9OEtxIyE) ([Thumbi Mwangi]({{site.subdomainurl}}/team/mwangi/))
+	 - [Lecture slides (also on Teams)](https://www.dropbox.com/s/omyxrkyy39rv48w/ThumbiMwangi_IntroToInfectiousDiseasedata2021.pdf)
 
-- **Video lecture (Track B):** [Foundations of dynamic modeling](https://figshare.com/articles/dataset/The_SIR_Model_Family/5042974) ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
-    - This Figshare link points to video and slides; the video link will be moved to youtube when available.
+- **Video lecture (Track B):** [Foundations of dynamic modeling](https://www.youtube.com/watch?v=eVu62qVUj3I) ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
+	- [Lecture slides (also on Teams)](https://ndownloader.figshare.com/files/8541910)
 
 - **Written exercise:** Formulating research questions for modeling projects
 	- Also available in the Assignments folder in the General Channel of the MMED Participants Team 
@@ -78,11 +81,12 @@ _Reminder:_
 #### Interactive session 2a
 
 
-- 18:30-19:30 **Research Pitches I** (Moderator: [Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
+- 18:30-19:30 **Research Pitches I** (Moderator: [Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
+	- 
 - 19:30-19:50 **Summary and Discussion:** Introduction to thinking about data I ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
 - 19:50-20:10 **Summary and Discussion:**  Introduction to dynamic modeling of infectious diseases ([Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/))
 - 20:10–20:30 **_Parallel sessions_**
-    - **Track A - Summary and Discussion:** Introduction to infectious disease data ((mwangi)) 
+    - **Track A - Summary and Discussion:** Introduction to infectious disease data ([Thumbi Mwangi]({{site.subdomainurl}}/team/mwangi/)) 
     - **Track B - Summary and Discussion:** Foundations of dynamic modeling ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) 
 
 #### Interactive session 2b
@@ -101,14 +105,14 @@ _Reminder:_
     - **Video lecture:** Introduction to Thinking About Data II ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
     - **Computer exercise:** Tutorial 4 - Visualizing Infectious Disease Data in R
 - **For Track B**
-    - **Video lecture:** Basic stochastic simulation models ([Becky Borchering]({{site.subdomainurl}}/team/borchering/))
+    - **Video lecture:** Basic stochastic simulation models ([Rebecca Borchering]({{site.subdomainurl}}/team/borchering/))
     - **Computer exercise:** Exercise 1 - Basic stochastic simulation models 
     - Note: _Track A will do this later in the week_
 - **Video lecture:** Impact of contact patterns, consequences of heterogeneity, and modeling options ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 
 _Reminder:_
 
-- 00:00 Tea with North American Faculty
+- 00:30 Tea with North American Faculty
 - 13:00 Tea with African Faculty
 
 ### Wednesday, 30 June
@@ -118,15 +122,15 @@ _Reminder:_
 
 - 18:30-18:45 **Summary and Discussion:** (Hidden) assumptions of simple ODE models ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
 - 18:45-18:55 **Summary and Discussion:** Introduction to model implementation ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) 
-- 18:55-19:05 Lab 1 Summary ((bolton)) 
+- 18:55-19:05 Lab 1 Summary ([Larisse Bolton]({{site.subdomainurl}}/team/bolton/)) 
 - 19:05-19:30 **_Parallel sessions_**
     - **Track A - Summary and Discussion:**
         - Introduction to Thinking About Data II ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/)) 
         - Tutorial 4 Summary ([Mutono Nyamai]({{site.subdomainurl}}/team/nyamai/)) 
     - **Track B - Summary and Discussion:**
-        - Basic stochastic simulation models ([Becky Borchering]({{site.subdomainurl}}/team/borchering/)) 
-        - Exercise 1 Summary ([Becky Borchering]({{site.subdomainurl}}/team/borchering/)) 
-- 19:30-20:30 **Research Pitches II** (Moderator: [Becky Borchering]({{site.subdomainurl}}/team/borchering/)) 
+        - Basic stochastic simulation models ([Rebecca Borchering]({{site.subdomainurl}}/team/borchering/)) 
+        - Exercise 1 Summary ([Rebecca Borchering]({{site.subdomainurl}}/team/borchering/)) 
+- 19:30-20:30 **Research Pitches II** (Moderator: [Rebecca Borchering]({{site.subdomainurl}}/team/borchering/)) 
 
 #### Interactive session 3b
 
@@ -175,7 +179,7 @@ _Reminder:_
         - **Live lecture:** Study Design and Analysis in Epidemiology I: Where does modeling fit? ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) 
         - **Computer session:** Lab 3 - Study Design in Epidemiology 
     - **Track B**
-        - **Exercise:** Creating a model world to address a research question ((mwangi)) 
+        - **Exercise:** Creating a model world to address a research question ([Thumbi Mwangi]({{site.subdomainurl}}/team/mwangi/)) 
 - 23:00-23:30 **Discussion:** MMED Projects ([Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/)) 
 
 #### Individual session 4
@@ -208,7 +212,7 @@ _Reminder:_
 #### Interactive session 5b
 
 
-- 21:30-22:30 **Mentor presentations** (Moderator: (reiner)) 
+- 21:30-22:30 **Mentor presentations** (Moderator: [Bobby Reiner]({{site.subdomainurl}}/team/reiner/)) 
 - 22:30-23:30 **Mid-session feedback** ([Faikah Bruce]({{site.subdomainurl}}/team/bruce/)) 
 
 #### Individual session 5
@@ -241,9 +245,9 @@ _Reminder:_
 
 
 - 18:30-19:15 **Interactive lecture:** Doing Science ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
-- 19:15-19:30 **Organizational session:** Schedule and goals for the second week ([Becky Borchering]({{site.subdomainurl}}/team/borchering/))
+- 19:15-19:30 **Organizational session:** Schedule and goals for the second week ([Rebecca Borchering]({{site.subdomainurl}}/team/borchering/))
 - 19:30-20:15 **Computer session:** Introduction to GitHub (discussion and tutorial) ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
-- 20:15-20:30 **Summary and Discussion:**  Likelihood fitting and dynamic models, Part 1: Dynamic Model Fitting and Inference Robustness ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/) or (reiner))
+- 20:15-20:30 **Summary and Discussion:**  Likelihood fitting and dynamic models, Part 1: Dynamic Model Fitting and Inference Robustness ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/) or [Bobby Reiner]({{site.subdomainurl}}/team/reiner/))
 
 #### Interactive session 6b
 
@@ -258,7 +262,7 @@ _Reminder:_
 
 #### Individual session 6
 
-- **Video Lecture:** Likelihood fitting and dynamic models II ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/) or (reiner))
+- **Video Lecture:** Likelihood fitting and dynamic models II ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/) or [Bobby Reiner]({{site.subdomainurl}}/team/reiner/))
 - **Computer Session:** Lab 6 - MLE fitting of an SIR model to prevalence data
 - Tutorial catch-up, as needed
 - Work on group project
@@ -274,7 +278,7 @@ _Reminder:_
 #### Interactive session 7a
 
 
-- 18:30-18:45 **Summary and Discussion:** Likelihood fitting and dynamic models II ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/) or (reiner))
+- 18:30-18:45 **Summary and Discussion:** Likelihood fitting and dynamic models II ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/) or [Bobby Reiner]({{site.subdomainurl}}/team/reiner/))
 - 18:45-18:55 **Lab 6 Summary** 
 - 18:55-19:30 **Tutorial review:** Q&A on all tutorials to date ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/) and all)
 - 19:30-20:30 **Work session:** Group projects 
@@ -282,14 +286,14 @@ _Reminder:_
 #### Interactive session 7b
 
 
-- 21:30-22:30 **Real-world example:** Faculty research lecture ((li))
+- 21:30-22:30 **Real-world example:** Faculty research lecture ([Michael Li]({{site.subdomainurl}}/team/li/))
 - 22:30-23:30 Special topic sessions / group mentoring (TBD) 
 
 #### Individual session 7
 
 - **Video Lecture:** Introduction to Monte Carlo Markov Chains (MCMC) ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
 - **Computer session:** Labs 7 and 8 - MCMC fitting in R
-- **Video lecture:** Data wrangling I: Data management and cleaning ((mwangi)) 
+- **Video lecture:** Data wrangling I: Data management and cleaning ([Thumbi Mwangi]({{site.subdomainurl}}/team/mwangi/)) 
 - **Computer Session:** Tutorial 5 - Data cleaning and management in R
 - **Video lecture:** Real-world example (faculty research presentation) 
 - Work on group project
@@ -308,14 +312,14 @@ _Reminder:_
 - 18:30-18:45 **Summary and Discussion:** Introduction to Monte Carlo Markov Chains (MCMC) ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
 - 18:45-18:55 **Lab 7 Summary** ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
 - 18:55-19:05 **Lab 8 Summary** ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
-- 19:05-19:20 **Summary and Discussion:** Data wrangling I: Data management and cleaning ((mwangi)) 
+- 19:05-19:20 **Summary and Discussion:** Data wrangling I: Data management and cleaning ([Thumbi Mwangi]({{site.subdomainurl}}/team/mwangi/)) 
 - 19:20-19:30 **Tutorial 5 Summary** ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 - 19:30-20:30 **Work session:** Group projects
 
 #### Interactive session 8b
 
 
-- 21:30-22:30 **Interactive session:** Modelling for policy (Moderators: [Becky Borchering]({{site.subdomainurl}}/team/borchering/) and [Carl Pearson]({{site.subdomainurl}}/team/pearson/))
+- 21:30-22:30 **Interactive session:** Modelling for policy (Moderators: [Rebecca Borchering]({{site.subdomainurl}}/team/borchering/) and [Carl Pearson]({{site.subdomainurl}}/team/pearson/))
 - 22:30-23:30 **Real-world example:** Faculty research lecture ((hladish))
 
 #### Individual session 8

@@ -58,21 +58,24 @@ alertmsg: >
 	```R
 		ICI3D::dynamicalFever()
 	```
-- 00:00-00:30 **Discussion:** Dynamical Fever ((hargrove)) HIDE - [model description](../Materials/fever), modeling terminology, and the [DAIDD glossary](http://tinyurl.com/daidd-public) - [Download the taxonomy](../Materials/modelTaxonomy)
+- 00:00-00:30 **Discussion:** Dynamical Fever ((hargrove))
+	* HIDE - [model description](../Materials/fever)
+	* HIDE Should we delete this daidd stuff? modeling terminology, and the [DAIDD glossary](http://tinyurl.com/daidd-public) - [Download the taxonomy](../Materials/modelTaxonomy)
 - SHADOW 00:30-01:00 Faculty meeting
 
 #### Individual session 1
 
 _**Please complete the following between the end of Monday's interactive session and the beginning of Tuesday's interactive session.**_
 
-- **Video lecture:** [Introduction to thinking about data I](https://figshare.com/articles/dataset/Introduction_to_Thinking_About_Data_I/5043136?file=8731852) ((hargrove))
-    - This Figshare link will be moved to youtube when available.
+- **Video lecture:** [Introduction to thinking about data I](https://www.youtube.com/watch?v=ogSh0o9cxaE) ((hargrove))
+	- HIDE Slides link? on Teams?
 - **Video lecture:** [Introduction to dynamic modeling of infectious diseases](https://youtu.be/EV5FLlrRwiQ) ((bellan))
-- **Video lecture (Track A):** [Introduction to infectious disease data](https://www.dropbox.com/s/wwxdx2rrubdpv1k/ThumbiMwangi_IntroInfectiousDiseaseData_2021.mov?dl=1) ((mwangi))
-    - This Dropbox download link will be moved to youtube when available.
+	- HIDE Slides link? on Teams?
+- **Video lecture (Track A):** [Introduction to infectious disease data](https://www.youtube.com/watch?v=h4h9OEtxIyE) ((mwangi))
+	 - [Lecture slides (also on Teams)](https://www.dropbox.com/s/omyxrkyy39rv48w/ThumbiMwangi_IntroToInfectiousDiseasedata2021.pdf)
 
-- **Video lecture (Track B):** [Foundations of dynamic modeling](https://figshare.com/articles/dataset/The_SIR_Model_Family/5042974) ((dushoff))
-    - This Figshare link points to video and slides; the video link will be moved to youtube when available.
+- **Video lecture (Track B):** [Foundations of dynamic modeling](https://www.youtube.com/watch?v=eVu62qVUj3I) ((dushoff))
+	- [Lecture slides (also on Teams)](https://ndownloader.figshare.com/files/8541910)
 	- SHADOW [lecture page](https://github.com/ICI3D/MMED/blob/master/lectures/family.md); [internal](../lectures/family.md)
 
 - **Written exercise:** Formulating research questions for modeling projects
@@ -94,7 +97,8 @@ _Reminder:_
 #### Interactive session 2a
 
 
-- 19:30-20:30 **Research Pitches I** (Moderator: (dushoff)) NOTE JD willing to moderate?
+- 19:30-20:30 **Research Pitches I** (Moderator: (dushoff))
+	- HIDE Link to Pitches folder on Teams?
 - 20:30-20:50 **Summary and Discussion:** Introduction to thinking about data I ((kassanjee))
 - 20:50-21:10 **Summary and Discussion:**  Introduction to dynamic modeling of infectious diseases ((mthombothi))
 - 21:10–21:30 **_Parallel sessions_**
@@ -126,7 +130,7 @@ _Reminder:_
 
 _Reminder:_
 
-- 01:00 Tea with North American Faculty
+- 01:30 Tea with North American Faculty
 - 14:00 Tea with African Faculty
 
 ### Wednesday, 30 June
