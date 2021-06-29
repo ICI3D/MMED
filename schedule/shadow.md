@@ -164,7 +164,7 @@ SHADOW MC: Reshma
 
 #### Interactive session 3b
 
-## SHADOW MC: Jonathan
+SHADOW MC: Jonathan
 
 **23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
 

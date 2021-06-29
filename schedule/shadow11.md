@@ -159,7 +159,7 @@ SHADOW MC: Reshma
 
 #### Interactive session 3b
 
-## SHADOW MC: Jonathan
+SHADOW MC: Jonathan
 
 
 - 20:30-20:45 **Summary and Discussion:** Impact of contact patterns, consequences of heterogeneity, and modeling options ((hargrove)) NOTE 15 mins
