@@ -1,4 +1,5 @@
 
+
 mmed_team.txt
 
 projects.md
@@ -8,6 +9,35 @@ Resources
 * [Slides](https://www.dropbox.com/sh/v4nqwqdzo29mm05/AAAm7wFZCrQrMkTqzZcH-pzPa)
 
 A _few_ meeting notes from 2018 and 19 are in the history of this page.
+
+mini-feedback 2021 Jun 30 (Wed)
+===============================
+
+Setting up venues for participants to meet each other
+* Can they be convinced to do it themselves?
+* I am definitely hearing both sides of this …
+* Set up a student-only channel, encourage them to use it before and after sessions particularly
+
+More continuity in tutorials (they feel jumpy)
+* Set up a tutorial and lab channel
+* A little more guidance when they break into groups
+
+Group convener should make a meeting
+* the earlier the better!
+* type a name, don't tolerate other meetings
+* if there is more than one team member in a group, decide together who is opening
+
+Follow-up on projects
+
+Students encouraged to reach out to individual faculty
+* Office hours coming up …
+
+Concepts
+* heterogeneity and stochasticity need to be explained a bit more
+
+ODE tutorial liked better than the plug-and-play tutorials
+* This is partly a track vs. track thing (and a MMED vs. DAIDD thing)
+* Also partly a grass-is-greener thing
 
 2021 Jun 27 (Sun)
 =================
