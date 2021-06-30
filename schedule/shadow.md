@@ -201,14 +201,16 @@ _Reminder:_
 
 **20:30-22:30 Dhaka / 19:30-21:30 Chennai / 18:30-20:30 Abu Dhabi / 17:30-19:30 Nairobi / 16:30-18:30 SAST / 15:30-17:30 London / 10:30-12:30 New York / 09:30-11:30 Bucaramanga / 07:30-09:30 Seattle**
 
-- 16:30-16:40 Summary and Discussion: Introduction to models and data: HIV in Harare (Hargrove)
-- 16:40-18:10 **Computer session:** Model fitting ((hargrove)) NOTE 90 mins - [Tutorial notes from DAIDD](http://www.ici3d.org/DAIDD/Materials/hivTutorial)
-  * SHADOW (Tutorial wrapup by (dushoff)) - [Boxcar Model Slides](http://www.ici3d.org/DAIDD/Materials/boxcarModels.pdf)
+NOTE - 16:30-16:40 Summary and Discussion: Introduction to models and data: HIV in Harare (Hargrove) [Cancelled 2021; redundant in virtual session
+
+- 16:30-17:50 **Computer session:** Model fitting ((hargrove)) NOTE 90 mins - [Tutorial notes from DAIDD](http://www.ici3d.org/DAIDD/Materials/hivTutorial)
+	* SHADOW Can we have three or four volunteers to divide up the groups? Carl, Mutono, Larisse, Zinhle 
+	* 17:50-18:10 (Tutorial wrapup by (dushoff)) HIDE [Boxcar Model Slides](http://www.ici3d.org/DAIDD/Materials/boxcarModels.pdf)
   - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
 	```R
 		ICI3D::hivTutorial()
 	```
-- 18:10-18:30 TBD NOTE **TODO: fill hole** Model taxonomy??
+- 18:10-18:30 Issues arising (mini-feedback, content in general) ((mwangi))
 
 #### Interactive session 4b
 
@@ -217,16 +219,18 @@ _Reminder:_
 - 19:30-21:00 **_Parallel sessions_**
     - **Track A**
         - **Live lecture:** Study Design and Analysis in Epidemiology I: Where does modeling fit? ((vanschalkwyk)) NOTE 45 mins
-        - **Computer session:** Lab 3 - Study Design in Epidemiology NOTE CvS?
+        - **Computer session:** Lab 3 - Study Design in Epidemiology 
+		  - NOTE Juliet, Reshma, Mutono
     - **Track B**
         - **Exercise:** Creating a model world to address a research question ((mwangi)) NOTE (90 mins)
+		  - NOTE Larisse, Mike, Tom
 - 21:00-21:30 **Discussion:** MMED Projects ((mthombothi)) NOTE MOVED FROM FRIDAY!!!
 - SHADOW 21:30-22:00 Faculty meeting
 
 #### Individual session 4
 
 - **Video lecture:** [Introduction to statistical philosophy](https://youtu.be/2V8Ss1oGwZw) NOTE ((dushoff))
-- **Video lecture:** Introduction to likelihood NOTE (Bellan or Scott - exists)
+- **Video lecture:** Introduction to likelihood NOTE (Bellan as main (Cari to select specific minutes), Scott as optional - exists)
 - **Computer exercise:** Lab 5 - Introduction to likelihood
 - **For Track A**
     - **Video lecture:** Basic stochastic simulation models NOTE ((borchering))

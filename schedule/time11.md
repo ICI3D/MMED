@@ -171,13 +171,15 @@ _Reminder:_
 #### Interactive session 4a
 
 
-- 17:30-17:40 Summary and Discussion: Introduction to models and data: HIV in Harare (Hargrove)
-- 17:40-19:10 **Computer session:** Model fitting ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) 
+
+
+- 17:30-18:50 **Computer session:** Model fitting ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) 
+	* 18:50-19:10 (Tutorial wrapup by [Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
   - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
 	```R
 		ICI3D::hivTutorial()
 	```
-- 19:10-19:30 TBD 
+- 19:10-19:30 Issues arising (mini-feedback, content in general) ([Thumbi Mwangi]({{site.subdomainurl}}/team/mwangi/))
 
 #### Interactive session 4b
 
@@ -186,8 +188,10 @@ _Reminder:_
     - **Track A**
         - **Live lecture:** Study Design and Analysis in Epidemiology I: Where does modeling fit? ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) 
         - **Computer session:** Lab 3 - Study Design in Epidemiology 
+		  - 
     - **Track B**
         - **Exercise:** Creating a model world to address a research question ([Thumbi Mwangi]({{site.subdomainurl}}/team/mwangi/)) 
+		  - 
 - 22:00-22:30 **Discussion:** MMED Projects ([Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/)) 
 
 #### Individual session 4

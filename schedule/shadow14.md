@@ -194,14 +194,16 @@ _Reminder:_
 #### Interactive session 4a
 
 
-- 20:30-20:40 Summary and Discussion: Introduction to models and data: HIV in Harare (Hargrove)
-- 20:40-22:10 **Computer session:** Model fitting ((hargrove)) NOTE 90 mins - [Tutorial notes from DAIDD](http://www.ici3d.org/DAIDD/Materials/hivTutorial)
-  * SHADOW (Tutorial wrapup by (dushoff)) - [Boxcar Model Slides](http://www.ici3d.org/DAIDD/Materials/boxcarModels.pdf)
+NOTE - 20:30-20:40 Summary and Discussion: Introduction to models and data: HIV in Harare (Hargrove) [Cancelled 2021; redundant in virtual session
+
+- 20:30-21:50 **Computer session:** Model fitting ((hargrove)) NOTE 90 mins - [Tutorial notes from DAIDD](http://www.ici3d.org/DAIDD/Materials/hivTutorial)
+	* SHADOW Can we have three or four volunteers to divide up the groups? Carl, Mutono, Larisse, Zinhle 
+	* 21:50-22:10 (Tutorial wrapup by (dushoff)) HIDE [Boxcar Model Slides](http://www.ici3d.org/DAIDD/Materials/boxcarModels.pdf)
   - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
 	```R
 		ICI3D::hivTutorial()
 	```
-- 22:10-22:30 TBD NOTE **TODO: fill hole** Model taxonomy??
+- 22:10-22:30 Issues arising (mini-feedback, content in general) ((mwangi))
 
 #### Interactive session 4b
 
@@ -209,16 +211,18 @@ _Reminder:_
 - 23:30-01:00 **_Parallel sessions_**
     - **Track A**
         - **Live lecture:** Study Design and Analysis in Epidemiology I: Where does modeling fit? ((vanschalkwyk)) NOTE 45 mins
-        - **Computer session:** Lab 3 - Study Design in Epidemiology NOTE CvS?
+        - **Computer session:** Lab 3 - Study Design in Epidemiology 
+		  - NOTE Juliet, Reshma, Mutono
     - **Track B**
         - **Exercise:** Creating a model world to address a research question ((mwangi)) NOTE (90 mins)
+		  - NOTE Larisse, Mike, Tom
 - 01:00-01:30 **Discussion:** MMED Projects ((mthombothi)) NOTE MOVED FROM FRIDAY!!!
 - SHADOW 01:30-02:00 Faculty meeting
 
 #### Individual session 4
 
 - **Video lecture:** [Introduction to statistical philosophy](https://youtu.be/2V8Ss1oGwZw) NOTE ((dushoff))
-- **Video lecture:** Introduction to likelihood NOTE (Bellan or Scott - exists)
+- **Video lecture:** Introduction to likelihood NOTE (Bellan as main (Cari to select specific minutes), Scott as optional - exists)
 - **Computer exercise:** Lab 5 - Introduction to likelihood
 - **For Track A**
     - **Video lecture:** Basic stochastic simulation models NOTE ((borchering))
