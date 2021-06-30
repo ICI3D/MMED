@@ -112,6 +112,7 @@ _Reminder:_
     - **Computer exercise:** Exercise 1 - Basic stochastic simulation models: [corresponding video](https://youtu.be/Z_TIjNWe69A), [Rscript](https://github.com/ICI3D/RTutorials/blob/master/ICI3D_Ex1_StochasticSpillover.R) 
     - Note: _Track A will do this later in the week_
 - [**Video lecture:** Impact of contact patterns, consequences of heterogeneity, and modeling options](https://www.youtube.com/watch?v=9OhB3WfSpS8) ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
+	* [Slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/heterogeneity.draft.pdf)
 
 _Reminder:_
 
