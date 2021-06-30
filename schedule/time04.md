@@ -147,15 +147,17 @@ _Reminder:_
 		ICI3D::heterogeneityTutorial()
 	```
 - 14:30-14:40 Lab 2 Summary ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
-- 14:40-15:10 **Discussion:** MMED research projects ([Rebecca Borchering]({{site.subdomainurl}}/team/borchering/)) 
+- 14:40-15:10 **Discussion:** MMED research projects ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) 
 - 15:10-15:30 **Mini-feedback session** ([Faikah Bruce]({{site.subdomainurl}}/team/bruce/))
 
 #### Individual session 3
 
-- **Video lecture:** Introduction to models and data: HIV in Harare 
-- **Video lecture:** Real-world example (faculty research presentation) 
-- Tutorial catch-up
-- Read through research project material (and discuss during tea)
+- **Video lecture:** [Introduction to models and data: HIV in Harare](https://youtu.be/qf91rTf40MY) ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
+- **Video lecture:** Real-world examples (faculty research presentations) - Please watch _at least one_ of the following lectures; if you have time, watch the other one, but if you need to focus on catching up on material from the past few days, that should be your priority.
+    - [Hargrove on tsetse fly population dynamics](https://youtu.be/L1qalfZfwEo)
+    - [Pulliam on COVID](https://www.youtube.com/watch?v=SbE5IMwHzlo&feature=youtu.be) - _Please note that this lecture is from almost a year ago; a **lot** has changed since then!_
+- [Tutorial catch-up and review](../tutorials)
+- Read through the descriptions of potential research [projects](../projects) (and discuss during tea)
     - Come prepared to ask questions about projects during Interactive session 4b
 
 _Reminder:_

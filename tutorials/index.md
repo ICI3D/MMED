@@ -18,8 +18,12 @@ subtitle: ICI3D R tutorials and labs
 ## Labs
 
 - Lab 1: [ODE models in R](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab1_ODEmodels.R) (required)
-- Lab 2: [Consequences of heterogeneity](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab2_Heterogeneity.R) (required)
-    - [Download data file](https://raw.githubusercontent.com/ICI3D/RTutorials/master/HetSIR_functions.Rdata)
+- Lab 2: Consequences of heterogeneity (required)
+    - This lab is run through the ICI3D package. To get started, run the following command at the R Studio command line (after installing the ICI3D package):
+    	```
+    		ICI3D::heterogeneityTutorial()
+    	```
+    - If you would like to look under the hood, the relevant code is available [here](https://github.com/ICI3D/ici3d-pkg/blob/master/R/heterogeneityTutorial.R).
 - Lab 3: [Study Design in Epidemiology lab](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab3_EpiStudyDesign.R) (required for Track A)
 - Lab 4: [Study Design for Clinical Trials](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab4_RCT.R) (recommended for Track A)    
     - [Download data file](https://github.com/ICI3D/datasets/blob/master/clinicalTrials/MuTxT.Rdata?raw=true)

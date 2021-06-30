@@ -169,16 +169,18 @@ SHADOW MC: Jonathan
 		ICI3D::heterogeneityTutorial()
 	```
 - 19:30-19:40 Lab 2 Summary ((pearson)) NOTE CHECK
-- 19:40-20:10 **Discussion:** MMED research projects ((borchering)) NOTE 30 mins
+- 19:40-20:10 **Discussion:** MMED research projects ((vanschalkwyk)) NOTE 30 mins
 - 20:10-20:30 **Mini-feedback session** ((bruce))
 - SHADOW 20:30-21:00 Faculty meeting
 
 #### Individual session 3
 
-- **Video lecture:** Introduction to models and data: HIV in Harare NOTE ((hargrove))
-- **Video lecture:** Real-world example (faculty research presentation) NOTE **TODO** (TBD)
-- Tutorial catch-up
-- Read through research project material (and discuss during tea)
+- **Video lecture:** [Introduction to models and data: HIV in Harare](https://youtu.be/qf91rTf40MY) ((hargrove))
+- **Video lecture:** Real-world examples (faculty research presentations) - Please watch _at least one_ of the following lectures; if you have time, watch the other one, but if you need to focus on catching up on material from the past few days, that should be your priority.
+    - [Hargrove on tsetse fly population dynamics](https://youtu.be/L1qalfZfwEo)
+    - [Pulliam on COVID](https://www.youtube.com/watch?v=SbE5IMwHzlo&feature=youtu.be) - _Please note that this lecture is from almost a year ago; a **lot** has changed since then!_
+- [Tutorial catch-up and review](../tutorials)
+- Read through the descriptions of potential research [projects](../projects) (and discuss during tea)
     - Come prepared to ask questions about projects during Interactive session 4b
 
 _Reminder:_
