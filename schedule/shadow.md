@@ -160,7 +160,7 @@ SHADOW MC: Reshma
         - Basic stochastic simulation models ((borchering)) NOTE 15 mins
         - Exercise 1 Summary ((borchering)) NOTE 10 mins # CHECK
 		  - SHADOW Larisse, Juliet, Mike
-- 17:30-18:30 **Research Pitches II** (Moderator: (borchering)) NOTE RB willing to moderate?
+- 17:30-18:30 **Research Pitches II** (Moderator: (dushoff))
 
 #### Interactive session 3b
 
@@ -175,7 +175,7 @@ SHADOW MC: Jonathan
 		ICI3D::heterogeneityTutorial()
 	```
 - 20:30-20:40 Lab 2 Summary ((pearson)) NOTE CHECK
-- 20:40-21:10 **Discussion:** MMED research projects ((dushoff)) NOTE 30 mins
+- 20:40-21:10 **Discussion:** MMED research projects ((borchering)) NOTE 30 mins
 - 21:10-21:30 **Mini-feedback session** ((bruce))
 - SHADOW 21:30-22:00 Faculty meeting
 

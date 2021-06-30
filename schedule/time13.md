@@ -134,7 +134,7 @@ _Reminder:_
     - **Track B - Summary and Discussion:**
         - Basic stochastic simulation models ([Rebecca Borchering]({{site.subdomainurl}}/team/borchering/)) 
         - Exercise 1 Summary ([Rebecca Borchering]({{site.subdomainurl}}/team/borchering/)) 
-- 20:30-21:30 **Research Pitches II** (Moderator: [Rebecca Borchering]({{site.subdomainurl}}/team/borchering/)) 
+- 20:30-21:30 **Research Pitches II** (Moderator: [Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 
 #### Interactive session 3b
 
@@ -147,7 +147,7 @@ _Reminder:_
 		ICI3D::heterogeneityTutorial()
 	```
 - 23:30-23:40 Lab 2 Summary ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
-- 23:40-00:10 **Discussion:** MMED research projects ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
+- 23:40-00:10 **Discussion:** MMED research projects ([Rebecca Borchering]({{site.subdomainurl}}/team/borchering/)) 
 - 00:10-00:30 **Mini-feedback session** ([Faikah Bruce]({{site.subdomainurl}}/team/bruce/))
 
 #### Individual session 3
