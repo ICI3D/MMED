@@ -195,7 +195,7 @@ _Reminder:_
 - 19:30-21:00 **_Parallel sessions_**
     - **Track A**
         - **Live lecture:** Study Design and Analysis in Epidemiology I: Where does modeling fit? ([Cari van Schalkwyk]({{site.subdomainurl}}/team/vanschalkwyk/)) 
-        - **Computer session:** Lab 3 - Study Design in Epidemiology 
+        - **Computer session:** Lab 3 - Study Design in Epidemiology
 		  - 
     - **Track B**
         - **Exercise:** Creating a model world to address a research question ([Thumbi Mwangi]({{site.subdomainurl}}/team/mwangi/)) 
@@ -205,7 +205,9 @@ _Reminder:_
 #### Individual session 4
 
 - **Video lecture:** [Introduction to statistical philosophy](https://youtu.be/2V8Ss1oGwZw) 
-- **Video lecture:** Introduction to likelihood 
+- **Video lecture:** [Introduction to likelihood](https://www.youtube.com/watch?v=iUEf8rhAScQ
+ ) ([Jim Scott]({{site.subdomainurl}}/team/scott/)) 
+    - You may also want to watch [this (longer) video](https://www.youtube.com/watch?v=I5E9rSKNjUE) on the same topic, which goes into more detail (optional)
 - **Computer exercise:** Lab 5 - Introduction to likelihood
 - **For Track A**
     - **Video lecture:** Basic stochastic simulation model series: [Intro](https://www.youtube.com/watch?v=c5IlaVA8_rw), [Part 1](https://www.youtube.com/watch?v=_eNWZ1sisQE), [Part 2](https://www.youtube.com/watch?v=UxXmkAcAtLo&t=1s) (slides [here](https://www.dropbox.com/s/e7yjs53fjc35e90/BorcheringStochasticSimulation2021.pdf?dl=0) and on Teams) ([Rebecca Borchering]({{site.subdomainurl}}/team/borchering/))
