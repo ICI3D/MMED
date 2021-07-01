@@ -18,3 +18,4 @@ alertmsg: >
 - [Tsetse fly population dynamics](./tsetse)
 - [Transmission intervals](./trans_int)
 - [Analysis of reinfection trends - simulation-based validation](./reinfections)
+- [Heterogeneity and disease invasion](./stochInv)
