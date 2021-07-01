@@ -230,7 +230,7 @@ _Reminder:_
 #### Individual session 5
 
 - **Video lecture:** Likelihood fitting and dynamic models, Part 1: Dynamic Model Fitting and Inference Robustness 
-- **Video lecture:** Introduction to GitHub 
+- **Video lecture:** [Introduction to GitHub](https://youtu.be/DE6ie4Q0K9M) 
 - Tutorial catch-up
 - Project preferences questionnaire [due by 14:00 on Monday]
 
