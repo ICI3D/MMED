@@ -205,6 +205,7 @@ _Reminder:_
 #### Individual session 4
 
 - **Video lecture:** [Introduction to statistical philosophy](https://youtu.be/2V8Ss1oGwZw) 
+	* [Slides](https://github.com/dushoff/statistics_talks/blob/f4a0884c0fe075ed998577310088b8f91779c507/git_push/philosophy.draft.pdf)
 - **Video lecture:** [Introduction to likelihood](https://www.youtube.com/watch?v=iUEf8rhAScQ
  ) ([Jim Scott]({{site.subdomainurl}}/team/scott/)) 
     - You may also want to watch [this (longer) video](https://www.youtube.com/watch?v=I5E9rSKNjUE) on the same topic, which goes into more detail (optional, [Steve Bellan]({{site.subdomainurl}}/team/bellan/))
