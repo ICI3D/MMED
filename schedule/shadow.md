@@ -204,7 +204,7 @@ _Reminder:_
 NOTE - 16:30-16:40 Summary and Discussion: Introduction to models and data: HIV in Harare (Hargrove) [Cancelled 2021; redundant in virtual session
 
 - 16:30-17:50 **Computer session:** Model fitting ((hargrove)) NOTE 90 mins - [Tutorial notes from DAIDD](http://www.ici3d.org/DAIDD/Materials/hivTutorial)
-	* SHADOW Can we have three or four volunteers to divide up the groups? Carl, Mutono, Larisse, Zinhle 
+	* SHADOW Can we have three or four volunteers to divide up the groups? Carl, Mutono, Larisse, Zinhle
 	* 17:50-18:10 (Tutorial wrapup by (dushoff)) HIDE [Boxcar Model Slides](http://www.ici3d.org/DAIDD/Materials/boxcarModels.pdf)
   - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
 	```R
@@ -219,7 +219,7 @@ NOTE - 16:30-16:40 Summary and Discussion: Introduction to models and data: HIV 
 - 19:30-21:00 **_Parallel sessions_**
     - **Track A**
         - **Live lecture:** Study Design and Analysis in Epidemiology I: Where does modeling fit? ((vanschalkwyk)) NOTE 45 mins
-        - **Computer session:** Lab 3 - Study Design in Epidemiology 
+        - **Computer session:** Lab 3 - Study Design in Epidemiology
 		  - NOTE Juliet, Reshma, Mutono
     - **Track B**
         - **Exercise:** Creating a model world to address a research question ((mwangi)) NOTE (90 mins)
@@ -230,7 +230,9 @@ NOTE - 16:30-16:40 Summary and Discussion: Introduction to models and data: HIV 
 #### Individual session 4
 
 - **Video lecture:** [Introduction to statistical philosophy](https://youtu.be/2V8Ss1oGwZw) NOTE ((dushoff))
-- **Video lecture:** Introduction to likelihood NOTE (Bellan as main (Cari to select specific minutes), Scott as optional - exists)
+- **Video lecture:** [Introduction to likelihood](https://www.youtube.com/watch?v=iUEf8rhAScQ
+ ) ((scott)) NOTE (Bellan as main (Cari to select specific minutes), Scott as optional - exists)
+    - You may also want to watch [this **longer** video](https://www.youtube.com/watch?v=I5E9rSKNjUE) on the same topic (optional)
 - **Computer exercise:** Lab 5 - Introduction to likelihood
 - **For Track A**
     - **Video lecture:** Basic stochastic simulation model series: [Intro](https://www.youtube.com/watch?v=c5IlaVA8_rw), [Part 1](https://www.youtube.com/watch?v=_eNWZ1sisQE), [Part 2](https://www.youtube.com/watch?v=UxXmkAcAtLo&t=1s) (slides [here](https://www.dropbox.com/s/e7yjs53fjc35e90/BorcheringStochasticSimulation2021.pdf?dl=0) and on Teams) ((borchering))
@@ -352,7 +354,7 @@ _Reminder:_
 - **Computer session:** Labs 7 and 8 - MCMC fitting in R
 - **Video lecture:** Data wrangling I: Data management and cleaning ((mwangi)) NOTE Why I?? Should there be a II?
 - **Computer Session:** Tutorial 5 - Data cleaning and management in R
-- **Video lecture:** Real-world example (faculty research presentation): [COVID-19 Scenario Modeling Hub Webinar](http://www.youtube.com/watch?v=LowxocbVzmQ) ((borchering)) NOTE could also include recording from DAIDD 2020 on MMODS 
+- **Video lecture:** Real-world example (faculty research presentation): [COVID-19 Scenario Modeling Hub Webinar](http://www.youtube.com/watch?v=LowxocbVzmQ) ((borchering)) NOTE could also include recording from DAIDD 2020 on MMODS
 - Work on group project
 - One-on-one mentoring sessions NOTE **TODO:** assignments; include? maybe too much material?
 
