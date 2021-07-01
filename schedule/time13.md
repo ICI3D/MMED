@@ -133,7 +133,7 @@ _Reminder:_
         - Introduction to Thinking About Data II ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/)) 
         - Tutorial 4 Summary ([Mutono Nyamai]({{site.subdomainurl}}/team/nyamai/)) 
     - **Track B - Summary and Discussion:**
-        - Basic stochastic simulation models ([Rebecca Borchering]({{site.subdomainurl}}/team/borchering/)) 
+        - [Basic stochastic simulation models](https://www.dropbox.com/s/w6emx5ozalkorv8/BorcheringStochasticSimulation2021_summary.pdf?dl=0) ([Rebecca Borchering]({{site.subdomainurl}}/team/borchering/)) 
         - Exercise 1 Summary ([Rebecca Borchering]({{site.subdomainurl}}/team/borchering/)) 
 - 20:30-21:30 **Research Pitches II** (Moderator: [Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 
@@ -200,8 +200,8 @@ _Reminder:_
 - **Video lecture:** Introduction to likelihood 
 - **Computer exercise:** Lab 5 - Introduction to likelihood
 - **For Track A**
-    - **Video lecture:** Basic stochastic simulation models 
-    - **Computer exercise:** Exercise 1 - Basic stochastic simulation models 
+    - **Video lecture:** Basic stochastic simulation model series: [Intro](https://www.youtube.com/watch?v=c5IlaVA8_rw), [Part 1](https://www.youtube.com/watch?v=_eNWZ1sisQE), [Part 2](https://www.youtube.com/watch?v=UxXmkAcAtLo&t=1s) (slides [here](https://www.dropbox.com/s/e7yjs53fjc35e90/BorcheringStochasticSimulation2021.pdf?dl=0) and on Teams) ([Rebecca Borchering]({{site.subdomainurl}}/team/borchering/))
+    - **Computer exercise:** Exercise 1 - Basic stochastic simulation models: [corresponding video](https://youtu.be/Z_TIjNWe69A), [Rscript](https://github.com/ICI3D/RTutorials/blob/master/ICI3D_Ex1_StochasticSpillover.R) 
 - **For Track B**
     - **Exercise:** Creating a model world assignment
         - [Step-by-step guide](../tutorials/modelWorld) 
@@ -307,7 +307,7 @@ _Reminder:_
 - **Computer session:** Labs 7 and 8 - MCMC fitting in R
 - **Video lecture:** Data wrangling I: Data management and cleaning ([Thumbi Mwangi]({{site.subdomainurl}}/team/mwangi/)) 
 - **Computer Session:** Tutorial 5 - Data cleaning and management in R
-- **Video lecture:** Real-world example (faculty research presentation) 
+- **Video lecture:** Real-world example (faculty research presentation): [COVID-19 Scenario Modeling Hub Webinar](http://www.youtube.com/watch?v=LowxocbVzmQ) ([Rebecca Borchering]({{site.subdomainurl}}/team/borchering/)) 
 - Work on group project
 - One-on-one mentoring sessions 
 

@@ -153,7 +153,7 @@ SHADOW MC: Reshma
         - Tutorial 4 Summary ((nyamai)) NOTE 10 mins # CHECK
 		  - SHADOW Jonathan, Tom
     - **Track B - Summary and Discussion:**
-        - Basic stochastic simulation models ((borchering)) NOTE 15 mins
+        - [Basic stochastic simulation models](https://www.dropbox.com/s/w6emx5ozalkorv8/BorcheringStochasticSimulation2021_summary.pdf?dl=0) ((borchering)) NOTE 15 mins
         - Exercise 1 Summary ((borchering)) NOTE 10 mins # CHECK
 		  - SHADOW Larisse, Juliet, Mike
 - 17:30-18:30 **Research Pitches II** (Moderator: (dushoff))
@@ -225,8 +225,8 @@ NOTE - 16:30-16:40 Summary and Discussion: Introduction to models and data: HIV 
 - **Video lecture:** Introduction to likelihood NOTE (Bellan as main (Cari to select specific minutes), Scott as optional - exists)
 - **Computer exercise:** Lab 5 - Introduction to likelihood
 - **For Track A**
-    - **Video lecture:** Basic stochastic simulation models NOTE ((borchering))
-    - **Computer exercise:** Exercise 1 - Basic stochastic simulation models NOTE ((borchering))
+    - **Video lecture:** Basic stochastic simulation model series: [Intro](https://www.youtube.com/watch?v=c5IlaVA8_rw), [Part 1](https://www.youtube.com/watch?v=_eNWZ1sisQE), [Part 2](https://www.youtube.com/watch?v=UxXmkAcAtLo&t=1s) (slides [here](https://www.dropbox.com/s/e7yjs53fjc35e90/BorcheringStochasticSimulation2021.pdf?dl=0) and on Teams) ((borchering))
+    - **Computer exercise:** Exercise 1 - Basic stochastic simulation models: [corresponding video](https://youtu.be/Z_TIjNWe69A), [Rscript](https://github.com/ICI3D/RTutorials/blob/master/ICI3D_Ex1_StochasticSpillover.R) NOTE ((borchering))
 - **For Track B**
     - **Exercise:** Creating a model world assignment
         - [Step-by-step guide](../tutorials/modelWorld) NOTE **TODO: update (JP/TM)**
@@ -338,7 +338,7 @@ _Reminder:_
 - **Computer session:** Labs 7 and 8 - MCMC fitting in R
 - **Video lecture:** Data wrangling I: Data management and cleaning ((mwangi)) NOTE Why I?? Should there be a II?
 - **Computer Session:** Tutorial 5 - Data cleaning and management in R
-- **Video lecture:** Real-world example (faculty research presentation) NOTE recordings from DAIDD 2020; COVID-19 Scenario Modeling Hub recording from MIDAS ((borchering))
+- **Video lecture:** Real-world example (faculty research presentation): [COVID-19 Scenario Modeling Hub Webinar](http://www.youtube.com/watch?v=LowxocbVzmQ) ((borchering)) NOTE could also include recording from DAIDD 2020 on MMODS 
 - Work on group project
 - One-on-one mentoring sessions NOTE **TODO:** assignments; include? maybe too much material?
 
