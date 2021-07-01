@@ -19,8 +19,7 @@ It is expected that the group will rely mostly on simulations, but it is worth n
 ## Things to consider
 
 - When deciding on your interest in this project, please consider the following:
-
- - The faculty member leading this project is based in Ontario (six hours earlier than Cape Town).
+	- The faculty member leading this project is based in Ontario (six hours earlier than Cape Town).
 
 * _This group is recommended for:_
 	* Participants interested in super-spreading and heterogeneity
