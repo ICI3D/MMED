@@ -27,7 +27,7 @@ Sources += $(wildcard schedule/*.md)
 
 ######################################################################
 
-Ignore += materials
+Ignore = materials
 ## ln -fs ~/Dropbox/ICI3D_Materials materials
 ## find materials/ -name "*.pdf" > pdf.md ##
 
@@ -114,7 +114,7 @@ schedule/shadow%.md: schedule/shadow.md jdresources/timeshadow.pl
 ## git rm preparation/shadow.md ##
 Sources += $(wildcard preparation/*.md)
 Sources += $(wildcard participants/*.md)
-## Sources += $(wildcard projects/*.md)
+Sources += $(wildcard projects/*.md)
 
 ## Ad hoc overview stuff
 ## Maybe not currently linked anywhere 2021 Jun 27 (Sun)
