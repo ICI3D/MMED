@@ -198,7 +198,7 @@ NOTE - 15:30-15:40 Summary and Discussion: Introduction to models and data: HIV 
 
 - 15:30-16:50 **Computer session:** Model fitting ((hargrove)) NOTE 90 mins - [Tutorial notes from DAIDD](http://www.ici3d.org/DAIDD/Materials/hivTutorial)
 	* SHADOW Can we have three or four volunteers to divide up the groups? Carl, Mutono, Larisse, Zinhle 
-	* 16:50-17:10 (Tutorial wrapup by (dushoff)) HIDE [Boxcar Model Slides](http://www.ici3d.org/DAIDD/Materials/boxcarModels.pdf)
+	* 16:50-17:10 (Tutorial wrapup by (dushoff)) [Boxcar Model Slides](http://www.ici3d.org/DAIDD/Materials/boxcarModels.pdf)
   - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
 	```R
 		ICI3D::hivTutorial()

@@ -174,7 +174,7 @@ _Reminder:_
 
 
 - 09:30-10:50 **Computer session:** Model fitting ([John Hargrove]({{site.subdomainurl}}/team/hargrove/)) 
-	* 10:50-11:10 (Tutorial wrapup by [Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) 
+	* 10:50-11:10 (Tutorial wrapup by [Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)) [Boxcar Model Slides](http://www.ici3d.org/DAIDD/Materials/boxcarModels.pdf)
   - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
 	```R
 		ICI3D::hivTutorial()
