@@ -199,7 +199,7 @@ _Reminder:_
 - **Video lecture:** [Introduction to statistical philosophy](https://youtu.be/2V8Ss1oGwZw) 
 - **Video lecture:** [Introduction to likelihood](https://www.youtube.com/watch?v=iUEf8rhAScQ
  ) ([Jim Scott]({{site.subdomainurl}}/team/scott/)) 
-    - You may also want to watch [this (longer) video](https://www.youtube.com/watch?v=I5E9rSKNjUE) on the same topic, which goes into more detail (optional)
+    - You may also want to watch [this (longer) video](https://www.youtube.com/watch?v=I5E9rSKNjUE) on the same topic, which goes into more detail (optional, [Steve Bellan]({{site.subdomainurl}}/team/bellan/))
 - **Computer exercise:** Lab 5 - Introduction to likelihood
 - **For Track A**
     - **Video lecture:** Basic stochastic simulation model series: [Intro](https://www.youtube.com/watch?v=c5IlaVA8_rw), [Part 1](https://www.youtube.com/watch?v=_eNWZ1sisQE), [Part 2](https://www.youtube.com/watch?v=UxXmkAcAtLo&t=1s) (slides [here](https://www.dropbox.com/s/e7yjs53fjc35e90/BorcheringStochasticSimulation2021.pdf?dl=0) and on Teams) ([Rebecca Borchering]({{site.subdomainurl}}/team/borchering/))

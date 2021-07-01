@@ -223,8 +223,8 @@ NOTE - 15:30-15:40 Summary and Discussion: Introduction to models and data: HIV 
 
 - **Video lecture:** [Introduction to statistical philosophy](https://youtu.be/2V8Ss1oGwZw) NOTE ((dushoff))
 - **Video lecture:** [Introduction to likelihood](https://www.youtube.com/watch?v=iUEf8rhAScQ
- ) ((scott)) NOTE (Bellan as main (Cari to select specific minutes), Scott as optional - exists)
-    - You may also want to watch [this (longer) video](https://www.youtube.com/watch?v=I5E9rSKNjUE) on the same topic, which goes into more detail (optional)
+ ) ((scott)) 
+    - You may also want to watch [this (longer) video](https://www.youtube.com/watch?v=I5E9rSKNjUE) on the same topic, which goes into more detail (optional, (bellan))
 - **Computer exercise:** Lab 5 - Introduction to likelihood
 - **For Track A**
     - **Video lecture:** Basic stochastic simulation model series: [Intro](https://www.youtube.com/watch?v=c5IlaVA8_rw), [Part 1](https://www.youtube.com/watch?v=_eNWZ1sisQE), [Part 2](https://www.youtube.com/watch?v=UxXmkAcAtLo&t=1s) (slides [here](https://www.dropbox.com/s/e7yjs53fjc35e90/BorcheringStochasticSimulation2021.pdf?dl=0) and on Teams) ((borchering))
@@ -244,6 +244,7 @@ _Reminder:_
 #### Interactive session 5a
 
 
+SHADOW: Larisse to MC
 - 15:30-15:45 **Summary and Discussion:** Introduction to statistical philosophy ((kassanjee))
 - 15:45-16:00 **Summary and Discussion:** Introduction to Likelihood ((vanschalkwyk)) NOTE includes Lab 5 summary
 - 16:00-17:30 **Interactive lecture:** Participatory coding of a dynamical model ((pearson))
@@ -253,7 +254,7 @@ _Reminder:_
 
 - 18:30-19:30 **Mentor presentations** (Moderator: (reiner)) NOTE BR willing to moderate?
 - 19:30-20:30 **Mid-session feedback** ((bruce)) NOTE (60 mins)
-- SHADOW 20:30-21:00 Faculty meeting
+- SHADOW 20:30-21:00 Faculty meeting (CANCELLED, have some fun!)
 
 #### Individual session 5
 
