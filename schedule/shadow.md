@@ -223,7 +223,7 @@ NOTE - 16:30-16:40 Summary and Discussion: Introduction to models and data: HIV 
 		  - NOTE Juliet, Reshma, Mutono
     - **Track B**
         - **Exercise:** Creating a model world to address a research question ((mwangi)) NOTE (90 mins)
-		  - NOTE Larisse, Mike, Tom
+		  - NOTE Larisse, Mike, Carl
 - 21:00-21:30 **Discussion:** MMED Projects ((mthombothi)) NOTE MOVED FROM FRIDAY!!!
 - SHADOW 21:30-22:00 Faculty meeting
 
