@@ -259,7 +259,8 @@ SHADOW: Larisse to MC
 
 #### Individual session 5
 
-- **Video lecture:** Likelihood fitting and dynamic models, Part 1: Dynamic Model Fitting and Inference Robustness NOTE ((pulliam) or (reiner))
+- [**Video lecture:** Likelihood fitting and dynamic models, Part 1: Dynamic Model Fitting and Inference Robustness](https://www.youtube.com/watch?v=9TmuHZ6DC3g) ((dushoff), slides by (pulliam))
+	* [Slides](https://figshare.com/articles/journal_contribution/Likelihood_Fitting_and_Dynamic_Models_I_Dynamic_Model_Fitting_and_Inference_Robustness/5044672)
 	* NOTE ../materials/MMED2019/LectureSlides/Pulliam_ModelFittingI_2019.pdf
 - **Video lecture:** [Introduction to GitHub](https://youtu.be/DE6ie4Q0K9M) NOTE ((mthombothi))
 - Tutorial catch-up
