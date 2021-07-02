@@ -334,7 +334,7 @@ _Reminder:_
 #### Interactive session 7b
 
 
-- 10:30-11:30 **Real-world example:** Faculty research lecture ((li))
+- 10:30-11:30 **Real-world example:** Faculty research lecture ((hladish))
 - 11:30-12:30 Special topic sessions / group mentoring (TBD) NOTE **TODO** - what??? as requested by participants?
 - SHADOW 12:30-13:00 Faculty meeting
 
@@ -369,7 +369,7 @@ _Reminder:_
 
 
 - 10:30-11:30 **Interactive session:** Modelling for policy (Moderators: (borchering) and (pearson))
-- 11:30-12:30 **Real-world example:** Faculty research lecture ((hladish))
+- 11:30-12:30 **Real-world example:** Faculty research lecture ((li))
 - SHADOW 12:30-13:00 Faculty meeting
 
 #### Individual session 8

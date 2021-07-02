@@ -303,7 +303,7 @@ _Reminder:_
 #### Interactive session 7b
 
 
-- 13:30-14:30 **Real-world example:** Faculty research lecture ([Michael Li]({{site.subdomainurl}}/team/li/))
+- 13:30-14:30 **Real-world example:** Faculty research lecture ((hladish))
 - 14:30-15:30 Special topic sessions / group mentoring (TBD) 
 
 #### Individual session 7
@@ -337,7 +337,7 @@ _Reminder:_
 
 
 - 13:30-14:30 **Interactive session:** Modelling for policy (Moderators: [Rebecca Borchering]({{site.subdomainurl}}/team/borchering/) and [Carl Pearson]({{site.subdomainurl}}/team/pearson/))
-- 14:30-15:30 **Real-world example:** Faculty research lecture ((hladish))
+- 14:30-15:30 **Real-world example:** Faculty research lecture ([Michael Li]({{site.subdomainurl}}/team/li/))
 
 #### Individual session 8
 
