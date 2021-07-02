@@ -197,7 +197,7 @@ _Reminder:_
 NOTE - 07:30-07:40 Summary and Discussion: Introduction to models and data: HIV in Harare (Hargrove) [Cancelled 2021; redundant in virtual session
 
 - 07:30-08:50 **Computer session:** Model fitting ((hargrove)) NOTE 90 mins - [Tutorial notes from DAIDD](http://www.ici3d.org/DAIDD/Materials/hivTutorial)
-	* SHADOW Can we have three or four volunteers to divide up the groups? Carl, Mutono, Larisse, Zinhle 
+	* SHADOW Can we have three or four volunteers to divide up the groups? Carl, Mutono, Larisse, Zinhle
 	* 08:50-09:10 (Tutorial wrapup by (dushoff)) [Boxcar Model Slides](http://www.ici3d.org/DAIDD/Materials/boxcarModels.pdf)
   - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
 	```R
@@ -224,7 +224,7 @@ NOTE - 07:30-07:40 Summary and Discussion: Introduction to models and data: HIV 
 - **Video lecture:** [Introduction to statistical philosophy](https://youtu.be/2V8Ss1oGwZw) NOTE ((dushoff))
 	* [Slides](https://github.com/dushoff/statistics_talks/blob/f4a0884c0fe075ed998577310088b8f91779c507/git_push/philosophy.draft.pdf)
 - **Video lecture:** [Introduction to likelihood](https://www.youtube.com/watch?v=iUEf8rhAScQ
- ) ((scott)) 
+ ) ((scott))
     - You may also want to watch [this (longer) video](https://www.youtube.com/watch?v=I5E9rSKNjUE) on the same topic, which goes into more detail (optional, (bellan))
 - **Computer exercise:** Lab 5 - Introduction to likelihood
 - **For Track A**
@@ -264,7 +264,7 @@ SHADOW: Larisse to MC
 	* NOTE ../materials/MMED2019/LectureSlides/Pulliam_ModelFittingI_2019.pdf
 - **Video lecture:** [Introduction to GitHub](https://youtu.be/DE6ie4Q0K9M) NOTE ((mthombothi))
 - Tutorial catch-up
-- Project preferences questionnaire [due by 03:00 on Monday]
+- [Project preferences questionnaire](https://forms.gle/LvSbCukSD7WvK49o8) [due by 03:00 on Monday]
 
 _Reminder:_
 
