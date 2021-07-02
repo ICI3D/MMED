@@ -18,5 +18,5 @@ alertmsg: >
 - [Tsetse fly population dynamics](./tsetse)
 - [Transmission intervals](./trans_int)
 - [Analysis of reinfection trends - simulation-based validation](./reinfections)
-- [Using transmission models to inform trial design for dengue])(./dengueTrials)
+- [Using transmission models to inform trial design for dengue](./dengueTrials)
 - [Heterogeneity and disease invasion](./stochInv)
