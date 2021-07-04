@@ -282,8 +282,8 @@ _Reminder:_
 
 #### Individual session 6
 
-- **Video Lecture:** Likelihood fitting and dynamic models II ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/) or [Bobby Reiner]({{site.subdomainurl}}/team/reiner/))
-- **Computer Session:** Lab 6 - MLE fitting of an SIR model to prevalence data
+- ADD STEVE LIVE CODING (optional)
+- HARGROVE LIFECYCLE
 - Tutorial catch-up, as needed
 - Work on group project
 - One-on-one mentoring sessions 
@@ -298,21 +298,19 @@ _Reminder:_
 #### Interactive session 7a
 
 
-- 16:30-16:45 **Summary and Discussion:** Likelihood fitting and dynamic models II ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/) or [Bobby Reiner]({{site.subdomainurl}}/team/reiner/))
-- 16:45-16:55 **Lab 6 Summary** 
-- 16:55-17:30 **Tutorial review:** Q&A on all tutorials to date ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/) and all)
-- 17:30-18:30 **Work session:** Group projects 
+- 16:30-17:30 **Lecture:** Likelihood fitting and dynamic models II ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/) or [Bobby Reiner]({{site.subdomainurl}}/team/reiner/))
+- 17:30-18:00 **Tutorial review:** Q&A on all tutorials to date ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/) and all)
+- 18:00-18:30 **Work session:** Group projects 
 
 #### Interactive session 7b
 
 
-- 19:30-20:30 Special topic sessions / group mentoring (TBD) 
+- 19:30-20:30  **Interactive lecture:** Participatory coding of a dynamical model ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/) 
 - 20:30-21:30 **Real-world example:** Faculty research lecture ((hladish))
 
 #### Individual session 7
 
-- **Video Lecture:** Introduction to Monte Carlo Markov Chains (MCMC) ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
-- **Computer session:** Labs 7 and 8 - MCMC fitting in R
+- **Computer Session:** Lab 6 - MLE fitting of an SIR model to prevalence data
 - **Video lecture:** Data wrangling I: Data management and cleaning ([Thumbi Mwangi]({{site.subdomainurl}}/team/mwangi/)) 
 - **Computer Session:** Tutorial 5 - Data cleaning and management in R
 - **Video lecture:** Real-world example (faculty research presentation): [COVID-19 Scenario Modeling Hub Webinar](http://www.youtube.com/watch?v=LowxocbVzmQ) ([Rebecca Borchering]({{site.subdomainurl}}/team/borchering/)) 
@@ -329,12 +327,10 @@ _Reminder:_
 #### Interactive session 8a
 
 
-- 16:30-16:45 **Summary and Discussion:** Introduction to Monte Carlo Markov Chains (MCMC) ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
-- 16:45-16:55 **Lab 7 Summary** ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
-- 16:55-17:05 **Lab 8 Summary** ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
-- 17:05-17:20 **Summary and Discussion:** Data wrangling I: Data management and cleaning ([Thumbi Mwangi]({{site.subdomainurl}}/team/mwangi/)) 
-- 17:20-17:30 **Tutorial 5 Summary** ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
-- 17:30-18:30 **Work session:** Group projects
+- 16:30-16:45 **Summary and Discussion:** Data wrangling I: Data management and cleaning ([Thumbi Mwangi]({{site.subdomainurl}}/team/mwangi/)) 
+- 16:45-16:55 **Tutorial 5 Summary** ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
+- 16:55-18:00 **Live Lecture:** Introduction to Monte Carlo Markov Chains (MCMC) ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
+- 18:00-18:30 **Work session:** Group projects
 
 #### Interactive session 8b
 
@@ -346,6 +342,7 @@ _Reminder:_
 
 - **Video lecture:** Model assessment ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 - **Video lecture:** Real-world example ([Faculty research presentation](https://youtu.be/L1qalfZfwEo)) 
+- **Computer session:** Labs 7 and 8 - MCMC fitting in R (optional)
 - Work on group project
 - One-on-one mentoring sessions 
 
@@ -360,8 +357,10 @@ _Reminder:_
 
 
 - 16:30-16:45 **Summary and Discussion:** Model assessment ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
-- 16:45-17:00 **Summary and Discussion:** Faculty research presentation ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
-- 17:00-18:30 **Work session:** Group projects 
+- 16:45-16:55 Lab 7 Summary ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
+- 16:55-17:05 Lab 8 Summary ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
+- 17:05-17:20 **Summary and Discussion:** Faculty research presentation ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
+- 17:20-18:30  **Work session:** Group projects and One-on-one mentoring sessions (cross-time zone) 
 
 #### Interactive session 9b
 

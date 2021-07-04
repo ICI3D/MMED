@@ -313,8 +313,8 @@ _Reminder:_
 
 #### Individual session 6
 
-- **Video Lecture:** Likelihood fitting and dynamic models II ((dushoff) or (reiner))
-- **Computer Session:** Lab 6 - MLE fitting of an SIR model to prevalence data
+- ADD STEVE LIVE CODING (optional)
+- HARGROVE LIFECYCLE
 - Tutorial catch-up, as needed
 - Work on group project
 - One-on-one mentoring sessions NOTE **TODO:** assignments
@@ -329,22 +329,20 @@ _Reminder:_
 #### Interactive session 7a
 
 
-- 20:30-20:45 **Summary and Discussion:** Likelihood fitting and dynamic models II ((dushoff) or (reiner))
-- 20:45-20:55 **Lab 6 Summary** NOTE mentor? **TODO:** assignment
-- 20:55-21:30 **Tutorial review:** Q&A on all tutorials to date ((pulliam) and all)
-- 21:30-22:30 **Work session:** Group projects NOTE does it make sense to have these during interactive sessions? I think so...
+- 20:30-21:30 **Lecture:** Likelihood fitting and dynamic models II ((dushoff) or (reiner))
+- 21:30-22:00 **Tutorial review:** Q&A on all tutorials to date ((pulliam) and all)
+- 22:00-22:30 **Work session:** Group projects NOTE does it make sense to have these during interactive sessions? I think so...
 
 #### Interactive session 7b
 
 
-- 23:30-00:30 Special topic sessions / group mentoring (TBD) NOTE **TODO** - what??? as requested by participants? could potentially do mcmc here since they requested live lectures???
+- 23:30-00:30  **Interactive lecture:** Participatory coding of a dynamical model ((dushoff) NOTE **TODO** - what??? as requested by participants? could potentially do mcmc here since they requested live lectures???
 - 00:30-01:30 **Real-world example:** Faculty research lecture ((hladish))
 - SHADOW 01:30-02:00 Faculty meeting
 
 #### Individual session 7
 
-- **Video Lecture:** Introduction to Monte Carlo Markov Chains (MCMC) ((pearson))
-- **Computer session:** Labs 7 and 8 - MCMC fitting in R
+- **Computer Session:** Lab 6 - MLE fitting of an SIR model to prevalence data
 - **Video lecture:** Data wrangling I: Data management and cleaning ((mwangi)) NOTE Why I?? Should there be a II?
 - **Computer Session:** Tutorial 5 - Data cleaning and management in R
 - **Video lecture:** Real-world example (faculty research presentation): [COVID-19 Scenario Modeling Hub Webinar](http://www.youtube.com/watch?v=LowxocbVzmQ) ((borchering)) NOTE could also include recording from DAIDD 2020 on MMODS
@@ -361,12 +359,10 @@ _Reminder:_
 #### Interactive session 8a
 
 
-- 20:30-20:45 **Summary and Discussion:** Introduction to Monte Carlo Markov Chains (MCMC) ((pearson))
-- 20:45-20:55 **Lab 7 Summary** ((kassanjee))
-- 20:55-21:05 **Lab 8 Summary** ((kassanjee))
-- 21:05-21:20 **Summary and Discussion:** Data wrangling I: Data management and cleaning ((mwangi)) NOTE Why I??
-- 21:20-21:30 **Tutorial 5 Summary** ((dushoff))
-- 21:30-22:30 **Work session:** Group projects
+- 20:30-20:45 **Summary and Discussion:** Data wrangling I: Data management and cleaning ((mwangi)) NOTE Why I??
+- 20:45-20:55 **Tutorial 5 Summary** ((dushoff))
+- 20:55-22:00 **Live Lecture:** Introduction to Monte Carlo Markov Chains (MCMC) ((pearson)) NOTE CHECK!!!!!!
+- 22:00-22:30 **Work session:** Group projects
 
 #### Interactive session 8b
 
@@ -379,6 +375,7 @@ _Reminder:_
 
 - **Video lecture:** Model assessment ((dushoff))
 - **Video lecture:** Real-world example ([Faculty research presentation](https://youtu.be/L1qalfZfwEo)) NOTE (hargrove)
+- **Computer session:** Labs 7 and 8 - MCMC fitting in R (optional)
 - Work on group project
 - One-on-one mentoring sessions NOTE **TODO:** assignments
 
@@ -393,8 +390,10 @@ _Reminder:_
 
 
 - 20:30-20:45 **Summary and Discussion:** Model assessment ((dushoff))
-- 20:45-21:00 **Summary and Discussion:** Faculty research presentation ((hargrove))
-- 21:00-22:30 **Work session:** Group projects NOTE 90 mins REALLY?? **TODO** think we need at least 30 mins additional structured time...
+- 20:45-20:55 Lab 7 Summary ((kassanjee))
+- 20:55-21:05 Lab 8 Summary ((kassanjee))
+- 21:05-21:20 **Summary and Discussion:** Faculty research presentation ((hargrove))
+- 21:20-22:30  **Work session:** Group projects and One-on-one mentoring sessions (cross-time zone) NOTE 90 mins REALLY?? **TODO** think we need at least 30 mins additional structured time...
 
 #### Interactive session 9b
 
