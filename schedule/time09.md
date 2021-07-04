@@ -283,8 +283,12 @@ _Reminder:_
 
 #### Individual session 6
 
-- ADD STEVE LIVE CODING (optional)
-- HARGROVE LIFECYCLE
+- **Coding demonstration:** [Participatory Coding of a Dynamic Model](https://youtu.be/Xec-HjwHnEs) ([Steve Bellan]({{site.subdomainurl}}/team/bellan/)) **(optional)**
+    - Note that this is the 2017 version of the participatory coding session that [Carl Pearson]({{site.subdomainurl}}/team/pearson/) ran on Friday. The model diagram used in this version comes from the 2017 Creating a Model World session led by [Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/), which can be viewed [here](https://youtu.be/7e18CBtoAcY) (also optional).
+- **Video lecture:** Modeling in practice: The life cycle of a modeling project, from conception to publication ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
+    - [Part 1](https://youtu.be/cPLBzQGz2lM)
+    - [Part 2](https://youtu.be/2IrPJCqff7g)
+    - [Part 3](https://youtu.be/meEJ7ys10WA)
 - Tutorial catch-up, as needed
 - Work on group project
 - One-on-one mentoring sessions 
