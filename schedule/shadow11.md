@@ -265,6 +265,7 @@ SHADOW: Larisse to MC
 - **Video lecture:** [Introduction to GitHub](https://youtu.be/DE6ie4Q0K9M) NOTE ((mthombothi))
 - Tutorial catch-up
 - [Project preferences questionnaire](https://forms.gle/LvSbCukSD7WvK49o8) [due by 13:00 on Monday]
+- [Tutorial review and mentoring sessions questionnaire](https://forms.gle/S1YGWA3279s9jMrT8) [due by 20:30 on Monday]
 
 _Reminder:_
 
@@ -292,7 +293,9 @@ _Reminder:_
 - 17:30-18:15 **Interactive lecture:** Doing Science ((dushoff))
 - 18:15-18:30 **Organizational session:** Schedule and goals for the second week ((borchering))
 - 18:30-19:15 **Computer session:** Introduction to GitHub (discussion and tutorial) ((pearson))
-- 19:15-19:30 **Summary and Discussion:**  Likelihood fitting and dynamic models, Part 1: Dynamic Model Fitting and Inference Robustness ((pulliam) or (reiner))
+- 19:15-19:30 **Summary and Discussion:**  Likelihood fitting and dynamic models, Part 1: Dynamic Model Fitting and Inference Robustness ((pulliam))
+
+**Note:** Please complete the [tutorial review and mentoring sessions questionnaire](https://forms.gle/S1YGWA3279s9jMrT8) by 20:30 on Monday!
 
 #### Interactive session 6b
 
@@ -334,8 +337,8 @@ _Reminder:_
 #### Interactive session 7b
 
 
-- 20:30-21:30 **Real-world example:** Faculty research lecture ((hladish))
-- 21:30-22:30 Special topic sessions / group mentoring (TBD) NOTE **TODO** - what??? as requested by participants?
+- 20:30-21:30 Special topic sessions / group mentoring (TBD) NOTE **TODO** - what??? as requested by participants? could potentially do mcmc here since they requested live lectures???
+- 21:30-22:30 **Real-world example:** Faculty research lecture ((hladish))
 - SHADOW 22:30-23:00 Faculty meeting
 
 #### Individual session 7

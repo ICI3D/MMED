@@ -238,6 +238,7 @@ _Reminder:_
 - **Video lecture:** [Introduction to GitHub](https://youtu.be/DE6ie4Q0K9M) 
 - Tutorial catch-up
 - [Project preferences questionnaire](https://forms.gle/LvSbCukSD7WvK49o8) [due by 14:00 on Monday]
+- [Tutorial review and mentoring sessions questionnaire](https://forms.gle/S1YGWA3279s9jMrT8) [due by 21:30 on Monday]
 
 _Reminder:_
 
@@ -264,7 +265,9 @@ _Reminder:_
 - 18:30-19:15 **Interactive lecture:** Doing Science ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 - 19:15-19:30 **Organizational session:** Schedule and goals for the second week ([Rebecca Borchering]({{site.subdomainurl}}/team/borchering/))
 - 19:30-20:15 **Computer session:** Introduction to GitHub (discussion and tutorial) ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
-- 20:15-20:30 **Summary and Discussion:**  Likelihood fitting and dynamic models, Part 1: Dynamic Model Fitting and Inference Robustness ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/) or [Bobby Reiner]({{site.subdomainurl}}/team/reiner/))
+- 20:15-20:30 **Summary and Discussion:**  Likelihood fitting and dynamic models, Part 1: Dynamic Model Fitting and Inference Robustness ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
+
+**Note:** Please complete the [tutorial review and mentoring sessions questionnaire](https://forms.gle/S1YGWA3279s9jMrT8) by 21:30 on Monday!
 
 #### Interactive session 6b
 
@@ -303,8 +306,8 @@ _Reminder:_
 #### Interactive session 7b
 
 
-- 21:30-22:30 **Real-world example:** Faculty research lecture ((hladish))
-- 22:30-23:30 Special topic sessions / group mentoring (TBD) 
+- 21:30-22:30 Special topic sessions / group mentoring (TBD) 
+- 22:30-23:30 **Real-world example:** Faculty research lecture ((hladish))
 
 #### Individual session 7
 
