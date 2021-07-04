@@ -335,7 +335,7 @@ _Reminder:_
 #### Interactive session 7a
 
 
-- 10:30-11:30 **Lecture:** Likelihood fitting and dynamic models II ((dushoff) or (reiner))
+- 10:30-11:30 **Lecture:** Likelihood fitting and dynamic models II ((reiner))
 - 11:30-12:00 **Tutorial review:** Q&A on all tutorials to date ((pulliam) and all)
 - 12:00-12:30 **Work session:** Group projects NOTE does it make sense to have these during interactive sessions? I think so...
 
@@ -349,7 +349,7 @@ _Reminder:_
 #### Individual session 7
 
 - **Computer Session:** Lab 6 - MLE fitting of an SIR model to prevalence data
-- **Video lecture:** Data wrangling I: Data management and cleaning ((mwangi)) NOTE Why I?? Should there be a II?
+- **Video lecture:** Data wrangling: Data management and cleaning ((mwangi)) NOTE Why I?? Should there be a II?
 - **Computer Session:** Tutorial 5 - Data cleaning and management in R
 - **Video lecture:** Real-world example (faculty research presentation): [COVID-19 Scenario Modeling Hub Webinar](http://www.youtube.com/watch?v=LowxocbVzmQ) ((borchering)) NOTE could also include recording from DAIDD 2020 on MMODS
 - Work on group project
@@ -365,7 +365,8 @@ _Reminder:_
 #### Interactive session 8a
 
 
-- 10:30-10:45 **Summary and Discussion:** Data wrangling I: Data management and cleaning ((mwangi)) NOTE Why I??
+- 10:30-10:45 **Summary and Discussion:** Data wrangling: Data management and cleaning ((mwangi)) NOTE Used to say I, but we don't know why. Was there a II?
+	* NOTE We usually have a different summarizer than lecturer; should someone volunteer for this?
 - 10:45-10:55 **Tutorial 5 Summary** ((dushoff))
 - 10:55-12:00 **Live Lecture:** Introduction to Monte Carlo Markov Chains (MCMC) ((pearson)) NOTE CHECK!!!!!!
 - 12:00-12:30 **Work session:** Group projects
