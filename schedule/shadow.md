@@ -327,8 +327,6 @@ SHADOW MC Becky
 
 #### Individual session 6
 
-- **Coding demonstration:** [Participatory Coding of a Dynamic Model](https://youtu.be/Xec-HjwHnEs) ((bellan)) **(optional)**
-    - Note that this is the 2017 version of the participatory coding session that (pearson) ran on Friday. The model diagram used in this version comes from the 2017 Creating a Model World session led by (pulliam), which can be viewed [here](https://youtu.be/7e18CBtoAcY) (also optional).
 - **Video lecture:** Modeling in practice: The life cycle of a modeling project, from conception to publication ((hargrove))
     - [Part 1](https://youtu.be/cPLBzQGz2lM)
     - [Part 2](https://youtu.be/2IrPJCqff7g)
@@ -336,6 +334,8 @@ SHADOW MC Becky
 - Tutorial catch-up, as needed
 - Work on group project
 - One-on-one mentoring sessions NOTE **TODO:** assignments
+- **Coding demonstration:** [Participatory Coding of a Dynamic Model](https://youtu.be/Xec-HjwHnEs) ((bellan)) **(optional)**
+    - Note that this is the 2017 version of the participatory coding session that (pearson) ran on Friday. The model diagram used in this version comes from the 2017 Creating a Model World session led by (pulliam), which can be viewed [here](https://youtu.be/7e18CBtoAcY) (also optional).
 
 _Reminder:_
 
