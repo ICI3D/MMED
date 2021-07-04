@@ -313,10 +313,10 @@ _Reminder:_
 **23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
 
 - 19:30-20:45 **_Parallel sessions_**
-    - **Track A**
+    - **Track A** NOTE Mutono, Mike, Bobby
         - **Lecture:** Study Design and Analysis in Epidemiology II - RCTs ((kassanjee))
-        - **Computer session:** Lab 4 - Study design for clinical trials ((kassanjee))
-    - **Track B**
+        - **Computer session:** [Lab 4](../tutorials) - Study design for clinical trials ((kassanjee))
+    - **Track B** NOTE Larisse, Tom, Juliet
         - **Writing exercise:** description of proposed model and assumptions ((mthombothi)) NOTE aka Model Telephone (70 mins)
             - SHADOW [practice diagram](../tutorials/practice.Diagram.pdf), [description](../tutorials/modelDescription)
             - SHADOW [instructions for in-person version](https://docs.google.com/document/d/1d_noXARmkB3yqg8_kUW7AqCTurWy5u84JQWsGoTVCj8)

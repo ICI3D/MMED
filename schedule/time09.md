@@ -273,10 +273,10 @@ _Reminder:_
 
 
 - 18:30-19:45 **_Parallel sessions_**
-    - **Track A**
+    - **Track A** 
         - **Lecture:** Study Design and Analysis in Epidemiology II - RCTs ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
-        - **Computer session:** Lab 4 - Study design for clinical trials ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
-    - **Track B**
+        - **Computer session:** [Lab 4](../tutorials) - Study design for clinical trials ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
+    - **Track B** 
         - **Writing exercise:** description of proposed model and assumptions ([Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/)) 
 - 19:45-20:30 **Work session:** Project groups meet for the first time (Work plans for group projects) (all)
 

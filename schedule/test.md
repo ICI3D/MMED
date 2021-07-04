@@ -285,10 +285,10 @@ _Reminder:_
 **23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
 
 - 19:30-20:45 **_Parallel sessions_**
-    - **Track A**
+    - **Track A** 
         - **Lecture:** Study Design and Analysis in Epidemiology II - RCTs ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
-        - **Computer session:** Lab 4 - Study design for clinical trials ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
-    - **Track B**
+        - **Computer session:** [Lab 4](../tutorials) - Study design for clinical trials ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
+    - **Track B** 
         - **Writing exercise:** description of proposed model and assumptions ([Zinhle Mthombothi]({{site.subdomainurl}}/team/mthombothi/)) 
 - 20:45-21:30 **Work session:** Project groups meet for the first time (Work plans for group projects) (all)
 
