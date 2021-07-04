@@ -13,6 +13,9 @@
 current: target
 target = Makefile
 -include target.mk
+Ignore = target.mk
+
+Ignore += dump.txt
 
 ###################################################################
 
@@ -27,7 +30,7 @@ Sources += $(wildcard schedule/*.md)
 
 ######################################################################
 
-Ignore = materials
+Ignore += materials
 ## ln -fs ~/Dropbox/ICI3D_Materials materials
 ## find materials/ -name "*.pdf" > pdf.md ##
 
