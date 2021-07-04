@@ -262,6 +262,7 @@ _Reminder:_
 #### Interactive session 6a
 
 
+
 - 15:30-16:15 **Interactive lecture:** Doing Science ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 - 16:15-16:30 **Organizational session:** Schedule and goals for the second week ([Rebecca Borchering]({{site.subdomainurl}}/team/borchering/))
 - 16:30-17:15 **Computer session:** Introduction to GitHub (discussion and tutorial) ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))

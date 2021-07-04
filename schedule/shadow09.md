@@ -290,6 +290,8 @@ _Reminder:_
 #### Interactive session 6a
 
 
+SHADOW MC Becky
+
 - 15:30-16:15 **Interactive lecture:** Doing Science ((dushoff))
 - 16:15-16:30 **Organizational session:** Schedule and goals for the second week ((borchering))
 - 16:30-17:15 **Computer session:** Introduction to GitHub (discussion and tutorial) ((pearson))
