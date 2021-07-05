@@ -29,4 +29,4 @@ alertmsg: >
     - **Group members:** Olatunji, Ziya, Wesley, Lameck
 - [Heterogeneity and disease invasion](./stochInv)
     - **Faculty:** Jonathan and Mutono
-    - **Group members:** Olatunji, Ziya, Wesley, Lameck
+    - **Group members:** Hannah, Rodal, Reese, As-Saba
