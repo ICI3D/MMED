@@ -397,6 +397,7 @@ _Reminder:_
 
 
 - 19:30-19:45 **Summary and Discussion:** Model assessment ((dushoff))
+	* NOTE Someone else!
 - 19:45-19:55 Lab 7 Summary ((kassanjee))
 - 19:55-20:05 Lab 8 Summary ((kassanjee))
 - 20:05-20:20 **Summary and Discussion:** Faculty research presentation ((hargrove))

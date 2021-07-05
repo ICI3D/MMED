@@ -414,6 +414,7 @@ _Reminder:_
 **20:30-22:30 Dhaka / 19:30-21:30 Chennai / 18:30-20:30 Abu Dhabi / 17:30-19:30 Nairobi / 16:30-18:30 SAST / 15:30-17:30 London / 10:30-12:30 New York / 09:30-11:30 Bucaramanga / 07:30-09:30 Seattle**
 
 - 16:30-16:45 **Summary and Discussion:** Model assessment ((dushoff))
+	* NOTE Someone else!
 - 16:45-16:55 Lab 7 Summary ((kassanjee))
 - 16:55-17:05 Lab 8 Summary ((kassanjee))
 - 17:05-17:20 **Summary and Discussion:** Faculty research presentation ((hargrove))
