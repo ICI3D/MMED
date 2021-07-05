@@ -397,7 +397,6 @@ _Reminder:_
 #### Individual session 8
 
 - **Video lecture:** Model assessment ((dushoff))
-- **Video lecture:** Real-world example ([Faculty research presentation](https://youtu.be/L1qalfZfwEo)) NOTE (hargrove)
 - **Computer session:** Labs 7 and 8 - MCMC fitting in R (optional)
 - Work on group project
 - One-on-one mentoring sessions NOTE **TODO:** assignments
