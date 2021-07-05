@@ -366,7 +366,7 @@ _Reminder:_
 
 
 - 17:30-17:45 **Summary and Discussion:** Data wrangling: Data management and cleaning ((mwangi)) NOTE Used to say I, but we don't know why. Was there a II?
-	* NOTE We usually have a different summarizer than lecturer; should someone volunteer for this?
+	* SHADOW We usually have a different summarizer than lecturer; should someone volunteer for this?
 - 17:45-17:55 **Tutorial 5 Summary** ((dushoff))
 - 17:55-19:00 **Live Lecture:** Introduction to Monte Carlo Markov Chains (MCMC) ((pearson)) NOTE CHECK!!!!!!
 - 19:00-19:30 **Work session:** Group projects
@@ -397,7 +397,7 @@ _Reminder:_
 
 
 - 17:30-17:45 **Summary and Discussion:** Model assessment ((dushoff))
-	* NOTE Someone else!
+	* SHADOW Someone else!
 - 17:45-17:55 Lab 7 Summary ((kassanjee))
 - 17:55-18:05 Lab 8 Summary ((kassanjee))
 - 18:05-18:20 **Summary and Discussion:** Faculty research presentation ((hargrove))
