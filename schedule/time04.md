@@ -303,20 +303,22 @@ _Reminder:_
 #### Interactive session 7a
 
 
+
 - 10:30-11:30 **Lecture:** Likelihood fitting and dynamic models II ([Bobby Reiner]({{site.subdomainurl}}/team/reiner/))
 - 11:30-12:00 **Tutorial review:** Q&A on all tutorials to date ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/) and all)
-- 12:00-12:30 **Work session:** Group projects 
+- 12:00-12:30 **Work session:** Group projects
 
 #### Interactive session 7b
 
 
-- 13:30-14:30  **Interactive lecture:** Participatory coding of a dynamical model ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/) 
+
+- 13:30-14:30  **Interactive lecture:** Participatory coding (Sampling Var & Study Design) ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)
 - 14:30-15:30 **Real-world example:** Faculty research lecture ((hladish))
 
 #### Individual session 7
 
 - **Computer Session:** Lab 6 - MLE fitting of an SIR model to prevalence data
-- **Video lecture:** Data wrangling: Data management and cleaning ([Thumbi Mwangi]({{site.subdomainurl}}/team/mwangi/)) 
+- **Video lecture:** Data wrangling: Data management and cleaning ([Thumbi Mwangi]({{site.subdomainurl}}/team/mwangi/))
 - **Computer Session:** Tutorial 5 - Data cleaning and management in R
 - **Video lecture:** Real-world example (faculty research presentation): [COVID-19 Scenario Modeling Hub Webinar](http://www.youtube.com/watch?v=LowxocbVzmQ) ([Rebecca Borchering]({{site.subdomainurl}}/team/borchering/)) 
 - Work on group project
@@ -346,7 +348,6 @@ _Reminder:_
 #### Individual session 8
 
 - **Video lecture:** Model assessment ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
-- **Video lecture:** Real-world example ([Faculty research presentation](https://youtu.be/L1qalfZfwEo)) 
 - **Computer session:** Labs 7 and 8 - MCMC fitting in R (optional)
 - Work on group project
 - One-on-one mentoring sessions 

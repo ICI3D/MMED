@@ -316,21 +316,23 @@ _Reminder:_
 
 **20:30-22:30 Dhaka / 19:30-21:30 Chennai / 18:30-20:30 Abu Dhabi / 17:30-19:30 Nairobi / 16:30-18:30 SAST / 15:30-17:30 London / 10:30-12:30 New York / 09:30-11:30 Bucaramanga / 07:30-09:30 Seattle**
 
+
 - 16:30-17:30 **Lecture:** Likelihood fitting and dynamic models II ([Bobby Reiner]({{site.subdomainurl}}/team/reiner/))
 - 17:30-18:00 **Tutorial review:** Q&A on all tutorials to date ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/) and all)
-- 18:00-18:30 **Work session:** Group projects 
+- 18:00-18:30 **Work session:** Group projects
 
 #### Interactive session 7b
 
 **23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
 
-- 19:30-20:30  **Interactive lecture:** Participatory coding of a dynamical model ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/) 
+
+- 19:30-20:30  **Interactive lecture:** Participatory coding (Sampling Var & Study Design) ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)
 - 20:30-21:30 **Real-world example:** Faculty research lecture ((hladish))
 
 #### Individual session 7
 
 - **Computer Session:** Lab 6 - MLE fitting of an SIR model to prevalence data
-- **Video lecture:** Data wrangling: Data management and cleaning ([Thumbi Mwangi]({{site.subdomainurl}}/team/mwangi/)) 
+- **Video lecture:** Data wrangling: Data management and cleaning ([Thumbi Mwangi]({{site.subdomainurl}}/team/mwangi/))
 - **Computer Session:** Tutorial 5 - Data cleaning and management in R
 - **Video lecture:** Real-world example (faculty research presentation): [COVID-19 Scenario Modeling Hub Webinar](http://www.youtube.com/watch?v=LowxocbVzmQ) ([Rebecca Borchering]({{site.subdomainurl}}/team/borchering/)) 
 - Work on group project
@@ -362,7 +364,6 @@ _Reminder:_
 #### Individual session 8
 
 - **Video lecture:** Model assessment ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
-- **Video lecture:** Real-world example ([Faculty research presentation](https://youtu.be/L1qalfZfwEo)) 
 - **Computer session:** Labs 7 and 8 - MCMC fitting in R (optional)
 - Work on group project
 - One-on-one mentoring sessions 
