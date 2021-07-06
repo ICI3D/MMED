@@ -372,7 +372,7 @@ SHADOW MC Reshma
 - **Computer Session:** Tutorial 5 - Data cleaning and management in R
 - **Video lecture:** Real-world example (faculty research presentation): [COVID-19 Scenario Modeling Hub Webinar](http://www.youtube.com/watch?v=LowxocbVzmQ) ((borchering)) NOTE could also include recording from DAIDD 2020 on MMODS
 - Work on group project
-- One-on-one mentoring sessions NOTE **TODO:** assignments
+- One-on-one mentoring sessions
 
 _Reminder:_
 
@@ -385,13 +385,17 @@ _Reminder:_
 
 **20:30-22:30 Dhaka / 19:30-21:30 Chennai / 18:30-20:30 Abu Dhabi / 17:30-19:30 Nairobi / 16:30-18:30 SAST / 15:30-17:30 London / 10:30-12:30 New York / 09:30-11:30 Bucaramanga / 07:30-09:30 Seattle**
 
-- 16:30-16:45 **Summary and Discussion:** Data wrangling: Data management and cleaning ((mwangi)) NOTE Used to say I, but we don't know why. Was there a II?
+SHADOW MC Zinhle (JP not present)
+
+- 16:30-16:45 **Summary and Discussion:** Data wrangling: Data management and cleaning ((mwangi))
 	* SHADOW We usually have a different summarizer than lecturer; should someone volunteer for this?
 - 16:45-16:55 **Tutorial 5 Summary** ((dushoff))
-- 16:55-18:00 **Live Lecture:** Introduction to Monte Carlo Markov Chains (MCMC) ((pearson)) NOTE CHECK!!!!!!
+- 16:55-18:00 **Live Lecture:** Introduction to Monte Carlo Markov Chains (MCMC) ((pearson))
 - 18:00-18:30 **Work session:** Group projects
 
 #### Interactive session 8b
+
+SHADOW MC Larisse
 
 **23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
 
@@ -402,9 +406,10 @@ _Reminder:_
 #### Individual session 8
 
 - **Video lecture:** Model assessment ((dushoff))
-- **Computer session:** Labs 7 and 8 - MCMC fitting in R (optional)
+- **Computer session:** Lab 7 - MCMC fitting in R
+- **Computer session:** Lab 8 - MCMC fitting in R (optional)
 - Work on group project
-- One-on-one mentoring sessions NOTE **TODO:** assignments
+- One-on-one mentoring sessions
 
 _Reminder:_
 
@@ -419,8 +424,8 @@ _Reminder:_
 
 - 16:30-16:45 **Summary and Discussion:** Model assessment ((dushoff))
 	* SHADOW Someone else!
-- 16:45-16:55 Lab 7 Summary ((kassanjee))
-- 16:55-17:05 Lab 8 Summary ((kassanjee))
+- 16:45-16:55 **Lab 6 Summary** ((reiner))
+- 16:55-17:05 Lab 7 Summary ((kassanjee))
 - 17:05-17:20 **Summary and Discussion:** Faculty research presentation ((hargrove))
 - 17:20-18:30  **Work session:** Group projects and One-on-one mentoring sessions (cross-time zone) NOTE 90 mins REALLY?? **TODO** think we need at least 30 mins additional structured time...
 
@@ -428,7 +433,8 @@ _Reminder:_
 
 **23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
 
-- 19:30-20:30 Special topic sessions / group mentoring (TBD) NOTE **TODO** - what??? as requested by participants? or faculty / guest lecture??
+- 19:30-19:40 Lab 8 Summary ((kassanjee))
+- 19:40-20:30 Special topic sessions / group mentoring (TBD) NOTE **TODO** - what??? as requested by participants? or faculty / guest lecture??
 - 20:30-21:30 Special topic sessions / group mentoring (TBD) NOTE **TODO** - what??? as requested by participants?
 - SHADOW 21:30-22:00 Faculty meeting
 
