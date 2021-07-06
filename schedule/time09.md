@@ -313,7 +313,7 @@ _Reminder:_
 
 
 - 18:30-19:30  **Interactive lecture:** Study design and simulation-based validation ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)
-- 19:30-20:30 **Real-world example:** Faculty research lecture ((hladish))
+- 19:30-20:30 **Real-world example:** [Faculty research lecture](../talks/hladish) ((hladish))
 
 #### Individual session 7
 
@@ -343,7 +343,7 @@ _Reminder:_
 
 
 - 18:30-19:30 **Interactive session:** Modelling for policy (Moderators: [Rebecca Borchering]({{site.subdomainurl}}/team/borchering/) and [Carl Pearson]({{site.subdomainurl}}/team/pearson/))
-- 19:30-20:30 **Real-world example:** Faculty research lecture ([Michael Li]({{site.subdomainurl}}/team/li/))
+- 19:30-20:30 **Real-world example:** [Faculty research lecture](../talks/li) ([Michael Li]({{site.subdomainurl}}/team/li/))
 
 #### Individual session 8
 

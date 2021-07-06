@@ -43,6 +43,8 @@ subtitle: ICI3D R tutorials and labs
 ## Participatory Coding Archive
 
 - Participatory Coding (Dynamic Modeling) 2018 - What level of rabies vaccination is necessary to eliminate rabies in Tanzanian dogs?
+    - Deterministic model (Difference equations) ([Carl Pearson](../team/pearson)) - [Code from session](https://github.com/ICI3D/MMEDparticipants/raw/master/Resources/PearsonLiveCoding2021.R)
+- Participatory Coding (Dynamic Modeling) 2018 - What level of rabies vaccination is necessary to eliminate rabies in Tanzanian dogs?
     - Deterministic model (Difference equations) ([Carl Pearson](../team/pearson)) - [Code from session](https://github.com/ICI3D/MMEDparticipants/raw/master/Resources/PearsonLiveCodingSEIV.zip)
     - Stochastic model (Chain binomial SEIV) ([Carl Pearson](../team/pearson)) - [Code from session](https://github.com/ICI3D/MMEDparticipants/raw/master/Resources/PearsonLiveCodingSEIV_cb.R)
 - Participatory Coding (Sampling Var & Study Design) 2018 - Is aidamycin superior to cotrim for treating malaria (under construction)?

@@ -361,7 +361,7 @@ SHADOW MC Cari
 
 SHADOW MC Reshma
 - 19:30-20:30  **Interactive lecture:** Study design and simulation-based validation ((dushoff)
-- 20:30-21:30 **Real-world example:** Faculty research lecture ((hladish))
+- 20:30-21:30 **Real-world example:** [Faculty research lecture](../talks/hladish) ((hladish))
 - SHADOW 21:30-22:00 Faculty meeting
 
 #### Individual session 7
@@ -395,7 +395,7 @@ _Reminder:_
 **23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
 
 - 19:30-20:30 **Interactive session:** Modelling for policy (Moderators: (borchering) and (pearson))
-- 20:30-21:30 **Real-world example:** Faculty research lecture ((li))
+- 20:30-21:30 **Real-world example:** [Faculty research lecture](../talks/li) ((li))
 - SHADOW 21:30-22:00 Faculty meeting
 
 #### Individual session 8
