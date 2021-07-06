@@ -337,7 +337,7 @@ _Reminder:_
 - **Computer Session:** Tutorial 5 - Data cleaning and management in R
 - **Video lecture:** Real-world example (faculty research presentation): [COVID-19 Scenario Modeling Hub Webinar](http://www.youtube.com/watch?v=LowxocbVzmQ) ([Rebecca Borchering]({{site.subdomainurl}}/team/borchering/)) 
 - Work on group project
-- One-on-one mentoring sessions 
+- One-on-one mentoring sessions
 
 _Reminder:_
 
@@ -350,12 +350,14 @@ _Reminder:_
 
 **20:30-22:30 Dhaka / 19:30-21:30 Chennai / 18:30-20:30 Abu Dhabi / 17:30-19:30 Nairobi / 16:30-18:30 SAST / 15:30-17:30 London / 10:30-12:30 New York / 09:30-11:30 Bucaramanga / 07:30-09:30 Seattle**
 
-- 16:30-16:45 **Summary and Discussion:** Data wrangling: Data management and cleaning ([Thumbi Mwangi]({{site.subdomainurl}}/team/mwangi/)) 
+
+- 16:30-16:45 **Summary and Discussion:** Data wrangling: Data management and cleaning ([Thumbi Mwangi]({{site.subdomainurl}}/team/mwangi/))
 - 16:45-16:55 **Tutorial 5 Summary** ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
-- 16:55-18:00 **Live Lecture:** Introduction to Monte Carlo Markov Chains (MCMC) ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
+- 16:55-18:00 **Live Lecture:** Introduction to Monte Carlo Markov Chains (MCMC) ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
 - 18:00-18:30 **Work session:** Group projects
 
 #### Interactive session 8b
+
 
 **23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
 
@@ -365,9 +367,10 @@ _Reminder:_
 #### Individual session 8
 
 - **Video lecture:** Model assessment ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
-- **Computer session:** Labs 7 and 8 - MCMC fitting in R (optional)
+- **Computer session:** Lab 7 - MCMC fitting in R
+- **Computer session:** Lab 8 - MCMC fitting in R (optional)
 - Work on group project
-- One-on-one mentoring sessions 
+- One-on-one mentoring sessions
 
 _Reminder:_
 
@@ -381,8 +384,8 @@ _Reminder:_
 **20:30-22:30 Dhaka / 19:30-21:30 Chennai / 18:30-20:30 Abu Dhabi / 17:30-19:30 Nairobi / 16:30-18:30 SAST / 15:30-17:30 London / 10:30-12:30 New York / 09:30-11:30 Bucaramanga / 07:30-09:30 Seattle**
 
 - 16:30-16:45 **Summary and Discussion:** Model assessment ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
-- 16:45-16:55 Lab 7 Summary ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
-- 16:55-17:05 Lab 8 Summary ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
+- 16:45-16:55 **Lab 6 Summary** ([Bobby Reiner]({{site.subdomainurl}}/team/reiner/))
+- 16:55-17:05 Lab 7 Summary ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
 - 17:05-17:20 **Summary and Discussion:** Faculty research presentation ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
 - 17:20-18:30  **Work session:** Group projects and One-on-one mentoring sessions (cross-time zone) 
 
@@ -390,7 +393,8 @@ _Reminder:_
 
 **23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
 
-- 19:30-20:30 Special topic sessions / group mentoring (TBD) 
+- 19:30-19:40 Lab 8 Summary ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
+- 19:40-20:30 Special topic sessions / group mentoring (TBD) 
 - 20:30-21:30 Special topic sessions / group mentoring (TBD) 
 
 #### Individual session 9
