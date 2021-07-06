@@ -310,7 +310,7 @@ _Reminder:_
 #### Interactive session 7b
 
 
-- 10:30-11:30  **Interactive lecture:** Participatory coding of a dynamical model ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/) 
+- 10:30-11:30  **Interactive lecture:** Study design and simulation-based validation ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)
 - 11:30-12:30 **Real-world example:** Faculty research lecture ((hladish))
 
 #### Individual session 7

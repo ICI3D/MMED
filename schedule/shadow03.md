@@ -342,7 +342,7 @@ _Reminder:_
 #### Interactive session 7b
 
 
-- 12:30-13:30  **Interactive lecture:** Participatory coding of a dynamical model ((dushoff) NOTE **TODO** - what??? as requested by participants? could potentially do mcmc here since they requested live lectures???
+- 12:30-13:30  **Interactive lecture:** Study design and simulation-based validation ((dushoff)
 - 13:30-14:30 **Real-world example:** Faculty research lecture ((hladish))
 - SHADOW 14:30-15:00 Faculty meeting
 
