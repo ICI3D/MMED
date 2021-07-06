@@ -354,6 +354,7 @@ SHADOW MC Reshma
 
 - **Computer Session:** Lab 6 - MLE fitting of an SIR model to prevalence data
 - **Video lecture:** Data wrangling: Data management and cleaning ((mwangi))
+	* [Video](https://youtu.be/nfGytov-jUE)
 - **Computer Session:** Tutorial 5 - Data cleaning and management in R
 - **Video lecture:** Real-world example (faculty research presentation): [COVID-19 Scenario Modeling Hub Webinar](http://www.youtube.com/watch?v=LowxocbVzmQ) ((borchering)) NOTE could also include recording from DAIDD 2020 on MMODS
 - Work on group project
