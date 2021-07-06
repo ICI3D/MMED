@@ -25,7 +25,7 @@ alertmsg: >
     - **Faculty:** Juliet and Cari
     - **Group members:** Liz, Belinda, Youngji, Shade
 - [Using transmission models to inform trial design for dengue](./dengueTrials)
-    - **Faculty:** Bobby and Becky
+    - **Faculty:** Bobby, Becky, and Zinhle
     - **Group members:** Olatunji, Ziya, Wesley, Lameck
 - [Heterogeneity and disease invasion](./stochInv)
     - **Faculty:** Jonathan and Mutono
