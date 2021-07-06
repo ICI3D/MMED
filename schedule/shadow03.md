@@ -335,13 +335,16 @@ _Reminder:_
 #### Interactive session 7a
 
 
+SHADOW MC Cari
+
 - 09:30-10:30 **Lecture:** Likelihood fitting and dynamic models II ((reiner))
 - 10:30-11:00 **Tutorial review:** Q&A on all tutorials to date ((pulliam) and all)
-- 11:00-11:30 **Work session:** Group projects NOTE does it make sense to have these during interactive sessions? I think so...
+- 11:00-11:30 **Work session:** Group projects
 
 #### Interactive session 7b
 
 
+SHADOW MC Reshma
 - 12:30-13:30  **Interactive lecture:** Study design and simulation-based validation ((dushoff)
 - 13:30-14:30 **Real-world example:** Faculty research lecture ((hladish))
 - SHADOW 14:30-15:00 Faculty meeting
@@ -349,11 +352,11 @@ _Reminder:_
 #### Individual session 7
 
 - **Computer Session:** Lab 6 - MLE fitting of an SIR model to prevalence data
-- **Video lecture:** Data wrangling: Data management and cleaning ((mwangi)) NOTE Why I?? Should there be a II?
+- **Video lecture:** Data wrangling: Data management and cleaning ((mwangi))
 - **Computer Session:** Tutorial 5 - Data cleaning and management in R
 - **Video lecture:** Real-world example (faculty research presentation): [COVID-19 Scenario Modeling Hub Webinar](http://www.youtube.com/watch?v=LowxocbVzmQ) ((borchering)) NOTE could also include recording from DAIDD 2020 on MMODS
 - Work on group project
-- One-on-one mentoring sessions NOTE **TODO:** assignments; include? maybe too much material?
+- One-on-one mentoring sessions NOTE **TODO:** assignments
 
 _Reminder:_
 
@@ -381,7 +384,6 @@ _Reminder:_
 #### Individual session 8
 
 - **Video lecture:** Model assessment ((dushoff))
-- **Video lecture:** Real-world example ([Faculty research presentation](https://youtu.be/L1qalfZfwEo)) NOTE (hargrove)
 - **Computer session:** Labs 7 and 8 - MCMC fitting in R (optional)
 - Work on group project
 - One-on-one mentoring sessions NOTE **TODO:** assignments
