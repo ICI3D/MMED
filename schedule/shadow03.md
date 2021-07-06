@@ -292,7 +292,8 @@ _Reminder:_
 
 SHADOW MC Becky
 
-- 09:30-10:15 **Interactive lecture:** Doing Science ((dushoff))
+- 09:30-10:15 **Interactive lecture:** Data, models and science ((dushoff))
+	- [Slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.draft.pdf)
 - 10:15-10:30 **Organizational session:** Schedule and goals for the second week ((borchering))
 - 10:30-11:15 **Computer session:** Introduction to GitHub (discussion and tutorial) ((pearson))
 - 11:15-11:30 **Summary and Discussion:**  Likelihood fitting and dynamic models, Part 1: Dynamic Model Fitting and Inference Robustness ((pulliam))
