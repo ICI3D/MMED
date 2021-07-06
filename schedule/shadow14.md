@@ -292,7 +292,8 @@ _Reminder:_
 
 SHADOW MC Becky
 
-- 20:30-21:15 **Interactive lecture:** Doing Science ((dushoff))
+- 20:30-21:15 **Interactive lecture:** Data, models and science ((dushoff))
+	- [Slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.draft.pdf)
 - 21:15-21:30 **Organizational session:** Schedule and goals for the second week ((borchering))
 - 21:30-22:15 **Computer session:** Introduction to GitHub (discussion and tutorial) ((pearson))
 - 22:15-22:30 **Summary and Discussion:**  Likelihood fitting and dynamic models, Part 1: Dynamic Model Fitting and Inference Robustness ((pulliam))
@@ -345,8 +346,7 @@ SHADOW MC Cari
 
 
 SHADOW MC Reshma
-
-- 23:30-00:30  **Interactive lecture:** Participatory coding (Sampling Var & Study Design) ((dushoff)
+- 23:30-00:30  **Interactive lecture:** Study design and simulation-based validation ((dushoff)
 - 00:30-01:30 **Real-world example:** Faculty research lecture ((hladish))
 - SHADOW 01:30-02:00 Faculty meeting
 

@@ -263,7 +263,8 @@ _Reminder:_
 
 
 
-- 20:30-21:15 **Interactive lecture:** Doing Science ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
+- 20:30-21:15 **Interactive lecture:** Data, models and science ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
+	- [Slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.draft.pdf)
 - 21:15-21:30 **Organizational session:** Schedule and goals for the second week ([Rebecca Borchering]({{site.subdomainurl}}/team/borchering/))
 - 21:30-22:15 **Computer session:** Introduction to GitHub (discussion and tutorial) ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
 - 22:15-22:30 **Summary and Discussion:**  Likelihood fitting and dynamic models, Part 1: Dynamic Model Fitting and Inference Robustness ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
@@ -311,8 +312,7 @@ _Reminder:_
 #### Interactive session 7b
 
 
-
-- 23:30-00:30  **Interactive lecture:** Participatory coding (Sampling Var & Study Design) ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)
+- 23:30-00:30  **Interactive lecture:** Study design and simulation-based validation ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)
 - 00:30-01:30 **Real-world example:** Faculty research lecture ((hladish))
 
 #### Individual session 7

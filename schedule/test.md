@@ -274,7 +274,8 @@ _Reminder:_
 **20:30-22:30 Dhaka / 19:30-21:30 Chennai / 18:30-20:30 Abu Dhabi / 17:30-19:30 Nairobi / 16:30-18:30 SAST / 15:30-17:30 London / 10:30-12:30 New York / 09:30-11:30 Bucaramanga / 07:30-09:30 Seattle**
 
 
-- 16:30-17:15 **Interactive lecture:** Doing Science ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
+- 16:30-17:15 **Interactive lecture:** Data, models and science ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
+	- [Slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.draft.pdf)
 - 17:15-17:30 **Organizational session:** Schedule and goals for the second week ([Rebecca Borchering]({{site.subdomainurl}}/team/borchering/))
 - 17:30-18:15 **Computer session:** Introduction to GitHub (discussion and tutorial) ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
 - 18:15-18:30 **Summary and Discussion:**  Likelihood fitting and dynamic models, Part 1: Dynamic Model Fitting and Inference Robustness ([Juliet Pulliam]({{site.subdomainurl}}/team/pulliam/))
@@ -325,8 +326,7 @@ _Reminder:_
 
 **23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
 
-
-- 19:30-20:30  **Interactive lecture:** Participatory coding (Sampling Var & Study Design) ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)
+- 19:30-20:30  **Interactive lecture:** Study design and simulation-based validation ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/)
 - 20:30-21:30 **Real-world example:** Faculty research lecture ((hladish))
 
 #### Individual session 7
