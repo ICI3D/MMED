@@ -21,7 +21,9 @@ subtitle: Resources for during and after the Clinic
     - [R for Data Science](http://r4ds.had.co.nz/)
     - [R Studio Data Wrangling Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
     - [R Bootcamp](https://r-bootcamp.netlify.com/) - specifically for learning tidyverse
+    - [Epirecipes project](http://epirecip.es/epicookbook/) - not just R!
 - Learning Git and GitHub
+    - [Happy Git with R](https://happygitwithr.com/)
     - [GitHub Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
     - [An example GitHub workflow for an MMED Project Group](./gitWorkflow.md) - To be added
 - More fun things
