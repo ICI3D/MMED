@@ -405,6 +405,8 @@ _Reminder:_
 #### Interactive session 9a
 
 
+SHADOW MC Pulliam!!!!!!
+
 - 09:30-09:45 **Summary and Discussion:** Model assessment ((dushoff))
 	* SHADOW Someone else!
 - 09:45-09:55 **Lab 6 Summary** ((reiner))
