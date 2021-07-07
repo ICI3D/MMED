@@ -373,7 +373,6 @@ _Reminder:_
 SHADOW MC Zinhle (JP not present)
 
 - 07:30-07:45 **Summary and Discussion:** Data wrangling: Data management and cleaning ((mwangi))
-	* SHADOW We usually have a different summarizer than lecturer; should someone volunteer for this?
 - 07:45-07:55 **Tutorial 5 Summary** ((dushoff))
 - 07:55-09:00 **Live Lecture:** Introduction to Monte Carlo Markov Chains (MCMC) ((pearson))
 - 09:00-09:30 **Work session:** Group projects
