@@ -417,8 +417,7 @@ SHADOW MC Pulliam!!!!!!
 
 
 - 13:30-13:50 Labs 7 and 8 Summary ((kassanjee))
-- 13:40-14:30 Special topic sessions / group mentoring (TBD) NOTE **TODO** - what??? as requested by participants? or faculty / guest lecture??
-- 14:30-15:30 Special topic sessions / group mentoring (TBD) NOTE **TODO** - what??? as requested by participants?
+- 13:50-15:30 **Work session:** Group projects and One-on-one mentoring sessions
 - SHADOW 15:30-16:00 Faculty meeting
 
 #### Individual session 9

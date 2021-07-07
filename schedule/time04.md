@@ -377,8 +377,7 @@ _Reminder:_
 
 
 - 13:30-13:50 Labs 7 and 8 Summary ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
-- 13:40-14:30 Special topic sessions / group mentoring (TBD) 
-- 14:30-15:30 Special topic sessions / group mentoring (TBD) 
+- 13:50-15:30 **Work session:** Group projects and One-on-one mentoring sessions
 
 #### Individual session 9
 
