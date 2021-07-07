@@ -354,10 +354,11 @@ SHADOW MC Reshma
 
 - **Computer Session:** Lab 6 - MLE fitting of an SIR model to prevalence data
 - **Video lecture:** Data wrangling: Data management and cleaning ((mwangi))
+	* [Video](https://youtu.be/nfGytov-jUE)
 - **Computer Session:** Tutorial 5 - Data cleaning and management in R
 - **Video lecture:** Real-world example (faculty research presentation): [COVID-19 Scenario Modeling Hub Webinar](http://www.youtube.com/watch?v=LowxocbVzmQ) ((borchering)) NOTE could also include recording from DAIDD 2020 on MMODS
 - Work on group project
-- One-on-one mentoring sessions NOTE **TODO:** assignments
+- One-on-one mentoring sessions
 
 _Reminder:_
 
@@ -369,13 +370,16 @@ _Reminder:_
 #### Interactive session 8a
 
 
-- 18:30-18:45 **Summary and Discussion:** Data wrangling: Data management and cleaning ((mwangi)) NOTE Used to say I, but we don't know why. Was there a II?
-	* SHADOW We usually have a different summarizer than lecturer; should someone volunteer for this?
+SHADOW MC Zinhle (JP not present)
+
+- 18:30-18:45 **Summary and Discussion:** Data wrangling: Data management and cleaning ((mwangi))
 - 18:45-18:55 **Tutorial 5 Summary** ((dushoff))
-- 18:55-20:00 **Live Lecture:** Introduction to Monte Carlo Markov Chains (MCMC) ((pearson)) NOTE CHECK!!!!!!
+- 18:55-20:00 **Live Lecture:** Introduction to Monte Carlo Markov Chains (MCMC) ((pearson))
 - 20:00-20:30 **Work session:** Group projects
 
 #### Interactive session 8b
+
+SHADOW MC Larisse
 
 
 - 21:30-22:30 **Interactive session:** Modelling for policy (Moderators: (borchering) and (pearson))
@@ -385,9 +389,10 @@ _Reminder:_
 #### Individual session 8
 
 - **Video lecture:** Model assessment ((dushoff))
-- **Computer session:** Labs 7 and 8 - MCMC fitting in R (optional)
+- **Computer session:** Lab 7 - MCMC fitting in R
+- **Computer session:** Lab 8 - MCMC fitting in R (optional)
 - Work on group project
-- One-on-one mentoring sessions NOTE **TODO:** assignments
+- One-on-one mentoring sessions
 
 _Reminder:_
 
@@ -401,15 +406,16 @@ _Reminder:_
 
 - 18:30-18:45 **Summary and Discussion:** Model assessment ((dushoff))
 	* SHADOW Someone else!
-- 18:45-18:55 Lab 7 Summary ((kassanjee))
-- 18:55-19:05 Lab 8 Summary ((kassanjee))
+- 18:45-18:55 **Lab 6 Summary** ((reiner))
+- 18:55-19:05 Lab 7 Summary ((kassanjee))
 - 19:05-19:20 **Summary and Discussion:** Faculty research presentation ((hargrove))
 - 19:20-20:30  **Work session:** Group projects and One-on-one mentoring sessions (cross-time zone) NOTE 90 mins REALLY?? **TODO** think we need at least 30 mins additional structured time...
 
 #### Interactive session 9b
 
 
-- 21:30-22:30 Special topic sessions / group mentoring (TBD) NOTE **TODO** - what??? as requested by participants? or faculty / guest lecture??
+- 21:30-21:40 Lab 8 Summary ((kassanjee))
+- 21:40-22:30 Special topic sessions / group mentoring (TBD) NOTE **TODO** - what??? as requested by participants? or faculty / guest lecture??
 - 22:30-23:30 Special topic sessions / group mentoring (TBD) NOTE **TODO** - what??? as requested by participants?
 - SHADOW 23:30-00:00 Faculty meeting
 

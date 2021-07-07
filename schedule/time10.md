@@ -319,10 +319,11 @@ _Reminder:_
 
 - **Computer Session:** Lab 6 - MLE fitting of an SIR model to prevalence data
 - **Video lecture:** Data wrangling: Data management and cleaning ([Thumbi Mwangi]({{site.subdomainurl}}/team/mwangi/))
+	* [Video](https://youtu.be/nfGytov-jUE)
 - **Computer Session:** Tutorial 5 - Data cleaning and management in R
 - **Video lecture:** Real-world example (faculty research presentation): [COVID-19 Scenario Modeling Hub Webinar](http://www.youtube.com/watch?v=LowxocbVzmQ) ([Rebecca Borchering]({{site.subdomainurl}}/team/borchering/)) 
 - Work on group project
-- One-on-one mentoring sessions 
+- One-on-one mentoring sessions
 
 _Reminder:_
 
@@ -334,12 +335,14 @@ _Reminder:_
 #### Interactive session 8a
 
 
-- 16:30-16:45 **Summary and Discussion:** Data wrangling: Data management and cleaning ([Thumbi Mwangi]({{site.subdomainurl}}/team/mwangi/)) 
+
+- 16:30-16:45 **Summary and Discussion:** Data wrangling: Data management and cleaning ([Thumbi Mwangi]({{site.subdomainurl}}/team/mwangi/))
 - 16:45-16:55 **Tutorial 5 Summary** ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
-- 16:55-18:00 **Live Lecture:** Introduction to Monte Carlo Markov Chains (MCMC) ([Carl Pearson]({{site.subdomainurl}}/team/pearson/)) 
+- 16:55-18:00 **Live Lecture:** Introduction to Monte Carlo Markov Chains (MCMC) ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
 - 18:00-18:30 **Work session:** Group projects
 
 #### Interactive session 8b
+
 
 
 - 19:30-20:30 **Interactive session:** Modelling for policy (Moderators: [Rebecca Borchering]({{site.subdomainurl}}/team/borchering/) and [Carl Pearson]({{site.subdomainurl}}/team/pearson/))
@@ -348,9 +351,10 @@ _Reminder:_
 #### Individual session 8
 
 - **Video lecture:** Model assessment ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
-- **Computer session:** Labs 7 and 8 - MCMC fitting in R (optional)
+- **Computer session:** Lab 7 - MCMC fitting in R
+- **Computer session:** Lab 8 - MCMC fitting in R (optional)
 - Work on group project
-- One-on-one mentoring sessions 
+- One-on-one mentoring sessions
 
 _Reminder:_
 
@@ -363,15 +367,16 @@ _Reminder:_
 
 
 - 16:30-16:45 **Summary and Discussion:** Model assessment ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
-- 16:45-16:55 Lab 7 Summary ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
-- 16:55-17:05 Lab 8 Summary ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
+- 16:45-16:55 **Lab 6 Summary** ([Bobby Reiner]({{site.subdomainurl}}/team/reiner/))
+- 16:55-17:05 Lab 7 Summary ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
 - 17:05-17:20 **Summary and Discussion:** Faculty research presentation ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
 - 17:20-18:30  **Work session:** Group projects and One-on-one mentoring sessions (cross-time zone) 
 
 #### Interactive session 9b
 
 
-- 19:30-20:30 Special topic sessions / group mentoring (TBD) 
+- 19:30-19:40 Lab 8 Summary ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
+- 19:40-20:30 Special topic sessions / group mentoring (TBD) 
 - 20:30-21:30 Special topic sessions / group mentoring (TBD) 
 
 #### Individual session 9
