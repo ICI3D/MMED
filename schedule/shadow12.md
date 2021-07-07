@@ -407,14 +407,13 @@ _Reminder:_
 - 18:30-18:45 **Summary and Discussion:** Model assessment ((dushoff))
 	* SHADOW Someone else!
 - 18:45-18:55 **Lab 6 Summary** ((reiner))
-- 18:55-19:05 Lab 7 Summary ((kassanjee))
-- 19:05-19:20 **Summary and Discussion:** Faculty research presentation ((hargrove))
-- 19:20-20:30  **Work session:** Group projects and One-on-one mentoring sessions (cross-time zone) NOTE 90 mins REALLY?? **TODO** think we need at least 30 mins additional structured time...
+- 18:55-19:10 **Summary and Discussion:** Faculty research presentation ((hargrove))
+- 19:10-20:30 **Work session:** Group projects and One-on-one mentoring sessions (cross-time zone)
 
 #### Interactive session 9b
 
 
-- 21:30-21:40 Lab 8 Summary ((kassanjee))
+- 21:30-21:50 Labs 7 and 8 Summary ((kassanjee))
 - 21:40-22:30 Special topic sessions / group mentoring (TBD) NOTE **TODO** - what??? as requested by participants? or faculty / guest lecture??
 - 22:30-23:30 Special topic sessions / group mentoring (TBD) NOTE **TODO** - what??? as requested by participants?
 - SHADOW 23:30-00:00 Faculty meeting

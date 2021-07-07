@@ -368,14 +368,13 @@ _Reminder:_
 
 - 20:30-20:45 **Summary and Discussion:** Model assessment ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
 - 20:45-20:55 **Lab 6 Summary** ([Bobby Reiner]({{site.subdomainurl}}/team/reiner/))
-- 20:55-21:05 Lab 7 Summary ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
-- 21:05-21:20 **Summary and Discussion:** Faculty research presentation ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
-- 21:20-22:30  **Work session:** Group projects and One-on-one mentoring sessions (cross-time zone) 
+- 20:55-21:10 **Summary and Discussion:** Faculty research presentation ([John Hargrove]({{site.subdomainurl}}/team/hargrove/))
+- 21:10-22:30 **Work session:** Group projects and One-on-one mentoring sessions (cross-time zone)
 
 #### Interactive session 9b
 
 
-- 23:30-23:40 Lab 8 Summary ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
+- 23:30-23:50 Labs 7 and 8 Summary ([Reshma Kassanjee]({{site.subdomainurl}}/team/kassanjee/))
 - 23:40-00:30 Special topic sessions / group mentoring (TBD) 
 - 00:30-01:30 Special topic sessions / group mentoring (TBD) 
 
