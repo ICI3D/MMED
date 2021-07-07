@@ -6,7 +6,7 @@ title: Project Reports
 subtitle: Project Report Guidelines
 ---
 
--   Each group should submit a written report on the group's progress **by August 1**. Reports should be 6–10 pages (not more).
+-   Each group should submit a written report on the group's progress **by September 1**. Reports should be 6–10 pages (not more).
 -   Reports should include the following elements:
     -   **Brief introduction** - State your research question/s, describe the data available, and outline your approach.
     -   **Methods** - Give a detailed account of your methods, including statistical and dynamical modeling. Also describe what you know about how the data were collected, including who collected the data and for what purpose. Include a link to your code repository in this section.
