@@ -404,7 +404,8 @@ SHADOW MC Larisse
 
 #### Individual session 8
 
-- **Video lecture:** Model assessment ((dushoff))
+- [**Video lecture:** Model assessment](https://www.youtube.com/watch?v=5HET6IDc8Jw) ((dushoff))
+	* [Handouts](https://github.com/dushoff/statistics_talks/blob/master/outputs/evaluation.handouts.pdf); [Slides](https://github.com/dushoff/statistics_talks/blob/master/outputs/evaluation.draft.pdf)
 - **Computer session:** Lab 7 - MCMC fitting in R
 - **Computer session:** Lab 8 - MCMC fitting in R (optional)
 - Work on group project
