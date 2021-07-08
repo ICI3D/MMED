@@ -42,4 +42,4 @@ You can structure your presentation however you like. We recommend including the
 
 **Next steps** (1-3 slides) -- Where are you headed next? Are there any particular aspects of your project on which you would like feedback? Are there any aspects of what you've proposed that you find particularly daunting, or have you gotten stuck anywhere that others may be able to help with?
 
-**Goals** (1 slide) -- What are your concrete goals for accomplishments that will be included on your final report (**due Aug 1**)?
+**Goals** (1 slide) -- What are your concrete goals for accomplishments that will be included on your final report (**due Sep 1**)?
