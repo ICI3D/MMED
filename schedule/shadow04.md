@@ -253,7 +253,7 @@ SHADOW: Larisse to MC
 #### Interactive session 5b
 
 
-- 13:30-14:30 **Mentor presentations** (Moderator: (reiner)) NOTE BR willing to moderate?
+- 13:30-14:30 **Mentor presentations** (Moderator: (reiner))
 - 14:30-15:30 **Mid-session feedback** ((bruce)) NOTE (60 mins)
 - SHADOW 15:30-16:00 Faculty meeting (CANCELLED, have some fun!)
 
@@ -437,7 +437,7 @@ _Reminder:_
 #### Interactive session 10a
 
 
-- 10:30-12:30 **Group project presentations** NOTE **TODO:** assign moderator!
+- 10:30-12:30 **Group project presentations** ((bolton))
 
 #### Interactive session 10b
 

@@ -227,7 +227,7 @@ _Reminder:_
 #### Interactive session 5b
 
 
-- 19:30-20:30 **Mentor presentations** (Moderator: [Bobby Reiner]({{site.subdomainurl}}/team/reiner/)) 
+- 19:30-20:30 **Mentor presentations** (Moderator: [Bobby Reiner]({{site.subdomainurl}}/team/reiner/))
 - 20:30-21:30 **Mid-session feedback** ([Faikah Bruce]({{site.subdomainurl}}/team/bruce/)) 
 
 #### Individual session 5
@@ -397,7 +397,7 @@ _Reminder:_
 #### Interactive session 10a
 
 
-- 16:30-18:30 **Group project presentations** 
+- 16:30-18:30 **Group project presentations** ([Larisse Bolton]({{site.subdomainurl}}/team/bolton/))
 
 #### Interactive session 10b
 

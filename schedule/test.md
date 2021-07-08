@@ -237,7 +237,7 @@ _Reminder:_
 
 **23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
 
-- 19:30-20:30 **Mentor presentations** (Moderator: [Bobby Reiner]({{site.subdomainurl}}/team/reiner/)) 
+- 19:30-20:30 **Mentor presentations** (Moderator: [Bobby Reiner]({{site.subdomainurl}}/team/reiner/))
 - 20:30-21:30 **Mid-session feedback** ([Faikah Bruce]({{site.subdomainurl}}/team/bruce/)) 
 
 #### Individual session 5
@@ -416,7 +416,7 @@ _Reminder:_
 
 **20:30-22:30 Dhaka / 19:30-21:30 Chennai / 18:30-20:30 Abu Dhabi / 17:30-19:30 Nairobi / 16:30-18:30 SAST / 15:30-17:30 London / 10:30-12:30 New York / 09:30-11:30 Bucaramanga / 07:30-09:30 Seattle**
 
-- 16:30-18:30 **Group project presentations** 
+- 16:30-18:30 **Group project presentations** ([Larisse Bolton]({{site.subdomainurl}}/team/bolton/))
 
 #### Interactive session 10b
 
