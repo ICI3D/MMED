@@ -383,7 +383,7 @@ _Reminder:_
 
 - Tutorial catch-up, as needed
 - Work on group project
-    - **Finalise project presentations and upload to Teams by 17:30**
+    - **Finalize project presentations and upload to Teams (00_FinalPresentations folder) by 17:30**
 - One-on-one mentoring sessions 
 
 _Reminder:_
