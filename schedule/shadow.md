@@ -442,8 +442,8 @@ SHADOW MC Pulliam!!!!!!
 
 - Tutorial catch-up, as needed
 - Work on group project
-    - **Finalise project presentations and upload to Teams by 15:30**
-- One-on-one mentoring sessions NOTE **TODO:** assignments
+    - **Finalize project presentations and upload to Teams (00_FinalPresentations folder) by 15:30**
+- One-on-one mentoring sessions 
 
 _Reminder:_
 
