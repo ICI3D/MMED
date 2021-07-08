@@ -338,6 +338,7 @@ _Reminder:_
 
 - 16:30-16:45 **Summary and Discussion:** Data wrangling: Data management and cleaning ([Thumbi Mwangi]({{site.subdomainurl}}/team/mwangi/))
 - 16:45-16:55 **Tutorial 5 Summary** ([Jonathan Dushoff]({{site.subdomainurl}}/team/dushoff/))
+	* [Final worked version of tutorial](https://github.com/ICI3D/RTutorials/blob/c5f5408a7472884df3a3c43e79787a8670375629/ICI3D_RTutorial_5_DataCleaning.R)
 - 16:55-18:00 **Live Lecture:** Introduction to Monte Carlo Markov Chains (MCMC) ([Carl Pearson]({{site.subdomainurl}}/team/pearson/))
 - 18:00-18:30 **Work session:** Group projects
 

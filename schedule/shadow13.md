@@ -374,6 +374,7 @@ SHADOW MC Zinhle (JP not present)
 
 - 19:30-19:45 **Summary and Discussion:** Data wrangling: Data management and cleaning ((mwangi))
 - 19:45-19:55 **Tutorial 5 Summary** ((dushoff))
+	* [Final worked version of tutorial](https://github.com/ICI3D/RTutorials/blob/c5f5408a7472884df3a3c43e79787a8670375629/ICI3D_RTutorial_5_DataCleaning.R)
 - 19:55-21:00 **Live Lecture:** Introduction to Monte Carlo Markov Chains (MCMC) ((pearson))
 - 21:00-21:30 **Work session:** Group projects
 
@@ -408,7 +409,6 @@ _Reminder:_
 SHADOW MC Pulliam!!!!!!
 
 - 19:30-19:45 **Summary and Discussion:** Model assessment ((dushoff))
-	* SHADOW Someone else!
 - 19:45-19:55 **Lab 6 Summary** ((reiner))
 - 19:55-20:10 **Summary and Discussion:** Faculty research presentation ((hargrove))
 - 20:10-21:30 **Work session:** Group projects and One-on-one mentoring sessions (cross-time zone)
