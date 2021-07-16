@@ -46,7 +46,7 @@ Sources += ICI3D.github.io
 ICI3D.github.io/_config.yml:
 	git submodule update -i
 
-pullup: pull ICI3D.github.io.master ICI3D.github.io.pull
+pullall: pull ICI3D.github.io.master ICI3D.github.io.pull
 
 up.time: ICI3D.github.io.master ICI3D.github.io.all commit.time
 
