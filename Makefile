@@ -107,12 +107,12 @@ time_setup: $(times) $(shadows)
 schedule/time%.md: schedule/test.md jdresources/timeshadow.pl
 	$(rm)
 	$(PUSHSTAR)
-	$(RO)
+	$(readonly)
 
 schedule/shadow%.md: schedule/shadow.md jdresources/timeshadow.pl
 	$(rm)
 	$(PUSHSTAR)
-	$(RO)
+	$(readonly)
 
 ## git rm preparation/shadow.md ##
 Sources += $(wildcard preparation/*.md)
