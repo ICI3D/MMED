@@ -3,15 +3,7 @@ Impact of data reporting policy on Rt estimates
 
 Erica, Pragati, Li, Alice …
 
-JD_presNotes
-------------
-
-EpiNow2 is the new hotness for Rt (stan-based)
-
-Used national data from Kenya – and make!
-
-Did not find aggregation increases uncertainty
-* weekly patterns seem very strong
+Faculty: Carl
 
 Tsetse
 ======
