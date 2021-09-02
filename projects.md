@@ -1,33 +1,32 @@
-Similar to usual but more self-contained
+---
+layout: clinic
+redirect: ../development
+subtitle: MMED 2021 Projects
+tab: Projects
+title: Projects
+alerttype: success
+alertmsg: >
+  <ul>
+  <li><b>Guidelines for the project presentations (last day of Clinic) are available <a href="./projectPresentations">here</a>.</b></li>
+  <li><b>Guidelines for the project reports (due 1 Sep) are available <a href="./projectReports">here</a>.</b></li>
+  </ul>
+---
 
-Serial and generation intervals – Jonathan
-* rabies, covid, other?
-
-Malaria?
-* Explaining high infection rates of mosquitoes in TZ
-* Maybe related to development of chloroquine resistant
-
-HIV?
-
-Tsetse – John
-* time course of development of infection in the fly
-* compare two different trypanosomes
-* one has a straightforward story; the other is supposed to depend on the fly getting infected at the very first bloodmeal
-* also the human trypanosome
-
-Dengue?
-
-Rubella?
-
-Rabies – Thumbi? may not be available
-
-Some sort of simulation, fitting, validation project? – Carl
-* Covid is a possibility
-
-Simulation-based, comparing cohorts? – Juliet 
-
-Covid scenarios
-
-Cari is looking into an AMR thing; data may not yet be available, but it might be possible to do simulations
-
-Hopeful to hear from Tom, Bobby, Tendai, Mike
+- [Impact of data reporting policy on Rt estimates](./rt_data)
+    - **Faculty:**  Carl, Thumbi, and Larisse
+    - **Group members:** Li, Erika, Alice, Pragati
+- [Tsetse fly population dynamics](./tsetse)
+    - **Faculty:**  John and Reshma
+    - **Group members:** Lauren, Owolabi, Tumelo, Mumbua
+- [Transmission intervals](./trans_int)
+    - **Faculty:** Mike and Tom
+    - **Group members:** Oluwaseun, Rubesh, Lactatia, Njoki
+- [Analysis of reinfection trends - simulation-based validation](./reinfections)
+    - **Faculty:** Juliet and Cari
+    - **Group members:** Liz, Belinda, Youngji, Shade
+- [Using transmission models to inform trial design for dengue](./dengueTrials)
+    - **Faculty:** Bobby, Becky, and Zinhle
+    - **Group members:** Olatunji, Ziya, Wesley, Lameck
+- [Heterogeneity and disease invasion](./stochInv)
+    - **Faculty:** Jonathan and Mutono
+    - **Group members:** Hannah, Rodal, Reese, As-Saba
