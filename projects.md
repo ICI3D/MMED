@@ -1,32 +1,26 @@
----
-layout: clinic
-redirect: ../development
-subtitle: MMED 2021 Projects
-tab: Projects
-title: Projects
-alerttype: success
-alertmsg: >
-  <ul>
-  <li><b>Guidelines for the project presentations (last day of Clinic) are available <a href="./projectPresentations">here</a>.</b></li>
-  <li><b>Guidelines for the project reports (due 1 Sep) are available <a href="./projectReports">here</a>.</b></li>
-  </ul>
----
+[LINK TO REPORTS](https://www.dropbox.com/sh/7nlg0d4oddbsblg/AACQysF9h24kJo61ao41YwJUa?dl=0)
 
 - [Impact of data reporting policy on Rt estimates](./rt_data)
-    - **Faculty:**  Carl, Thumbi, and Larisse
+    - **Faculty:**  Carl P, Thumbi, and Larisse
     - **Group members:** Li, Erika, Alice, Pragati
+    - **Reviewers:** Becky, John
 - [Tsetse fly population dynamics](./tsetse)
     - **Faculty:**  John and Reshma
     - **Group members:** Lauren, Owolabi, Tumelo, Mumbua
+    - **Reviewers:** Zinhle, Tom
 - [Transmission intervals](./trans_int)
     - **Faculty:** Mike and Tom
     - **Group members:** Oluwaseun, Rubesh, Lactatia, Njoki
+    - **Reviewers:** Jonathan, Thumbi
 - [Analysis of reinfection trends - simulation-based validation](./reinfections)
-    - **Faculty:** Juliet and Cari
+    - **Faculty:** Juliet and Cari vS
     - **Group members:** Liz, Belinda, Youngji, Shade
+    - **Reviewers:** Reshma, Mike
 - [Using transmission models to inform trial design for dengue](./dengueTrials)
     - **Faculty:** Bobby, Becky, and Zinhle
     - **Group members:** Olatunji, Ziya, Wesley, Lameck
+    - **Reviewers:** Carl P, Cari vS
 - [Heterogeneity and disease invasion](./stochInv)
     - **Faculty:** Jonathan and Mutono
     - **Group members:** Hannah, Rodal, Reese, As-Saba
+    - **Reviewers:** Juliet, Bobby
