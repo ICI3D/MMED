@@ -75,8 +75,12 @@ Ignore += jdresources
 jdresources/%:
 	$(MAKE) jdresources
 jdresources: dir = ICI3D.github.io
-jdresources:
+jdresources: ICI3D.github.io/Makefile
 	$(linkdir)
+
+## Not tested 2021 Nov 23 (Tue)
+ICI3D.github.io/Makefile:
+	git submodule update --init
 
 # Copied in haste from DAIDD stuff
 
