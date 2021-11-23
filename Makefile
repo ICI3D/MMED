@@ -70,6 +70,7 @@ Sources += $(wildcard */shadow.md)
 
 -include makestuff/perl.def
 
+## Confused again about submodule
 Ignore += jdresources
 jdresources/%:
 	$(MAKE) jdresources
