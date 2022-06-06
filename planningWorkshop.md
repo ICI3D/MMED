@@ -1,4 +1,36 @@
 
+2022 Jun 06 (Mon)
+=================
+
+# Mapping the space
+
+Who does what we do, and what can we learn from them?
+* SISMID (Betz)
+* Imperial (person)
+* London School (Yang Liu)
+* M2E2 (Cara). Maybe
+* Singapore new group (Imperial for Asia)
+* Japan
+* Taiwan
+* Australia?
+* CEMA (Thumbi)
+* Sheetal
+Start by inviting first 4 for 25+25 virtual meeting
+
+Next org meeting
+
+ICI3D-adjacent
+* Wim, Kathleen (Jackie), James A., Jeremy B.
+* Waiting list: Brian
+
+Previous outsiders
+* Jeff E., Leigh Johnson, Jackie 
+
+Other outsiders?
+* Dylan George (Caitlin?)
+* Cecile
+
+
 2022 Jun 03 (Fri)
 =================
 
