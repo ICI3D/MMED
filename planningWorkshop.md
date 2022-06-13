@@ -1,5 +1,13 @@
 
+ICI3D future folder
+* https://drive.google.com/drive/folders/12maL_uEUrBCy6ztboxI5ZyWeQKqu3asp
+
+ICI3DfutureEmail.md
+
+
 8-5:30 is 570 minutes
+
+90 minute lunch
 
 2022 Jun 06 (Mon)
 =================
