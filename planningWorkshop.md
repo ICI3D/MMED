@@ -1,9 +1,26 @@
 
+JD: Pedagogy, Mission and Structure
+
+JP: Strategy, sustainability and succession
+
+Strategy: Mission and pedagogy
+
+Sustainability: Funding and structure
+
+Succession: documenting processes and timelines; training trainers; finding people!
+
+* Car[il], Eva, Chiyaka, Becky, Jim, Elisha, Thumbi, Bobby
+
+Funding options: could we be part of a research-coördination application to EEID?
+
+Gates
+
+----------------------------------------------------------------------
+
 ICI3D future folder
 * https://drive.google.com/drive/folders/12maL_uEUrBCy6ztboxI5ZyWeQKqu3asp
 
 ICI3DfutureEmail.md
-
 
 8-5:30 is 570 minutes
 
