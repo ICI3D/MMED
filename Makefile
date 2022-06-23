@@ -15,6 +15,7 @@ vim_session:
 
 ###################################################################
 
+Sources += *.md
 Sources += Makefile README.md planningWorkshop.md
 Sources += 2*_content.md
 
