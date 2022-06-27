@@ -33,6 +33,8 @@ What are our relative advantages?
 MMED projects
 * Advantages and disadvantages
 * Pedagogical vs. research projects
+	* multiple steps to the project
+	* multiple milestones?
 
 What can be accomplished in the workshop framework?
 * We can't provide foundational training
