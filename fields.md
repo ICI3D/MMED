@@ -7,9 +7,8 @@ Meaningful Disease modeling
 * Making sensible models
 * Formally fitting or calibrating
 
-Outside workshops
+Outside workshops (many)
 * Disease modeling
-	* Many examples (should curate)
 * Public health and Epidemiology workshops
 * Data workshops
 
@@ -27,16 +26,15 @@ Science ↔ policy
 ## Tools
 
 What are our competitive advantages?
+* Base and experience in Africa
+* Cool pedagogical base
 
 What can be accomplished in the workshop framework?
+* We can't provide foundational training
 
 Follow up:
 * Networking alumni
 * Research initiatives
-
-## Challenges
-
-We can't provide foundational training
 
 ## Appendix: Disease modeling workshops
 
