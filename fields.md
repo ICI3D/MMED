@@ -40,6 +40,8 @@ What can be accomplished in the workshop framework?
 * We can't provide foundational training
 * Issue-specific workshops?
 	* could be good for funding
+* Follow-on or higher-level workshops?
+* Programs targeted specifically at PH/Med?
 
 Follow up:
 * Networking alumni
