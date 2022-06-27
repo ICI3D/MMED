@@ -25,12 +25,19 @@ Science ↔ policy
 
 ## Tools
 
-What are our competitive advantages?
+What are our relative advantages?
 * Base and experience in Africa
 * Cool pedagogical base
+* Link with AIMS (should we try to link more to their research centers?
+
+MMED projects
+* Advantages and disadvantages
+* Pedagogical vs. research projects
 
 What can be accomplished in the workshop framework?
 * We can't provide foundational training
+* Issue-specific workshops?
+	* could be good for funding
 
 Follow up:
 * Networking alumni
