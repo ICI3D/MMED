@@ -4,6 +4,10 @@ Faculty repo and website for MMED. The master branch is private and the pages br
 
 Important links (_some of these are crypto links, meaning that their privacy is based on not sharing the link_):
 
+## 2022
+
+[Notes on other workshops from futures meeting](fields.md)
+
 ## 2019
 
 - [Schedule](http://www.ici3d.org/MMED/schedule/2019/)
