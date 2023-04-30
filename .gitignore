@@ -1,5 +1,6 @@
 jdresources
 .jekyll-cache/
+Gemfile.lock
 ## Content from .ignore
 local.mk
 target.mk
