@@ -1,5 +1,5 @@
-absoluteurl: http://0.0.0.0:4000
-subdomainurl: http://0.0.0.0:4000
+port: 2052
+absoluteurl: //localhost:2052
+subdomainurl: //localhost:2052
+url: //localhost:2052
 baseurl: ''
-url: http://0.0.0.0:4000
-path: /ICI3D.github.io
