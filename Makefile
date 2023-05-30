@@ -40,5 +40,3 @@ Sources +=_config.yml index.md
 -include makestuff/os.mk
 -include makestuff/git.mk
 -include makestuff/visual.mk
-
-
