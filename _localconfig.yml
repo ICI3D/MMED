@@ -1,5 +1,8 @@
-absoluteurl: http://0.0.0.0:4000
-subdomainurl: http://0.0.0.0:4000
+absoluteurl: //localhost:4000
+subdomainurl: //localhost:4000
 baseurl: ''
-url: http://0.0.0.0:4000
+url: //localhost:4000
 path: /ICI3D.github.io
+webbrick:
+  headers:
+    Access-Control-Allow-Origin: "*"
