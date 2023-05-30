@@ -1,4 +1,10 @@
+## Navigation
+
 # http://127.0.0.1:4000/
+# http://127.0.0.1:4000/schedule/
+
+## http://www.ici3d.org/MMED/
+## http://www.ici3d.org/MMED/schedule
 
 ######################################################################
 
@@ -9,34 +15,21 @@ current: target
 
 ##################################################################
 
-Sources += $(wildcard resources/*.md)
-
-##################################################################
-
-## Defs
-
-# stuff
-
 Sources += Makefile 
-Ignore += .gitignore
 
-msrepo = https://github.com/dushoff
-ms = makestuff
-Makefile: $(ms)/Makefile
-$(ms)/Makefile:
-	ls ../makestuff/Makefile && /bin/ln -s ../makestuff 
--include $(ms)/os.mk
-
-Ignore += $(ms)
-
+## This seems to be git-tutorial stuff
+Sources += $(wildcard resources/*.md)
 
 ######################################################################
 
+## jekyll
+
 Ignore += _site/
 localserve:
-	./run.sh
+	./run.sh > jekyll.log 2>&1 &
 
-## localserve doesn't do much, and doesn't work for me (jemoji)
+## If you need a different Gemfile, please commit with a suffix and 
+## symbolic link to Gemfile
 Sources += Gemfile_jd
 Ignore += Gemfile Gemfile.lock
 
@@ -44,10 +37,7 @@ Sources +=_config.yml index.md
 
 ######################################################################
 
-### Makestuff
-
--include $(ms)/git.mk
--include $(ms)/visual.mk
-
--include $(ms)/wrapR.mk
+-include makestuff/os.mk
+-include makestuff/git.mk
+-include makestuff/visual.mk
 
