@@ -130,63 +130,69 @@ alertmsg: >
 
 ### Thursday, 29 June
 
--   8:30 – 10:00 _**Parallel sessions**_
-    -   **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology: Where does modeling fit? ([Scott](../team/scott), with Dushoff and van Schalkwyk) - and [R Tutorials](../tutorials) - Lab 3: Study Design in Epidemiology ([Dushoff](../team/dushoff), [Mhlanga](../team/mhlanga), [Mthombothi](../team/mthombothi), [Scott](../team/scott), [van Schalkwyk](../team/vanschalkwyk))
-    - Lab 3 Summary ([Mthombothi](../team/Mthombothi))
-    -   **Track B:** **Exercise:** Creating a model world to address a research question ([Mwangi](../team/mwangi))
-        - with Pulliam and Welte
+-   8:30 – 10:00  _**Parallel sessions:**_
+    - **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology II: RCT's ((kassanjee)) and [R Tutorials](../tutorials) - Lab 4: Study Design for Clinical Trials (TBA)
+    - [Dataset for Lab 4](https://github.com/ICI3D/datasets/blob/master/clinicalTrials/MuTxT.Rdata?raw=true)
+    - Lab 4 Summary (TBA)
+    - **Track B: Exercise:** Description of proposed model and assumptions ((mthombothi))
+        - SHADOW Update observers: ?
 -   10:00 – 10:30 *Coffee break*
--   10:30 – 12:00 **Lecture:** Introduction to statistical philosophy ([Dushoff](../team/dushoff))
--   12:00 – 12:30 **Discussion:** MMED research projects ([Borchering](../team/borchering))
-    - [Potential project groups](../projects/)
--   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - **13:15 Faculty meeting in Room 105**
--   14:00 – 15:30 **Lecture:** Participatory coding of a dynamical model ([Pulliam](../team/pulliam), with [Thumbi](../team/mwangi)) - Code on [Tutorials](../tutorials) page
--   15:30 – 16:00 *Tea*
--   16:00 – 16:45 **Lecture:** Introduction to Likelihood ([van Schalkwyk](../team/vanschalkwyk))
-    - with Jonathan, John, Becky
-    - JP to talk to Jan about projecting upstairs
--   16:45 – 18:00 **Computer Session:** [R Tutorials](../tutorials) - Lab 5: Introduction to Likelihood Lab ([Are](../team/are), [Borchering](../team/borchering), [Dushoff](../team/dushoff), [Sempa](../team/sempa), [van Schalkwyk](../team/vanschalkwyk))
-    - Lab 5 Summary ([van Schalkwyk](../team/vanschalkwyk))
+-   10:30 – 12:00 **Computer Session:** Tutorial catch-up, as needed (TBA)
+-   12:30 – 14:00 **Social Activity:** Group lunch at Kalky's
+-   14:00 – 18:00 Free/working afternoon
+    - SHADOW **17:00 Faculty meeting in Room E310** (TBC)
 -   18:00 – 18:30 *Dinner*
--   19:30 – 21:00 **Social activity:** Drumming
+-   19:00 – 20:00 **Real-world example ([optional guest lecture](../talks)):** [Tendai Mugwagwa](../talks/mugwagwa)
 
 ### Friday, 30 June
 
--   8:30 – 10:00  _**Parallel sessions:**_
-    - **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology II: RCT's ([Welte](../team/welte), with Scott and Borchering) and [R Tutorials](../tutorials) - Lab 4: Study Design for Clinical Trials ([Borchering](../team/borchering), [Dushoff](../team/dushoff), [Mhlanga](../team/mhlanga), [Scott](../team/scott), [Welte](../team/welte))
-    - [Dataset for Lab 4](https://github.com/ICI3D/datasets/blob/master/clinicalTrials/MuTxT.Rdata?raw=true)
-    - Lab 4 Summary ([Scott](../team/scott))
-    - **Track B: Exercise:** Description of proposed model and assumptions ([Mwangi](../team/mwangi))
-        - with Pulliam, Mthombothi
+-   8:30 – 10:00 **Lecture:** Introduction to statistical philosophy ([Dushoff](../team/dushoff))
 -   10:00 – 10:30 *Coffee break*
--   10:30 – 11:15 **Lecture:** Likelihood fitting and dynamic models,
-Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pulliam))
-    - with Dushoff and Mwangi
--   11:15 - 12:30 **Computer Session:** Lab 6: MLE fitting of an SIR model to prevalence data ([Are](../team/are), [Dushoff](../team/Dushoff), [Mthombothi](../team/Mthombothi), [Sempa](../team/sempa), [van Schalkwyk](../team/vanschalkwyk))
-    - **Additional info:** [Parameter transformation](../tutorials/parameterTransformations.pdf)
-    - Lab Summary: Lab 6 ([Dushoff](../team/dushoff))
+-   10:30 – 11:00 **Discussion:** MMED research projects ((reiner))
+    - SHADOW HIDE [Potential project groups](../projects/) NOTE needs updating!!!
+-   11:00 – 12:30 **Lecture:** Participatory coding of a dynamical model I ([Pulliam](../team/pulliam), with [Thumbi](../team/mwangi)) HIDE - Code on [Tutorials](../tutorials) page
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - Please fill in [this form](../logistics/tutorialCatchUp) to indicate what you will work on during the tutorial catch-up session on Saturday and whom you would like to meet for a mentoring session next week. (Due by 17:00 on Friday.)
-    - **13:15 Faculty meeting in Room 105**
--   14:00 – 14:40 **Mentor presentations** (Mentors); Moderator: [Hargrove](../team/hargrove)) [stretch breaks]
--   14:50 – 15:30 **Mentor presentations** (Mentors); Moderator: [Hargrove](../team/hargrove))
+    - SHADOW HIDE Please fill in [this form](../logistics/tutorialCatchUp) to indicate what you will work on during the tutorial catch-up session on Saturday and whom you would like to meet for a mentoring session next week. (Due by 17:00 on Friday.)
+    - SHADOW **13:15 Faculty meeting in Room 105**
+-   14:00 – 14:45 **Lecture:** Introduction to Likelihood ([van Schalkwyk](../team/vanschalkwyk))
+    - SHADOW Update observers: ?
+-   14:45 – 15:30 **Computer Session:** [R Tutorials](../tutorials) - Lab 5: Introduction to Likelihood Lab (TBA)
 -   15:30 – 16:00 *Tea*
--   16:00 – 17:00 **MMED Projects** (Moderator: [Pulliam](../team/pulliam))
-    - Project group sign-up will be available after this session
--   17:00 – 18:00 **Mid-session Feedback** (Moderator: [Paradza](../team/paradza))
+-   16:00 – 16:45 **Computer Session:** [R Tutorials](../tutorials) - Lab 5: Introduction to Likelihood Lab continued (TBA)
+    - Lab 5 Summary (TBA)
+-   16:45 – 18:00 **Mentor presentations** (Mentors); Moderator: (pearson) NOTE stretch break recommended mid-way ~10 mins
 -   18:00 – 18:30 *Dinner*
--   19:30 – 21:30 **Social Activity:** Movie night (_Perfect Sense_)
+-   19:30 – 21:00 **Social activity:** Drumming
+
+### Saturday, 1 July
+
+-   8:30 – 9:15 **Lecture:** Likelihood fitting and dynamic models, Part 1: Dynamic Model Fitting and Inference Robustness (reiner)
+    - SHADOW Update observers: ?
+-   9:15 - 10:30 **Computer Session:** Lab 6: MLE fitting of an SIR model to prevalence data (TBA)
+    - **Additional info:** [Parameter transformation](../tutorials/parameterTransformations.pdf)
+    - Lab Summary: Lab 6 (kassanjee)
+-   10:30 – 11:00 *Coffee break*
+-   11:00 – 12:30 **Lecture:** Participatory coding of a dynamical model II ((pearson), with (pulliam)) HIDE - Code on [Tutorials](../tutorials) page
+-   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
+    - SHADOW **13:15 Faculty meeting in Room 105**
+-   14:00 – 15:00 **MMED Projects:** Participants ask questions about specific projects (Moderator: (nyamai))
+    - Project group sign-up will be available after this session
+-   15:00 – 15:30 A good chance to sign up for project groups and *Tea*
+-   15:30 – 16:30 **Mid-session Feedback** (Moderator: (bruce))
+-   16:30 – 17:30 **Computer Session:** Tutorial catch-up, as needed (TBA)
+-   17:30 – 18:00 A good chance to sign up for project groups
+-   18:00 – 18:30 *Dinner*
+-   19:30 – 21:30 **Social Activity:** Movie night (TBD)
+
+
+
 
 ### Saturday, 1 July
 
 -   9:00 – 10:30 **Live coding session:** Participatory coding for Variability, Sampling Distributions, and Simulation Lecture ([Dushoff](../team/Dushoff))  - [Code on Tutorials page](../tutorials)
     - with TBD, TBD
--   10:30 – 11:00 A good chance to sign up for project groups and *Coffee break*
--   11:00 – 12:30 **Computer Session:** Tutorial catch-up, as needed ([Are](../team/are), [Mhlanga](../team/mhlanga), [Pulliam](../team/pulliam), [Sempa](../team/sempa), [Scott](../team/scott))
--   12:30 – 14:00 **Social Activity:** Group lunch at Kalky's
--   14:00 – Free/working afternoon
--   19:00 Party in E310
+
+-   SHADOW 19:00 Party in E310 (TBC)
 
 ### Sunday, 2 July
 
