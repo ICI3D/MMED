@@ -32,436 +32,259 @@ alertmsg: >
 
 /HEAD
 
-### Monday, 28 June
-
-#### Interactive session 1a
-
-**20:30-22:30 Dhaka / 19:30-21:30 Chennai / 18:30-20:30 Abu Dhabi / 17:30-19:30 Nairobi / 16:30-18:30 SAST / 15:30-17:30 London / 10:30-12:30 New York / 09:30-11:30 Bucaramanga / 07:30-09:30 Seattle**
-
-- _Please join the session by 16:25. We will begin promptly at 16:30._
-- 16:30-16:55 Welcome and motivation ((pulliam), (nyamai), and (hargrove))
-- 16:55-17:40 **Lecture:** Public Health, Epidemiology, and Models ((dushoff))
-	* [Handouts](https://github.com/dushoff/disease_dynamics/blob/master/outputs/public.handouts.pdf)
-	* [Slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/public.draft.pdf)
-	* SHADOW [lecture page](https://github.com/ICI3D/MMED/blob/master/lectures/phem.md); [internal](../lectures/phem.md)
-
-- 17:40-17:50 **Organizational session:** [MMED Road Map](../roadmap) and programme overview ((borchering))
-	* SHADOW ../materials/MMED2019/MMED2019roadmap.pdf
-	* [Roadmap](../roadmap/)
-- 17:50-18:05 **Organizational session:** Working with the MMED technical tools ((pearson)) NOTE (15 mins)
-- 18:05-18:30 Ice breakers ((bruce))
-
-#### Interactive session 1b
-
-**23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
-
-- 19:30-21:00 **Tutorial:** Dynamical Fever - computer exercise and discussion ((pulliam), all faculty assisting) NOTE (40 + 10 group + 40)
-    - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
-	```R
-		ICI3D::dynamicalFever()
-	```
-- 21:00-21:30 **Discussion:** Dynamical Fever ((hargrove))
-	* HIDE - [model description](../Materials/fever)
-	* HIDE Should we delete this daidd stuff? modeling terminology, and the [DAIDD glossary](http://tinyurl.com/daidd-public) - [Download the taxonomy](../Materials/modelTaxonomy)
-- SHADOW 21:30-22:00 Faculty meeting
-
-#### Individual session 1
-
-_**Please complete the following between the end of Monday's interactive session and the beginning of Tuesday's interactive session.**_
-
-- **Video lecture:** [Introduction to thinking about data I](https://www.youtube.com/watch?v=ogSh0o9cxaE) ((hargrove))
-	- HIDE Slides link? on Teams?
-- **Video lecture:** [Introduction to dynamic modeling of infectious diseases](https://youtu.be/EV5FLlrRwiQ) ((bellan))
-	- HIDE Slides link? on Teams?
-- **Video lecture (Track A):** [Introduction to infectious disease data](https://www.youtube.com/watch?v=h4h9OEtxIyE) ((mwangi))
-	 - [Lecture slides (also on Teams)](https://www.dropbox.com/s/omyxrkyy39rv48w/ThumbiMwangi_IntroToInfectiousDiseasedata2021.pdf)
-
-- **Video lecture (Track B):** [Foundations of dynamic modeling](https://www.youtube.com/watch?v=eVu62qVUj3I) ((dushoff))
-	- [Lecture slides (also on Teams)](https://ndownloader.figshare.com/files/8541910)
-	- SHADOW [lecture page](https://github.com/ICI3D/MMED/blob/master/lectures/family.md); [internal](../lectures/family.md)
-
-- **Written exercise:** Formulating research questions for modeling projects
-	- Also available in the Assignments folder in the General Channel of the MMED Participants Team
-    - [Track A](https://www.dropbox.com/s/cye1wh7ef7tuest/03_TrackA_ResearchQuestions.docx?dl=1)
-    - [Track B](https://www.dropbox.com/s/rcc1fpaob4ecy71/03_TrackB_ResearchQuestions.docx?dl=1)
-- **Computer exercise:** This is to assess your understanding from completing Tutorials 1-3. **Download [this script](../tutorials/MMED_123_integration.R)**, which provides instructions. When you're done, upload your modified script to Teams->General->Files->Integration123 folder, changing the file name to begin with your initials. Recommend: work with a partner or few, but you'll each need to upload a script. Note that the wording "when you're done"--if you can't finish in a few hours, upload the progress you *do* make. **In addition, please be prepared to ask any questions you had from going through Tutorials 1-3.**
-
-- _Make sure your slides are uploaded for the Research Pitches!_
-    - Upload the PDF version of your 1-slide research pitch to the **_01_pitchSlides_** folder on the MMED Participants Team on Microsoft Teams. Use the file naming convention **01_SurnameFirstname_pitch.pdf**.
-
-_Reminder:_
-
-- 22:30 Tea with North American Faculty
-- 11:00 Tea with African Faculty
-
-### Tuesday, 29 June
-
-#### Interactive session 2a
-
-**20:30-22:30 Dhaka / 19:30-21:30 Chennai / 18:30-20:30 Abu Dhabi / 17:30-19:30 Nairobi / 16:30-18:30 SAST / 15:30-17:30 London / 10:30-12:30 New York / 09:30-11:30 Bucaramanga / 07:30-09:30 Seattle**
-
-- 16:30-17:30 **Research Pitches I** (Moderator: (dushoff))
-	- HIDE Link to Pitches folder on Teams?
-- 17:30-17:50 **Summary and Discussion:** Introduction to thinking about data I ((kassanjee))
-- 17:50-18:10 **Summary and Discussion:**  Introduction to dynamic modeling of infectious diseases ((mthombothi))
-- 18:10–18:30 **_Parallel sessions_**
-    - **Track A - Summary and Discussion:** Introduction to infectious disease data ((mwangi)) NOTE (Mike, Larisse, others?)
-    - **Track B - Summary and Discussion:** Foundations of dynamic modeling ((vanschalkwyk)) NOTE (Tom, Mutono, others?)
-
-#### Interactive session 2b
-
-**23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
-
-- 19:30-20:00 **Tutorial review:** Questions about Tutorials 1-3 ((pearson) and all)
-    - **Please be prepared to ask any questions you had from going through Tutorials 1-3.**
-- 20:00-21:30 Small group session: research questions for modeling projects (All faculty) NOTE **TODO: Group assignments**
-    - SHADOW - [Step-by-step guide: Track A](./researchQuestionsA). [Step-by-step guide: Track B](./researchQuestionsB)
-- SHADOW 21:30-22:00 Faculty meeting
-
-#### Individual session 2
-
-- **Video lecture:** [(Hidden) assumptions of simple ODE models](https://youtu.be/NlpKCelumas) ((pulliam))
-- **Coding demonstration:** [Introduction to model implementation](https://youtu.be/NZqNfvswtyQ) ((vanschalkwyk))
-- [**Computer exercise:** Lab 1 - ODE models in R](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab1_ODEmodels.R) NOTE 45 mins
-- **For Track A**
-    - **Video lecture:** Introduction to Thinking About Data II ((kassanjee))
-        - [Part 1](https://youtu.be/fz_zsswpFrc)
-        - [Part 2](https://youtu.be/rtgzcl3uwVk)
-        - [Part 3](https://youtu.be/9kfshcLBo-8)
-    - [**Computer exercise:** Tutorial 4 - Visualizing Infectious Disease Data in R](../tutorials/visualizeData)
-- **For Track B**
-    - **Video lecture:** Basic stochastic simulation model series: [Intro](https://www.youtube.com/watch?v=c5IlaVA8_rw), [Part 1](https://www.youtube.com/watch?v=_eNWZ1sisQE), [Part 2](https://www.youtube.com/watch?v=UxXmkAcAtLo&t=1s) (slides [here](https://www.dropbox.com/s/e7yjs53fjc35e90/BorcheringStochasticSimulation2021.pdf?dl=0) and on Teams) ((borchering))
-    - **Computer exercise:** Exercise 1 - Basic stochastic simulation models: [corresponding video](https://youtu.be/Z_TIjNWe69A), [Rscript](https://github.com/ICI3D/RTutorials/blob/master/ICI3D_Ex1_StochasticSpillover.R) NOTE ((borchering))
-    - Note: _Track A will do this later in the week_
-- [**Video lecture:** Impact of contact patterns, consequences of heterogeneity, and modeling options](https://www.youtube.com/watch?v=9OhB3WfSpS8) ((dushoff))
-	* [Slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/heterogeneity.draft.pdf)
-
-_Reminder:_
-
-- 22:30 Tea with North American Faculty
-- 11:00 Tea with African Faculty
-
-### Wednesday, 30 June
-
-#### Interactive session 3a
-
-SHADOW MC: Reshma
-
-**20:30-22:30 Dhaka / 19:30-21:30 Chennai / 18:30-20:30 Abu Dhabi / 17:30-19:30 Nairobi / 16:30-18:30 SAST / 15:30-17:30 London / 10:30-12:30 New York / 09:30-11:30 Bucaramanga / 07:30-09:30 Seattle**
-
-- 16:30-16:45 **Summary and Discussion:** (Hidden) assumptions of simple ODE models ((pulliam))
-- 16:45-16:55 **Summary and Discussion:** Introduction to model implementation ((vanschalkwyk)) NOTE 10 mins # CHECK
-- 16:55-17:05 Lab 1 Summary ((bolton)) NOTE 10 mins # CHECK
-- 17:05-17:30 **_Parallel sessions_**
-    - **Track A - Summary and Discussion:**
-        - Introduction to Thinking About Data II ((kassanjee)) NOTE 15 mins
-        - Tutorial 4 Summary ((nyamai)) NOTE 10 mins # CHECK
-		  - SHADOW Jonathan, Tom
-    - **Track B - Summary and Discussion:**
-        - [Basic stochastic simulation models](https://www.dropbox.com/s/w6emx5ozalkorv8/BorcheringStochasticSimulation2021_summary.pdf?dl=0) ((borchering)) NOTE 15 mins
-        - Exercise 1 Summary ((borchering)) NOTE 10 mins # CHECK
-		  - SHADOW Larisse, Juliet, Mike
-- 17:30-18:30 **Research Pitches II** (Moderator: (dushoff))
-
-#### Interactive session 3b
-
-SHADOW MC: Jonathan
-
-**23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
-
-- 19:30-19:45 **Summary and Discussion:** Impact of contact patterns, consequences of heterogeneity, and modeling options ((hargrove)) NOTE 15 mins
-- 19:45-20:30 **Computer session:** Lab 2 - Consequences of heterogeneity in disease emergence ((pearson) and all) NOTE 45 mins **TODO: Group assignments** CHECK - did we do groups for DAIDD??
-	- To get started, run the following command at the R Studio command line (after installing the ICI3D package):
-	```R
-		ICI3D::heterogeneityTutorial()
-	```
-- 20:30-20:40 Lab 2 Summary ((pearson)) NOTE CHECK
-- 20:40-21:10 **Discussion:** MMED research projects ((vanschalkwyk)) NOTE 30 mins
-- 21:10-21:30 **Mini-feedback session** ((bruce))
-- SHADOW 21:30-22:00 Faculty meeting
-
-#### Individual session 3
-
-- **Video lecture:** [Introduction to models and data: HIV in Harare](https://youtu.be/qf91rTf40MY) ((hargrove))
-- **Video lecture:** Real-world examples (faculty research presentations) - Please watch _at least one_ of the following lectures; if you have time, watch the other one, but if you need to focus on catching up on material from the past few days, that should be your priority.
-    - [Hargrove on tsetse fly population dynamics](https://youtu.be/L1qalfZfwEo)
-    - [Pulliam on COVID](https://www.youtube.com/watch?v=SbE5IMwHzlo&feature=youtu.be) - _Please note that this lecture is from almost a year ago; a **lot** has changed since then!_
-- [Tutorial catch-up and review](../tutorials)
-- Read through the descriptions of potential research [projects](../projects) (and discuss during tea)
-    - Come prepared to ask questions about projects during Interactive session 4b
-
-_Reminder:_
-
-- 22:30 Tea with North American Faculty
-- 11:00 Tea with African Faculty
-
-### Thursday, 1 July
-
-#### Interactive session 4a
-
-**20:30-22:30 Dhaka / 19:30-21:30 Chennai / 18:30-20:30 Abu Dhabi / 17:30-19:30 Nairobi / 16:30-18:30 SAST / 15:30-17:30 London / 10:30-12:30 New York / 09:30-11:30 Bucaramanga / 07:30-09:30 Seattle**
-
-NOTE - 16:30-16:40 Summary and Discussion: Introduction to models and data: HIV in Harare (Hargrove) [Cancelled 2021; redundant in virtual session
-
-- 16:30-17:50 **Computer session:** Model fitting ((hargrove)) NOTE 90 mins - [Tutorial notes from DAIDD](http://www.ici3d.org/DAIDD/Materials/hivTutorial)
-	* SHADOW Can we have three or four volunteers to divide up the groups? Carl, Mutono, Larisse, Zinhle
-	* 17:50-18:10 (Tutorial wrapup by (dushoff)) [Boxcar Model Slides](http://www.ici3d.org/DAIDD/Materials/boxcarModels.pdf)
-  - To get started, run the following command at the R Studio command line (after installing the ICI3D package):
-	```R
-		ICI3D::hivTutorial()
-	```
-- 18:10-18:30 Issues arising (mini-feedback, content in general) ((mwangi))
-
-#### Interactive session 4b
-
-**23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
-
-- 19:30-21:00 **_Parallel sessions_**
-    - **Track A**
-        - **Live lecture:** Study Design and Analysis in Epidemiology I: Where does modeling fit? ((vanschalkwyk)) NOTE 45 mins
-        - **Computer session:** Lab 3 - Study Design in Epidemiology
-		  - NOTE Juliet, Reshma, Mutono
-    - **Track B**
-        - **Exercise:** Creating a model world to address a research question ((mwangi)) NOTE (90 mins)
-		  - NOTE Larisse, Mike, Carl
-- 21:00-21:30 **Discussion:** MMED Projects ((mthombothi)) NOTE MOVED FROM FRIDAY!!!
-- SHADOW 21:30-22:00 Faculty meeting
-
-#### Individual session 4
-
-- **Video lecture:** [Introduction to statistical philosophy](https://youtu.be/2V8Ss1oGwZw) NOTE ((dushoff))
-	* [Slides](https://github.com/dushoff/statistics_talks/blob/f4a0884c0fe075ed998577310088b8f91779c507/git_push/philosophy.draft.pdf)
-- **Video lecture:** [Introduction to likelihood](https://www.youtube.com/watch?v=iUEf8rhAScQ
- ) ((scott))
-    - You may also want to watch [this (longer) video](https://www.youtube.com/watch?v=I5E9rSKNjUE) on the same topic, which goes into more detail (optional, (bellan))
-- **Computer exercise:** Lab 5 - Introduction to likelihood
-- **For Track A**
-    - **Video lecture:** Basic stochastic simulation model series: [Intro](https://www.youtube.com/watch?v=c5IlaVA8_rw), [Part 1](https://www.youtube.com/watch?v=_eNWZ1sisQE), [Part 2](https://www.youtube.com/watch?v=UxXmkAcAtLo&t=1s) (slides [here](https://www.dropbox.com/s/e7yjs53fjc35e90/BorcheringStochasticSimulation2021.pdf?dl=0) and on Teams) ((borchering))
-    - **Computer exercise:** Exercise 1 - Basic stochastic simulation models: [corresponding video](https://youtu.be/Z_TIjNWe69A), [Rscript](https://github.com/ICI3D/RTutorials/blob/master/ICI3D_Ex1_StochasticSpillover.R) NOTE ((borchering))
-- **For Track B**
-    - **Exercise:** Creating a model world assignment
-        - [Step-by-step guide](../tutorials/modelWorld) NOTE **TODO: update (JP/TM)**
-        - Upload your initial model diagram before Friday’s interactive session (MMED Participants > General > Files > 04_modelDiagram > 04.1_InitialDiagrams) NOTE **TODO: add folder for upload**
-
-_Reminder:_
-
-- 22:30 Tea with North American Faculty
-- 11:00 Tea with African Faculty
-
-### Friday, 2 July
-
-#### Interactive session 5a
-
-**20:30-22:30 Dhaka / 19:30-21:30 Chennai / 18:30-20:30 Abu Dhabi / 17:30-19:30 Nairobi / 16:30-18:30 SAST / 15:30-17:30 London / 10:30-12:30 New York / 09:30-11:30 Bucaramanga / 07:30-09:30 Seattle**
-
-SHADOW: Larisse to MC
-- 16:30-16:45 **Summary and Discussion:** Introduction to statistical philosophy ((kassanjee))
-- 16:45-17:00 **Summary and Discussion:** Introduction to Likelihood ((vanschalkwyk)) NOTE includes Lab 5 summary
-- 17:00-18:30 **Interactive lecture:** Participatory coding of a dynamical model ((pearson))
-
-#### Interactive session 5b
-
-**23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
-
-- 19:30-20:30 **Mentor presentations** (Moderator: (reiner))
-- 20:30-21:30 **Mid-session feedback** ((bruce)) NOTE (60 mins)
-- SHADOW 21:30-22:00 Faculty meeting (CANCELLED, have some fun!)
-
-#### Individual session 5
-
-- [**Video lecture:** Likelihood fitting and dynamic models, Part 1: Dynamic Model Fitting and Inference Robustness](https://www.youtube.com/watch?v=9TmuHZ6DC3g) ((dushoff), slides by (pulliam))
-	* [Slides](https://figshare.com/articles/journal_contribution/Likelihood_Fitting_and_Dynamic_Models_I_Dynamic_Model_Fitting_and_Inference_Robustness/5044672)
-	* NOTE ../materials/MMED2019/LectureSlides/Pulliam_ModelFittingI_2019.pdf
-- **Video lecture:** [Introduction to GitHub](https://youtu.be/DE6ie4Q0K9M) NOTE ((mthombothi))
-- Tutorial catch-up
-- [Project preferences questionnaire](https://forms.gle/LvSbCukSD7WvK49o8) [due by 12:00 on Monday]
-- [Tutorial review and mentoring sessions questionnaire](https://forms.gle/S1YGWA3279s9jMrT8) [due by 19:30 on Monday]
-
-_Reminder:_
-
-- 22:30 Tea with North American Faculty
-
-### Saturday, 3 July
-
-(free day)
-
-### Sunday, 4 July
-
-(free day)
-
-- SHADOW 16:30-17:30 Faculty meeting
-
-### Monday, 5 July
-
-_Reminder:_
-
-- 11:00 Tea with African Faculty
-
-#### Interactive session 6a
-
-**20:30-22:30 Dhaka / 19:30-21:30 Chennai / 18:30-20:30 Abu Dhabi / 17:30-19:30 Nairobi / 16:30-18:30 SAST / 15:30-17:30 London / 10:30-12:30 New York / 09:30-11:30 Bucaramanga / 07:30-09:30 Seattle**
-
-SHADOW MC Becky
-
-- 16:30-17:15 **Interactive lecture:** Data, models and science ((dushoff))
-	- [Slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/data.draft.pdf)
-- 17:15-17:30 **Organizational session:** Schedule and goals for the second week ((borchering))
-- 17:30-18:15 **Computer session:** Introduction to GitHub (discussion and tutorial) ((pearson))
-- 18:15-18:30 **Summary and Discussion:**  Likelihood fitting and dynamic models, Part 1: Dynamic Model Fitting and Inference Robustness ((pulliam))
-
-**Note:** Please complete the [tutorial review and mentoring sessions questionnaire](https://forms.gle/S1YGWA3279s9jMrT8) by 19:30 on Monday!
-
-#### Interactive session 6b
-
-**23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
-
-- 19:30-20:45 **_Parallel sessions_**
-    - **Track A** NOTE Mutono, Mike, Bobby
-        - **Lecture:** Study Design and Analysis in Epidemiology II - RCTs ((kassanjee))
-        - **Computer session:** [Lab 4](../tutorials) - Study design for clinical trials ((kassanjee))
-    - **Track B** NOTE Larisse, Tom, Juliet
-        - **Writing exercise:** description of proposed model and assumptions ((mthombothi)) NOTE aka Model Telephone (70 mins)
-            - SHADOW [practice diagram](../tutorials/practice.Diagram.pdf), [description](../tutorials/modelDescription)
-            - SHADOW [instructions for in-person version](https://docs.google.com/document/d/1d_noXARmkB3yqg8_kUW7AqCTurWy5u84JQWsGoTVCj8)
-- 20:45-21:30 **Work session:** Project groups meet for the first time (Work plans for group projects) (all)
-- SHADOW 21:30-22:00 Faculty meeting
-
-#### Individual session 6
-
-- **Video lecture:** Modeling in practice: The life cycle of a modeling project, from conception to publication ((hargrove))
-    - [Part 1](https://youtu.be/cPLBzQGz2lM)
-    - [Part 2](https://youtu.be/2IrPJCqff7g)
-    - [Part 3](https://youtu.be/meEJ7ys10WA)
-- Tutorial catch-up, as needed
-- Work on group project
-- One-on-one mentoring sessions NOTE **TODO:** assignments
-- **Coding demonstration:** [Participatory Coding of a Dynamic Model](https://youtu.be/Xec-HjwHnEs) ((bellan)) **(optional)**
-    - Note that this is the 2017 version of the participatory coding session that (pearson) ran on Friday. The model diagram used in this version comes from the 2017 Creating a Model World session led by (pulliam), which can be viewed [here](https://youtu.be/7e18CBtoAcY) (also optional).
-
-_Reminder:_
-
-- 22:30 Tea with North American Faculty
-- 11:00 Tea with African Faculty
-
-### Tuesday, 6 July
-
-#### Interactive session 7a
-
-**20:30-22:30 Dhaka / 19:30-21:30 Chennai / 18:30-20:30 Abu Dhabi / 17:30-19:30 Nairobi / 16:30-18:30 SAST / 15:30-17:30 London / 10:30-12:30 New York / 09:30-11:30 Bucaramanga / 07:30-09:30 Seattle**
-
-SHADOW MC Cari
-
-- 16:30-17:30 **Lecture:** Likelihood fitting and dynamic models II ((reiner))
-- 17:30-18:00 **Tutorial review:** Q&A on all tutorials to date ((pulliam) and all)
-- 18:00-18:30 **Work session:** Group projects
-
-#### Interactive session 7b
-
-**23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
-
-SHADOW MC Reshma
-- 19:30-20:30  **Interactive lecture:** Study design and simulation-based validation ((dushoff)
-- 20:30-21:30 **Real-world example:** [Faculty research lecture](../talks/hladish) ((hladish))
-- SHADOW 21:30-22:00 Faculty meeting
-
-#### Individual session 7
-
-- **Computer Session:** Lab 6 - MLE fitting of an SIR model to prevalence data
-- **Video lecture:** Data wrangling: Data management and cleaning ((mwangi))
-	* [Video](https://youtu.be/nfGytov-jUE)
-- **Computer Session:** Tutorial 5 - Data cleaning and management in R
-- **Video lecture:** Real-world example (faculty research presentation): [COVID-19 Scenario Modeling Hub Webinar](http://www.youtube.com/watch?v=LowxocbVzmQ) ((borchering)) NOTE could also include recording from DAIDD 2020 on MMODS
-- Work on group project
-- One-on-one mentoring sessions
-
-_Reminder:_
-
-- 22:30 Tea with North American Faculty
-- 11:00 Tea with African Faculty
-
-### Wednesday, 7 July
-
-#### Interactive session 8a
-
-**20:30-22:30 Dhaka / 19:30-21:30 Chennai / 18:30-20:30 Abu Dhabi / 17:30-19:30 Nairobi / 16:30-18:30 SAST / 15:30-17:30 London / 10:30-12:30 New York / 09:30-11:30 Bucaramanga / 07:30-09:30 Seattle**
-
-SHADOW MC Zinhle (JP not present)
-
-- 16:30-16:45 **Summary and Discussion:** Data wrangling: Data management and cleaning ((mwangi))
-- 16:45-16:55 **Tutorial 5 Summary** ((dushoff))
-	* [Final worked version of tutorial](https://github.com/ICI3D/RTutorials/blob/c5f5408a7472884df3a3c43e79787a8670375629/ICI3D_RTutorial_5_DataCleaning.R)
-- 16:55-18:00 **Live Lecture:** Introduction to Monte Carlo Markov Chains (MCMC) ((pearson))
-- 18:00-18:30 **Work session:** Group projects
-
-#### Interactive session 8b
-
-SHADOW MC Larisse
-
-**23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
-
-- 19:30-20:30 **Interactive session:** Modelling for policy (Moderators: (borchering) and (pearson))
-- 20:30-21:30 **Real-world example:** [Faculty research lecture](../talks/li) ((li))
-- SHADOW 21:30-22:00 Faculty meeting
-
-#### Individual session 8
-
-- [**Video lecture:** Model assessment](https://www.youtube.com/watch?v=5HET6IDc8Jw) ((dushoff))
-	* [Handouts](https://github.com/dushoff/statistics_talks/blob/master/outputs/evaluation.handouts.pdf); [Slides](https://github.com/dushoff/statistics_talks/blob/master/outputs/evaluation.draft.pdf)
-- **Computer session:** Lab 7 - MCMC fitting in R
-- **Computer session:** Lab 8 - MCMC fitting in R (optional)
-- Work on group project
-- One-on-one mentoring sessions
-
-_Reminder:_
-
-- 22:30 Tea with North American Faculty
-- 11:00 Tea with African Faculty
-
-### Thursday, 8 July
-
-#### Interactive session 9a
-
-**20:30-22:30 Dhaka / 19:30-21:30 Chennai / 18:30-20:30 Abu Dhabi / 17:30-19:30 Nairobi / 16:30-18:30 SAST / 15:30-17:30 London / 10:30-12:30 New York / 09:30-11:30 Bucaramanga / 07:30-09:30 Seattle**
-
-SHADOW MC Pulliam!!!!!!
-
-- 16:30-16:45 **Summary and Discussion:** Model assessment ((dushoff))
-- 16:45-16:55 **Lab 6 Summary** ((reiner))
-- 16:55-17:10 **Summary and Discussion:** Faculty research presentation ((hargrove))
-- 17:10-18:30 **Work session:** Group projects and One-on-one mentoring sessions (cross-time zone)
-
-#### Interactive session 9b
-
-**23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
-
-- 19:30-19:50 Labs 7 and 8 Summary ((kassanjee))
-- 19:50-21:30 **Work session:** Group projects and One-on-one mentoring sessions
-- SHADOW 21:30-22:00 Faculty meeting
-
-#### Individual session 9
-
-- Tutorial catch-up, as needed
-- Work on group project
-    - **Finalize project presentations and upload to Teams (00_FinalPresentations folder) by 15:30**
-- One-on-one mentoring sessions 
-
-_Reminder:_
-
-- 22:30 Tea with North American Faculty
-- 11:00 Tea with African Faculty
-
-### Friday, 9 July
-
-#### Interactive session 10a
-
-**20:30-22:30 Dhaka / 19:30-21:30 Chennai / 18:30-20:30 Abu Dhabi / 17:30-19:30 Nairobi / 16:30-18:30 SAST / 15:30-17:30 London / 10:30-12:30 New York / 09:30-11:30 Bucaramanga / 07:30-09:30 Seattle**
-
-- 16:30-18:30 **Group project presentations** ((bolton))
-
-#### Interactive session 10b
-
-**23:30-01:30 Dhaka / 22:30-00:30 Chennai / 21:30-23:30 Abu Dhabi/ 20:30-22:30 Nairobi / 19:30-21:30 SAST / 18:30-20:30 London / 13:30-15:30 New York / 12:30-14:30 Bucaramanga / 10:30-12:30 Seattle**
-
-- 19:30-21:00 Final feedback session ((bruce)) NOTE (60-90 mins)
-- 21:00-21:15 Closing session ((dushoff) and all) NOTE (15 mins)
-- SHADOW 21:30-??? Faculty party
+### Sunday, 25 June
+
+-   14:00 – 18:00 Registration and welcome, AIMS lobby NOTE confirm timing with Faikah
+-   18:00 – 18:30 *Dinner*, AIMS Dining Hall
+    - SHADOW Faculty meeting and dinner in E310 (TBC) at 18:00.
+
+### Monday, 26 June
+
+-   8:00 – 8:25 Registration and welcome, AIMS lobby
+    -   **Please gather in the main lecture hall by 8:30.**
+-   8:30 – 9:00 Welcome and Motivation for Workshop ((pearson), (mthombothi), and (dawa))
+-   9:00 – 10:00 **Lecture:** Public Health, Epidemiology, and Models ((pearson))
+-   10:00 – 10:30 *Coffee break*
+-   10:30 – 10:45 **Organizational session:** [MMED Road Map](../roadmap) and programme overview ((reiner))
+-   10:45 – 11:30 **Lecture:** Introduction to Thinking About Data I ((nyamai))
+-   11:30 – 12:30 **Lecture:** Introduction to dynamic modeling of infectious diseases ((mthombothi))
+-   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
+    - **TBD Faculty** will help people get their laptops set up for Dynamical Fever at 12:30 in the main lecture hall. NOTE (mentors on call)
+    - SHADOW **13:15 Faculty meeting in Room 105**
+-   14:00 – 15:00 **_Parallel sessions_**
+    -   **Track A:** Introduction to infectious disease data ([Mwangi](../team/mwangi)) NOTE Update observers: (Alex, Becky, Juliet, Zinhle)
+    -   **Track B:** Foundations of dynamic modeling ([Dushoff](../team/Dushoff)) NOTE Update observers: (John, Laurette, Elisha, Joseph)
+-   15:00 – 15:30 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: (kombe))
+-   15:30 – 16:00 *Tea* and **poster set-up**
+    - SHADOW with TBD Faculty and mentors (3)
+-   16:00 – 16:45 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: (kombe))
+-   16:45 – 17:00 **_Discussion_**: Dynamical Fever and Model Worlds ([Pulliam](../team/Pulliam)) NOTE [Slides](../Materials/modelWorlds.pdf)
+-   17:00 – 18:00 [**Poster session I**](../posters/sessions) NOTE Update sessions page!
+-   18:00 – 18:30 *Dinner*
+-   19:00 – 19:30 **Social Activity:** Ice breakers ((bruce))
+-   19:30 – 20:30 **Social Activity:** Card games: Bullsh!t and Casino
+
+### Tuesday, 27 June
+
+-   8:30 – 9:15 **Lecture:** (Hidden) assumptions of simple ODE models ((borchering))
+-   9:15 – 10:00 **Live coding session:** Introduction to model implementation
+    ([van Schalkwyk](../team/vanschalkwyk))
+-   10:00 – 10:30 *Coffee break*
+-   10:30 – 12:20 **Computer Session:** [R Tutorials](../tutorials) - Lab 1: ODE models in R (TBA); **MedPH break-out group** ((pulliam), (mthombothi))
+    - All R tutorials and labs are linked from [this page](../tutorials)
+    - You should have completed [R Tutorials I-III](../tutorials) prior to the Clinic. If you have not previously used R, we suggest you review these tutorials during this session, as the material they cover form the foundation for the computer sessions throughout the workshop. *Please use this opportunity to ask any questions you may have regarding the material in these tutorials.*
+    - When you have completed Lab 1 (required), you may take a break or move on to Tutorial 4: Visualizing Infectious Disease Data in R (recommended)
+-   12:20 – 12:30 **Discussion:**
+    - Lab 1 Summary (TBA)
+-   12:30 – 13:45 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
+    - SHADOW **13:00 Faculty meeting in Room 105**
+-   13:45 – 14:45 _**Parallel sessions**_ NOTE (Note: for this session only, Track A participants may attend the Track B session.)
+    -   **Track A:** **Lecture:** Introduction to Thinking About Data II ((kassanjee))
+      - SHADOW with TBD, TBD, TBD
+    -   **Track B:** **Lecture:** Basic stochastic simulation models ((kombe))
+      - SHADOW with TBD, TBD, TBD
+-   14:45 – 15:30 **Lecture:** Consequences of heterogeneity, and modeling options ([Dushoff](../team/dushoff)) NOTE Update observers: (with John, Cari, and Alex)
+-   15:30 – 16:00 *Tea* and **poster set-up**
+    - SHADOW with TBD Faculty and mentors (3)
+-   16:00 - 17:00 **Computer Session:** [R Tutorials](../tutorials) - Lab 2: Consequences of heterogeneity (TBA)
+    - You will need the most recent version of the ICI3D R package for this tutorial. If you are using your laptop for the tutorials, please update the package before you begin by running the command <b><code>remotes::install_github('ICI3D/ici3d-pkg')</code></b> in R studio.
+    - To run the tutorial (after installing the package), type <b><code>ICI3D::heterogeneityTutorial()</code></b>.
+    -  Lab 2 Summary (TBA)
+-   17:00 – 18:00 [**Poster session II**](../posters/sessions) NOTE Update sessions page!
+-   18:00 – 18:30 *Dinner*
+-   18:30 – 19:00 **Poster set-up**
+    - SHADOW with TBD Faculty and mentors (3)
+-   19:00 – 20:00 [**Poster session III**](../posters/sessions) NOTE Update sessions page!
+
+### Wednesday, 28 June
+
+-   8:30 – 9:50 _**Parallel sessions**_
+    -   **Track A:** **Computer Session:** [R Tutorials](../tutorials) - Tutorial 4: Visualizing Infectious Disease Data in R (TBA)
+    -   **Track B:** **Computer Session:** [R Tutorials](../tutorials) - Exercise 1: Basic stochastic simulation models (TBA)
+-   9:50 – 10:00 **Discussion:** (in parallel)
+    - Tutorial 4 Summary (TBA)
+    - Exercise 1 Summary (TBA)
+-   10:00 – 10:30 *Coffee break*
+-   10:30 – 10:45 **Lecture:** Introduction to models and data: HIV in Harare ((kassanjee))
+-   10:45 – 12:30 **Computer Session:** Harare data in groups of \<4 (TBA)
+    - You will need the ICI3D R package for this tutorial.
+    - To run the tutorial (after installing the package), type <b><code>ICI3D::hivTutorial()</code></b>.
+    - If you finish all five versions of the model for the Harare data before lunch, move on to working on data from other countries.
+    -  **Additional info:** [Distributed Delay Models of Survival]((../tutorials/distributedDelay.pdf)) (Boxcar Models) ((pulliam))
+-   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
+    - SHADOW HIDE **Please fill in the <a href='../logistics/weekend1'>weekend activities form</a>! (Due by 13:00 on Wednesday.)**
+    - SHADOW **13:15 Faculty meeting in Room 105**
+-   14:00 – 14:30 **Computer Session:** Harare/other data in same groups (TBA)
+-   14:30 – 15:00 **Discussion:** Harare tutorial ((pulliam))
+-   15:00 – 16:00 _**Parallel sessions**_
+    -   **Track A:** [Formulating Research Questions A](./researchQuestionsA) ((nyamai))
+    -   **Track B:** [Formulating Research Questions B](./researchQuestionsB) ([Borchering](../team/borchering)) NOTE look at notes from Cari and feedback from Becky; talk also with JP
+-   16:00 – 16:30 *Tea*
+-   16:30 – 18:00 _**Parallel sessions**_
+    -   **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology: Where does modeling fit? ((vs)) - and [R Tutorials](../tutorials) - Lab 3: Study Design in Epidemiology (TBA)
+        - Lab 3 Summary (TBA)
+    -   **Track B:** **Exercise:** Creating a model world to address a research question ([Mwangi](../team/mwangi))
+        - SHADOW Update observers: ?
+-   18:00 – 18:30 *Dinner*
+-   19:00 – 20:00 **Working session:** Model World Assignment (Track B) and Tutorial catch-up, as needed (TBA)
+
+### Thursday, 29 June
+
+-   8:30 – 10:00 _**Parallel sessions**_
+    -   **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology: Where does modeling fit? ([Scott](../team/scott), with Dushoff and van Schalkwyk) - and [R Tutorials](../tutorials) - Lab 3: Study Design in Epidemiology ([Dushoff](../team/dushoff), [Mhlanga](../team/mhlanga), [Mthombothi](../team/mthombothi), [Scott](../team/scott), [van Schalkwyk](../team/vanschalkwyk))
+    - Lab 3 Summary ([Mthombothi](../team/Mthombothi))
+    -   **Track B:** **Exercise:** Creating a model world to address a research question ([Mwangi](../team/mwangi))
+        - with Pulliam and Welte
+-   10:00 – 10:30 *Coffee break*
+-   10:30 – 12:00 **Lecture:** Introduction to statistical philosophy ([Dushoff](../team/dushoff))
+-   12:00 – 12:30 **Discussion:** MMED research projects ([Borchering](../team/borchering))
+    - [Potential project groups](../projects/)
+-   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
+    - **13:15 Faculty meeting in Room 105**
+-   14:00 – 15:30 **Lecture:** Participatory coding of a dynamical model ([Pulliam](../team/pulliam), with [Thumbi](../team/mwangi)) - Code on [Tutorials](../tutorials) page
+-   15:30 – 16:00 *Tea*
+-   16:00 – 16:45 **Lecture:** Introduction to Likelihood ([van Schalkwyk](../team/vanschalkwyk))
+    - with Jonathan, John, Becky
+    - JP to talk to Jan about projecting upstairs
+-   16:45 – 18:00 **Computer Session:** [R Tutorials](../tutorials) - Lab 5: Introduction to Likelihood Lab ([Are](../team/are), [Borchering](../team/borchering), [Dushoff](../team/dushoff), [Sempa](../team/sempa), [van Schalkwyk](../team/vanschalkwyk))
+    - Lab 5 Summary ([van Schalkwyk](../team/vanschalkwyk))
+-   18:00 – 18:30 *Dinner*
+-   19:30 – 21:00 **Social activity:** Drumming
+
+### Friday, 30 June
+
+-   8:30 – 10:00  _**Parallel sessions:**_
+    - **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology II: RCT's ([Welte](../team/welte), with Scott and Borchering) and [R Tutorials](../tutorials) - Lab 4: Study Design for Clinical Trials ([Borchering](../team/borchering), [Dushoff](../team/dushoff), [Mhlanga](../team/mhlanga), [Scott](../team/scott), [Welte](../team/welte))
+    - [Dataset for Lab 4](https://github.com/ICI3D/datasets/blob/master/clinicalTrials/MuTxT.Rdata?raw=true)
+    - Lab 4 Summary ([Scott](../team/scott))
+    - **Track B: Exercise:** Description of proposed model and assumptions ([Mwangi](../team/mwangi))
+        - with Pulliam, Mthombothi
+-   10:00 – 10:30 *Coffee break*
+-   10:30 – 11:15 **Lecture:** Likelihood fitting and dynamic models,
+Part 1: Dynamic Model Fitting and Inference Robustness ([Pulliam](../team/pulliam))
+    - with Dushoff and Mwangi
+-   11:15 - 12:30 **Computer Session:** Lab 6: MLE fitting of an SIR model to prevalence data ([Are](../team/are), [Dushoff](../team/Dushoff), [Mthombothi](../team/Mthombothi), [Sempa](../team/sempa), [van Schalkwyk](../team/vanschalkwyk))
+    - **Additional info:** [Parameter transformation](../tutorials/parameterTransformations.pdf)
+    - Lab Summary: Lab 6 ([Dushoff](../team/dushoff))
+-   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
+    - Please fill in [this form](../logistics/tutorialCatchUp) to indicate what you will work on during the tutorial catch-up session on Saturday and whom you would like to meet for a mentoring session next week. (Due by 17:00 on Friday.)
+    - **13:15 Faculty meeting in Room 105**
+-   14:00 – 14:40 **Mentor presentations** (Mentors); Moderator: [Hargrove](../team/hargrove)) [stretch breaks]
+-   14:50 – 15:30 **Mentor presentations** (Mentors); Moderator: [Hargrove](../team/hargrove))
+-   15:30 – 16:00 *Tea*
+-   16:00 – 17:00 **MMED Projects** (Moderator: [Pulliam](../team/pulliam))
+    - Project group sign-up will be available after this session
+-   17:00 – 18:00 **Mid-session Feedback** (Moderator: [Paradza](../team/paradza))
+-   18:00 – 18:30 *Dinner*
+-   19:30 – 21:30 **Social Activity:** Movie night (_Perfect Sense_)
+
+### Saturday, 1 July
+
+-   9:00 – 10:30 **Live coding session:** Participatory coding for Variability, Sampling Distributions, and Simulation Lecture ([Dushoff](../team/Dushoff))  - [Code on Tutorials page](../tutorials)
+    - with TBD, TBD
+-   10:30 – 11:00 A good chance to sign up for project groups and *Coffee break*
+-   11:00 – 12:30 **Computer Session:** Tutorial catch-up, as needed ([Are](../team/are), [Mhlanga](../team/mhlanga), [Pulliam](../team/pulliam), [Sempa](../team/sempa), [Scott](../team/scott))
+-   12:30 – 14:00 **Social Activity:** Group lunch at Kalky's
+-   14:00 – Free/working afternoon
+-   19:00 Party in E310
+
+### Sunday, 2 July
+
+- Free day – optional group trip to Cape Point
+    -   We will leave at 10:00. *Please meet in the AIMS lobby by 9:55.*
+- **Faculty meeting in E310 at 17:30.**
+
+### Monday, 3 July
+
+-   8:30 – 9:15 **Lecture:** Doing Science ([Welte](../team/welte))
+-   9:15 – 9:30 **Organizational Session:** [Schedule and goals for the second week](https://github.com/ICI3D/MMED/blob/master/scheduleNotes/2_Mon_0915_Borchering.md) ([Borchering](../team/borchering))
+-   9:30 – 10:00 **Work Session:** Project groups meet for the first time (All instructors)
+-   10:00 – 10:30 *Coffee break*
+-   10:30 – 11:30 **Computer Session:** Introduction to GitHub ([Mthombothi](../team/mthombothi)) (with [Borchering](../team/borchering), [Dushoff](../team/dushoff), [Mhlanga](../team/mhlanga), [Sempa](../team/sempa))
+-   11:30 – 12:30 **Work Session:** Work plans for group projects (Project groups)
+-   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
+    - **13:15 Faculty meeting in Room 105**
+-   14:00 – 15:30 **Lecture:** Likelihood fitting and dynamic models II ([Bobby](../team/reiner))
+    - (Jonathan, Juliet)
+-   15:30 – 16:00 *Tea*
+-   16:00 – 17:30 **Work Session** (Project groups)
+    - 16:30 – 17:30 **Mentoring Session**: [schedule](https://docs.google.com/spreadsheets/d/1rqke3YCIUTSR2bx8k-eWrA2xmODGw4m-Oh0NY3k4J_M/edit?usp=sharing) (Alex, John, Juliet, Tendai)
+-   18:00 – 18:30 *Dinner*
+-   19:00 – 20:00 GitHub practice and troubleshooting ([Pulliam](../team/pulliam)) and/or optional tutorial catch-up ([Are](../team/are), [Mthombothi](../team/mthombothi), [Mwangi](../team/mwangi), [Welte](../team/welte))
+
+### Tuesday, 4 July
+
+-   8:30 – 10:00 **Lecture**: Introduction to Monte Carlo Markov Chains (MCMC) ([Dushoff](../team/dushoff)) - [Slides (180mb read-only powerpoint slide set with embedded movies)](https://ndownloader.figshare.com/files/8597005)
+	- **Download** the lecture locally from an AIMS computer on the desktop if you login as *guest* or, if you have an AIMS account, find it at /srv/local/guest/Desktop
+  - (Bobby, Alex)
+  - **Group photo after this lecture**
+-   10:00 – 10:30 *Coffee break*
+-   10:30 - 11:30 **Computer session**: MCMC fitting Labs 7-8 in [R Tutorials](../tutorials) ([Borchering](../team/borchering), [Dushoff](../team/dushoff), [Mhlanga](../team/mhlanga), [Sempa](../team/sempa), [van Schalkwyk](../team/vanschalkwyk))
+    - Lab 7 Summary ([Sempa](../team/sempa))
+    - Lab 8 Summary ([Dushoff](../team/dushoff))
+-   11:30 – 12:30 **Work Session** (Project groups); **MedPH break-out group** ([Borchering](../team/borchering), [Mthombothi](../team/mthombothi))
+-   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
+    - **13:15 Faculty meeting in Room 105**
+-   14:00 – 14:45 **Lecture**: Data wrangling I: Data management and cleaning ([Mwangi](../team/mwangi))
+    - (Jonathan, Juliet)
+-   14:45 – 15:30 **Computer session**: [R Tutorials](../tutorials) - Data wrangling ([Are](../team/are), [Mhlanga](../team/mhlanga), [Mthombothi](../team/mthombothi), [Mwangi](../team/mwangi), [Pulliam](../team/Pulliam))
+    - Tutorial 5 Summary ([Mwangi](../team/mwangi))
+-   15:30 – 16:00 *Tea*
+-   16:00 – 17:30 **Work Session** (Project groups)
+    - 16:30 – 17:30 **Mentoring Session**: [schedule](https://docs.google.com/spreadsheets/d/1rqke3YCIUTSR2bx8k-eWrA2xmODGw4m-Oh0NY3k4J_M/edit?usp=sharing) - (Jonathan, Juliet, Laurette)
+-   18:00 – 18:30 *Dinner*
+-   19:00 – 20:00 **Real-world example ([optional guest lecture](../talks)):** [Tendai Mugwagwa](../talks/mugwagwa)
+
+### Wednesday, 5 July
+
+-   8:30 – 9:30 **Lecture**: Model assessment ([Dushoff](../team/Dushoff))
+-   9:30 - 10:00  **Work Session** (Project groups); **Computer Session:** Tutorial catch-up, as needed, with floaters???
+-   10:00 – 10:30 *Coffee break*
+-   10:30 – 12:30 **Work Session** (Project groups)
+-   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
+    - **Sign up to go to on Saturday's field trip by 13:00.**
+    - **13:15 Faculty meeting in Room 105**
+-   14:00 – 15:30 **Work Session** (Project groups)
+    - 14:00 – 15:00 _Optional Session:_ Stochastic modeling II ([Dushoff](../team/dushoff) and [TBD](../team/TBD)??)
+-   15:30 – 16:00 *Tea*
+-   16:00 – 17:30 **Work Session** (Project groups)
+    - 16:30 – 17:30 **Mentoring Session**: [schedule](https://docs.google.com/spreadsheets/d/1rqke3YCIUTSR2bx8k-eWrA2xmODGw4m-Oh0NY3k4J_M/edit?usp=sharing) (Becky, Joseph, Juliet, Zinhle)
+-   18:00 – 18:30 *Dinner*
+-   19:00 – 20:00 **Real-world example (optional lecture):** Research Talk ([Welte](../talks/welte))
+
+### Thursday, 6 July
+
+-   8:30 – 9:15 **Discussion**: Modeling for policy ([Tendai](../team/mugwagwa))
+-   9:15 - 10:00  **Work Session** (Project groups); **Computer Session:** Tutorial catch-up, as needed, with floaters???
+-   10:00 – 10:30 *Coffee break*
+-   10:30 – 12:30 **Work Session** (Project groups)
+    - 10:30 – 12:30 Core faculty meeting in E310
+-   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
+    - **13:15 Faculty meeting in Room 105**
+-   14:00 – 15:30 **Work Session** (Project groups)
+    - 14:00 – 15:00 _Optional Session:_ Data wrangling II ([TBD?](../team/TBD) or [TBD?](../team/TBD))
+-   15:30 – 16:00 *Tea*
+-   16:00 – 17:30 **Work Session** (Project groups)
+    - 16:30 – 17:30 **Mentoring Session**: [schedule](https://docs.google.com/spreadsheets/d/1rqke3YCIUTSR2bx8k-eWrA2xmODGw4m-Oh0NY3k4J_M/edit?usp=sharing) (Bobby, Elisha, Jonathan, Joseph, Tendai)
+-   18:00 – 18:30 *Dinner*
+-   19:00 – 20:00 **Work session** (Project groups)
+    - 19:00 – whenever Mentor dinner (venue TBD)
+
+### Friday, 7 July
+
+-   8:30 – 10:00 **Work Session** (Project groups)
+-   10:00 – 10:30 *Coffee break*
+    - 10:30 – 11:30 **Mentoring Session**: [schedule](https://docs.google.com/spreadsheets/d/1rqke3YCIUTSR2bx8k-eWrA2xmODGw4m-Oh0NY3k4J_M/edit?usp=sharing) (Cari, Elisha, Thumbi)
+-   10:30 – 12:30 **Work Session** (Project groups) - Mentors
+-   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
+    - **13:15 Faculty meeting in Room 105**
+-   14:00 – 15:30 **Final presentations**
+-   15:30 – 16:00 *Tea*
+-   16:00 – 17:00 **Final Feedback Session** (Moderator: [Paradza](../team/paradza))
+-   17:15 – 17:45 Closing session
+-   18:00 – 18:30 *Dinner*
+-   20:00 – 22:00 **Social Activity**: TBD
+
+### Saturday, 8 July
+
+-   Clinic officially ends on Friday, but there will be an optional group trip on Saturday.
