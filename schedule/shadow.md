@@ -34,9 +34,9 @@ alertmsg: >
 
 ### Sunday, 25 June
 
--   14:00 – 18:00 Registration and welcome, AIMS lobby NOTE confirm timing with Faikah
+-   14:00 – 18:00 Registration and welcome, AIMS lobby _NOTE confirm timing with Faikah_{: .shadow}
 -   18:00 – 18:30 *Dinner*, AIMS Dining Hall
-    - SHADOW Faculty meeting and dinner in E310 (TBC) at 18:00.
+    - {: .shadow} Faculty meeting and dinner in E310 (TBC) at 18:00.
 
 ### Monday, 26 June
 
@@ -49,17 +49,17 @@ alertmsg: >
 -   10:45 – 11:30 **Lecture:** Introduction to Thinking About Data I ((nyamai))
 -   11:30 – 12:30 **Lecture:** Introduction to dynamic modeling of infectious diseases ((mthombothi))
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - **TBD Faculty** will help people get their laptops set up for Dynamical Fever at 12:30 in the main lecture hall. NOTE (mentors on call)
-    - SHADOW **13:15 Faculty meeting in Room 105**
+    - **TBD Faculty** will help people get their laptops set up for Dynamical Fever at 12:30 in the main lecture hall. _NOTE (mentors on call)_{: .shadow}
+    - {: .shadow} **13:15 Faculty meeting in Room 105**
 -   14:00 – 15:00 **_Parallel sessions_**
-    -   **Track A:** Introduction to infectious disease data ([Mwangi](../team/mwangi)) NOTE Update observers: (Alex, Becky, Juliet, Zinhle)
-    -   **Track B:** Foundations of dynamic modeling ([Dushoff](../team/Dushoff)) NOTE Update observers: (John, Laurette, Elisha, Joseph)
+    -   **Track A:** Introduction to infectious disease data ([Mwangi](../team/mwangi)) _NOTE Update observers: (Alex, Becky, Juliet, Zinhle)_{: .shadow}
+    -   **Track B:** Foundations of dynamic modeling ([Dushoff](../team/Dushoff)) _NOTE Update observers: (John, Laurette, Elisha, Joseph)_{: .shadow}
 -   15:00 – 15:30 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: (kombe))
 -   15:30 – 16:00 *Tea* and **poster set-up**
-    - SHADOW with TBD Faculty and mentors (3)
+    - {: .shadow} with TBD Faculty and mentors (3)
 -   16:00 – 16:45 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: (kombe))
--   16:45 – 17:00 **_Discussion_**: Dynamical Fever and Model Worlds ([Pulliam](../team/Pulliam)) NOTE [Slides](../Materials/modelWorlds.pdf)
--   17:00 – 18:00 [**Poster session I**](../posters/sessions) NOTE Update sessions page!
+-   16:45 – 17:00 **_Discussion_**: Dynamical Fever and Model Worlds ([Pulliam](../team/Pulliam)) _NOTE [Slides](../Materials/modelWorlds.pdf)_{: .shadow}
+-   17:00 – 18:00 [**Poster session I**](../posters/sessions) _NOTE Update sessions page!_{: .shadow}
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 19:30 **Social Activity:** Ice breakers ((bruce))
 -   19:30 – 20:30 **Social Activity:** Card games: Bullsh!t and Casino
@@ -77,24 +77,24 @@ alertmsg: >
 -   12:20 – 12:30 **Discussion:**
     - Lab 1 Summary (TBA)
 -   12:30 – 13:45 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - SHADOW **13:00 Faculty meeting in Room 105**
--   13:45 – 14:45 _**Parallel sessions**_ NOTE (Note: for this session only, Track A participants may attend the Track B session.)
+    - {: .shadow} **13:00 Faculty meeting in Room 105**
+-   13:45 – 14:45 _**Parallel sessions**_ _NOTE (Note: for this session only, Track A participants may attend the Track B session.)_{: .shadow}
     -   **Track A:** **Lecture:** Introduction to Thinking About Data II ((kassanjee))
-      - SHADOW with TBD, TBD, TBD
+      - {: .shadow} with TBD, TBD, TBD
     -   **Track B:** **Lecture:** Basic stochastic simulation models ((kombe))
-      - SHADOW with TBD, TBD, TBD
--   14:45 – 15:30 **Lecture:** Consequences of heterogeneity, and modeling options ([Dushoff](../team/dushoff)) NOTE Update observers: (with John, Cari, and Alex)
+      - {: .shadow} with TBD, TBD, TBD
+-   14:45 – 15:30 **Lecture:** Consequences of heterogeneity, and modeling options ([Dushoff](../team/dushoff)) _NOTE Update observers: (with John, Cari, and Alex)_{: .shadow}
 -   15:30 – 16:00 *Tea* and **poster set-up**
-    - SHADOW with TBD Faculty and mentors (3)
+    - {: .shadow} with TBD Faculty and mentors (3)
 -   16:00 - 17:00 **Computer Session:** [R Tutorials](../tutorials) - Lab 2: Consequences of heterogeneity (TBA)
     - You will need the most recent version of the ICI3D R package for this tutorial. If you are using your laptop for the tutorials, please update the package before you begin by running the command <b><code>remotes::install_github('ICI3D/ici3d-pkg')</code></b> in R studio.
     - To run the tutorial (after installing the package), type <b><code>ICI3D::heterogeneityTutorial()</code></b>.
     -  Lab 2 Summary (TBA)
--   17:00 – 18:00 [**Poster session II**](../posters/sessions) NOTE Update sessions page!
+-   17:00 – 18:00 [**Poster session II**](../posters/sessions) _NOTE Update sessions page!_{: .shadow}
 -   18:00 – 18:30 *Dinner*
 -   18:30 – 19:00 **Poster set-up**
-    - SHADOW with TBD Faculty and mentors (3)
--   19:00 – 20:00 [**Poster session III**](../posters/sessions) NOTE Update sessions page!
+    - {: .shadow} with TBD Faculty and mentors (3)
+-   19:00 – 20:00 [**Poster session III**](../posters/sessions) _NOTE Update sessions page!_{: .shadow}
 
 ### Wednesday, 28 June
 
@@ -112,19 +112,19 @@ alertmsg: >
     - If you finish all five versions of the model for the Harare data before lunch, move on to working on data from other countries.
     -  **Additional info:** [Distributed Delay Models of Survival]((../tutorials/distributedDelay.pdf)) (Boxcar Models) ((pulliam))
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - SHADOW HIDE **Please fill in the <a href='../logistics/weekend1'>weekend activities form</a>! (Due by 13:00 on Wednesday.)**
-    - SHADOW **13:15 Faculty meeting in Room 105**
+    - {: .shadow} HIDE **Please fill in the <a href='../logistics/weekend1'>weekend activities form</a>! (Due by 13:00 on Wednesday.)**
+    - {: .shadow} **13:15 Faculty meeting in Room 105**
 -   14:00 – 14:30 **Computer Session:** Harare/other data in same groups (TBA)
 -   14:30 – 15:00 **Discussion:** Harare tutorial ((pulliam))
 -   15:00 – 16:00 _**Parallel sessions**_
     -   **Track A:** [Formulating Research Questions A](./researchQuestionsA) ((nyamai))
-    -   **Track B:** [Formulating Research Questions B](./researchQuestionsB) ([Borchering](../team/borchering)) NOTE look at notes from Cari and feedback from Becky; talk also with JP
+    -   **Track B:** [Formulating Research Questions B](./researchQuestionsB) ([Borchering](../team/borchering)) _NOTE look at notes from Cari and feedback from Becky; talk also with JP_{: .shadow}
 -   16:00 – 16:30 *Tea*
 -   16:30 – 18:00 _**Parallel sessions**_
     -   **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology: Where does modeling fit? ((vs)) - and [R Tutorials](../tutorials) - Lab 3: Study Design in Epidemiology (TBA)
         - Lab 3 Summary (TBA)
     -   **Track B:** **Exercise:** Creating a model world to address a research question ([Mwangi](../team/mwangi))
-        - SHADOW Update observers: ?
+        - {: .shadow} Update observers: ?
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Working session:** Model World Assignment (Track B) and Tutorial catch-up, as needed (TBA)
 
@@ -135,12 +135,12 @@ alertmsg: >
     - [Dataset for Lab 4](https://github.com/ICI3D/datasets/blob/master/clinicalTrials/MuTxT.Rdata?raw=true)
     - Lab 4 Summary (TBA)
     - **Track B: Exercise:** Description of proposed model and assumptions ((mthombothi))
-        - SHADOW Update observers: ?
+        - {: .shadow} Update observers: ?
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:00 **Computer Session:** Tutorial catch-up, as needed (TBA)
 -   12:30 – 14:00 **Social Activity:** Group lunch at Kalky's
 -   14:00 – 18:00 Free/working afternoon
-    - SHADOW **17:00 Faculty meeting in Room E310** (TBC)
+    - {: .shadow} **17:00 Faculty meeting in Room E310** (TBC)
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example ([optional guest lecture](../talks)):** [Tendai Mugwagwa](../talks/mugwagwa)
 
@@ -149,32 +149,32 @@ alertmsg: >
 -   8:30 – 10:00 **Lecture:** Introduction to statistical philosophy ([Dushoff](../team/dushoff))
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 11:00 **Discussion:** MMED research projects ((reiner))
-    - SHADOW HIDE [Potential project groups](../projects/) NOTE needs updating!!!
+    - {: .shadow} HIDE [Potential project groups](../projects/) _NOTE needs updating!!!_{: .shadow}
 -   11:00 – 12:30 **Lecture:** Participatory coding of a dynamical model I ([Pulliam](../team/pulliam), with [Thumbi](../team/mwangi)) HIDE - Code on [Tutorials](../tutorials) page
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - SHADOW HIDE Please fill in [this form](../logistics/tutorialCatchUp) to indicate what you will work on during the tutorial catch-up session on Saturday and whom you would like to meet for a mentoring session next week. (Due by 17:00 on Friday.)
-    - SHADOW **13:15 Faculty meeting in Room 105**
+    - {: .shadow} HIDE Please fill in [this form](../logistics/tutorialCatchUp) to indicate what you will work on during the tutorial catch-up session on Saturday and whom you would like to meet for a mentoring session next week. (Due by 17:00 on Friday.)
+    - {: .shadow} **13:15 Faculty meeting in Room 105**
 -   14:00 – 14:45 **Lecture:** Introduction to Likelihood ([van Schalkwyk](../team/vanschalkwyk))
-    - SHADOW Update observers: ?
+    - {: .shadow} Update observers: ?
 -   14:45 – 15:30 **Computer Session:** [R Tutorials](../tutorials) - Lab 5: Introduction to Likelihood Lab (TBA)
 -   15:30 – 16:00 *Tea*
 -   16:00 – 16:45 **Computer Session:** [R Tutorials](../tutorials) - Lab 5: Introduction to Likelihood Lab continued (TBA)
     - Lab 5 Summary (TBA)
--   16:45 – 18:00 **Mentor presentations** (Mentors); Moderator: (pearson) NOTE stretch break recommended mid-way ~10 mins
+-   16:45 – 18:00 **Mentor presentations** (Mentors); Moderator: (pearson) _NOTE stretch break recommended mid-way ~10 mins_{: .shadow}
 -   18:00 – 18:30 *Dinner*
 -   19:30 – 21:00 **Social activity:** Drumming
 
 ### Saturday, 1 July
 
 -   8:30 – 9:15 **Lecture:** Likelihood fitting and dynamic models, Part 1: Dynamic Model Fitting and Inference Robustness (reiner)
-    - SHADOW Update observers: ?
+    - {: .shadow} Update observers: ?
 -   9:15 - 10:30 **Computer Session:** Lab 6: MLE fitting of an SIR model to prevalence data (TBA)
     - **Additional info:** [Parameter transformation](../tutorials/parameterTransformations.pdf)
     - Lab Summary: Lab 6 (kassanjee)
 -   10:30 – 11:00 *Coffee break*
 -   11:00 – 12:30 **Lecture:** Participatory coding of a dynamical model II ((pearson), with (pulliam)) HIDE - Code on [Tutorials](../tutorials) page
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - SHADOW **13:15 Faculty meeting in Room 105**
+    - {: .shadow} **13:15 Faculty meeting in Room 105**
 -   14:00 – 15:00 **MMED Projects:** Participants ask questions about specific projects (Moderator: (nyamai))
     - Project group sign-up will be available after this session
 -   15:00 – 15:30 A good chance to sign up for project groups and *Tea*
@@ -183,70 +183,70 @@ alertmsg: >
 -   17:30 – 18:00 A good chance to sign up for project groups
 -   18:00 – 18:30 *Dinner*
 -   19:30 – 21:30 **Social Activity:** Movie night (TBD)
--   SHADOW 19:00 Party in E310 (TBC)
+-   {: .shadow} 19:00 Party in E310 (TBC)
 
 ### Sunday, 2 July
 
 - Free day – optional group trip to Cape Point
     -   We will leave at 10:00. *Please meet in the AIMS lobby by 9:55.*
-- SHADOW **Faculty meeting in E310 at 17:30.**
+- {: .shadow} **Faculty meeting in E310 at 17:30.**
 
 ### Monday, 3 July
 
--   8:30 – 9:15 **Lecture:** Doing Science ((reiner)) NOTE _or_ life cycle?
+-   8:30 – 9:15 **Lecture:** Doing Science ((reiner)) _NOTE _or_ life cycle?_{: .shadow}
 -   9:15 – 9:45 **Organizational Session:** Response to feedback ((mwangi))
--   9:45 – 10:00 **Organizational Session:** Schedule and goals for the second week ((pearson)) NOTE [Schedule and goals for the second week](https://github.com/ICI3D/MMED/blob/master/scheduleNotes/2_Mon_0915_Borchering.md)
+-   9:45 – 10:00 **Organizational Session:** Schedule and goals for the second week ((pearson)) _NOTE [Schedule and goals for the second week](https://github.com/ICI3D/MMED/blob/master/scheduleNotes/2_Mon_0915_Borchering.md)_{: .shadow}
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 11:30 **Computer Session:** Introduction to GitHub ([Mthombothi](../team/mthombothi)) (with TBA)
--   11:30 – 12:30 **Work Session:** Work plans for group projects (Project groups / all instructors) NOTE Project groups meet for the first time
+-   11:30 – 12:30 **Work Session:** Work plans for group projects (Project groups / all instructors) _NOTE Project groups meet for the first time_{: .shadow}
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - SHADOW **13:15 Faculty meeting in Room 105**
+    - {: .shadow} **13:15 Faculty meeting in Room 105**
 -   14:00 – 15:30 **Lecture:** Likelihood fitting and dynamic models II ([Bobby](../team/reiner))
-    - SHADOW Update observers: ?
+    - {: .shadow} Update observers: ?
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
-    - 16:30 – 17:30 **Mentoring Session**: NOTE [schedule](https://docs.google.com/spreadsheets/d/1rqke3YCIUTSR2bx8k-eWrA2xmODGw4m-Oh0NY3k4J_M/edit?usp=sharing) (TBD)
+    - 16:30 – 17:30 **Mentoring Session**: _HIDE [schedule](https://docs.google.com/spreadsheets/d/1rqke3YCIUTSR2bx8k-eWrA2xmODGw4m-Oh0NY3k4J_M/edit?usp=sharing) (TBD)_{: .shadow}
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 GitHub practice and troubleshooting and/or optional tutorial catch-up (TBA)
 
 ### Tuesday, 4 July
 
 -   8:30 – 10:00 **Lecture**: Introduction to Monte Carlo Markov Chains (MCMC) ((borchering)) - [Slides (180mb read-only powerpoint slide set with embedded movies)](https://ndownloader.figshare.com/files/8597005)
-	- SHADOW **Download** the lecture locally from an AIMS computer on the desktop if you login as *guest* or, if you have an AIMS account, find it at /srv/local/guest/Desktop
-    - SHADOW Update observers: ?
-  - **Group photo after this lecture** NOTE TBC
+	- {: .shadow} **Download** the lecture locally from an AIMS computer on the desktop if you login as *guest* or, if you have an AIMS account, find it at /srv/local/guest/Desktop
+    - {: .shadow} Update observers: ?
+  - **Group photo after this lecture** _NOTE TBC_{: .shadow}
 -   10:00 – 10:30 *Coffee break*
 -   10:30 - 11:30 **Computer session**: MCMC fitting Labs 7-8 in [R Tutorials](../tutorials) (TBA)
     - Lab 7 Summary ((pulliam))
     - Lab 8 Summary ((pulliam))
 -   11:30 – 12:30 **Work Session** (Project groups); **MedPH break-out group** ((pulliam), [Mthombothi](../team/mthombothi))
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - SHADOW **13:15 Faculty meeting in Room 105**
+    - {: .shadow} **13:15 Faculty meeting in Room 105**
 -   14:00 – 14:45 **Lecture**: Data wrangling I: Data management and cleaning ([Mwangi](../team/mwangi))
-    - SHADOW Update observers: ?
+    - {: .shadow} Update observers: ?
 -   14:45 – 15:30 **Computer session**: [R Tutorials](../tutorials) - Data wrangling (TBA)
     - Tutorial 5 Summary ((nyamai))
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
-    - 16:30 – 17:30 **Mentoring Session**: NOTE [schedule](https://docs.google.com/spreadsheets/d/1rqke3YCIUTSR2bx8k-eWrA2xmODGw4m-Oh0NY3k4J_M/edit?usp=sharing) - (TBD)
+    - 16:30 – 17:30 **Mentoring Session**: _HIDE [schedule](https://docs.google.com/spreadsheets/d/1rqke3YCIUTSR2bx8k-eWrA2xmODGw4m-Oh0NY3k4J_M/edit?usp=sharing) - (TBD)_{: .shadow}
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example ([optional guest lecture](../talks)):** TBD
 
 ### Wednesday, 5 July
 
 -   8:30 – 9:30 **Lecture**: Model assessment ([Dushoff](../team/Dushoff))
--   9:30 - 10:00  **Work Session** (Project groups) NOTE **Computer Session:** Tutorial catch-up, as needed, with floaters???
+-   9:30 - 10:00  **Work Session** (Project groups) _NOTE **Computer Session:** Tutorial catch-up, as needed, with floaters???_{: .shadow}
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:30 **Work Session** (Project groups)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - SHADOW HIDE **Sign up to go to on Saturday's field trip by 13:00.**
-    - SHADOW **13:15 Faculty meeting in Room 105**
+    - {: .shadow} HIDE **Sign up to go to on Saturday's field trip by 13:00.**
+    - {: .shadow} **13:15 Faculty meeting in Room 105**
 -   14:00 – 15:30 **Work Session** (Project groups)
-    - 14:00 – 15:30 _Optional Session_ - **Live coding:** Participatory coding for Variability, Sampling Distributions, and Simulation Lecture ([Dushoff](../team/Dushoff), with (pulliam)) NOTE [Code on Tutorials page](../tutorials)
-    - SHADOW Update observers: ?
+    - 14:00 – 15:30 _Optional Session_ - **Live coding:** Participatory coding for Variability, Sampling Distributions, and Simulation Lecture ([Dushoff](../team/Dushoff), with (pulliam)) _NOTE [Code on Tutorials page](../tutorials)_{: .shadow}
+    - {: .shadow} Update observers: ?
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
-    - 16:30 – 17:30 **Mentoring Session**: NOTE [schedule](https://docs.google.com/spreadsheets/d/1rqke3YCIUTSR2bx8k-eWrA2xmODGw4m-Oh0NY3k4J_M/edit?usp=sharing) - (TBD)
+    - 16:30 – 17:30 **Mentoring Session**: _HIDE [schedule](https://docs.google.com/spreadsheets/d/1rqke3YCIUTSR2bx8k-eWrA2xmODGw4m-Oh0NY3k4J_M/edit?usp=sharing) - (TBD)_{: .shadow}
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example ([optional guest lecture](../talks)):** TBD
 
@@ -256,28 +256,28 @@ alertmsg: >
 -   9:15 - 10:00  **Work Session** (Project groups)
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:30 **Work Session** (Project groups) - Mentors
-    - SHADOW 10:30 – 12:30 Annual faculty meeting in E310 (TBC)
+    - {: .shadow} 10:30 – 12:30 Annual faculty meeting in E310 (TBC)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - SHADOW **13:15 Faculty meeting in Room 105**
+    - {: .shadow} **13:15 Faculty meeting in Room 105**
 -   14:00 – 15:30 **Work Session** (Project groups)
-    - 14:00 – 15:30 _Optional Session_ - **Live coding:** A Project Pipeline ((pearson), with (mwangi)) NOTE [Code on Tutorials page](../tutorials)
-    - SHADOW Update observers: ?
+    - 14:00 – 15:30 _Optional Session_ - **Live coding:** A Project Pipeline ((pearson), with (mwangi)) _NOTE [Code on Tutorials page](../tutorials)_{: .shadow}
+    - {: .shadow} Update observers: ?
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
-    - 16:30 – 17:30 **Mentoring Session**: NOTE [schedule](https://docs.google.com/spreadsheets/d/1rqke3YCIUTSR2bx8k-eWrA2xmODGw4m-Oh0NY3k4J_M/edit?usp=sharing) - (TBD)
+    - 16:30 – 17:30 **Mentoring Session**: _HIDE [schedule](https://docs.google.com/spreadsheets/d/1rqke3YCIUTSR2bx8k-eWrA2xmODGw4m-Oh0NY3k4J_M/edit?usp=sharing) - (TBD)_{: .shadow}
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Work session** (Project groups)
-    - SHADOW 19:00 – whenever Mentor dinner (venue TBD)
+    - {: .shadow} 19:00 – whenever Mentor dinner (venue TBD)
 
 ### Friday, 7 July
 
 -   8:30 – 10:00 **Work Session** (Project groups)
-    - 8:30 – 10:00 **Mentoring Session**: NOTE [schedule](https://docs.google.com/spreadsheets/d/1rqke3YCIUTSR2bx8k-eWrA2xmODGw4m-Oh0NY3k4J_M/edit?usp=sharing) - (TBD)
+    - 8:30 – 10:00 **Mentoring Session**: _HIDE [schedule](https://docs.google.com/spreadsheets/d/1rqke3YCIUTSR2bx8k-eWrA2xmODGw4m-Oh0NY3k4J_M/edit?usp=sharing) - (TBD)_{: .shadow}
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:30 **Work Session** (Project groups)
-    - 10:30 – 11:30 **Mentoring Session**: NOTE [schedule](https://docs.google.com/spreadsheets/d/1rqke3YCIUTSR2bx8k-eWrA2xmODGw4m-Oh0NY3k4J_M/edit?usp=sharing) - (TBD)
+    - 10:30 – 11:30 **Mentoring Session**: _HIDE [schedule](https://docs.google.com/spreadsheets/d/1rqke3YCIUTSR2bx8k-eWrA2xmODGw4m-Oh0NY3k4J_M/edit?usp=sharing) - (TBD)_{: .shadow}
 -   12:30 – 13:45 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - SHADOW **13:00 Faculty meeting in Room 105**
+    - {: .shadow} **13:00 Faculty meeting in Room 105**
 -   13:45 – 15:30 **Final presentations**
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:00 **Final Feedback Session** (Moderator: (bruce))
