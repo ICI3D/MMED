@@ -21,3 +21,5 @@ all.time
 .clean_dir
 *.oldfile
 *.olddiff
+
+Gemfile.lock
