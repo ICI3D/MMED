@@ -18,10 +18,15 @@ li[data-who]::after {
 .shadow {
   display: none;
 }
+.shadow-show {
+  color: #fff;
+  background-color: #000;
+}
 </style>
 
- - {: .tz data-start="1700" data-end="1800" data-who="carl"} A lecture title [some shadow content](){: .shadow }
+ - {: .tz data-start="1700" data-end="1800" data-who="carl"} A lecture title _some notes content_{: .shadow }
  - {: .tz data-start="1830" data-end="1945"} A different lecture title
+ - {: .shadow } all whole shadowed bullet
 
 The ideal version of above would probably be a little liquid template to cut down the noise on declaring starts, ends, tagging with `tz` class. Also, to enable actual construction of the link to instructors / content.
 
@@ -29,7 +34,7 @@ The ideal version of above would probably be a little liquid template to cut dow
 
 <script>
 hasShadow = (new URLSearchParams(window.location.search)).has("shadow");
-if (hasShadow) { $(".shadow").removeClass("shadow"); }
+if (hasShadow) { $(".shadow").removeClass("shadow").addClass("shadow-show"); }
 
 timestarts = $('[data-start]');
 timestarts.each(function() { $(this).attr("data-os", $(this).data("start")); });
