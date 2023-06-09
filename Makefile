@@ -2,6 +2,7 @@
 
 # http://127.0.0.1:4000/
 # http://127.0.0.1:4000/schedule/
+# http://127.0.0.1:4000/schedule/shadow/
 
 ## http://www.ici3d.org/MMED/
 ## http://www.ici3d.org/MMED/schedule
