@@ -1,5 +1,5 @@
 ---
 tab: Team
-type: Workshop
-role: Faculty Member, MMED and DAIDD clinics
+type: director
+role: Clinic Director for MMEDD 2023
 ---

@@ -1,5 +1,5 @@
 ---
 tab: Team
-type: workshop
-role: Faculty Member, MMED clinic
+type: director
+role: Deputy Clinic Director for MMED 2023
 ---
