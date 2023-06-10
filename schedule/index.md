@@ -18,9 +18,6 @@ alertmsg: >
 ---
 
 * {: .shadow }[Faculty notes page](https://github.com/ICI3D/MMED/blob/master/notes.md)
-* {: .shadow }[Shadow rules](http://www.ici3d.org/DAIDD/shadow_rules)
-
-* {: .shadow }[Your local (jekyll) copy of this page](http://localhost:4000/schedule/shadow)
 
 ### Sunday, 27 June
 {: .shadow}
