@@ -6,6 +6,7 @@ local.mk
 target.mk
 .*.sw*
 make.log
+*.kate-swp
 
 ## content from makestuff
 local.mk
