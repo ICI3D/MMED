@@ -1,5 +1,5 @@
 ---
 tab: Team
-type: core
-role: Deputy Clinic Director for MMED 2023
+type: director
+role: Deputy Clinic Director for MMED 2023<br>Faculty Member, MMED and DAIDD clinics
 ---

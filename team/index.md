@@ -13,7 +13,7 @@ subtitle: MMED 2023 Instructional Team
 {% for profile in site.team %}
 {% assign key = profile.relative_path | split: '/' | last | split: '.' | first %}
 {% assign member = site.data.team[key] %}
-{% if member.type contains "i3d" or profile.type contains "inactive" %}
+{% if member.type contains "i3d" or profile.type contains "inactive" or profile.type contains "director" %}
   {% assign usetype = profile.type %}
 {% else %}
   {% assign usetype = member.type %}
@@ -40,7 +40,7 @@ subtitle: MMED 2023 Instructional Team
 {% for profile in site.team %}
 {% assign key = profile.relative_path | split: '/' | last | split: '.' | first %}
 {% assign member = site.data.team[key] %}
-{% if member.type contains "i3d" or profile.type contains "inactive" %}
+{% if member.type contains "i3d" or profile.type contains "inactive" or profile.type contains "director" %}
   {% assign usetype = profile.type %}
 {% else %}
   {% assign usetype = member.type %}

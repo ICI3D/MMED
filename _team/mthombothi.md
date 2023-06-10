@@ -1,4 +1,4 @@
 ---
 tab: Team
-role: Faculty Member, MMED and DAIDD clinics
+role: MMED 2023 Logistics Lead<br>Faculty Member, MMED and DAIDD clinics
 ---
