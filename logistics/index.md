@@ -12,7 +12,7 @@ alertmsg: <b>You will need to be logged into your GitHub account to access some 
 ### For everyone
 - {: .shadow} Please review this [important information for visitors to AIMS and South Africa](./ImportantInfoAIMS.pdf) prior to arrival.
 - Most participants will be staying in the Empire Building, across the street from AIMS. If you arrive at AIMS between 12:00 and 17:00 on Sunday, one or more volunteers will be available in the lobby to answer any questions you may have and take you to your room.
-- **Please review the [accommodation guidelines](./accommodationGuidelines) prior to arrival.**
+- Check back here for final accommodation guidelines. **Please review the [accommodation guidelines](./accommodationGuidelines) prior to arrival.**{: .shadow}
 - {: .shadow} Please complete the [Emergency Contact](./emergencyContact) and [Photo Release](./photoRelease) forms and send completed copies to <forms@ici3d.org> by the end of the day on Monday.
 
 #### For those arriving by air
@@ -55,10 +55,9 @@ alertmsg: <b>You will need to be logged into your GitHub account to access some 
 ## Facilities
 
 - **Meals** are provided in the AIMS dining hall.
-
-    `       `*`Breakfast`*` is served from 7:45 - 8:30.`  
-    `       `*`Lunch`*` is served from 12:30 - 13:00.`  
-    `       `*`Dinner`*` is served from 18:00 - 18:30.`
+    * *Breakfast* is served from 7:45 - 8:30.
+    * *Lunch* is served from 12:30 - 13:00.  
+    * *Dinner* is served from 18:00 - 18:30.
 
 - **Laundry** facilities are available in some apartments. There are washing machines and dryers. You will need to provide your own detergent. You can purchase detergent from local shops or bring your own from home (being sure to comply with air travel rules).
 - **Wireless internet access** is available throughout the main AIMS facility. To connect to the network with your personal computer, you will need to register your computer on the AIMS network. _Instructions are available [here](./AIMS_IT.pdf)_{: .shadow}. Wifi is also available in the Empire Building if you are willing to pay for it.
@@ -71,7 +70,7 @@ alertmsg: <b>You will need to be logged into your GitHub account to access some 
 
 ## Tips for those staying in the Empire Building
 
-- **Please review the [accommodation guidelines](./accommodationGuidelines) prior to arrival.**
+- {: .shadow} **Please review the [accommodation guidelines](./accommodationGuidelines) prior to arrival.**
 - If your kitchen sink isn't draining, open the drain by pressing down on the drain plug and releasing.
 - If you are bringing a vehicle, you may park in the garage at the Empire building. You should first check in with security and then move your vehicle to the parking garage.
 
