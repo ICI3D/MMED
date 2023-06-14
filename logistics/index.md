@@ -36,7 +36,7 @@ subtitle: Logistical information
 ## Ground rules
 
 - All MMED participants are expected to engage fully in the MMED program. This includes attending all MMED sessions (other than those designated as optional).
-- You will be frequently using your laptops, but we will typically ask you to close them for certain activities: most all seminar and discussion activities. This will help you and the other participants focus on the material at hand. This rule also applies to other electronic devices, such as phones. We allow note taking on tablets, provided you are not abusing that allowance to pursue other activities.
+- You will be frequently using your laptops, but we will typically ask you to close them for certain activities: including most all seminar and discussion activities. This will help you and the other participants focus on the material at hand. This rule also applies to other electronic devices, such as phones. We allow note taking on tablets, provided you are not abusing that allowance to pursue other activities.
 - Please be aware that participants come from a wide variety of backgrounds and cultures. This diversity adds greatly to the MMED experience, and all participants should strive to create a welcoming, respectful learning environment.
 - {: .shadow }All MMED participants should follow the [AIMS house rules](./AIMS_house_rules.pdf). Because all MMED students are guests of AIMS, these rules apply whether you are housed in AIMS accommodations or elsewhere (e.g., in the Empire Building).
 
