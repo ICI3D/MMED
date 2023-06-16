@@ -1,6 +1,6 @@
 ---
 layout: clinic
-alerttype: success
+alerttype: warning
 alertmsg: >
   <ul style="font-size:16px">
     <li>Information about MMED 2023 will be added to this site as it becomes available.</li>

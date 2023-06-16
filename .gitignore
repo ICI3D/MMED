@@ -1,3 +1,4 @@
+.DS_Store
 jdresources
 .jekyll-cache/
 Gemfile.lock
@@ -6,6 +7,7 @@ local.mk
 target.mk
 .*.sw*
 make.log
+*.kate-swp
 
 ## content from makestuff
 local.mk
@@ -20,3 +22,5 @@ all.time
 .clean_dir
 *.oldfile
 *.olddiff
+
+Gemfile.lock

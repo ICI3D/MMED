@@ -13,7 +13,7 @@ Poster sessions will be held in the lecture hall and AIMS Common Area. You will 
 -   Clearly label the axes on all figures.
 -   You do not need to print your poster on a large format printer. Printing your poster on individual sheets of paper is absolutely fine.
 -   **We can print your poster for you**
-    -     To take advantage of this option, format your poster for printing on A1 size paper, and email a PDF of your poster to <a href="mailto:posters@ici3d.org?Subject=Email%20from%20ici3d.org" target="top" title="For questions or assistance, please email us!">posters@ici3d.org</a> by 17:00 SAST on Friday 17 May.
+    -     To take advantage of this option, format your poster for printing on A1 size paper, and email a PDF of your poster to <a href="mailto:posters@ici3d.org?Subject=Email%20from%20ici3d.org" target="top" title="For questions or assistance, please email us!">posters@ici3d.org</a> by 17:00 SAST on Friday 19 June.
     -     There is no charge for one A1 poster per participant.
 -   There are many online sources describing how to design and structure the contents of your poster. [This site](http://people.eku.edu/ritchisong/posterpres.html) is a good starting point. You may also want to consider using the "better poster" format described in [this video](https://www.youtube.com/watch?v=1RwJbhkCA58).
 -   Even if you print your poster ahead of time, please bring an electronic copy with you to the Clinic.

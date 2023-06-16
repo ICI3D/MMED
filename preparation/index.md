@@ -10,27 +10,19 @@ alertmsg: Please prepare for the Clinic by completing the following tasks. <b>Yo
 
 You should complete the following steps in preparation for the clinic before the first day of the Clinic.
 
-### 1. Research Pitch
+### 1. Poster preparation
 
-- Prepare a short oral presentation summarizing your research (2 minutes max, 1 slide in PDF format)
-    - You may summarize recent, completed research that forms the basis for ongoing work, or you may give an overview of ongoing work or of a new project that's in development.
-    - We recommend selecting 1-2 visual aids (eg, figures or diagrams) that will help you explain key aspects of the research. Please keep the text on your slide to a minimum.
-    - Do not attempt to explain all of the details of your project - stick to the essentials and keep it simple. You will be kept to time.
+Prepare a poster presentation to share your research.
 
-- Prepare a more detailed description of your research
-    - We recommend using an existing description of your research, rather than creating something from scratch. For example, you could use a poster you have presented elsewhere, a project proposal you have written, or even compile abstracts from 2-3 projects you've published or presented at meetings.
-    - The intent here is not for you to spend hours preparing something new to share, rather to provide an easy way for others who are interested to learn more about your research and interests.
-    - Please do keep it brief (1-3 pages would be best).
-
-- Upload the PDF version of your 1-slide research pitch to the **_01_pitchSlides_** folder on the MMED Participants Team on Microsoft Teams. Use the file naming convention **01_SurnameFirstname_pitch.pdf**.
-- Upload the PDF version of your more detailed description of your research to the **_02_reserachInfo_** folder on the MMED Participants Team, using the file naming convention **02_SurnameFirstname_info.pdf**.
-- Please contact Faikah if you have any trouble accessing the MMED Participants Team or uploading your material.
+- Poster preparation guidelines are available [here](../posters).  
+- Be sure to submit your poster by the June 19 deadline, if you would like us to print it for you.
+- {: .shadow } See [this page](../posters/sessions) for poster session assignments.
 
 ### <a id="#Software"></a> 2. Software installation
 
-Please install the following programs on the computer you will use during the Clinic, prior to the opening session:
+Please ensure the following programs on the computer you will use during the Clinic, prior to the opening session:
 
-- Excel (or a compatible spreadsheet program)
+- A spreadsheet program, such as Excel, LibreOffice, or Google Sheets
 - [Git](http://git-scm.com/) - version control software
     - Note that recent versions of MacOS come with Git installed, so you may not need to install this program.
 - [Git Bash](http://msysgit.github.io/) (Recommended for Windows users only) -  command line access to Git on Windows

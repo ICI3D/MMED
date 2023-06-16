@@ -1,7 +1,7 @@
 ---
 layout: medph.page
 title: Mathematical Modeling in Medicine and Public Health
-summary: Biomathematics Honours Course for AIMS students ~ June 21 - July 9, 2021
+summary: Biomathematics Honours Course for AIMS students ~ June 19 - July 8, 2023
 repo: https://github.com/ICI3D/MathModelsMedPH
 alerttype: success
 alertmsg: <b>You will need to be logged into your GitHub account to access some of the materials linked below.</b>

@@ -1,5 +1,8 @@
 port: 2052
-absoluteurl: //localhost:2052
 subdomainurl: //localhost:2052
-url: //localhost:2052
 baseurl: ''
+url: //localhost:2052
+path: /ICI3D.github.io
+webbrick:
+  headers:
+    Access-Control-Allow-Origin: "*"
