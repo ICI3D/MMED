@@ -13,8 +13,5 @@ end
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 gem 'jekyll-sass-converter'
-<<<<<<< HEAD
 
-gem 'jekyll-theme-ici3d', "~> 0.1.1"
-=======
->>>>>>> gh-pages
+gem 'jekyll-theme-ici3d', "~> 0.1.3"
