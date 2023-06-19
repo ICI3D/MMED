@@ -1,7 +1,7 @@
 ---
 name: Tom Hladish, PhD
 id: hladish
-type: observer
+type: inactive
 tab: Talks
 title: Research Talk
 role: MMED 2021 Faculty Observer

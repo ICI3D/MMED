@@ -1,7 +1,7 @@
 ---
 name: Michael Li, PhD
 id: li
-type: observer
+type: inactive
 tab: Talks
 title: Research Talk
 role: MMED 2021 Faculty Observer

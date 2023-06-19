@@ -3,7 +3,7 @@ name: Mutono Nyamai, MSc
 id: nyamai
 tab: Talks
 title: Mentor Presentations
-type: mentor
+type: inactive
 role: Mentor
 img: mentors/nyamai.png
 session: Friday 2 July, Interactive session 5b

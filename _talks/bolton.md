@@ -3,7 +3,7 @@ name: Larisse Bolton, PhD
 id: bolton
 tab: Talks
 title: Mentor Presentations
-type: mentor
+type: inactive
 role: Mentor
 img: mentors/bolton.jpg
 session: Friday 2 July, Interactive session 5b
