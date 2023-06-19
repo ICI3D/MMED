@@ -11,9 +11,10 @@ subtitle: Resources for during and after the Clinic
     - [ICI3D YouTube Channel](https://www.youtube.com/channel/UCtzFZwz48_JG4Owf6gQ-rUA)
     - [MMED 2019 Lectures and Lab Summaries](./slides/)
     - [MMED 2018 Lectures and Lab Summaries](./slides/2018)
-- Learning terminology
+- Learning terminology and other basics
     - [ICI3D Glossary](https://www.dropbox.com/s/ff7jqdc6jja8i3d/ICI3D_Glossary.pdf?dl=1)
     - [Modeling concepts](./modellingConcepts)
+    - [Introduction to Modelling Infectious Diseases](https://epi.simhub.online) by [Nathan Geffen](https://www.simhub.online/nathan/)
 - Learning R
     - [ICI3D tutorials](http://www.ici3d.org/MMED/tutorials/)
     - [Project Mosaic](http://mosaic-web.org/r-packages/)
