@@ -149,7 +149,7 @@ alertmsg: >
 -   14:00 – 18:00 Free/working afternoon
     - {: .shadow} **17:00 Faculty meeting in Room E310** (TBC)
 -   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 **Real-world example ([optional guest lecture](../talks)):** (TBA) [Tendai Mugwagwa](../talks/mugwagwa){: .shadow}
+-   19:00 – 20:00 **Real-world example ([optional lecture](../talks)):** [Seth Blumberg](../talks/blumberg)
 
 ### Friday, 30 June
 
@@ -237,7 +237,7 @@ alertmsg: >
 -   16:00 – 17:30 **Work Session** (Project groups)
     - 16:30 – 17:30 **Mentoring Session**: _HIDE [schedule](https://docs.google.com/spreadsheets/d/1rqke3YCIUTSR2bx8k-eWrA2xmODGw4m-Oh0NY3k4J_M/edit?usp=sharing) - (TBD)_{: .shadow}
 -   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 **Real-world example ([optional guest lecture](../talks)):** TBD
+-   19:00 – 20:00 **Real-world example ([optional lecture](../talks)):** [Sam Abbott](../talks/abbott)
 
 ### Wednesday, 5 July
 
