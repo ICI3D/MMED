@@ -19,12 +19,7 @@ alertmsg: >
 ---
 
 
-* {: .shadow }[Faculty notes page](https://github.com/ICI3D/MMED/blob/master/notes.md)
-
-### Sunday, 27 June
-{: .shadow}
-
-* {: .shadow } 20:30-21:30 [Faculty meeting on Teams](https://teams.microsoft.com/_?tenantId=a6fa3b03-0a3c-4258-8433-a120dffcd348#/conversations/Planning%20Meetings?threadId=19:5a6a8001238349fd9457225eb27c8311@thread.tacv2&ctx=channel)
+* {: .shadow }[Faculty notes archive](https://github.com/ICI3D/MMED/blob/master/notes.md)
 
 > The MMED program includes a number of parallel sessions for participants with different backgrounds. **Track A** is designed for those with a mathematical background, particularly those who have extensive training and/or experience with differential equation models of infectious disease dynamics. **Track B** is designed for those with a background in epidemiology and/or statistics, particularly those who are involved in data collection for infectious disease systems.
 
@@ -37,7 +32,6 @@ alertmsg: >
     </ul>
   </div>
 </div>
-
 
 ### Sunday, 25 June
 
