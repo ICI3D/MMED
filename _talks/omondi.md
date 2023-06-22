@@ -5,7 +5,7 @@ tab: Talks
 title: Mentor Presentations
 type: mentor
 role: Mentor
-img: transmission.png
+img: team/omondi.jpg
 session: Friday 30 June, 16:45 – 18:00
 topic:
 abstract:
