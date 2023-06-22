@@ -1,6 +1,6 @@
 ---
 name: Jeremy Bingham, MSc
-id: bingham
+id: inactive
 tab: Talks
 title: Mentor Presentations
 type: mentor
