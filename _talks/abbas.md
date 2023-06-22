@@ -3,7 +3,7 @@ name: Kaja Abbas, PhD
 id: abbas
 type: guest
 role: Guest Speaker
-img: transmission.png
+img: other/abbas.jpg
 session: Wednesday 5 July, 19:00, AIMS Main Lecture Hall
 tab: Talks
 title: Guest Lectures

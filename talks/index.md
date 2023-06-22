@@ -65,7 +65,9 @@ subtitle: MMED 2023 Research Talks
 
 <br>
 
-## Guest Speakers<br>
+## Guest Speakers
+
+<br>
 
 {% for speaker in site.talks %}
   {% if speaker.type == "guest" %}
