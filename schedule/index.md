@@ -42,6 +42,7 @@ alertmsg: >
 
 ### Monday, 26 June
 
+- {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:00 – 8:25 Registration and welcome, AIMS lobby
     -   **Please gather in the main lecture hall by 8:30.**
 -   8:30 – 9:00 Welcome and Motivation for Workshop ({% include instructors people="pearson|mthombothi|brown" %})
