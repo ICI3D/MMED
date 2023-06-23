@@ -44,7 +44,7 @@ alertmsg: >
 
 -   8:00 – 8:25 Registration and welcome, AIMS lobby
     -   **Please gather in the main lecture hall by 8:30.**
--   8:30 – 9:00 Welcome and Motivation for Workshop ({% include instructors people="pearson|mthombothi|sereo" %})
+-   8:30 – 9:00 Welcome and Motivation for Workshop ({% include instructors people="pearson|mthombothi|brown" %})
 -   9:00 – 10:00 **Lecture:** Public Health, Epidemiology, and Models ({% include instructors people="pearson" %})
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 10:45 **Organizational session:** [MMED Road Map](../roadmap) and programme overview ({% include instructors people="reiner" %})
@@ -128,7 +128,7 @@ alertmsg: >
 -   16:00 – 16:30 *Tea*
 -   16:30 – 18:00 _**Parallel sessions**_
     -   **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology: Where does modeling fit? ({% include instructors people="vanschalkwyk" %}) - and [R Tutorials](../tutorials) - Lab 3: Study Design in Epidemiology ({% include instructors people="sereo" %}, {% include instructors people="dushoff" %}, and {% include instructors people="vanschalkwyk" %})
-        - Lab 3 Summary ({% include instructors people="dushoff" %})
+        - Lab 3 Summary ({% include instructors people="sereo" %})
     -   **Track B:** **Exercise:** Creating a model world to address a research question ({% include instructors people="mwangi" %})
         - {: .shadow} Update observers: ?
 -   18:00 – 18:30 *Dinner*
@@ -168,7 +168,7 @@ alertmsg: >
     - {: .shadow} Update observers: ?
 -   14:45 – 15:30 **Computer Session:** [R Tutorials](../tutorials) - Lab 5: Introduction to Likelihood Lab ({% include instructors people="brown" %}, {% include instructors people="kombe" %}, {% include instructors people="mwangi" %}, {% include instructors people="omondi" %}, {% include instructors people="pearson" %}, and {% include instructors people="vanschalkwyk" %})
 -   15:30 – 16:00 *Tea*
--   16:00 – 16:45 **Computer Session:** [R Tutorials](../tutorials) - Lab 5: Introduction to Likelihood Lab continued ({% include instructors people="brown" %}, {% include instructors people="pulliam" %}, {% include instructors people="mwangi" %}, {% include instructors people="omondi" %}, {% include instructors people="pearson" %}, and {% include instructors people="vanschalkwyk" %})
+-   16:00 – 16:45 **Computer Session:** [R Tutorials](../tutorials) - Lab 5: Introduction to Likelihood Lab continued ({% include instructors people="brown" %}, {% include instructors people="kombe" %}, {% include instructors people="mwangi" %}, {% include instructors people="omondi" %}, {% include instructors people="pearson" %}, and {% include instructors people="vanschalkwyk" %})
     - Lab 5 Summary ({% include instructors people="vanschalkwyk" %})
 -   16:45 – 18:00 **Mentor presentations** (Mentors); Moderator: ({% include instructors people="pearson" %}) _NOTE stretch break recommended mid-way ~10 mins_{: .shadow}
 -   18:00 – 18:30 *Dinner*
@@ -187,7 +187,7 @@ alertmsg: >
 -   11:00 – 12:30 **Lecture:** Participatory coding of a dynamical model II ({% include instructors people="pearson|pulliam" %}) _Code on [Tutorials](../tutorials) page_{: .shadow}
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - {: .shadow} **13:30 Faculty check-in in Room 105**
--   14:00 – 15:00 **MMED Projects:** Participants ask questions about specific projects (Moderator: {% include instructors people="nyamai" %})
+-   14:00 – 15:00 **MMED Projects:** Participants ask questions about specific projects (Moderator: {% include instructors people="borchering|reiner" %})
     - Project group sign-up will be available after this session
 -   15:00 – 15:30 A good chance to sign up for project groups and *Tea*
 -   15:30 – 16:30 **Mid-session Feedback** (Moderator: {% include instructors people="bruce" %})
@@ -299,7 +299,7 @@ alertmsg: >
     - 10:30 – 11:30 **Mentoring Session**: _HIDE [schedule](https://docs.google.com/spreadsheets/d/1rqke3YCIUTSR2bx8k-eWrA2xmODGw4m-Oh0NY3k4J_M/edit?usp=sharing) - (TBD)_{: .shadow}
 -   12:30 – 13:45 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - {: .shadow} **13:15 Faculty check-in in Room 105**
--   13:45 – 15:30 **Final presentations**
+-   13:45 – 15:30 **Final presentations** (Moderator: {% include instructors people="pulliam" %})
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:00 **Final Feedback Session** (Moderator: {% include instructors people="bruce" %})
 -   17:15 – 17:45 Closing session ({% include instructors people="pearson" %})
