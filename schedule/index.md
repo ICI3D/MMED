@@ -7,7 +7,7 @@ subtitle: Clinic Schedule
 alerttype: shadow
 alertmsg: >
   <ul>
-  <li>Links to slides for the sessions below are available <a href="../resources/slides">here</a>.</li>
+  <li>Please make sure that your final slides for the sessions below are added to the ICI3D Google Drive!</li>
   <li>Links to R tutorials and exercises are available <a href="../tutorials">here</a>.</li>
   <li>Please update all your presentations to <b>use the ICI3D slide template</b>.</li>
   <li><a href="https://docs.google.com/document/d/1Bt3-caisbAP66fq0pjc1jVx_vinqqKrE_t0c5bjp2-c/edit#">Click here for access to the MMED 2023 Notes GD.</a></li>
@@ -15,12 +15,8 @@ alertmsg: >
   <li><a href="https://docs.google.com/document/d/1Q7h5bizBeCY1j_NZZ_bpsJ0bUB0F-wHCawhHUcRaW4A/edit#">Click here for access to the MMED 2019 Notes GD.</a></li>
   <li><a href="https://github.com/ICI3D/MMED/edit/master/scheduleNotes">Click here for access to the MMED 2018 Notes GD.</a></li>
   <li><a href="https://github.com/ICI3D/MMED2017/edit/master/scheduleNotes">Click here for access to the MMED 2017 Notes GD.</a></li>
-  <li>Note that links on this page do not (necessarily) work!</li>
   </ul>
 ---
-
-
-* {: .shadow }[Faculty notes archive](https://github.com/ICI3D/MMED/blob/master/notes.md)
 
 > The MMED program includes a number of parallel sessions for participants with different backgrounds. **Track A** is designed for those with a mathematical background, particularly those who have extensive training and/or experience with differential equation models of infectious disease dynamics. **Track B** is designed for those with a background in epidemiology and/or statistics, particularly those who are involved in data collection for infectious disease systems.
 
