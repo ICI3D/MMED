@@ -10,6 +10,7 @@ alertmsg: >
   <li>Links to slides for the sessions below are available <a href="../resources/slides">here</a>.</li>
   <li>Links to R tutorials and exercises are available <a href="../tutorials">here</a>.</li>
   <li>Please update all your presentations to <b>use the ICI3D slide template</b>.</li>
+  <li><a href="https://docs.google.com/document/d/1Bt3-caisbAP66fq0pjc1jVx_vinqqKrE_t0c5bjp2-c/edit#">Click here for access to the MMED 2023 Notes GD.</a></li>
   <li><a href="https://docs.google.com/document/d/1h2CI9CsHRebSMWATKlOg2epHh9x5IuphUovGn7YkF3k/edit#">Click here for access to the MMED 2021 Notes GD.</a></li>
   <li><a href="https://docs.google.com/document/d/1Q7h5bizBeCY1j_NZZ_bpsJ0bUB0F-wHCawhHUcRaW4A/edit#">Click here for access to the MMED 2019 Notes GD.</a></li>
   <li><a href="https://github.com/ICI3D/MMED/edit/master/scheduleNotes">Click here for access to the MMED 2018 Notes GD.</a></li>
