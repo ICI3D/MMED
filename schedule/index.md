@@ -34,7 +34,7 @@ alertmsg: >
 
 -   14:00 – 18:00 Registration and welcome, AIMS lobby
 -   18:00 – 18:30 *Dinner*, AIMS Dining Hall
-- {: .shadow} Faculty meeting and dinner in E310 at 18:00.
+- {: .shadow} Faculty meeting and dinner in E313 at 18:00.
     - {: .shadow} Save food for late-arriving faculty (RB, JD)!
 
 ### Monday, 26 June
@@ -146,7 +146,7 @@ alertmsg: >
 -   10:30 – 12:00 **Computer Session:** Tutorial catch-up, as needed ({% include instructors people="brown" %}, {% include instructors people="sereo" %}, {% include instructors people="omondi" %}, {% include instructors people="pulliam" %}, and {% include instructors people="reiner" %})
 -   12:30 – 14:00 **Social Activity:** Group lunch at Kalky's
 -   14:00 – 18:00 Free/working afternoon
-    - {: .shadow} **17:00 Faculty meeting in Room E310** (TBC)
+    - {: .shadow} **17:00 Faculty meeting in Room E313** (TBC)
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example ([optional lecture](../talks)):** [Seth Blumberg](../talks/blumberg)
 - {: .shadow} (Time TBD) Faculty Meeting in Room 105
@@ -193,13 +193,13 @@ alertmsg: >
 -   17:30 – 18:00 A good chance to sign up for project groups
 -   18:00 – 18:30 *Dinner*
 -   19:30 – 21:30 **Social Activity:** Movie night (TBD)
--   {: .shadow} 19:00 Party in E310 (TBC)
+-   {: .shadow} 19:00 Party in E313 (TBC)
 
 ### Sunday, 2 July
 
 - Free day – optional group trip to Cape Point
     -   We will leave at 10:00. *Please meet in the AIMS lobby by 9:55.*
-- {: .shadow} **Faculty meeting in E310 (TBC) at 17:30.**
+- {: .shadow} **Faculty meeting in E313 (TBC) at 17:30.**
 
 ### Monday, 3 July
 
@@ -274,7 +274,7 @@ alertmsg: >
 -   9:15 - 10:00  **Work Session** (Project groups)
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:30 **Work Session** (Project groups) - Mentors
-    - {: .shadow} 10:30 – 12:30 Annual faculty meeting in E310 (TBC)
+    - {: .shadow} 10:30 – 12:30 Annual faculty meeting in E313 (TBC)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - {: .shadow} **13:30 Faculty check-in in Room 105**
 -   14:00 – 15:30 **Work Session** (Project groups)
