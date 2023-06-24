@@ -72,7 +72,7 @@ alertmsg: >
 -   9:15 – 10:00 **Live coding session:** Introduction to model implementation
     ({% include instructors people="vanschalkwyk" %})
 -   10:00 – 10:30 *Coffee break*
--   10:30 – 12:20 **Computer Session:** [R Tutorials](../tutorials) - Lab 1: ODE models in R ({% include instructors people="brown" %}, {% include instructors people="sereo" %}, {% include instructors people="vanschalkwyk" %}, {% include instructors people="mwangi" %}, {% include instructors people="nyamai" %}, and {% include instructors people="pearson" %}); **MedPH break-out group** ({% include instructors people="pulliam|mthombothi" %})
+-   10:30 – 12:20 **Computer Session:** [R Tutorials](../tutorials) - Lab 1: ODE models in R ({% include instructors people="brown" %}, {% include instructors people="sereo" %}, {% include instructors people="vanschalkwyk" %}, {% include instructors people="mwangi" %}, {% include instructors people="nyamai" %}, and {% include instructors people="pearson" %}); **MedPH break-out group** ({% include instructors people="mthombothi" %})
     - All R tutorials and labs are linked from [this page](../tutorials)
     - You should have completed [R Tutorials I-III](../tutorials) prior to the Clinic. If you have not previously used R, we suggest you review these tutorials during this session, as the material they cover form the foundation for the computer sessions throughout the workshop. *Please use this opportunity to ask any questions you may have regarding the material in these tutorials.*
     - When you have completed Lab 1 (required), you may take a break or move on to Tutorial 4: Visualizing Infectious Disease Data in R (recommended)
@@ -232,7 +232,7 @@ alertmsg: >
 -   10:30 - 11:30 **Computer session**: MCMC fitting Labs 7-8 in [R Tutorials](../tutorials) ({% include instructors people="omondi" %}, {% include instructors people="kombe" %}, {% include instructors people="nyamai" %}, {% include instructors people="pearson" %}, {% include instructors people="pulliam" %}, and {% include instructors people="reiner" %})
     - Lab 7 Summary ({% include instructors people="pulliam" %})
     - Lab 8 Summary ({% include instructors people="pulliam" %})
--   11:30 – 12:30 **Work Session** (Project groups); **MedPH break-out group** ({% include instructors people="pulliam" %}, [Mthombothi](../team/mthombothi))
+-   11:30 – 12:30 **Work Session** (Project groups); **MedPH break-out group** ({% include instructors people="pulliam|mthombothi" %})
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - {: .shadow} **13:30 Faculty check-in in Room 105**
 -   14:00 – 14:45 **Lecture**: Data wrangling I: Data management and cleaning ([Mwangi](../team/mwangi))
@@ -270,8 +270,7 @@ alertmsg: >
 ### Thursday, 6 July
 
 - {: .shadow} 8:00 Faculty check-in in Room 105
--   8:30 – 9:15 **Discussion**: Modeling for policy (Panel: TBA, Moderator: {% include instructors people="pulliam" %})
--   9:15 - 10:00  **Work Session** (Project groups)
+-   8:30 – 10:00 **Discussion**: Modeling for policy (Panel: TBA, Moderator: {% include instructors people="pulliam" %})
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:30 **Work Session** (Project groups) - Mentors
     - {: .shadow} 10:30 – 12:30 Annual faculty meeting in E313 (TBC)
