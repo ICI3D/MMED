@@ -33,7 +33,7 @@ alertmsg: >
 ### Sunday, 25 June
 
 -   14:00 – 18:00 Registration and welcome, AIMS lobby
--   18:00 – 18:30 *Dinner*, AIMS Dining Hall
+-   17:15 – 17:45 *Dinner*, AIMS Dining Hall _NOTE normal time 18:00-18:30; changed due to loadshedding_{: .shadow}
 - {: .shadow} Faculty meeting and dinner in E313 at 18:00.
     - {: .shadow} Save food for late-arriving faculty (RB, JD)!
 
@@ -44,19 +44,25 @@ alertmsg: >
     -   **Please gather in the main lecture hall by 8:30.**
 -   8:30 – 9:00 Welcome and Motivation for Workshop ({% include instructors people="pearson|mthombothi|brown" %})
 -   9:00 – 10:00 **Lecture:** Public Health, Epidemiology, and Models ({% include instructors people="pearson" %})
+    - {: .shadow} Note takers: pulliam, mwangi
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 10:45 **Organizational session:** [MMED Road Map](../roadmap) and programme overview ({% include instructors people="reiner" %})
+    - {: .shadow} Note takers: pulliam, vanschalkwyk
 -   10:45 – 11:30 **Lecture:** Introduction to Thinking About Data I ({% include instructors people="nyamai" %})
+    - {: .shadow} Note takers: reiner, vanschalkwyk
 -   11:30 – 12:30 **Lecture:** Introduction to dynamic modeling of infectious diseases ({% include instructors people="mthombothi" %})
+    - {: .shadow} Note takers: reiner, vanschalkwyk
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - **TBD Faculty** will help people get their laptops set up for Dynamical Fever at 12:30 in the main lecture hall. _NOTE (mentors on call)_{: .shadow}
+    - **Faculty observers** will help people get their laptops set up for Dynamical Fever at 12:30 in the main lecture hall. _NOTE (mentors on call)_{: .shadow}
     - {: .shadow} **13:30 Faculty check-in in Room 105**
 -   14:00 – 15:00 **_Parallel sessions_**
-    -   **Track A:** Introduction to infectious disease data ({% include instructors people="mwangi" %}) _NOTE Update observers: (Alex, Becky, Juliet, Zinhle)_{: .shadow}
-    -   **Track B:** Foundations of dynamic modeling ({% include instructors people="dushoff" %}) _NOTE Update observers: (John, Laurette, Elisha, Joseph)_{: .shadow}
+    -   **Track A:** Introduction to infectious disease data ({% include instructors people="mwangi" %})
+        - {: .shadow} Note takers: kassanjee, nyamai
+    -   **Track B:** Foundations of dynamic modeling ({% include instructors people="dushoff" %})
+        - {: .shadow} Note takers: abbott, vanschalkwyk
 -   15:00 – 15:30 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: {% include instructors people="kombe" %}), with {% include instructors people="borchering" %},  {% include instructors people="sereo" %}, {% include instructors people="omondi" %}, {% include instructors people="pulliam" %}, and {% include instructors people="vanschalkwyk" %}
 -   15:30 – 16:00 *Tea* and **poster set-up**
-    - {: .shadow} with TBD Faculty and mentors (3)
+    - {: .shadow} with mthombothi and mentors (3)
 -   16:00 – 16:45 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: {% include instructors people="kombe" %}), with {% include instructors people="borchering" %},  {% include instructors people="sereo" %}, {% include instructors people="omondi" %}, {% include instructors people="pulliam" %}, and {% include instructors people="vanschalkwyk" %}
 -   16:45 – 17:00 **_Discussion_**: Dynamical Fever and Model Worlds ({% include instructors people="pulliam" %}) _NOTE [Slides](../Materials/modelWorlds.pdf)_{: .shadow}
 -   17:00 – 18:00 [**Poster session I**](../posters/sessions) _NOTE Update sessions page!_{: .shadow}
@@ -130,7 +136,7 @@ alertmsg: >
     -   **Track B:** **Exercise:** Creating a model world to address a research question ({% include instructors people="mwangi" %})
         - {: .shadow} Update observers: ?
 -   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 **Working session:** Model World Assignment (Track B) and Tutorial catch-up, as needed (TBA)
+-   19:00 – 20:00 **Working session:** Model World Assignment (Track B) and Tutorial catch-up, as needed ({% include instructors people="mthombothi|nyamai|pulliam|sereo" %})
 - {: .shadow} (Time TBD) Faculty Meeting in Room 105
 
 ### Thursday, 29 June

@@ -7,37 +7,40 @@ subtitle: Poster sessions
 {% include topTable.html %}
 
 ## Poster session I - Monday
-- Alan
-- Brian
-- Enrique
-- Jessica
-- Kimberly
-- Ntsieni
-- Zenabu
 
-## Poster session III - Wednesday
-- Abi and Dylan
-- Florian
-- Gui Liu
-- Larisse
-- Lawrence
-- Mandilakhe and Priyanka
-- Mozart
-- Mutono
-- Nicky, Richard, and Stephan
+- Bianca
+- Chenoa
+- Dilip
+- Fiona
+- Jordan
+- Manar
+- Mariken Mylène
+- Martha Muthina
+
+## Poster session III - Tuesday
+
+- Anita
+- Nicholas
+- Teresia
+- Robert
+- Sizeka Aubrey
+- Tasmin
+- Tonderai
+- Wingston
+
 
 {% include centerTable.html %}
 
 ## Poster session II - Tuesday
-- Adatia
-- Anecia
-- Hardik
-- Keerati
-- Kossi Wilfried
-- Quan Tran
-- Sara
-- Tijani
-- Villyen
+
+- Cameline
+- Folahanmi
+- Khai Hoan
+- Liliwe
+- Mphatso Dennis
+- Sara Beatus
+- Shelina
+- Sebentile
 
 <br><br>
 <br><br>
