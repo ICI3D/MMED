@@ -68,6 +68,7 @@ alertmsg: >
     - _Announcement: please bring **charged** laptops with the package installed to the 10:30 sesson tomorrow._{: .shadow}
 -   17:00 – 18:00 [**Poster session I**](../posters/sessions) **POSTPONED**
 -   17:15 – 17:45 *Dinner*, AIMS Dining Hall _NOTE normal time 18:00-18:30; changed due to loadshedding_{: .shadow}
+    - **Note that dinner has been moved earlier due to load-shedding at 18:00**
 - {: .shadow} 18:00 Faculty Meeting in Mail Lecture Hall
 -   19:00 – 19:30 **Social Activity:** Ice breakers ({% include instructors people="bruce" %})
 -   19:30 – 20:30 **Social Activity:** Card games: Bullsh!t and Casino
