@@ -18,6 +18,8 @@ alertmsg: >
   </ul>
 ---
 
+As they become available, session slides will appear in [this shared folder](https://drive.google.com/drive/folders/1eANZnzN0VhQ14lupd2rHvQOQzOG45Gsp).
+
 > The MMED program includes a number of parallel sessions for participants with different backgrounds. **Track A** is designed for those with a mathematical background, particularly those who have extensive training and/or experience with differential equation models of infectious disease dynamics. **Track B** is designed for those with a background in epidemiology and/or statistics, particularly those who are involved in data collection for infectious disease systems.
 
 <div class="alert alert-warning" role="alert">
@@ -42,8 +44,8 @@ alertmsg: >
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:00 – 8:25 Registration and welcome, AIMS lobby
     -   **Please gather in the main lecture hall by 8:30.**
--   8:30 – 9:00 Welcome and Motivation for Workshop ({% include instructors people="pearson|mthombothi|brown" %})
--   9:00 – 10:00 **Lecture:** Public Health, Epidemiology, and Models ({% include instructors people="pearson" %})
+-   8:30 – 9:00 [Welcome and Motivation for Workshop](https://drive.google.com/file/d/1EvvdVlBb3TPf7RAAlN9pnhIWL9_kppK3/view?usp=sharing) ({% include instructors people="pearson|mthombothi|brown" %})
+-   9:00 – 10:00 **Lecture:** [Public Health, Epidemiology, and Models](https://drive.google.com/file/d/1BttHcz_-B_DpcaIAE1tFXq23Kih5UCZs/view?usp=sharing) ({% include instructors people="pearson" %})
     - {: .shadow} Note takers: pulliam, mwangi
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 10:45 **Organizational session:** [MMED Road Map](../roadmap) and programme overview ({% include instructors people="reiner" %})
