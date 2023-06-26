@@ -64,8 +64,8 @@ alertmsg: >
 -   15:30 – 16:00 *Tea* and **poster set-up**
     - {: .shadow} with mthombothi and mentors (3)
 -   16:00 – 16:45 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: {% include instructors people="kombe" %}), with {% include instructors people="borchering" %},  {% include instructors people="sereo" %}, {% include instructors people="omondi" %}, {% include instructors people="pulliam" %}, and {% include instructors people="vanschalkwyk" %}
--   16:45 – 17:00 **_Discussion_**: Dynamical Fever and Model Worlds ({% include instructors people="pulliam" %}) _NOTE [Slides](../Materials/modelWorlds.pdf)_{: .shadow}
--   17:00 – 18:00 [**Poster session I**](../posters/sessions) _NOTE Update sessions page!_{: .shadow}
+-   16:45 – 17:00 **_Discussion_**: Dynamical Fever and Model Worlds ({% include instructors people="pulliam" %}) _NOTE [Slides](https://www.dropbox.com/s/grqk8603yqgj52f/dynamicalFever_Reveal.pptx?dl=1)_{: .shadow}
+-   17:00 – 18:00 [**Poster session I**](../posters/sessions)
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 19:30 **Social Activity:** Ice breakers ({% include instructors people="bruce" %})
 -   19:30 – 20:30 **Social Activity:** Card games: Bullsh!t and Casino
@@ -91,18 +91,18 @@ alertmsg: >
       - {: .shadow} with TBD, TBD, TBD
     -   **Track B:** **Lecture:** Basic stochastic simulation models ({% include instructors people="kombe" %})
       - {: .shadow} with TBD, TBD, TBD
--   14:45 – 15:30 **Lecture:** Consequences of heterogeneity, and modeling options ({% include instructors people="dushoff" %}) _NOTE Update observers: (with John, Cari, and Alex)_{: .shadow}
+-   14:45 – 15:30 **Lecture:** Consequences of heterogeneity, and modeling options ({% include instructors people="dushoff" %})
 -   15:30 – 16:00 *Tea* and **poster set-up**
     - {: .shadow} with TBD Faculty and mentors (3)
 -   16:00 - 17:00 **Computer Session:** [R Tutorials](../tutorials) - Lab 2: Consequences of heterogeneity ({% include instructors people="dushoff" %}, {% include instructors people="kassanjee" %}, {% include instructors people="mthombothi" %}, {% include instructors people="pearson" %}, {% include instructors people="reiner" %}, and {% include instructors people="pulliam" %})
     - You will need the most recent version of the ICI3D R package for this tutorial. If you are using your laptop for the tutorials, please update the package before you begin by running the command <b><code>remotes::install_github('ICI3D/ici3d-pkg')</code></b> in R studio.
     - To run the tutorial (after installing the package), type <b><code>ICI3D::heterogeneityTutorial()</code></b>.
     -  Lab 2 Summary ({% include instructors people="pearson" %})
--   17:00 – 18:00 [**Poster session II**](../posters/sessions) _NOTE Update sessions page!_{: .shadow}
+-   17:00 – 18:00 [**Poster session II**](../posters/sessions)
 -   18:00 – 18:30 *Dinner*
 -   18:30 – 19:00 **Poster set-up**
     - {: .shadow} with TBD Faculty and mentors (3)
--   19:00 – 20:00 [**Poster session III**](../posters/sessions) _NOTE Update sessions page!_{: .shadow}
+-   19:00 – 20:00 [**Poster session III**](../posters/sessions)
 - {: .shadow} (Time TBD) Faculty Meeting in Room 105
 
 ### Wednesday, 28 June
