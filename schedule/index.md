@@ -62,7 +62,7 @@ alertmsg: >
         - {: .shadow} Note takers: abbott, vanschalkwyk
 -   15:00 – 15:30 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: {% include instructors people="kombe" %}), with {% include instructors people="borchering" %},  {% include instructors people="sereo" %}, {% include instructors people="omondi" %}, {% include instructors people="pulliam" %}, and {% include instructors people="vanschalkwyk" %}
 -   15:30 – 16:00 *Tea* _and **poster set-up**_{: .shadow}
-    - {: .shadow} with mthombothi and mentors (3)
+    - {: .shadow} with mthombothi and mentors
 -   16:00 – 16:45 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: {% include instructors people="kombe" %}), with {% include instructors people="borchering" %},  {% include instructors people="sereo" %}, {% include instructors people="omondi" %}, {% include instructors people="pulliam" %}, and {% include instructors people="vanschalkwyk" %}
 -   16:45 – 17:00 **_Discussion_**: Dynamical Fever and Model Worlds ({% include instructors people="pulliam" %}) _NOTE [Slides](https://www.dropbox.com/s/grqk8603yqgj52f/dynamicalFever_Reveal.pptx?dl=1)_{: .shadow}
     - _Announcement: please bring **charged** laptops with the package installed to the 10:30 sesson tomorrow._{: .shadow}
@@ -77,42 +77,44 @@ alertmsg: >
 
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 9:15 **Lecture:** (Hidden) assumptions of simple ODE models ({% include instructors people="borchering" %})
--   9:15 – 10:00 **Live coding session:** Introduction to model implementation
-    ({% include instructors people="vanschalkwyk" %})
+    - {: .shadow} Note takers: pulliam, reiner
+-   9:15 – 10:00 **Live coding session:** Introduction to model implementation ({% include instructors people="vanschalkwyk" %})
+    - {: .shadow} Note takers: dushoff, mwangi
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:20 **Computer Session:** [R Tutorials](../tutorials) - Lab 1: ODE models in R ({% include instructors people="brown" %}, {% include instructors people="sereo" %}, {% include instructors people="vanschalkwyk" %}, {% include instructors people="mwangi" %}, {% include instructors people="nyamai" %}, and {% include instructors people="pearson" %}); **MedPH break-out group** ({% include instructors people="mthombothi" %})
     - All R tutorials and labs are linked from [this page](../tutorials)
     - You should have completed [R Tutorials I-III](../tutorials) prior to the Clinic. If you have not previously used R, we suggest you review these tutorials during this session, as the material they cover form the foundation for the computer sessions throughout the workshop. *Please use this opportunity to ask any questions you may have regarding the material in these tutorials.*
     - When you have completed Lab 1 (required), you may take a break or move on to Tutorial 4: Visualizing Infectious Disease Data in R (recommended)
--   12:20 – 12:30 **Discussion:**
-    - Lab 1 Summary ({% include instructors people="brown" %})
+-   12:20 – 12:30 **Discussion:** Lab 1 Summary ({% include instructors people="brown" %})
 -   12:30 – 13:45 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - {: .shadow} **13:15 Faculty check-in in Room 105**
 -   13:45 – 14:45 _**Parallel sessions**_ _NOTE (Note: for this session only, Track A participants may attend the Track B session.)_{: .shadow}
     -   **Track A:** **Lecture:** Introduction to Thinking About Data II ({% include instructors people="kassanjee" %})
-      - {: .shadow} with TBD, TBD, TBD
+        - {: .shadow} Note takers: pearson, blumberg
     -   **Track B:** **Lecture:** Basic stochastic simulation models ({% include instructors people="kombe" %})
-      - {: .shadow} with TBD, TBD, TBD
+        - {: .shadow} Note takers: reiner, borchering
 -   14:45 – 15:30 **Lecture:** Consequences of heterogeneity, and modeling options ({% include instructors people="dushoff" %})
+    - {: .shadow} Note takers: reiner, abbott
 -   15:30 – 16:00 *Tea* and **poster set-up**
-    - {: .shadow} with TBD Faculty and mentors (3)
--   16:00 - 17:00 **Computer Session:** [R Tutorials](../tutorials) - Lab 2: Consequences of heterogeneity ({% include instructors people="dushoff" %}, {% include instructors people="kassanjee" %}, {% include instructors people="mthombothi" %}, {% include instructors people="pearson" %}, {% include instructors people="reiner" %}, and {% include instructors people="pulliam" %})
+    - {: .shadow} with {% include instructors people="mthombothi" %} and mentors
+    - {: .shadow} Table moving: Becky, Zinhle, Lauren, Bobby, Tumelo, Faikah
+-   16:00 - 17:00 **Computer Session:** [R Tutorials](../tutorials) - Lab 2: Consequences of heterogeneity ({% include instructors people="dushoff" %}, {% include instructors people="kassanjee" %}, {% include instructors people="mthombothi" %}, {% include instructors people="pearson" %}, {% include instructors people="reiner" %}, and {% include instructors people="vanschalkwyk" %})
     - You will need the most recent version of the ICI3D R package for this tutorial. If you are using your laptop for the tutorials, please update the package before you begin by running the command <b><code>remotes::install_github('ICI3D/ici3d-pkg')</code></b> in R studio.
     - To run the tutorial (after installing the package), type <b><code>ICI3D::heterogeneityTutorial()</code></b>.
     -  Lab 2 Summary ({% include instructors people="pearson" %})
 -   17:00 – 18:00 [**Poster session II**](../posters/sessions)
 -   18:00 – 18:30 *Dinner*
 -   18:30 – 19:00 **Poster set-up**
-    - {: .shadow} with TBD Faculty and mentors (3)
+    - {: .shadow} with {% include instructors people="mthombothi" %} and mentors
 -   19:00 – 20:00 [**Poster session III**](../posters/sessions)
-- {: .shadow} (Time TBD) Faculty Meeting in Room 105
+- {: .shadow} 20:05 Faculty Meeting in E313
 
 ### Wednesday, 28 June
 
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 9:50 _**Parallel sessions**_
-    -   **Track A:** **Computer Session:** [R Tutorials](../tutorials) - Tutorial 4: Visualizing Infectious Disease Data in R ({% include instructors people="brown" %}, {% include instructors people="mwangi" %}, {% include instructors people="nyamai" %}, and {% include instructors people="omondi" %})
-    -   **Track B:** **Computer Session:** [R Tutorials](../tutorials) - Exercise 1: Basic stochastic simulation models ({% include instructors people="borchering" %}, {% include instructors people="kombe" %}, and {% include instructors people="mthombothi" %})
+    -   **Track A in Small Computer Lab:** **Computer Session:** [R Tutorials](../tutorials) - Tutorial 4: Visualizing Infectious Disease Data in R ({% include instructors people="brown" %}, {% include instructors people="mwangi" %}, {% include instructors people="nyamai" %}, and {% include instructors people="omondi" %})
+    -   **Track B in Main Computer Lab:** **Computer Session:** [R Tutorials](../tutorials) - Exercise 1: Basic stochastic simulation models ({% include instructors people="borchering" %}, {% include instructors people="kombe" %}, and {% include instructors people="mthombothi" %})
 -   9:50 – 10:00 **Discussion:** (in parallel)
     - Tutorial 4 Summary ({% include instructors people="omondi" %})
     - Exercise 1 Summary ({% include instructors people="borchering" %})
