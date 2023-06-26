@@ -61,15 +61,16 @@ alertmsg: >
     -   **Track B:** Foundations of dynamic modeling ({% include instructors people="dushoff" %})
         - {: .shadow} Note takers: abbott, vanschalkwyk
 -   15:00 – 15:30 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: {% include instructors people="kombe" %}), with {% include instructors people="borchering" %},  {% include instructors people="sereo" %}, {% include instructors people="omondi" %}, {% include instructors people="pulliam" %}, and {% include instructors people="vanschalkwyk" %}
--   15:30 – 16:00 *Tea* and **poster set-up**
+-   15:30 – 16:00 *Tea* _and **poster set-up**_{: .shadow}
     - {: .shadow} with mthombothi and mentors (3)
 -   16:00 – 16:45 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: {% include instructors people="kombe" %}), with {% include instructors people="borchering" %},  {% include instructors people="sereo" %}, {% include instructors people="omondi" %}, {% include instructors people="pulliam" %}, and {% include instructors people="vanschalkwyk" %}
 -   16:45 – 17:00 **_Discussion_**: Dynamical Fever and Model Worlds ({% include instructors people="pulliam" %}) _NOTE [Slides](https://www.dropbox.com/s/grqk8603yqgj52f/dynamicalFever_Reveal.pptx?dl=1)_{: .shadow}
--   17:00 – 18:00 [**Poster session I**](../posters/sessions)
--   18:00 – 18:30 *Dinner*
+    - _Announcement: please bring **charged** laptops with the package installed to the 10:30 sesson tomorrow._{: .shadow}
+-   17:00 – 18:00 [**Poster session I**](../posters/sessions) **POSTPONED**
+-   17:15 – 17:45 *Dinner*, AIMS Dining Hall _NOTE normal time 18:00-18:30; changed due to loadshedding_{: .shadow}
+- {: .shadow} 18:00 Faculty Meeting in Mail Lecture Hall
 -   19:00 – 19:30 **Social Activity:** Ice breakers ({% include instructors people="bruce" %})
 -   19:30 – 20:30 **Social Activity:** Card games: Bullsh!t and Casino
-- {: .shadow} (Time TBD) Faculty Meeting in Room 105
 
 ### Tuesday, 27 June
 
