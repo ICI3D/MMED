@@ -129,22 +129,24 @@ As they become available, session slides will appear in [this shared folder](htt
     - If you finish all five versions of the model for the Harare data before lunch, move on to working on data from other countries.
     -  **Additional info:** [Distributed Delay Models of Survival](../tutorials/distributedDelay.pdf) (Boxcar Models) ({% include instructors people="pulliam" %})
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - {: .shadow} HIDE **Please fill in the <a href='../logistics/weekend1'>weekend activities form</a>! (Due by 13:00 on Wednesday.)**
     - {: .shadow} **13:30 Faculty check-in in Room 105**
 -   14:00 – 14:30 **Computer Session:** Harare/other data in same groups ({% include instructors people="brown" %}, {% include instructors people="kassanjee" %}, {% include instructors people="mthombothi" %}, {% include instructors people="omondi" %}, {% include instructors people="pearson" %}, and {% include instructors people="pulliam" %})
 -   14:30 – 15:00 **Discussion:** Harare tutorial ({% include instructors people="pulliam" %})
 -   15:00 – 16:00 _**Parallel sessions**_
-    -   **Track A:** [Formulating Research Questions A](./researchQuestionsA) ({% include instructors people="nyamai" %})
-    -   **Track B:** [Formulating Research Questions B](./researchQuestionsB) ({% include instructors people="borchering" %}) _NOTE look at notes from Cari and feedback from Becky; talk also with JP_{: .shadow}
+    -   **Track A in the Small Computer Lab:** [Formulating Research Questions A](./researchQuestionsA) ({% include instructors people="nyamai" %})
+            - {: .shadow} Note takers: pulliam, vanschalkwyk
+    -   **Track B in the Library:** [Formulating Research Questions B](./researchQuestionsB) ({% include instructors people="borchering" %}) _NOTE look at notes from Cari and feedback from Becky; talk also with JP_{: .shadow}
+        - {: .shadow} Note takers: pearson, mwangi
 -   16:00 – 16:30 *Tea*
 -   16:30 – 18:00 _**Parallel sessions**_
-    -   **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology: Where does modeling fit? ({% include instructors people="vanschalkwyk" %}) - and [R Tutorials](../tutorials) - Lab 3: Study Design in Epidemiology ({% include instructors people="sereo" %}, {% include instructors people="dushoff" %}, and {% include instructors people="vanschalkwyk" %})
+    -   **Track A in Small Computer Lab:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology: Where does modeling fit? ({% include instructors people="vanschalkwyk" %}) - and [R Tutorials](../tutorials) - Lab 3: Study Design in Epidemiology ({% include instructors people="sereo" %}, {% include instructors people="dushoff" %}, and {% include instructors people="vanschalkwyk" %})
+        - {: .shadow} Note takers: dushoff, kassanjee
         - Lab 3 Summary ({% include instructors people="sereo" %})
-    -   **Track B:** **Exercise:** Creating a model world to address a research question ({% include instructors people="mwangi" %})
-        - {: .shadow} Update observers: ?
+    -   **Track B in the Library:** **Exercise:** Creating a model world to address a research question ({% include instructors people="mwangi" %})
+        - {: .shadow} Note takers: pearson, pulliam
 -   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 **Working session:** Model World Assignment (Track B) and Tutorial catch-up, as needed ({% include instructors people="mthombothi|nyamai|pulliam|sereo" %})
-- {: .shadow} (Time TBD) Faculty Meeting in Room 105
+-   19:00 – 20:00 **Working session in Main Computer Lab:** Model World Assignment (Track B) and Tutorial catch-up, as needed ({% include instructors people="brown|mthombothi|nyamai|pulliam|sereo" %})
+- {: .shadow} 20;15 Faculty Meeting in E313
 
 ### Thursday, 29 June
 
@@ -154,15 +156,13 @@ As they become available, session slides will appear in [this shared folder](htt
     - [Dataset for Lab 4](https://github.com/ICI3D/datasets/blob/master/clinicalTrials/MuTxT.Rdata?raw=true)
     - Lab 4 Summary ({% include instructors people="kombe" %})
     - **Track B: Exercise:** Description of proposed model and assumptions ({% include instructors people="mthombothi" %})
-        - {: .shadow} Update observers: ?
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:00 **Computer Session:** Tutorial catch-up, as needed ({% include instructors people="brown" %}, {% include instructors people="sereo" %}, {% include instructors people="omondi" %}, {% include instructors people="pulliam" %}, and {% include instructors people="reiner" %})
 -   12:30 – 14:00 **Social Activity:** Group lunch at Kalky's
 -   14:00 – 18:00 Free/working afternoon
-    - {: .shadow} **17:00 Faculty meeting in Room E313** (TBC)
+    - {: .shadow} **17:00 Faculty meeting in Room E313**
 -   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 **Real-world example ([optional lecture](../talks)):** [Seth Blumberg](../talks/blumberg)
-- {: .shadow} (Time TBD) Faculty Meeting in Room 105
+-   19:00 – 20:00 **Real-world example ([optional lecture](../talks) in the Main Lecture Hall):** [Seth Blumberg](../talks/blumberg)
 
 ### Friday, 30 June
 
@@ -176,15 +176,14 @@ As they become available, session slides will appear in [this shared folder](htt
     - {: .shadow} HIDE Please fill in [this form](../logistics/tutorialCatchUp) to indicate what you will work on during the tutorial catch-up session on Saturday and whom you would like to meet for a mentoring session next week. (Due by 17:00 on Friday.)
     - {: .shadow} **13:30 Faculty check-in in Room 105**
 -   14:00 – 14:45 **Lecture:** Introduction to Likelihood ({% include instructors people="vanschalkwyk" %})
-    - {: .shadow} Update observers: ?
 -   14:45 – 15:30 **Computer Session:** [R Tutorials](../tutorials) - Lab 5: Introduction to Likelihood Lab ({% include instructors people="brown" %}, {% include instructors people="kombe" %}, {% include instructors people="mwangi" %}, {% include instructors people="omondi" %}, {% include instructors people="pearson" %}, and {% include instructors people="vanschalkwyk" %})
 -   15:30 – 16:00 *Tea*
 -   16:00 – 16:45 **Computer Session:** [R Tutorials](../tutorials) - Lab 5: Introduction to Likelihood Lab continued ({% include instructors people="brown" %}, {% include instructors people="kombe" %}, {% include instructors people="mwangi" %}, {% include instructors people="omondi" %}, {% include instructors people="pearson" %}, and {% include instructors people="vanschalkwyk" %})
     - Lab 5 Summary ({% include instructors people="vanschalkwyk" %})
 -   16:45 – 18:00 **Mentor presentations** (Mentors); Moderator: ({% include instructors people="pearson" %}) _NOTE stretch break recommended mid-way ~10 mins_{: .shadow}
 -   18:00 – 18:30 *Dinner*
+- {: .shadow} 18:30) Faculty Meeting in the Library
 -   19:30 – 21:00 **Social activity:** Drumming
-- {: .shadow} (Time TBD) Faculty Meeting in Room 105
 
 ### Saturday, 1 July
 
