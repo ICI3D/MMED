@@ -8,16 +8,9 @@ subtitle: Poster sessions
 
 ## Poster session I - Monday
 
-- Bianca
-- Chenoa
-- Dilip
-- Fiona
-- Jordan
-- Manar
-- Mariken Mylène
-- Martha Muthina
+**Postponed**; posters have been reallocated to one of the other sessions.
 
-## Poster session III - Tuesday
+## Poster session II - Tuesday
 
 - Anita
 - Nicholas
@@ -27,11 +20,16 @@ subtitle: Poster sessions
 - Tasmin
 - Tonderai
 - Wingston
-
+- Bianca
+- Chenoa
+- Dilip
+- Fiona
+- Akim
+- Kassahun
 
 {% include centerTable.html %}
 
-## Poster session II - Tuesday
+## Poster session III - Tuesday
 
 - Cameline
 - Folahanmi
@@ -41,6 +39,13 @@ subtitle: Poster sessions
 - Sara Beatus
 - Shelina
 - Sebentile
+- Jordan
+- Manar
+- Mariken Mylèneg
+- Martha Muthina
+- Brian
+- Yuri
+- Rashidul
 
 <br><br>
 <br><br>

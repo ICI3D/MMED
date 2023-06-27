@@ -91,9 +91,9 @@ As they become available, session slides will appear in [this shared folder](htt
 -   12:30 – 13:45 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - {: .shadow} **13:15 Faculty check-in in Room 105**
 -   13:45 – 14:45 _**Parallel sessions**_ _NOTE (Note: for this session only, Track A participants may attend the Track B session.)_{: .shadow}
-    -   **Track A:** **Lecture:** Introduction to Thinking About Data II ({% include instructors people="kassanjee" %})
+    -   **Track A in the Library:** **Lecture:** Introduction to Thinking About Data II ({% include instructors people="kassanjee" %})
         - {: .shadow} Note takers: pearson, blumberg
-    -   **Track B:** **Lecture:** Basic stochastic simulation models ({% include instructors people="kombe" %})
+    -   **Track B in the Main Lecture Hall:** **Lecture:** Basic stochastic simulation models ({% include instructors people="kombe" %})
         - {: .shadow} Note takers: reiner, borchering
 -   14:45 – 15:30 **Lecture:** Consequences of heterogeneity, and modeling options ({% include instructors people="dushoff" %})
     - {: .shadow} Note takers: reiner, abbott
@@ -270,7 +270,7 @@ As they become available, session slides will appear in [this shared folder](htt
     - {: .shadow} HIDE **Sign up to go to on Saturday's field trip by 13:00.**
     - {: .shadow} **13:30 Faculty check-in in Room 105**
 -   14:00 – 15:30 **Work Session** (Project groups)
-    - 14:00 – 15:30 _Optional Session_ - **Live coding:** Participatory coding for Variability, Sampling Distributions, and Simulation Lecture ({% include instructors people="dushoff|pulliam" %}) _NOTE [Code on Tutorials page](../tutorials)_{: .shadow}
+    - 14:00 – 15:30 _Optional Session_ - **Live coding:** Participatory coding for Variability, Sampling Distributions, and Simulation Lecture ({% include instructors people="dushoff|mwangi" %}) _NOTE [Code on Tutorials page](../tutorials)_{: .shadow}
     - {: .shadow} Update observers: ?
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
@@ -289,7 +289,7 @@ As they become available, session slides will appear in [this shared folder](htt
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - {: .shadow} **13:30 Faculty check-in in Room 105**
 -   14:00 – 15:30 **Work Session** (Project groups)
-    - 14:00 – 15:30 _Optional Session_ - **Live coding:** A Project Pipeline ({% include instructors people="pearson|mwangi" %}) _NOTE [Code on Tutorials page](../tutorials)_{: .shadow}
+    - 14:00 – 15:30 _Optional Session_ - **Live coding:** A Project Pipeline ({% include instructors people="pearson|pulliam" %}) _NOTE [Code on Tutorials page](../tutorials)_{: .shadow}
     - {: .shadow} Update observers: ?
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
