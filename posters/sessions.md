@@ -8,15 +8,16 @@ subtitle: Poster sessions
 
 ## Poster session I - Monday
 
-**Postponed**; posters have been reallocated to one of the other sessions.
+Posters have been reallocated to one of the other sessions.
 
 ## Poster session II - Tuesday
 
 - Anita
+- Carvin
 - Nicholas
-- Teresia
+- Njoki
 - Robert
-- Sizeka Aubrey
+- Sizeka
 - Tasmin
 - Tonderai
 - Wingston
@@ -25,7 +26,6 @@ subtitle: Poster sessions
 - Dilip
 - Fiona
 - Akim
-- Kassahun
 
 {% include centerTable.html %}
 
@@ -33,19 +33,21 @@ subtitle: Poster sessions
 
 - Cameline
 - Folahanmi
-- Khai Hoan
+- Khai
 - Liliwe
-- Mphatso Dennis
-- Sara Beatus
+- Mphatso
+- Sara
 - Shelina
 - Sebentile
 - Jordan
 - Manar
-- Mariken Mylèneg
-- Martha Muthina
+- Mariken
+- Martha
 - Brian
 - Yuri
 - Rashidul
+- Kassahun
+- Tumelo
 
 <br><br>
 <br><br>
