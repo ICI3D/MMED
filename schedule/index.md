@@ -18,6 +18,8 @@ alertmsg: >
   </ul>
 ---
 
+As they become available, session slides will appear in [this shared folder](https://drive.google.com/drive/folders/1eANZnzN0VhQ14lupd2rHvQOQzOG45Gsp).
+
 > The MMED program includes a number of parallel sessions for participants with different backgrounds. **Track A** is designed for those with a mathematical background, particularly those who have extensive training and/or experience with differential equation models of infectious disease dynamics. **Track B** is designed for those with a background in epidemiology and/or statistics, particularly those who are involved in data collection for infectious disease systems.
 
 <div class="alert alert-warning" role="alert">
@@ -33,7 +35,7 @@ alertmsg: >
 ### Sunday, 25 June
 
 -   14:00 – 18:00 Registration and welcome, AIMS lobby
--   18:00 – 18:30 *Dinner*, AIMS Dining Hall
+-   17:15 – 17:45 *Dinner*, AIMS Dining Hall _NOTE normal time 18:00-18:30; changed due to loadshedding_{: .shadow}
 - {: .shadow} Faculty meeting and dinner in E313 at 18:00.
     - {: .shadow} Save food for late-arriving faculty (RB, JD)!
 
@@ -42,69 +44,79 @@ alertmsg: >
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:00 – 8:25 Registration and welcome, AIMS lobby
     -   **Please gather in the main lecture hall by 8:30.**
--   8:30 – 9:00 Welcome and Motivation for Workshop ({% include instructors people="pearson|mthombothi|brown" %})
--   9:00 – 10:00 **Lecture:** Public Health, Epidemiology, and Models ({% include instructors people="pearson" %})
+-   8:30 – 9:00 [Welcome and Motivation for Workshop](https://drive.google.com/file/d/1EvvdVlBb3TPf7RAAlN9pnhIWL9_kppK3/view?usp=sharing) ({% include instructors people="pearson|mthombothi|brown" %})
+-   9:00 – 10:00 **Lecture:** [Public Health, Epidemiology, and Models](https://drive.google.com/file/d/1BttHcz_-B_DpcaIAE1tFXq23Kih5UCZs/view?usp=sharing) ({% include instructors people="pearson" %})
+    - {: .shadow} Note takers: pulliam, mwangi
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 10:45 **Organizational session:** [MMED Road Map](../roadmap) and programme overview ({% include instructors people="reiner" %})
+    - {: .shadow} Note takers: pulliam, vanschalkwyk
 -   10:45 – 11:30 **Lecture:** Introduction to Thinking About Data I ({% include instructors people="nyamai" %})
+    - {: .shadow} Note takers: reiner, vanschalkwyk
 -   11:30 – 12:30 **Lecture:** Introduction to dynamic modeling of infectious diseases ({% include instructors people="mthombothi" %})
+    - {: .shadow} Note takers: reiner, vanschalkwyk
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - **TBD Faculty** will help people get their laptops set up for Dynamical Fever at 12:30 in the main lecture hall. _NOTE (mentors on call)_{: .shadow}
+    - **Faculty observers** will help people get their laptops set up for Dynamical Fever at 12:30 in the main lecture hall. _NOTE (mentors on call)_{: .shadow}
     - {: .shadow} **13:30 Faculty check-in in Room 105**
 -   14:00 – 15:00 **_Parallel sessions_**
-    -   **Track A:** Introduction to infectious disease data ({% include instructors people="mwangi" %}) _NOTE Update observers: (Alex, Becky, Juliet, Zinhle)_{: .shadow}
-    -   **Track B:** Foundations of dynamic modeling ({% include instructors people="dushoff" %}) _NOTE Update observers: (John, Laurette, Elisha, Joseph)_{: .shadow}
+    -   **Track A:** Introduction to infectious disease data ({% include instructors people="mwangi" %})
+        - {: .shadow} Note takers: kassanjee, nyamai
+    -   **Track B:** Foundations of dynamic modeling ({% include instructors people="dushoff" %})
+        - {: .shadow} Note takers: abbott, vanschalkwyk
 -   15:00 – 15:30 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: {% include instructors people="kombe" %}), with {% include instructors people="borchering" %},  {% include instructors people="sereo" %}, {% include instructors people="omondi" %}, {% include instructors people="pulliam" %}, and {% include instructors people="vanschalkwyk" %}
--   15:30 – 16:00 *Tea* and **poster set-up**
-    - {: .shadow} with TBD Faculty and mentors (3)
+-   15:30 – 16:00 *Tea* _and **poster set-up**_{: .shadow}
+    - {: .shadow} with mthombothi and mentors
 -   16:00 – 16:45 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: {% include instructors people="kombe" %}), with {% include instructors people="borchering" %},  {% include instructors people="sereo" %}, {% include instructors people="omondi" %}, {% include instructors people="pulliam" %}, and {% include instructors people="vanschalkwyk" %}
--   16:45 – 17:00 **_Discussion_**: Dynamical Fever and Model Worlds ({% include instructors people="pulliam" %}) _NOTE [Slides](../Materials/modelWorlds.pdf)_{: .shadow}
--   17:00 – 18:00 [**Poster session I**](../posters/sessions) _NOTE Update sessions page!_{: .shadow}
--   18:00 – 18:30 *Dinner*
+-   16:45 – 17:00 **_Discussion_**: Dynamical Fever and Model Worlds ({% include instructors people="pulliam" %}) _NOTE [Slides](https://www.dropbox.com/s/grqk8603yqgj52f/dynamicalFever_Reveal.pptx?dl=1)_{: .shadow}
+    - _Announcement: please bring **charged** laptops with the package installed to the 10:30 sesson tomorrow._{: .shadow}
+-   17:00 – 18:00 [**Poster session I**](../posters/sessions) **POSTPONED**
+-   17:15 – 17:45 *Dinner*, AIMS Dining Hall _NOTE normal time 18:00-18:30; changed due to loadshedding_{: .shadow}
+    - **Note that dinner has been moved earlier due to load-shedding at 18:00**
+- {: .shadow} 18:00 Faculty Meeting in Mail Lecture Hall
 -   19:00 – 19:30 **Social Activity:** Ice breakers ({% include instructors people="bruce" %})
 -   19:30 – 20:30 **Social Activity:** Card games: Bullsh!t and Casino
-- {: .shadow} (Time TBD) Faculty Meeting in Room 105
 
 ### Tuesday, 27 June
 
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 9:15 **Lecture:** (Hidden) assumptions of simple ODE models ({% include instructors people="borchering" %})
--   9:15 – 10:00 **Live coding session:** Introduction to model implementation
-    ({% include instructors people="vanschalkwyk" %})
+    - {: .shadow} Note takers: pulliam, reiner
+-   9:15 – 10:00 **Live coding session:** Introduction to model implementation ({% include instructors people="vanschalkwyk" %})
+    - {: .shadow} Note takers: dushoff, mwangi
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:20 **Computer Session:** [R Tutorials](../tutorials) - Lab 1: ODE models in R ({% include instructors people="brown" %}, {% include instructors people="sereo" %}, {% include instructors people="vanschalkwyk" %}, {% include instructors people="mwangi" %}, {% include instructors people="nyamai" %}, and {% include instructors people="pearson" %}); **MedPH break-out group** ({% include instructors people="mthombothi" %})
     - All R tutorials and labs are linked from [this page](../tutorials)
     - You should have completed [R Tutorials I-III](../tutorials) prior to the Clinic. If you have not previously used R, we suggest you review these tutorials during this session, as the material they cover form the foundation for the computer sessions throughout the workshop. *Please use this opportunity to ask any questions you may have regarding the material in these tutorials.*
     - When you have completed Lab 1 (required), you may take a break or move on to Tutorial 4: Visualizing Infectious Disease Data in R (recommended)
--   12:20 – 12:30 **Discussion:**
-    - Lab 1 Summary ({% include instructors people="brown" %})
+-   12:20 – 12:30 **Discussion:** Lab 1 Summary ({% include instructors people="brown" %})
 -   12:30 – 13:45 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - {: .shadow} **13:15 Faculty check-in in Room 105**
 -   13:45 – 14:45 _**Parallel sessions**_ _NOTE (Note: for this session only, Track A participants may attend the Track B session.)_{: .shadow}
-    -   **Track A:** **Lecture:** Introduction to Thinking About Data II ({% include instructors people="kassanjee" %})
-      - {: .shadow} with TBD, TBD, TBD
-    -   **Track B:** **Lecture:** Basic stochastic simulation models ({% include instructors people="kombe" %})
-      - {: .shadow} with TBD, TBD, TBD
--   14:45 – 15:30 **Lecture:** Consequences of heterogeneity, and modeling options ({% include instructors people="dushoff" %}) _NOTE Update observers: (with John, Cari, and Alex)_{: .shadow}
+    -   **Track A in the Library:** **Lecture:** Introduction to Thinking About Data II ({% include instructors people="kassanjee" %})
+        - {: .shadow} Note takers: pearson, blumberg
+    -   **Track B in the Main Lecture Hall:** **Lecture:** Basic stochastic simulation models ({% include instructors people="kombe" %})
+        - {: .shadow} Note takers: reiner, borchering
+-   14:45 – 15:30 **Lecture:** Consequences of heterogeneity, and modeling options ({% include instructors people="dushoff" %})
+    - {: .shadow} Note takers: reiner, abbott
 -   15:30 – 16:00 *Tea* and **poster set-up**
-    - {: .shadow} with TBD Faculty and mentors (3)
--   16:00 - 17:00 **Computer Session:** [R Tutorials](../tutorials) - Lab 2: Consequences of heterogeneity ({% include instructors people="dushoff" %}, {% include instructors people="kassanjee" %}, {% include instructors people="mthombothi" %}, {% include instructors people="pearson" %}, {% include instructors people="reiner" %}, and {% include instructors people="pulliam" %})
+    - {: .shadow} with {% include instructors people="mthombothi" %} and mentors
+    - {: .shadow} Table moving: Becky, Zinhle, Lauren, Bobby, Tumelo, Faikah
+-   16:00 - 17:00 **Computer Session:** [R Tutorials](../tutorials) - Lab 2: Consequences of heterogeneity ({% include instructors people="dushoff" %}, {% include instructors people="kassanjee" %}, {% include instructors people="mthombothi" %}, {% include instructors people="pearson" %}, {% include instructors people="reiner" %}, and {% include instructors people="vanschalkwyk" %})
     - You will need the most recent version of the ICI3D R package for this tutorial. If you are using your laptop for the tutorials, please update the package before you begin by running the command <b><code>remotes::install_github('ICI3D/ici3d-pkg')</code></b> in R studio.
     - To run the tutorial (after installing the package), type <b><code>ICI3D::heterogeneityTutorial()</code></b>.
     -  Lab 2 Summary ({% include instructors people="pearson" %})
--   17:00 – 18:00 [**Poster session II**](../posters/sessions) _NOTE Update sessions page!_{: .shadow}
+-   17:00 – 18:00 [**Poster session II**](../posters/sessions)
 -   18:00 – 18:30 *Dinner*
 -   18:30 – 19:00 **Poster set-up**
-    - {: .shadow} with TBD Faculty and mentors (3)
--   19:00 – 20:00 [**Poster session III**](../posters/sessions) _NOTE Update sessions page!_{: .shadow}
-- {: .shadow} (Time TBD) Faculty Meeting in Room 105
+    - {: .shadow} with {% include instructors people="mthombothi" %} and mentors
+-   19:00 – 20:00 [**Poster session III**](../posters/sessions)
+- {: .shadow} 20:05 Faculty Meeting in E313
 
 ### Wednesday, 28 June
 
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 9:50 _**Parallel sessions**_
-    -   **Track A:** **Computer Session:** [R Tutorials](../tutorials) - Tutorial 4: Visualizing Infectious Disease Data in R ({% include instructors people="brown" %}, {% include instructors people="mwangi" %}, {% include instructors people="nyamai" %}, and {% include instructors people="omondi" %})
-    -   **Track B:** **Computer Session:** [R Tutorials](../tutorials) - Exercise 1: Basic stochastic simulation models ({% include instructors people="borchering" %}, {% include instructors people="kombe" %}, and {% include instructors people="mthombothi" %})
+    -   **Track A in Small Computer Lab:** **Computer Session:** [R Tutorials](../tutorials) - Tutorial 4: Visualizing Infectious Disease Data in R ({% include instructors people="brown" %}, {% include instructors people="mwangi" %}, {% include instructors people="nyamai" %}, and {% include instructors people="omondi" %})
+    -   **Track B in Main Computer Lab:** **Computer Session:** [R Tutorials](../tutorials) - Exercise 1: Basic stochastic simulation models ({% include instructors people="borchering" %}, {% include instructors people="kombe" %}, and {% include instructors people="mthombothi" %})
 -   9:50 – 10:00 **Discussion:** (in parallel)
     - Tutorial 4 Summary ({% include instructors people="omondi" %})
     - Exercise 1 Summary ({% include instructors people="borchering" %})
@@ -130,7 +142,7 @@ alertmsg: >
     -   **Track B:** **Exercise:** Creating a model world to address a research question ({% include instructors people="mwangi" %})
         - {: .shadow} Update observers: ?
 -   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 **Working session:** Model World Assignment (Track B) and Tutorial catch-up, as needed (TBA)
+-   19:00 – 20:00 **Working session:** Model World Assignment (Track B) and Tutorial catch-up, as needed ({% include instructors people="mthombothi|nyamai|pulliam|sereo" %})
 - {: .shadow} (Time TBD) Faculty Meeting in Room 105
 
 ### Thursday, 29 June
@@ -258,7 +270,7 @@ alertmsg: >
     - {: .shadow} HIDE **Sign up to go to on Saturday's field trip by 13:00.**
     - {: .shadow} **13:30 Faculty check-in in Room 105**
 -   14:00 – 15:30 **Work Session** (Project groups)
-    - 14:00 – 15:30 _Optional Session_ - **Live coding:** Participatory coding for Variability, Sampling Distributions, and Simulation Lecture ({% include instructors people="dushoff|pulliam" %}) _NOTE [Code on Tutorials page](../tutorials)_{: .shadow}
+    - 14:00 – 15:30 _Optional Session_ - **Live coding:** Participatory coding for Variability, Sampling Distributions, and Simulation Lecture ({% include instructors people="dushoff|mwangi" %}) _NOTE [Code on Tutorials page](../tutorials)_{: .shadow}
     - {: .shadow} Update observers: ?
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
@@ -277,7 +289,7 @@ alertmsg: >
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - {: .shadow} **13:30 Faculty check-in in Room 105**
 -   14:00 – 15:30 **Work Session** (Project groups)
-    - 14:00 – 15:30 _Optional Session_ - **Live coding:** A Project Pipeline ({% include instructors people="pearson|mwangi" %}) _NOTE [Code on Tutorials page](../tutorials)_{: .shadow}
+    - 14:00 – 15:30 _Optional Session_ - **Live coding:** A Project Pipeline ({% include instructors people="pearson|pulliam" %}) _NOTE [Code on Tutorials page](../tutorials)_{: .shadow}
     - {: .shadow} Update observers: ?
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)

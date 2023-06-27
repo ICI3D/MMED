@@ -38,7 +38,7 @@ subtitle: Logistical information
 - All MMED participants are expected to engage fully in the MMED program. This includes attending all MMED sessions (other than those designated as optional).
 - You will be frequently using your laptops, but we will typically ask you to close them for certain activities: including most all seminar and discussion activities. This will help you and the other participants focus on the material at hand. This rule also applies to other electronic devices, such as phones. We allow note taking on tablets, provided you are not abusing that allowance to pursue other activities.
 - Please be aware that participants come from a wide variety of backgrounds and cultures. This diversity adds greatly to the MMED experience, and all participants should strive to create a welcoming, respectful learning environment.
-- {: .shadow }All MMED participants should follow the [AIMS house rules](./AIMS_house_rules.pdf). Because all MMED students are guests of AIMS, these rules apply whether you are housed in AIMS accommodations or elsewhere (e.g., in the Empire Building).
+- All MMED participants should follow the [AIMS house rules](./AIMS_house_rules.pdf). Because all MMED students are guests of AIMS, these rules apply whether you are housed in AIMS accommodations or elsewhere (e.g., in the Empire Building).
 
 ## Muizenberg
 
@@ -58,7 +58,7 @@ subtitle: Logistical information
     * *Dinner* is served from 18:00 - 18:30.
 
 - **Laundry** facilities are available in some apartments. There are washing machines and dryers. You will need to provide your own detergent. You can purchase detergent from local shops or bring your own from home (being sure to comply with air travel rules).
-- **Wireless internet access** is available throughout the main AIMS facility. To connect to the network with your personal computer, you will need to register your computer on the AIMS network. _Instructions are available [here](./AIMS_IT.pdf)_{: .shadow}. Wifi is also available in the Empire Building if you are willing to pay for it.
+- **Wireless internet access** is available throughout the main AIMS facility. To connect to the network with your personal computer, you will need to register your computer on the AIMS network. Instructions are available [here](./AIMS_IT.pdf). Wifi is also available in the Empire Building if you are willing to pay for it.
 
 ## Things to bring or buy
 
