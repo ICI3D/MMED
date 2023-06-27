@@ -97,6 +97,7 @@ As they become available, session slides will appear in [this shared folder](htt
         - {: .shadow} Note takers: reiner, borchering
 -   14:45 – 15:30 **Lecture:** Consequences of heterogeneity, and modeling options ({% include instructors people="dushoff" %})
     - {: .shadow} Note takers: reiner, abbott
+    - {: .shadow} **Note for future years:** This lecture needs more time!! (see faculty notes doc)
 -   15:30 – 16:00 *Tea* and **poster set-up**
     - {: .shadow} with {% include instructors people="mthombothi" %} and mentors
     - {: .shadow} Table moving: Becky, Zinhle, Lauren, Bobby, Tumelo, Faikah
