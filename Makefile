@@ -1,7 +1,7 @@
 ## Navigation
 
 # http://127.0.0.1:4000/
-# http://127.0.0.1:4000/schedule/
+# http://127.0.0.1:4000/schedule/index.html
 # http://127.0.0.1:4000/schedule?shadow
 
 ## http://www.ici3d.org/MMED/
@@ -26,8 +26,13 @@ Sources += $(wildcard resources/*.md)
 ## jekyll
 
 Ignore += _site/
-localserve:
-	./run.sh > jekyll.log 2>&1 &
+## cerve: ~/mmed.jekyll.log
+cerve: jekyll.log
+	./run.sh > ~/mmed.jekyll.log 2>&1 &
+
+curve:
+	ps x | grep -v grep | grep jekyll | perl -pe 's/([0-9]) .*/$1/' | xargs kill
+
 
 ## If you need a different Gemfile, please commit with a suffix and 
 ## symbolic link to Gemfile
