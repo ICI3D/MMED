@@ -8,6 +8,7 @@ subtitle: Creating a Model World
 
 In this exercise, participants go through a series of steps designed to help them develop a simplified conceptual model of their study system that will help them clarify and address their research question.
 
+- [**MMED 2023 Track B Model Diagram**](https://www.dropbox.com/s/lgid2ayla0gzq2i/MMED2023ModelDiagram.pdf?dl=1) (from Creating a Model World session with Thumbi)
 -   **Example Model Diagram** -  [PDF](./exampleModelDiagram.pdf), [PPTX](https://www.dropbox.com/s/j9uaanw268u0wbg/exampleModelDiagram.pptx?dl=1)
 -   [Download slides with steps](./creatingAModelWorld.pdf "Creating a Model World")
 - Examples for practice
