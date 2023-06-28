@@ -145,7 +145,7 @@ As they become available, session slides will appear in [this shared folder](htt
     -   **Track A in Small Computer Lab:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology: Where does modeling fit? ({% include instructors people="vanschalkwyk" %}) - and [R Tutorials](../tutorials) - Lab 3: Study Design in Epidemiology ({% include instructors people="sereo" %}, {% include instructors people="dushoff" %}, and {% include instructors people="vanschalkwyk" %})
         - {: .shadow} Note takers: dushoff, kassanjee
         - Lab 3 Summary ({% include instructors people="sereo" %})
-    -   **Track B in the Library:** **Exercise:** Creating a model world to address a research question ({% include instructors people="mwangi" %})
+    -   **Track B in the Library:** **Exercise:** [Creating a model world to address a research question](../tutorials/modelWorld) ({% include instructors people="mwangi" %})
         - {: .shadow} Note takers: pearson, pulliam
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Working session in Main Computer Lab:** Model World Assignment (Track B) and Tutorial catch-up, as needed ({% include instructors people="brown|mthombothi|nyamai|pulliam|sereo" %})
