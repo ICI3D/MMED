@@ -157,11 +157,11 @@ As they become available, session slides will appear in [this shared folder](htt
 
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 10:00  _**Parallel sessions:**_
-    - **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology II: RCT's ({% include instructors people="kassanjee" %}) and [R Tutorials](../tutorials) - Lab 4: Study Design for Clinical Trials ({% include instructors people="borchering" %}, {% include instructors people="kassanjee" %}, and {% include instructors people="kombe" %})
+    - **Track A in the Small Computer Lab:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology II: RCT's ({% include instructors people="kassanjee" %}) and [R Tutorials](../tutorials) - Lab 4: Study Design for Clinical Trials ({% include instructors people="borchering" %}, {% include instructors people="kassanjee" %}, and {% include instructors people="kombe" %})
         - {: .shadow} Note takers: reiner, dushoff
         - [Dataset for Lab 4](https://github.com/ICI3D/datasets/blob/master/clinicalTrials/MuTxT.Rdata?raw=true)
         - Lab 4 Summary ({% include instructors people="kombe" %})
-    - **Track B: Exercise:** Description of proposed model and assumptions ({% include instructors people="mthombothi" %})
+    - **Track B in the Library: Exercise:** Description of proposed model and assumptions ({% include instructors people="mthombothi" %})
         - {: .shadow} Note takers: abbott, vanschalkwyk
 -   {: .shadow} 10:00 – 10:30 *Coffee break*
 -   10:00 – 10:30 *Break* (**Note**: No _coffee_ provided by AIMS during this morning's coffee break.)
