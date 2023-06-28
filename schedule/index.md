@@ -95,7 +95,7 @@ As they become available, session slides will appear in [this shared folder](htt
         - {: .shadow} Note takers: pearson, blumberg
     -   **Track B in the Main Lecture Hall:** **Lecture:** Basic stochastic simulation models ({% include instructors people="kombe" %})
         - {: .shadow} Note takers: reiner, borchering
--   14:45 – 15:30 **Lecture:** Consequences of heterogeneity, and modeling options ({% include instructors people="dushoff" %})
+-   14:45 – 15:30 **Lecture:** [Consequences of heterogeneity, and modeling options](https://drive.google.com/file/d/1zVEzfcDbgBMyvW8376OnEAmRdSReXCYg/view?usp=drive_link) ({% include instructors people="dushoff" %}) ([handouts version](https://drive.google.com/file/d/1K3fH3mwc62N8keBv0WlGNxuhi4j1_9Ui/view?usp=drive_link))
     - {: .shadow} Note takers: reiner, abbott
     - {: .shadow} **Note for future years:** This lecture needs more time!! (see faculty notes doc)
 -   15:30 – 16:00 *Tea* and **poster set-up**
@@ -133,7 +133,7 @@ As they become available, session slides will appear in [this shared folder](htt
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - {: .shadow} **13:30 Faculty check-in in Room 105**
 -   14:00 – 14:30 **Computer Session in the Main Computer Lab:** Harare/other data in same groups ({% include instructors people="brown" %}, {% include instructors people="kassanjee" %}, {% include instructors people="mthombothi" %}, {% include instructors people="omondi" %}, {% include instructors people="pearson" %}, and {% include instructors people="pulliam" %})
--   14:30 – 15:00 **Discussion in the Main Computer Lab:** Harare tutorial ({% include instructors people="pulliam" %})
+-   14:30 – 15:00 **Discussion in the Main Computer Lab:** [Harare tutorial](https://drive.google.com/file/d/1pKsTClF2Dk0gwNN6mFHxCGFDtoGI9b8s/view?usp=drive_link) ({% include instructors people="pulliam" %})
 -   15:00 – 16:00 _**Parallel sessions**_
     -   **Track A in the Small Computer Lab:** [Formulating Research Questions A](./researchQuestionsA) ({% include instructors people="nyamai" %})
          - {: .shadow} Note takers: pulliam, vanschalkwyk
