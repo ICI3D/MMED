@@ -158,9 +158,11 @@ As they become available, session slides will appear in [this shared folder](htt
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 10:00  _**Parallel sessions:**_
     - **Track A:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology II: RCT's ({% include instructors people="kassanjee" %}) and [R Tutorials](../tutorials) - Lab 4: Study Design for Clinical Trials ({% include instructors people="borchering" %}, {% include instructors people="kassanjee" %}, and {% include instructors people="kombe" %})
-    - [Dataset for Lab 4](https://github.com/ICI3D/datasets/blob/master/clinicalTrials/MuTxT.Rdata?raw=true)
-    - Lab 4 Summary ({% include instructors people="kombe" %})
+        - {: .shadow} Note takers: reiner, dushoff
+        - [Dataset for Lab 4](https://github.com/ICI3D/datasets/blob/master/clinicalTrials/MuTxT.Rdata?raw=true)
+        - Lab 4 Summary ({% include instructors people="kombe" %})
     - **Track B: Exercise:** Description of proposed model and assumptions ({% include instructors people="mthombothi" %})
+        - {: .shadow} Note takers: abbott, vanschalkwyk
 -   {: .shadow} 10:00 – 10:30 *Coffee break*
 -   10:00 – 10:30 *Break* (**Note**: No _coffee_ provided by AIMS during this morning's coffee break.)
 -   10:30 – 12:00 **Computer Session:** Tutorial catch-up, as needed ({% include instructors people="brown" %}, {% include instructors people="sereo" %}, {% include instructors people="omondi" %}, {% include instructors people="pulliam" %}, and {% include instructors people="reiner" %})
@@ -195,8 +197,7 @@ As they become available, session slides will appear in [this shared folder](htt
 
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 9:15 **Lecture:** Likelihood fitting and dynamic models, Part 1: Dynamic Model Fitting and Inference Robustness ({% include instructors people="reiner" %})
-    - {: .shadow} Update observers: ?
--   9:15 - 10:30 **Computer Session:** Lab 6: MLE fitting of an SIR model to prevalence data ({% include instructors people="brown" %}, % include instructors people="dushoff" %}, {% include instructors people="kassanjee" %}, {% include instructors people="kombe" %}, {% include instructors people="nyamai" %}, {% include instructors people="reiner" %}, and {% include instructors people="vanschalkwyk" %})
+-   9:15 - 10:30 **Computer Session:** Lab 6: MLE fitting of an SIR model to prevalence data ({% include instructors people="brown" %}, {% include instructors people="dushoff" %}, {% include instructors people="kassanjee" %}, {% include instructors people="kombe" %}, {% include instructors people="nyamai" %}, {% include instructors people="reiner" %}, and {% include instructors people="vanschalkwyk" %})
     - **Additional info:** [Parameter transformation](../tutorials/parameterTransformations.pdf)
     - Lab Summary: Lab 6 ({% include instructors people="kassanjee" %})
 -   10:30 – 11:00 *Coffee break*
