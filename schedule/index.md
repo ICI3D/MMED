@@ -123,7 +123,7 @@ As they become available, session slides will appear in [this shared folder](htt
     -   **Track B in Main Computer Lab:** **Computer Session:** [R Tutorials](../tutorials) - Exercise 1: Basic stochastic simulation models ({% include instructors people="borchering" %}, {% include instructors people="kombe" %}, and {% include instructors people="mthombothi" %})
          - Exercise 1 Summary ({% include instructors people="borchering" %})
 -   10:00 – 10:30 *Coffee break*
--   10:30 – 10:45 **Lecture in the Main Computer Lab:** Introduction to models and data: HIV in Harare ({% include instructors people="kassanjee" %})
+-   10:30 – 10:45 **Lecture in the Main Computer Lab:** [Introduction to models and data: HIV in Harare](https://drive.google.com/file/d/1Bbqlbbc_JAY-u1f7jGM1kvfmWkPfiXpc/view?usp=drive_link) ({% include instructors people="kassanjee" %})
 -   10:45 – 12:30 **Computer Session in the Main Computer Lab:** Harare data in groups of \<4 ({% include instructors people="brown" %}, {% include instructors people="kassanjee" %}, {% include instructors people="mthombothi" %}, {% include instructors people="omondi" %}, {% include instructors people="pearson" %}, and {% include instructors people="pulliam" %})
     - You will need the ICI3D R package for this tutorial.
     - To run the tutorial (after installing the package), type <b><code>ICI3D::hivTutorial()</code></b>.
