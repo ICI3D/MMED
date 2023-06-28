@@ -50,7 +50,7 @@ As they become available, session slides will appear in [this shared folder](htt
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 10:45 **Organizational session:** [MMED Road Map](../roadmap) and programme overview ({% include instructors people="reiner" %})
     - {: .shadow} Note takers: pulliam, vanschalkwyk
--   10:45 – 11:30 **Lecture:** Introduction to Thinking About Data I ({% include instructors people="nyamai" %})
+-   10:45 – 11:30 **Lecture:** [Introduction to Thinking About Data I](https://drive.google.com/file/d/19xLqcq1F0gATOQF5I37rSB1CG25zvjgV/view?usp=sharing) ({% include instructors people="nyamai" %})
     - {: .shadow} Note takers: reiner, vanschalkwyk
 -   11:30 – 12:30 **Lecture:** Introduction to dynamic modeling of infectious diseases ({% include instructors people="mthombothi" %})
     - {: .shadow} Note takers: reiner, vanschalkwyk
@@ -58,9 +58,9 @@ As they become available, session slides will appear in [this shared folder](htt
     - **Faculty observers** will help people get their laptops set up for Dynamical Fever at 12:30 in the main lecture hall. _NOTE (mentors on call)_{: .shadow}
     - {: .shadow} **13:30 Faculty check-in in Room 105**
 -   14:00 – 15:00 **_Parallel sessions_**
-    -   **Track A:** Introduction to infectious disease data ({% include instructors people="mwangi" %})
+    -   **Track A:** [Introduction to infectious disease data](https://drive.google.com/file/d/13sBU-77tjBG4jp4QDQw8iIrJq7FlMika/view?usp=sharing) ({% include instructors people="mwangi" %})
         - {: .shadow} Note takers: kassanjee, nyamai
-    -   **Track B:** Foundations of dynamic modeling ({% include instructors people="dushoff" %})
+    -   **Track B:** [Foundations of dynamic modeling](https://drive.google.com/file/d/1IsD1NYAtL7qEv-LLfYKJNRaaFYRzuHwH/view?usp=sharing) ({% include instructors people="dushoff" %}) ([handout version](https://drive.google.com/file/d/15oqcC5c6tVk3LBHslRraXoWOEqteqXM9/view?usp=sharing))
         - {: .shadow} Note takers: abbott, vanschalkwyk
 -   15:00 – 15:30 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: {% include instructors people="kombe" %}), with {% include instructors people="borchering" %},  {% include instructors people="sereo" %}, {% include instructors people="omondi" %}, {% include instructors people="pulliam" %}, and {% include instructors people="vanschalkwyk" %}
 -   15:30 – 16:00 *Tea* _and **poster set-up**_{: .shadow}
@@ -78,7 +78,7 @@ As they become available, session slides will appear in [this shared folder](htt
 ### Tuesday, 27 June
 
 - {: .shadow} 8:00 Faculty check-in in Room 105
--   8:30 – 9:15 **Lecture:** (Hidden) assumptions of simple ODE models ({% include instructors people="borchering" %})
+-   8:30 – 9:15 **Lecture:** [(Hidden) assumptions of simple ODE models](https://drive.google.com/file/d/1Tsx7IKDBatRGUDYKWlro76wT7D6fHfGM/view?usp=sharing) ({% include instructors people="borchering" %})
     - {: .shadow} Note takers: pulliam, reiner
 -   9:15 – 10:00 **Live coding session:** Introduction to model implementation ({% include instructors people="vanschalkwyk" %})
     - {: .shadow} Note takers: dushoff, mwangi
@@ -91,7 +91,7 @@ As they become available, session slides will appear in [this shared folder](htt
 -   12:30 – 13:45 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - {: .shadow} **13:15 Faculty check-in in Room 105**
 -   13:45 – 14:45 _**Parallel sessions**_ _NOTE (Note: for this session only, Track A participants may attend the Track B session.)_{: .shadow}
-    -   **Track A in the Library:** **Lecture:** Introduction to Thinking About Data II ({% include instructors people="kassanjee" %})
+    -   **Track A in the Library:** **Lecture:** [Introduction to Thinking About Data II](https://drive.google.com/file/d/1nU5wD2UZm6st3qE3-Vg19WubuPUleBpF/view?usp=drive_link) ({% include instructors people="kassanjee" %})
         - {: .shadow} Note takers: pearson, blumberg
     -   **Track B in the Main Lecture Hall:** **Lecture:** Basic stochastic simulation models ({% include instructors people="kombe" %})
         - {: .shadow} Note takers: reiner, borchering
