@@ -93,7 +93,7 @@ As they become available, session slides will appear in [this shared folder](htt
 -   13:45 – 14:45 _**Parallel sessions**_ _NOTE (Note: for this session only, Track A participants may attend the Track B session.)_{: .shadow}
     -   **Track A in the Library:** **Lecture:** [Introduction to Thinking About Data II](https://drive.google.com/file/d/1nU5wD2UZm6st3qE3-Vg19WubuPUleBpF/view?usp=drive_link) ({% include instructors people="kassanjee" %})
         - {: .shadow} Note takers: pearson, blumberg
-    -   **Track B in the Main Lecture Hall:** **Lecture:** Basic stochastic simulation models ({% include instructors people="kombe" %})
+    -   **Track B in the Main Lecture Hall:** **Lecture:** [Basic stochastic simulation models](https://drive.google.com/file/d/1nNcBU8HGf9kCAththoVuIReeZ8vNakS2/view?usp=drive_link) ({% include instructors people="kombe" %})
         - {: .shadow} Note takers: reiner, borchering
 -   14:45 – 15:30 **Lecture:** [Consequences of heterogeneity, and modeling options](https://drive.google.com/file/d/1zVEzfcDbgBMyvW8376OnEAmRdSReXCYg/view?usp=drive_link) ({% include instructors people="dushoff" %}) ([handouts version](https://drive.google.com/file/d/1K3fH3mwc62N8keBv0WlGNxuhi4j1_9Ui/view?usp=drive_link))
     - {: .shadow} Note takers: reiner, abbott
