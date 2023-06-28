@@ -130,6 +130,7 @@ As they become available, session slides will appear in [this shared folder](htt
     - To run the tutorial (after installing the package), type <b><code>ICI3D::hivTutorial()</code></b>.
     - If you finish all five versions of the model for the Harare data before lunch, move on to working on data from other countries.
     -  **Additional info:** [Distributed Delay Models of Survival](../tutorials/distributedDelay.pdf) (Boxcar Models) ({% include instructors people="pulliam" %})
+        - [example script](https://www.dropbox.com/s/ykirgmodga2j7m9/distributed_delay_boxcar.R?dl=1)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - {: .shadow} **13:30 Faculty check-in in Room 105**
 -   14:00 – 14:30 **Computer Session in the Main Computer Lab:** Harare/other data in same groups ({% include instructors people="brown" %}, {% include instructors people="kassanjee" %}, {% include instructors people="mthombothi" %}, {% include instructors people="omondi" %}, {% include instructors people="pearson" %}, and {% include instructors people="pulliam" %})
