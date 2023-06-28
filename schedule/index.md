@@ -160,7 +160,8 @@ As they become available, session slides will appear in [this shared folder](htt
     - [Dataset for Lab 4](https://github.com/ICI3D/datasets/blob/master/clinicalTrials/MuTxT.Rdata?raw=true)
     - Lab 4 Summary ({% include instructors people="kombe" %})
     - **Track B: Exercise:** Description of proposed model and assumptions ({% include instructors people="mthombothi" %})
--   10:00 – 10:30 *Coffee break*
+-   {: .shadow} 10:00 – 10:30 *Coffee break*
+-   10:00 – 10:30 *Break* (**Note**: No _coffee_ provided by AIMS during this morning's coffee break.)
 -   10:30 – 12:00 **Computer Session:** Tutorial catch-up, as needed ({% include instructors people="brown" %}, {% include instructors people="sereo" %}, {% include instructors people="omondi" %}, {% include instructors people="pulliam" %}, and {% include instructors people="reiner" %})
 -   12:30 – 14:00 **Social Activity:** Group lunch at Kalky's
 -   14:00 – 18:00 Free/working afternoon
