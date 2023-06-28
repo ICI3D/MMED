@@ -114,27 +114,28 @@ As they become available, session slides will appear in [this shared folder](htt
 
 ### Wednesday, 28 June
 
+**Note that the main lecture hall is not available for MMED sessions on Wednesday and Thursday.**
+
 - {: .shadow} 8:00 Faculty check-in in Room 105
--   8:30 – 9:50 _**Parallel sessions**_
+-   8:30 – 10:00 _**Parallel sessions**_
     -   **Track A in Small Computer Lab:** **Computer Session:** [R Tutorials](../tutorials) - Tutorial 4: Visualizing Infectious Disease Data in R ({% include instructors people="brown" %}, {% include instructors people="mwangi" %}, {% include instructors people="nyamai" %}, and {% include instructors people="omondi" %})
+        - Tutorial 4 Summary ({% include instructors people="omondi" %})
     -   **Track B in Main Computer Lab:** **Computer Session:** [R Tutorials](../tutorials) - Exercise 1: Basic stochastic simulation models ({% include instructors people="borchering" %}, {% include instructors people="kombe" %}, and {% include instructors people="mthombothi" %})
--   9:50 – 10:00 **Discussion:** (in parallel)
-    - Tutorial 4 Summary ({% include instructors people="omondi" %})
-    - Exercise 1 Summary ({% include instructors people="borchering" %})
+         - Exercise 1 Summary ({% include instructors people="borchering" %})
 -   10:00 – 10:30 *Coffee break*
--   10:30 – 10:45 **Lecture:** Introduction to models and data: HIV in Harare ({% include instructors people="kassanjee" %})
--   10:45 – 12:30 **Computer Session:** Harare data in groups of \<4 ({% include instructors people="brown" %}, {% include instructors people="kassanjee" %}, {% include instructors people="mthombothi" %}, {% include instructors people="omondi" %}, {% include instructors people="pearson" %}, and {% include instructors people="pulliam" %})
+-   10:30 – 10:45 **Lecture in the Main Computer Lab:** Introduction to models and data: HIV in Harare ({% include instructors people="kassanjee" %})
+-   10:45 – 12:30 **Computer Session in the Main Computer Lab:** Harare data in groups of \<4 ({% include instructors people="brown" %}, {% include instructors people="kassanjee" %}, {% include instructors people="mthombothi" %}, {% include instructors people="omondi" %}, {% include instructors people="pearson" %}, and {% include instructors people="pulliam" %})
     - You will need the ICI3D R package for this tutorial.
     - To run the tutorial (after installing the package), type <b><code>ICI3D::hivTutorial()</code></b>.
     - If you finish all five versions of the model for the Harare data before lunch, move on to working on data from other countries.
     -  **Additional info:** [Distributed Delay Models of Survival](../tutorials/distributedDelay.pdf) (Boxcar Models) ({% include instructors people="pulliam" %})
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - {: .shadow} **13:30 Faculty check-in in Room 105**
--   14:00 – 14:30 **Computer Session:** Harare/other data in same groups ({% include instructors people="brown" %}, {% include instructors people="kassanjee" %}, {% include instructors people="mthombothi" %}, {% include instructors people="omondi" %}, {% include instructors people="pearson" %}, and {% include instructors people="pulliam" %})
--   14:30 – 15:00 **Discussion:** Harare tutorial ({% include instructors people="pulliam" %})
+-   14:00 – 14:30 **Computer Session in the Main Computer Lab:** Harare/other data in same groups ({% include instructors people="brown" %}, {% include instructors people="kassanjee" %}, {% include instructors people="mthombothi" %}, {% include instructors people="omondi" %}, {% include instructors people="pearson" %}, and {% include instructors people="pulliam" %})
+-   14:30 – 15:00 **Discussion in the Main Computer Lab:** Harare tutorial ({% include instructors people="pulliam" %})
 -   15:00 – 16:00 _**Parallel sessions**_
     -   **Track A in the Small Computer Lab:** [Formulating Research Questions A](./researchQuestionsA) ({% include instructors people="nyamai" %})
-            - {: .shadow} Note takers: pulliam, vanschalkwyk
+         - {: .shadow} Note takers: pulliam, vanschalkwyk
     -   **Track B in the Library:** [Formulating Research Questions B](./researchQuestionsB) ({% include instructors people="borchering" %}) _NOTE look at notes from Cari and feedback from Becky; talk also with JP_{: .shadow}
         - {: .shadow} Note takers: pearson, mwangi
 -   16:00 – 16:30 *Tea*
@@ -149,6 +150,8 @@ As they become available, session slides will appear in [this shared folder](htt
 - {: .shadow} 20;15 Faculty Meeting in E313
 
 ### Thursday, 29 June
+
+**Note that the main lecture hall is not available for MMED sessions on Wednesday and Thursday.**
 
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 10:00  _**Parallel sessions:**_
