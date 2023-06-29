@@ -1,7 +1,7 @@
 ---
 layout: clinic
 redirect: ../development
-subtitle: MMED 2021 Projects
+subtitle: MMED 2023 Projects
 tab: Projects
 title: Projects
 alerttype: success
@@ -12,21 +12,14 @@ alertmsg: >
   </ul>
 ---
 
-- [Impact of data reporting policy on Rt estimates](./rt_data)
-    - **Faculty:**  Carl, Thumbi, and Larisse
-    - **Group members:** Li, Erika, Alice, Pragati
-- [Tsetse fly population dynamics](./tsetse)
-    - **Faculty:**  John and Reshma
-    - **Group members:** Lauren, Owolabi, Tumelo, Mumbua
-- [Transmission intervals](./trans_int)
-    - **Faculty:** Mike and Tom
-    - **Group members:** Oluwaseun, Rubesh, Lactatia, Njoki
-- [Analysis of reinfection trends - simulation-based validation](./reinfections)
-    - **Faculty:** Juliet and Cari
-    - **Group members:** Liz, Belinda, Youngji, Shade
+**Potential projects (in progress):**
+
 - [Using transmission models to inform trial design for dengue](./dengueTrials)
-    - **Faculty:** Bobby, Becky, and Zinhle
-    - **Group members:** Olatunji, Ziya, Wesley, Lameck
-- [Heterogeneity and disease invasion](./stochInv)
-    - **Faculty:** Jonathan and Mutono
-    - **Group members:** Hannah, Rodal, Reese, As-Saba
+- [Long-term seasonality of COVID](./COVIDseasonality)
+- Birth dose Hepatitis B vaccine
+- Seasonal transmission meets seasonal reporting
+- Synthetic Population Evaluation
+- Trachoma
+- Mitigating COVID in prisons and other congregate populations
+- Heterogeneity and disease invasion
+- Dynamically generated generation intervals
