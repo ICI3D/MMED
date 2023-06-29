@@ -203,7 +203,7 @@ As they become available, session slides will appear in [this shared folder](htt
 
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 9:15 **Lecture:** Likelihood fitting and dynamic models, Part 1: Dynamic Model Fitting and Inference Robustness ({% include instructors people="reiner" %})
--   9:15 - 10:30 **Computer Session:** Lab 6: MLE fitting of an SIR model to prevalence data ({% include instructors people="brown" %}, {% include instructors people="dushoff" %}, {% include instructors people="kassanjee" %}, {% include instructors people="kombe" %}, {% include instructors people="nyamai" %}, {% include instructors people="reiner" %}, and {% include instructors people="vanschalkwyk" %})
+-   9:15 - 10:30 **Computer Session:** Lab 6: MLE fitting of an SIR model to prevalence data ({% include instructors people="brown" %}, {% include instructors people="dushoff" %}, {% include instructors people="kassanjee" %}, {% include instructors people="kombe" %}, {% include instructors people="nyamai" %}, {% include instructors people="reiner" %}, and {% include instructors people="pulliam" %})
     - **Additional info:** [Parameter transformation](../tutorials/parameterTransformations.pdf)
     - Lab Summary: Lab 6 ({% include instructors people="kassanjee" %})
 -   10:30 – 11:00 *Coffee break*
