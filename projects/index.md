@@ -16,9 +16,10 @@ alertmsg: >
 
 - [Using transmission models to inform trial design for dengue](./dengueTrials)
 - [Long-term seasonality of COVID](./COVIDseasonality)
+- [Heterogeneity or behaviour modification: Can we tell?](./heterogeneity)
 - Birth dose Hepatitis B vaccine
 - Seasonal transmission meets seasonal reporting
-- Synthetic Population Evaluation
+- [Synthetic Population Evaluation](./synthetic)
 - Trachoma
 - Mitigating COVID in prisons and other congregate populations
 - Heterogeneity and disease invasion
