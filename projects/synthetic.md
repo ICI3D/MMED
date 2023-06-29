@@ -1,7 +1,8 @@
 ---
 layout: clinic
 tab: Projects
-title: Evaluate Synthetic Populations
+title: Potential project
+subtitle: Evaluate Synthetic Populations
 ---
 
 ## Overview
