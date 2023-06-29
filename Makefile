@@ -25,7 +25,7 @@ Sources += $(wildcard resources/*.md)
 
 ## Working on projects now
 
-Sources += $(wildcard resources/*.md)
+Sources += $(wildcard projects/*.md)
 
 ######################################################################
 
