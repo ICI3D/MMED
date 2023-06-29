@@ -178,21 +178,25 @@ As they become available, session slides will appear in [this shared folder](htt
 
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 10:00 **Lecture:** Introduction to statistical philosophy ({% include instructors people="dushoff" %})
+    - {: .shadow} Note takers: abbott, pearson
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 11:00 **Discussion:** MMED research projects ({% include instructors people="reiner" %})
+    - {: .shadow} Note takers: mthombothi, blumberg
     - {: .shadow} HIDE [Potential project groups](../projects/) _NOTE needs updating!!!_{: .shadow}
--   11:00 – 12:30 **Lecture:** Participatory coding of a dynamical model I ({% include instructors people="pulliam|mwangi" %}) HIDE - Code on [Tutorials](../tutorials) page
+-   11:00 – 12:30 **Lecture:** Participatory coding of a dynamical model I ({% include instructors people="pulliam|mwangi" %}) _HIDE - Code on [Tutorials](../tutorials) page_{: .shadow}
+    - {: .shadow} Note takers: dushoff or kassanjee, pearson
+    - {: .shadow} Request that everyone download lab during lunch and charge laptops
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - {: .shadow} HIDE Please fill in [this form](../logistics/tutorialCatchUp) to indicate what you will work on during the tutorial catch-up session on Saturday and whom you would like to meet for a mentoring session next week. (Due by 17:00 on Friday.)
     - {: .shadow} **13:30 Faculty check-in in Room 105**
--   14:00 – 14:45 **Lecture:** Introduction to Likelihood ({% include instructors people="vanschalkwyk" %})
--   14:45 – 15:30 **Computer Session:** [R Tutorials](../tutorials) - Lab 5: Introduction to Likelihood Lab ({% include instructors people="brown" %}, {% include instructors people="kombe" %}, {% include instructors people="mwangi" %}, {% include instructors people="omondi" %}, {% include instructors people="pearson" %}, and {% include instructors people="vanschalkwyk" %})
--   15:30 – 16:00 *Tea*
--   16:00 – 16:45 **Computer Session:** [R Tutorials](../tutorials) - Lab 5: Introduction to Likelihood Lab continued ({% include instructors people="brown" %}, {% include instructors people="kombe" %}, {% include instructors people="mwangi" %}, {% include instructors people="omondi" %}, {% include instructors people="pearson" %}, and {% include instructors people="vanschalkwyk" %})
+- 14:00 - 15:00 **Mentor presentations** ({% include instructors people="brown|omondi" %}, Moderator: {% include instructors people="pearson" %}) _NOTE stretch break recommended mid-way_{: .shadow}
+-   15:00 – 15:45 **Lecture:** Introduction to Likelihood ({% include instructors people="vanschalkwyk" %})
+    - {: .shadow} Note takers: reiner, vanschalkwyk
+-   15:45 – 16:15 *Tea*
+-   16:15 – 18:00 **Computer Session:** [R Tutorials](../tutorials) - Lab 5: Introduction to Likelihood Lab ({% include instructors people="brown" %}, {% include instructors people="kombe" %}, {% include instructors people="mwangi" %}, {% include instructors people="omondi" %}, {% include instructors people="pearson" %}, and {% include instructors people="vanschalkwyk" %})
     - Lab 5 Summary ({% include instructors people="vanschalkwyk" %})
--   16:45 – 18:00 **Mentor presentations** (Mentors); Moderator: ({% include instructors people="pearson" %}) _NOTE stretch break recommended mid-way ~10 mins_{: .shadow}
 -   18:00 – 18:30 *Dinner*
-- {: .shadow} 18:30) Faculty Meeting in the Library
+- {: .shadow} 18:30 Faculty Meeting in the Library
 -   19:30 – 21:00 **Social activity:** Drumming
 
 ### Saturday, 1 July
