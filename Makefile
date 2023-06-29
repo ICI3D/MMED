@@ -23,6 +23,12 @@ Sources += $(wildcard resources/*.md)
 
 ######################################################################
 
+## Working on projects now
+
+Sources += $(wildcard resources/*.md)
+
+######################################################################
+
 ## jekyll
 
 Ignore += _site/
