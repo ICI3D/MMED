@@ -23,5 +23,5 @@ alertmsg: >
 - [Outbreak Investigation](./mmf)
 - Trachoma
 - Mitigating COVID in prisons and other congregate populations
-- Heterogeneity and disease invasion
-- Dynamically generated generation intervals
+- [Heterogeneity and disease invasion](./stochInv.md)
+- [Dynamically generated generation intervals](./trans_int.md)
