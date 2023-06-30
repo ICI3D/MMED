@@ -17,11 +17,11 @@ alertmsg: >
 - [Using transmission models to inform trial design for dengue](./dengueTrials)
 - [Long-term seasonality of COVID](./COVIDseasonality)
 - [Heterogeneity or behaviour modification: Can we tell?](./heterogeneity)
-- Birth dose Hepatitis B vaccine
-- Seasonal transmission meets seasonal reporting
+- [Birth dose Hepatitis B vaccine](./hepb)
+- [Seasonal transmission meets seasonal reporting](./seasonalData)
 - [Synthetic Population Evaluation](./synthetic)
 - [Outbreak Investigation](./mmf)
-- Trachoma
-- Mitigating COVID in prisons and other congregate populations
-- [Heterogeneity and disease invasion](./stochInv.md)
-- [Dynamically generated generation intervals](./trans_int.md)
+- [Trachoma](./trachoma)
+- [Mitigating COVID in prisons and other congregate populations](./covid_prisons)
+- [Heterogeneity and disease invasion](./stochInv)
+- [Dynamically generated generation intervals](./trans_int)
