@@ -30,7 +30,7 @@ This group will address the research question "What is the long-term expectation
 
 ### References
 
-- [Dushoff _et al_. (2004) Dynamical resonance can account for seasonality of influenza epidemics. PNAS](https://doi.org/10.1073/pnas.040729310)
+- [Dushoff _et al_. (2004) Dynamical resonance can account for seasonality of influenza epidemics. PNAS](https://doi.org/10.1073/pnas.0407293101)
 
 ### Tutorials
 
