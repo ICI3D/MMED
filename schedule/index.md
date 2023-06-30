@@ -185,14 +185,16 @@ As they become available, session slides will appear in [this shared folder](htt
     - {: .shadow} HIDE [Potential project groups](../projects/) _NOTE needs updating!!!_{: .shadow}
 -   11:00 – 12:30 **Lecture:** Participatory coding of a dynamical model I ({% include instructors people="pulliam|mwangi" %}) _HIDE - Code on [Tutorials](../tutorials) page_{: .shadow}
     - {: .shadow} Note takers: dushoff or kassanjee, pearson
+    - [Code from the session](https://github.com/ICI3D/MMEDparticipants/blob/master/Resources/participatoryCoding_I.R)
     - {: .shadow} Request that everyone download lab during lunch and charge laptops
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - Please fill in [this form](https://forms.gle/ub73xyEodnYScASa7) to indicate what you will work on during the tutorial catch-up session on Saturday and whom you would like to meet for a mentoring session next week. (Due by 19:30 on Friday.)
     - {: .shadow} **13:30 Faculty check-in in Room 105**
 - 14:00 - 15:00 **Mentor presentations** ({% include instructors people="brown|omondi" %}, Moderator: {% include instructors people="pearson" %}) _NOTE stretch break recommended mid-way_{: .shadow}
 -   15:00 – 15:45 **Lecture:** Introduction to Likelihood ({% include instructors people="vanschalkwyk" %})
-    - {: .shadow} Note takers: reiner, vanschalkwyk
+    - {: .shadow} Note takers: reiner, borchering
 -   15:45 – 16:15 *Tea*
+    - {: .shadow} Faculty/mentor trip to Bluebird Garage - meet in the lobby at 16:00
 -   16:15 – 18:00 **Computer Session:** [R Tutorials](../tutorials) - Lab 5: Introduction to Likelihood Lab ({% include instructors people="brown" %}, {% include instructors people="kombe" %}, {% include instructors people="mwangi" %}, {% include instructors people="omondi" %}, {% include instructors people="pearson" %}, and {% include instructors people="vanschalkwyk" %})
     - Lab 5 Summary ({% include instructors people="vanschalkwyk" %})
 -   18:00 – 18:30 *Dinner*
