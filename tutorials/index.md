@@ -42,6 +42,12 @@ subtitle: ICI3D R tutorials and labs
 
 ## Participatory Coding Archive
 
+### 2023
+
+- Participatory Coding (ODE model) 2023 - What level of vaccination is needed to eliminate domestic dog rabies in Ouagadougou? ([Juliet Pulliam](../team/pulliam))- [Code from session](https://github.com/ICI3D/MMEDparticipants/blob/master/Resources/participatoryCoding_I.R)
+
+### Pre-2023
+
 - Participatory Coding (Dynamic Modeling) 2018 - What level of rabies vaccination is necessary to eliminate rabies in Tanzanian dogs?
     - Deterministic model (Difference equations) ([Carl Pearson](../team/pearson)) - [Code from session](https://github.com/ICI3D/MMEDparticipants/raw/master/Resources/PearsonLiveCoding2021.R)
 - Participatory Coding (Dynamic Modeling) 2018 - What level of rabies vaccination is necessary to eliminate rabies in Tanzanian dogs?
