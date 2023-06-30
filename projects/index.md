@@ -20,6 +20,7 @@ alertmsg: >
 - Birth dose Hepatitis B vaccine
 - Seasonal transmission meets seasonal reporting
 - [Synthetic Population Evaluation](./synthetic)
+- [Outbreak Investigation](./mmf)
 - Trachoma
 - Mitigating COVID in prisons and other congregate populations
 - Heterogeneity and disease invasion
