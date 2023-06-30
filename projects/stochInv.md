@@ -14,12 +14,13 @@ Whether a disease invades a population after an introduction is fundamentally a 
 
 The group will make a simple model of these two countervailing effects and investigate how they work and when one is more important than the other.
 
-It is expected that the group will rely mostly on simulations, but it is worth noting that this is a topic that could likely support mathematical exploration as well.
+It is expected that the group will rely mostly on simulations, but it is worth noting that this is a topic that could support mathematical exploration as well.
+
+Participants can choose whether to link their project to available information about variability in risk factors (e.g., contact rates) or outcomes (e.g., TB prevalence)
 
 ## Things to consider
 
 - When deciding on your interest in this project, please consider the following:
-	- The faculty member leading this project is based in Ontario (six hours earlier than Cape Town).
 
 * _This group is recommended for:_
 	* Participants interested in super-spreading and heterogeneity
@@ -29,12 +30,14 @@ It is expected that the group will rely mostly on simulations, but it is worth n
 
 * _This group will have the opportunity to engage in the following:_
 	* Literature review about host jumps and disease establishment
+	* Examining data about human heterogeneity
 	* Coding and analyzing stochastic simulations
 
 ## Data
 
-- This project will probably be simulation-based
+* To be decided by participants. Data will be used for guidance; this will be mostly a simulation-based project.
 
 ## Resources
 
 ### References
+
