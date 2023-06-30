@@ -39,5 +39,9 @@ Participants can choose whether to link their project to available information a
 
 ## Resources
 
+ICI3D Heterogeneity lab
+
 ### References
+
+[Lloyd-Smith et al., 2015](https://www.nature.com/articles/nature04153)
 
