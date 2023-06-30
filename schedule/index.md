@@ -187,7 +187,7 @@ As they become available, session slides will appear in [this shared folder](htt
     - {: .shadow} Note takers: dushoff or kassanjee, pearson
     - {: .shadow} Request that everyone download lab during lunch and charge laptops
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - {: .shadow} HIDE Please fill in [this form](../logistics/tutorialCatchUp) to indicate what you will work on during the tutorial catch-up session on Saturday and whom you would like to meet for a mentoring session next week. (Due by 17:00 on Friday.)
+    - {: .shadow} HIDE Please fill in [this form](../logistics/catchUp) to indicate what you will work on during the tutorial catch-up session on Saturday and whom you would like to meet for a mentoring session next week. (Due by 19:30 on Friday.)
     - {: .shadow} **13:30 Faculty check-in in Room 105**
 - 14:00 - 15:00 **Mentor presentations** ({% include instructors people="brown|omondi" %}, Moderator: {% include instructors people="pearson" %}) _NOTE stretch break recommended mid-way_{: .shadow}
 -   15:00 – 15:45 **Lecture:** Introduction to Likelihood ({% include instructors people="vanschalkwyk" %})
