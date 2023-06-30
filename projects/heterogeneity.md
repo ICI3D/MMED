@@ -14,8 +14,6 @@ Extensions to this project may involve participants fitting models to their simu
 ## Things to Consider
 
 - _When deciding on your interest in this project, please consider the following:_
-  - The faculty member leading this project is based in the UK, where it is 5 hours earlier than in Dhaka, and 8 hours later than in Seattle.
-  - This project was proposed by a faculty observer who is new to MMED and may not be able to provide as much guidance on how to complete the project as other faculty members.
 
 - _This group is recommended for:_
   - Participants working on outbreak and epidemic response.

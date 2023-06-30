@@ -14,7 +14,6 @@ If we only have dengue disease data, how can we use models to estimate the proba
 ## Things to consider
 
 - When deciding on your interest in this project, please consider the following:
-	- The faculty member leading this project is based in Seattle (nine hours earlier than Cape Town).
 
 	* This project requires no background on sample size calculations for RCTs (but any background is welcome)
 
