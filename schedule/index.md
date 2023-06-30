@@ -185,14 +185,16 @@ As they become available, session slides will appear in [this shared folder](htt
     - {: .shadow} HIDE [Potential project groups](../projects/) _NOTE needs updating!!!_{: .shadow}
 -   11:00 – 12:30 **Lecture:** Participatory coding of a dynamical model I ({% include instructors people="pulliam|mwangi" %}) _HIDE - Code on [Tutorials](../tutorials) page_{: .shadow}
     - {: .shadow} Note takers: dushoff or kassanjee, pearson
+    - [Code from the session](https://github.com/ICI3D/MMEDparticipants/blob/master/Resources/participatoryCoding_I.R)
     - {: .shadow} Request that everyone download lab during lunch and charge laptops
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - Please fill in [this form](https://forms.gle/ub73xyEodnYScASa7) to indicate what you will work on during the tutorial catch-up session on Saturday and whom you would like to meet for a mentoring session next week. (Due by 19:30 on Friday.)
     - {: .shadow} **13:30 Faculty check-in in Room 105**
 - 14:00 - 15:00 **Mentor presentations** ({% include instructors people="brown|omondi" %}, Moderator: {% include instructors people="pearson" %}) _NOTE stretch break recommended mid-way_{: .shadow}
 -   15:00 – 15:45 **Lecture:** Introduction to Likelihood ({% include instructors people="vanschalkwyk" %})
-    - {: .shadow} Note takers: reiner, vanschalkwyk
+    - {: .shadow} Note takers: reiner, borchering
 -   15:45 – 16:15 *Tea*
+    - {: .shadow} Faculty/mentor trip to Bluebird Garage - meet in the lobby at 16:00
 -   16:15 – 18:00 **Computer Session:** [R Tutorials](../tutorials) - Lab 5: Introduction to Likelihood Lab ({% include instructors people="brown" %}, {% include instructors people="kombe" %}, {% include instructors people="mwangi" %}, {% include instructors people="omondi" %}, {% include instructors people="pearson" %}, and {% include instructors people="vanschalkwyk" %})
     - Lab 5 Summary ({% include instructors people="vanschalkwyk" %})
 -   18:00 – 18:30 *Dinner*
@@ -203,28 +205,29 @@ As they become available, session slides will appear in [this shared folder](htt
 
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 9:15 **Lecture:** Likelihood fitting and dynamic models, Part 1: Dynamic Model Fitting and Inference Robustness ({% include instructors people="reiner" %})
+    - {: .shadow} Note takers: dushoff, borchering
 -   9:15 - 10:30 **Computer Session:** Lab 6: MLE fitting of an SIR model to prevalence data ({% include instructors people="brown" %}, {% include instructors people="dushoff" %}, {% include instructors people="kassanjee" %}, {% include instructors people="kombe" %}, {% include instructors people="nyamai" %}, {% include instructors people="reiner" %}, and {% include instructors people="pulliam" %})
     - **Additional info:** [Parameter transformation](../tutorials/parameterTransformations.pdf)
     - Lab Summary: Lab 6 ({% include instructors people="kassanjee" %})
 -   10:30 – 11:00 *Coffee break*
 -   11:00 – 12:30 **Lecture:** Participatory coding of a dynamical model II ({% include instructors people="pearson|pulliam" %}) _Code on [Tutorials](../tutorials) page_{: .shadow}
+    - {: .shadow} Note takers: mthombothi, dushoff
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - {: .shadow} **13:30 Faculty check-in in Room 105**
 -   14:00 – 15:00 **MMED Projects:** Participants ask questions about specific projects (Moderator: {% include instructors people="borchering|reiner" %})
     - Project group sign-up will be available after this session
+    - {: .shadow} Note takers: nyamai, pulliam
 -   15:00 – 15:30 A good chance to sign up for project groups and *Tea*
 -   15:30 – 16:30 **Mid-session Feedback** (Moderator: {% include instructors people="bruce" %})
--   16:30 – 17:30 **Computer Session:** Tutorial catch-up, as needed (TBA)
+-   16:30 – 17:30 **Computer Session:** Tutorial catch-up, as needed ({% include instructors people="brown|omondi|sereo" %}))
 -   17:30 – 18:00 A good chance to sign up for project groups
 -   18:00 – 18:30 *Dinner*
--   19:30 – 21:30 **Social Activity:** Movie night (TBD)
--   {: .shadow} 19:00 Party in E313 (TBC)
+-   {: .shadow} 19:00 Party in E313
 
 ### Sunday, 2 July
 
 - Free day – optional group trip to Cape Point
-    -   We will leave at 10:00. *Please meet in the AIMS lobby by 9:55.*
-- {: .shadow} **Faculty meeting in E313 (TBC) at 17:30.**
+    -   We will leave at 10:00. *Please meet in the AIMS lobby by 9:55.* Wear comfortable clothes. We will be going on a boat!
+- {: .shadow} **Faculty meeting in E313 at 17:30.**
 
 ### Monday, 3 July
 
