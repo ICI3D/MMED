@@ -216,8 +216,8 @@ As they become available, session slides will appear in [this shared folder](htt
 -   14:00 – 15:00 **MMED Projects:** Participants ask questions about specific projects (Moderator: {% include instructors people="borchering|reiner" %})
     - Project group sign-up will be available after this session
     - {: .shadow} Note takers: nyamai, pulliam
--   15:00 – 15:30 A good chance to sign up for project groups and *Tea*
--   15:30 – 16:30 **Mid-session Feedback** (Moderator: {% include instructors people="bruce" %})
+-   15:00 – 16:00 **Mid-session Feedback** (Moderator: {% include instructors people="bruce" %})
+-   16:00 – 16:30 A good chance to sign up for project groups and *Tea*
 -   16:30 – 17:30 **Computer Session:** Tutorial catch-up, as needed ({% include instructors people="brown|omondi|sereo" %})
 -   17:30 – 18:00 A good chance to sign up for project groups
 -   18:00 – 18:30 *Dinner*
