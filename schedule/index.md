@@ -204,9 +204,9 @@ As they become available, session slides will appear in [this shared folder](htt
 ### Saturday, 1 July
 
 - {: .shadow} 8:00 Faculty check-in in Room 105
--   8:30 – 9:15 **Lecture:** Likelihood fitting and dynamic models, Part 1: Dynamic Model Fitting and Inference Robustness ({% include instructors people="reiner" %})
+-   8:30 – 9:15 **Lecture in the Main Lecture Hall:** Likelihood fitting and dynamic models, Part 1: Dynamic Model Fitting and Inference Robustness ({% include instructors people="reiner" %})
     - {: .shadow} Note takers: dushoff, borchering
--   9:15 - 10:30 **Computer Session:** Lab 6: MLE fitting of an SIR model to prevalence data ({% include instructors people="brown" %}, {% include instructors people="dushoff" %}, {% include instructors people="kassanjee" %}, {% include instructors people="kombe" %}, {% include instructors people="nyamai" %}, {% include instructors people="reiner" %}, and {% include instructors people="pulliam" %})
+-   9:15 - 10:30 **Computer Session in the Main Computer Lab:** Lab 6: MLE fitting of an SIR model to prevalence data ({% include instructors people="brown" %}, {% include instructors people="dushoff" %}, {% include instructors people="kassanjee" %}, {% include instructors people="kombe" %}, {% include instructors people="nyamai" %}, {% include instructors people="reiner" %}, and {% include instructors people="pulliam" %})
     - **Additional info:** [Parameter transformation](../tutorials/parameterTransformations.pdf)
     - Lab Summary: Lab 6 ({% include instructors people="kassanjee" %})
 -   10:30 – 11:00 *Coffee break*
@@ -218,7 +218,7 @@ As they become available, session slides will appear in [this shared folder](htt
     - {: .shadow} Note takers: nyamai, pulliam
 -   15:00 – 15:30 A good chance to sign up for project groups and *Tea*
 -   15:30 – 16:30 **Mid-session Feedback** (Moderator: {% include instructors people="bruce" %})
--   16:30 – 17:30 **Computer Session:** Tutorial catch-up, as needed ({% include instructors people="brown|omondi|sereo" %}))
+-   16:30 – 17:30 **Computer Session:** Tutorial catch-up, as needed ({% include instructors people="brown|omondi|sereo" %})
 -   17:30 – 18:00 A good chance to sign up for project groups
 -   18:00 – 18:30 *Dinner*
 -   {: .shadow} 19:00 Party in E313
