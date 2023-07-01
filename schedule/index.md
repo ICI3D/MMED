@@ -217,14 +217,15 @@ As they become available, session slides will appear in [this shared folder](htt
     - Project group sign-up will be available after this session
     - {: .shadow} Note takers: nyamai, pulliam
 -   15:00 – 16:00 **Mid-session Feedback** (Moderator: {% include instructors people="bruce" %})
--   16:00 – 16:30 A good chance to sign up for project groups and *Tea*
+-   16:00 – 16:30 A good chance to [sign up for project groups](https://forms.gle/xNvYdUUswpiU2k2u7) and *Tea*
 -   16:30 – 17:30 **Computer Session:** Tutorial catch-up, as needed ({% include instructors people="brown|omondi|sereo" %})
--   17:30 – 18:00 A good chance to sign up for project groups
+-   17:30 – 18:00 A good chance to [sign up for project groups](https://forms.gle/xNvYdUUswpiU2k2u7)
 -   18:00 – 18:30 *Dinner*
 -   {: .shadow} 19:00 Party in E313
 
 ### Sunday, 2 July
 
+- 10:00 Deadline to [sign up for project groups](https://forms.gle/xNvYdUUswpiU2k2u7)
 - Free day – optional group trip to Cape Point
     -   We will leave at 10:00. *Please meet in the AIMS lobby by 9:55.* Wear comfortable clothes. We will be going on a boat!
 - {: .shadow} **Faculty meeting in E313 at 17:30.**
