@@ -1,8 +1,8 @@
 ---
+title: Potential project
 subtitle: Impact of birth dose hepatitis B vaccination in South Africa
 tab: Projects
 layout: clinic
-subtitle: Potential project
 ---
 
 ## Overview
