@@ -18,6 +18,11 @@ current: target
 
 Sources += Makefile 
 
+## Schedule
+Sources += $(wildcard schedule/*.md)
+
+######################################################################
+
 ## This seems to be git-tutorial stuff
 Sources += $(wildcard resources/*.md)
 

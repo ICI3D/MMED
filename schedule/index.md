@@ -83,7 +83,7 @@ As they become available, session slides will appear in [this shared folder](htt
 -   9:15 – 10:00 **Live coding session:** Introduction to model implementation ({% include instructors people="vanschalkwyk" %})
     - {: .shadow} Note takers: dushoff, mwangi
 -   10:00 – 10:30 *Coffee break*
--   10:30 – 12:20 **Computer Session:** [R Tutorials](../tutorials) - Lab 1: ODE models in R ({% include instructors people="brown" %}, {% include instructors people="sereo" %}, {% include instructors people="vanschalkwyk" %}, {% include instructors people="mwangi" %}, {% include instructors people="nyamai" %}, and {% include instructors people="pearson" %}); **MedPH break-out group** ({% include instructors people="mthombothi" %})
+-   10:30 – 12:20 **Computer Session:** [R Tutorials](../tutorials) - [Lab 1](../tutorials): ODE models in R ({% include instructors people="brown" %}, {% include instructors people="sereo" %}, {% include instructors people="vanschalkwyk" %}, {% include instructors people="mwangi" %}, {% include instructors people="nyamai" %}, and {% include instructors people="pearson" %}); **MedPH break-out group** ({% include instructors people="mthombothi" %})
     - All R tutorials and labs are linked from [this page](../tutorials)
     - You should have completed [R Tutorials I-III](../tutorials) prior to the Clinic. If you have not previously used R, we suggest you review these tutorials during this session, as the material they cover form the foundation for the computer sessions throughout the workshop. *Please use this opportunity to ask any questions you may have regarding the material in these tutorials.*
     - When you have completed Lab 1 (required), you may take a break or move on to Tutorial 4: Visualizing Infectious Disease Data in R (recommended)
@@ -206,9 +206,9 @@ As they become available, session slides will appear in [this shared folder](htt
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 9:15 **Lecture in the Main Lecture Hall:** Likelihood fitting and dynamic models, Part 1: Dynamic Model Fitting and Inference Robustness ({% include instructors people="reiner" %})
     - {: .shadow} Note takers: dushoff, borchering
--   9:15 - 10:30 **Computer Session in the Main Computer Lab:** Lab 6: MLE fitting of an SIR model to prevalence data ({% include instructors people="brown" %}, {% include instructors people="dushoff" %}, {% include instructors people="kassanjee" %}, {% include instructors people="kombe" %}, {% include instructors people="nyamai" %}, {% include instructors people="reiner" %}, and {% include instructors people="pulliam" %})
+-   9:15 - 10:30 **Computer Session in the Main Computer Lab:** [Lab 6:](../tutorials/) MLE fitting of an SIR model to prevalence data ({% include instructors people="brown" %}, {% include instructors people="dushoff" %}, {% include instructors people="kassanjee" %}, {% include instructors people="kombe" %}, {% include instructors people="nyamai" %}, {% include instructors people="reiner" %}, and {% include instructors people="pulliam" %})
     - **Additional info:** [Parameter transformation](../tutorials/parameterTransformations.pdf)
-    - Lab Summary: Lab 6 ({% include instructors people="kassanjee" %})
+    - Lab Summary: [Lab 6](../tutorials) ({% include instructors people="kassanjee" %})
 -   10:30 – 11:00 *Coffee break*
 -   11:00 – 12:30 **Lecture:** Participatory coding of a dynamical model II ({% include instructors people="pearson|pulliam" %}) _Code on [Tutorials](../tutorials) page_{: .shadow}
     - {: .shadow} Note takers: mthombothi, dushoff
