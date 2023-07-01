@@ -23,7 +23,7 @@ If we only have dengue disease data, how can we use models to estimate the proba
 
 		* ‘Catalytic’ model approaches should be approachable for all participants
 
-	* This project *will not* include mosquitoes or mosquito population dynamics :D
+	* This project *will not* include mosquitoes or mosquito population dynamics 😀
 
 		* Folks can certainly take than and run with it, but that creates considerable complexity
 

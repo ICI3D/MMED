@@ -27,8 +27,8 @@ The explosive outbreaks of COVID-19 seen in congregate settings such as prisons 
 
 ## Data
 
-- [Incidence data](https://uclacovidbehindbars.org/) for COVID in the California prison system: https://uclacovidbehindbars.org/
+- [Incidence data](https://uclacovidbehindbars.org/) for COVID in the California prison system
 
 ### References
 
-- https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010308
+- [Blumberg et al., PLoS Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010308)
