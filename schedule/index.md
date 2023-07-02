@@ -233,29 +233,32 @@ As they become available, session slides will appear in [this shared folder](htt
 ### Monday, 3 July
 
 - {: .shadow} 8:00 Faculty check-in in Room 105
--   8:30 – 9:15 **Lecture:** Doing Science ({% include instructors people="reiner" %}) _NOTE or life cycle?_{: .shadow}
+-   8:30 – 9:15 **Lecture:** The Lifecycle of a Modelling Project ({% include instructors people="reiner" %}) {: .shadow}
+    - {: .shadow} Note takers: pearson, pulliam
 -   9:15 – 9:45 **Organizational Session:** Response to feedback ({% include instructors people="mwangi" %})
+    - {: .shadow} Note takers: borchering
 -   9:45 – 10:00 **Organizational Session:** Schedule and goals for the second week ({% include instructors people="pearson" %}) _NOTE [Schedule and goals for the second week](https://github.com/ICI3D/MMED/blob/master/scheduleNotes/2_Mon_0915_Borchering.md)_{: .shadow}
+    - {: .shadow} Note takers: dushoff
 -   10:00 – 10:30 *Coffee break*
--   10:30 – 11:30 **Computer Session:** Introduction to GitHub ([mthombothi](../team/mthombothi), with {% include instructors people="pearson" %}, {% include instructors people="pulliam" %}, {% include instructors people="reiner" %}, {% include instructors people="sereo" %}, and {% include instructors people="vanschalkwyk" %})
+-   10:30 – 11:30 **Computer Session:** Introduction to GitHub ([mthombothi](../team/mthombothi), with {% include instructors people="pearson" %}, {% include instructors people="pulliam" %}, {% include instructors people="abbott" %}, {% include instructors people="sereo" %}, and {% include instructors people="vanschalkwyk" %})
+    - {: .shadow} Note takers: pearson
 -   11:30 – 12:30 **Work Session:** Work plans for group projects (Project groups / all instructors) _NOTE Project groups meet for the first time_{: .shadow}
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - {: .shadow} **13:30 Faculty check-in in Room 105**
 -   14:00 – 15:30 **Lecture:** Likelihood fitting and dynamic models II ({% include instructors people="reiner" %})
-    - {: .shadow} Update observers: ?
+    - {: .shadow} abbott, borchering
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
     - 16:30 – 17:30 **Mentoring Session**: _HIDE [schedule](https://docs.google.com/spreadsheets/d/1rqke3YCIUTSR2bx8k-eWrA2xmODGw4m-Oh0NY3k4J_M/edit?usp=sharing) (TBD)_{: .shadow}
+- {: .shadow} 17:30-18:20 Faculty Meeting in Room 105
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 GitHub practice and troubleshooting and/or optional tutorial catch-up ({% include instructors people="borchering" %}, {% include instructors people="brown" %}, {% include instructors people="mthombothi" %}, {% include instructors people="omondi" %}, {% include instructors people="sereo" %}, and {% include instructors people="pulliam" %})
-- {: .shadow} (Time TBD) Faculty Meeting in Room 105
 
 ### Tuesday, 4 July
 
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 10:00 **Lecture**: Introduction to Monte Carlo Markov Chains (MCMC) ({% include instructors people="borchering" %}) - [Slides (180mb read-only powerpoint slide set with embedded movies)](https://ndownloader.figshare.com/files/8597005)
 	- {: .shadow} **Download** the lecture locally from an AIMS computer on the desktop if you login as *guest* or, if you have an AIMS account, find it at /srv/local/guest/Desktop
-    - {: .shadow} Update observers: ?
   - **Group photo after this lecture** _NOTE TBC_{: .shadow}
 -   10:00 – 10:30 *Coffee break*
 -   10:30 - 11:30 **Computer session**: MCMC fitting Labs 7-8 in [R Tutorials](../tutorials) ({% include instructors people="omondi" %}, {% include instructors people="kombe" %}, {% include instructors people="nyamai" %}, {% include instructors people="pearson" %}, {% include instructors people="pulliam" %}, and {% include instructors people="reiner" %})
@@ -265,7 +268,6 @@ As they become available, session slides will appear in [this shared folder](htt
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - {: .shadow} **13:30 Faculty check-in in Room 105**
 -   14:00 – 14:45 **Lecture**: Data wrangling I: Data management and cleaning ([Mwangi](../team/mwangi))
-    - {: .shadow} Update observers: ?
 -   14:45 – 15:30 **Computer session**: [R Tutorials](../tutorials) - Data wrangling ({% include instructors people="brown" %}, {% include instructors people="kassanjee" %}, {% include instructors people="mwangi" %}, {% include instructors people="nyamai" %}, {% include instructors people="omondi" %}, and {% include instructors people="vanschalkwyk" %})
     - Tutorial 5 Summary ({% include instructors people="nyamai" %})
 -   15:30 – 16:00 *Tea*
@@ -288,7 +290,6 @@ As they become available, session slides will appear in [this shared folder](htt
     - {: .shadow} **13:30 Faculty check-in in Room 105**
 -   14:00 – 15:30 **Work Session** (Project groups)
     - 14:00 – 15:30 _Optional Session_ - **Live coding:** Participatory coding for Variability, Sampling Distributions, and Simulation Lecture ({% include instructors people="dushoff|mwangi" %}) _NOTE [Code on Tutorials page](../tutorials)_{: .shadow}
-    - {: .shadow} Update observers: ?
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
     - 16:30 – 17:30 **Mentoring Session**: _HIDE [schedule](https://docs.google.com/spreadsheets/d/1rqke3YCIUTSR2bx8k-eWrA2xmODGw4m-Oh0NY3k4J_M/edit?usp=sharing) - (TBD)_{: .shadow}
