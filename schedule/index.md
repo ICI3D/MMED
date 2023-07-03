@@ -247,7 +247,7 @@ As they become available, session slides will appear in [this shared folder](htt
     - {: .shadow} abbott, borchering
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
-    - 16:30 – 17:30 **Mentoring Session**: _HIDE [schedule](https://docs.google.com/spreadsheets/d/1rqke3YCIUTSR2bx8k-eWrA2xmODGw4m-Oh0NY3k4J_M/edit?usp=sharing) (TBD)_{: .shadow}
+    - 16:30 – 17:30 **Mentoring Session**: [schedule](https://docs.google.com/spreadsheets/d/1yDLtw8EeAt_XqYledsh0aQjZJBSa-bkCrfi-nkN79fU) (TBD)_{: .shadow}
 - {: .shadow} 17:30-18:20 Faculty Meeting in Room 105
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 GitHub practice and troubleshooting and/or optional tutorial catch-up ({% include instructors people="borchering" %}, {% include instructors people="brown" %}, {% include instructors people="mthombothi" %}, {% include instructors people="omondi" %}, {% include instructors people="sereo" %}, and {% include instructors people="pulliam" %})
@@ -270,7 +270,7 @@ As they become available, session slides will appear in [this shared folder](htt
     - Tutorial 5 Summary ({% include instructors people="nyamai" %})
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
-    - 16:30 – 17:30 **Mentoring Session**: _HIDE [schedule](https://docs.google.com/spreadsheets/d/1rqke3YCIUTSR2bx8k-eWrA2xmODGw4m-Oh0NY3k4J_M/edit?usp=sharing) - (TBD)_{: .shadow}
+    - 16:30 – 17:30 **Mentoring Session**: [schedule](https://docs.google.com/spreadsheets/d/1yDLtw8EeAt_XqYledsh0aQjZJBSa-bkCrfi-nkN79fU)
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example ([optional lecture](../talks)):** [Sam Abbott](../talks/abbott)
 - {: .shadow} (Time TBD) Faculty Meeting in Room 105
@@ -279,7 +279,7 @@ As they become available, session slides will appear in [this shared folder](htt
 
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 9:30 **Lecture**: Model assessment ([Dushoff](../team/Dushoff))
--   9:30 - 10:00  **Work Session** (Project groups) _NOTE **Computer Session:** Tutorial catch-up, as needed, with floaters???_{: .shadow}
+-   9:30 - 10:00  **Work Session** (Project groups)
     - **Computer Session:** Tutorial catch-up, as needed ({% include instructors people="borchering" %}, {% include instructors people="sereo" %}, {% include instructors people="mthombothi" %}, {% include instructors people="mwangi" %}, {% include instructors people="kassanjee" %}, and {% include instructors people="nyamai" %})
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:30 **Work Session** (Project groups)
@@ -290,7 +290,7 @@ As they become available, session slides will appear in [this shared folder](htt
     - 14:00 – 15:30 _Optional Session_ - **Live coding:** Participatory coding for Variability, Sampling Distributions, and Simulation Lecture ({% include instructors people="dushoff|mwangi" %}) _NOTE [Code on Tutorials page](../tutorials)_{: .shadow}
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
-    - 16:30 – 17:30 **Mentoring Session**: _HIDE [schedule](https://docs.google.com/spreadsheets/d/1rqke3YCIUTSR2bx8k-eWrA2xmODGw4m-Oh0NY3k4J_M/edit?usp=sharing) - (TBD)_{: .shadow}
+    - 16:30 – 17:30 **Mentoring Session**: [schedule](https://docs.google.com/spreadsheets/d/1yDLtw8EeAt_XqYledsh0aQjZJBSa-bkCrfi-nkN79fU)
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example ([optional guest lecture](../talks)):** TBD
 - {: .shadow} (Time TBD) Faculty Meeting in Room 105
@@ -309,7 +309,7 @@ As they become available, session slides will appear in [this shared folder](htt
     - {: .shadow} Update observers: ?
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
-    - 16:30 – 17:30 **Mentoring Session**: _HIDE [schedule](https://docs.google.com/spreadsheets/d/1rqke3YCIUTSR2bx8k-eWrA2xmODGw4m-Oh0NY3k4J_M/edit?usp=sharing) - (TBD)_{: .shadow}
+    - 16:30 – 17:30 **Mentoring Session**: [schedule](https://docs.google.com/spreadsheets/d/1yDLtw8EeAt_XqYledsh0aQjZJBSa-bkCrfi-nkN79fU)
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Work session** (Project groups)
     - {: .shadow} 19:00 – whenever Mentor dinner (venue TBD)
@@ -318,10 +318,10 @@ As they become available, session slides will appear in [this shared folder](htt
 
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 10:00 **Work Session** (Project groups)
-    - 8:30 – 10:00 **Mentoring Session**: _HIDE [schedule](https://docs.google.com/spreadsheets/d/1rqke3YCIUTSR2bx8k-eWrA2xmODGw4m-Oh0NY3k4J_M/edit?usp=sharing) - (TBD)_{: .shadow}
+    - 8:30 – 10:00 **Mentoring Session**: [schedule](https://docs.google.com/spreadsheets/d/1yDLtw8EeAt_XqYledsh0aQjZJBSa-bkCrfi-nkN79fU)
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:30 **Work Session** (Project groups)
-    - 10:30 – 11:30 **Mentoring Session**: _HIDE [schedule](https://docs.google.com/spreadsheets/d/1rqke3YCIUTSR2bx8k-eWrA2xmODGw4m-Oh0NY3k4J_M/edit?usp=sharing) - (TBD)_{: .shadow}
+    - 10:30 – 11:30 **Mentoring Session**: [schedule](https://docs.google.com/spreadsheets/d/1yDLtw8EeAt_XqYledsh0aQjZJBSa-bkCrfi-nkN79fU)
 -   12:30 – 13:45 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - {: .shadow} **13:15 Faculty check-in in Room 105**
 -   13:45 – 15:30 **Final presentations** (Moderator: {% include instructors people="pulliam" %})
