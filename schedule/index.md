@@ -256,23 +256,27 @@ As they become available, session slides will appear in [this shared folder](htt
 
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 10:00 **Lecture**: Introduction to Monte Carlo Markov Chains (MCMC) ({% include instructors people="borchering" %}) - [Slides (180mb read-only powerpoint slide set with embedded movies)](https://ndownloader.figshare.com/files/8597005)
+    - {: .shadow} Note takers: abbott, dushoff
 	- {: .shadow} **Download** the lecture locally from an AIMS computer on the desktop if you login as *guest* or, if you have an AIMS account, find it at /srv/local/guest/Desktop
   - **Group photo after this lecture** _NOTE TBC_{: .shadow}
 -   10:00 – 10:30 *Coffee break*
--   10:30 - 11:30 **Computer session**: MCMC fitting Labs 7-8 in [R Tutorials](../tutorials) ({% include instructors people="omondi" %}, {% include instructors people="kombe" %}, {% include instructors people="nyamai" %}, {% include instructors people="pearson" %}, {% include instructors people="pulliam" %}, and {% include instructors people="reiner" %})
+-   10:30 - 11:30 **Computer session**: Lab 6 (as needed) and MCMC fitting Labs 7-8 (optional) in [R Tutorials](../tutorials) ({% include instructors people="omondi" %}, {% include instructors people="kombe" %}, {% include instructors people="nyamai" %}, {% include instructors people="pearson" %}, {% include instructors people="pulliam" %}, and {% include instructors people="reiner" %})
     - Lab 7 Summary ({% include instructors people="pulliam" %})
     - Lab 8 Summary ({% include instructors people="pulliam" %})
+    - {: .shadow} Note takers: pearson
 -   11:30 – 12:30 **Work Session** (Project groups); **MedPH break-out group** ({% include instructors people="pulliam|mthombothi" %})
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - {: .shadow} **13:30 Faculty check-in in Room 105**
 -   14:00 – 14:45 **Lecture**: Data wrangling I: Data management and cleaning ([Mwangi](../team/mwangi))
+    - {: .shadow} Note takers: dushoff, pearson
 -   14:45 – 15:30 **Computer session**: [R Tutorials](../tutorials) - Data wrangling ({% include instructors people="brown" %}, {% include instructors people="kassanjee" %}, {% include instructors people="mwangi" %}, {% include instructors people="nyamai" %}, {% include instructors people="omondi" %}, and {% include instructors people="vanschalkwyk" %})
     - Tutorial 5 Summary ({% include instructors people="nyamai" %})
+    - {: .shadow} Note takers: kassanjee
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
     - 16:30 – 17:30 **Mentoring Session**: [schedule](https://docs.google.com/spreadsheets/d/1yDLtw8EeAt_XqYledsh0aQjZJBSa-bkCrfi-nkN79fU)
 -   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 **Real-world example ([optional lecture](../talks)):** [Sam Abbott](../talks/abbott)
+-   19:00 – 20:00 **Real-world example ([optional lecture](../talks)):** [Sam Abbott](../talks/abbott) (Moderator: {% include instructors people="reiner" %})
 - {: .shadow} (Time TBD) Faculty Meeting in Room 105
 
 ### Wednesday, 5 July
