@@ -12,8 +12,6 @@ alertmsg: >
   </ul>
 ---
 
-**Potential projects (in progress):**
-
 - [Using transmission models to inform trial design for dengue](./dengueTrials) _(Main lecture hall)_
     -  Faculty: Bobby
     -  Mentor: Tumelo
