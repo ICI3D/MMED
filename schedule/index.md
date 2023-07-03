@@ -52,7 +52,7 @@ As they become available, session slides will appear in [this shared folder](htt
     - {: .shadow} Note takers: pulliam, vanschalkwyk
 -   10:45 – 11:30 **Lecture:** [Introduction to Thinking About Data I](https://drive.google.com/file/d/19xLqcq1F0gATOQF5I37rSB1CG25zvjgV/view?usp=sharing) ({% include instructors people="nyamai" %})
     - {: .shadow} Note takers: reiner, vanschalkwyk
--   11:30 – 12:30 **Lecture:** Introduction to dynamic modeling of infectious diseases ({% include instructors people="mthombothi" %})
+-   11:30 – 12:30 **Lecture:** [Introduction to dynamic modeling of infectious diseases](https://drive.google.com/file/d/1p4wgQ5AS0S7ZTqPXO5KjDAwA7qNcmXpn/view?usp=drive_link) ({% include instructors people="mthombothi" %})
     - {: .shadow} Note takers: reiner, vanschalkwyk
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - **Faculty observers** will help people get their laptops set up for Dynamical Fever at 12:30 in the main lecture hall. _NOTE (mentors on call)_{: .shadow}
@@ -62,10 +62,10 @@ As they become available, session slides will appear in [this shared folder](htt
         - {: .shadow} Note takers: kassanjee, nyamai
     -   **Track B:** [Foundations of dynamic modeling](https://drive.google.com/file/d/1IsD1NYAtL7qEv-LLfYKJNRaaFYRzuHwH/view?usp=sharing) ({% include instructors people="dushoff" %}) ([handout version](https://drive.google.com/file/d/15oqcC5c6tVk3LBHslRraXoWOEqteqXM9/view?usp=sharing))
         - {: .shadow} Note takers: abbott, vanschalkwyk
--   15:00 – 15:30 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: {% include instructors people="kombe" %}), with {% include instructors people="borchering" %},  {% include instructors people="sereo" %}, {% include instructors people="omondi" %}, {% include instructors people="pulliam" %}, and {% include instructors people="vanschalkwyk" %}
+-   15:00 – 15:30 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: {% include instructors people="kombe" %}, with {% include instructors people="borchering|sereo|omondi|pulliam|vanschalkwyk" %})
 -   15:30 – 16:00 *Tea* _and **poster set-up**_{: .shadow}
     - {: .shadow} with mthombothi and mentors
--   16:00 – 16:45 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: {% include instructors people="kombe" %}), with {% include instructors people="borchering" %},  {% include instructors people="sereo" %}, {% include instructors people="omondi" %}, {% include instructors people="pulliam" %}, and {% include instructors people="vanschalkwyk" %}
+-   16:00 – 16:45 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: {% include instructors people="kombe" %}, with {% include instructors people="borchering|sereo|omondi|pulliam|vanschalkwyk" %})
 -   16:45 – 17:00 **_Discussion_**: Dynamical Fever and Model Worlds ({% include instructors people="pulliam" %}) _NOTE [Slides](https://www.dropbox.com/s/grqk8603yqgj52f/dynamicalFever_Reveal.pptx?dl=1)_{: .shadow}
     - _Announcement: please bring **charged** laptops with the package installed to the 10:30 sesson tomorrow._{: .shadow}
 -   17:00 – 18:00 [**Poster session I**](../posters/sessions) **POSTPONED**
