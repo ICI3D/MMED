@@ -233,7 +233,7 @@ As they become available, session slides will appear in [this shared folder](htt
 ### Monday, 3 July
 
 - {: .shadow} 8:00 Faculty check-in in Room 105
--   8:30 – 9:15 **Lecture:** The Lifecycle of a Modelling Project ({% include instructors people="reiner" %}) {: .shadow}
+-   8:30 – 9:15 **Lecture:** The Lifecycle of a Modelling Project ({% include instructors people="reiner" %})
     - {: .shadow} Note takers: pearson, pulliam
 -   9:15 – 9:45 **Organizational Session:** Response to feedback ({% include instructors people="mwangi" %})
     - {: .shadow} Note takers: borchering
