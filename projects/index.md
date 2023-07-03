@@ -22,7 +22,7 @@ alertmsg: >
 - [Birth dose Hepatitis B vaccine](./hepb) _(Main lecture hall)_
     -  Faculty: Cari, Reshma
     -  Participants: Akim, Njoki, Sebentile, Shelina, Tonderai
-- [Seasonal transmission meets seasonal reporting](./seasonalData) _(Main computer lab)_
+- [Seasonal transmission meets seasonal reporting](./seasonalData) _(Library_
     -  Faculty: Becky, Jonathan
     -  Participants: Mphatso, Nicholas, Robert
 - [Synthetic Population Evaluation](./synthetic) _(Dining hall)_
@@ -36,6 +36,6 @@ alertmsg: >
 - [Enhancing Trachoma elimination](./trachoma) _(Main computer lab)_
     -  Faculty: Thumbi, Zinhle
     -  Participants: Anita, Chenoa, Fola, Jordan, Yuri
-- [COVID in prisons and other congregate populations](./covid_prisons) _(Library)_
+- [COVID in prisons and other congregate populations](./covid_prisons) _(Main computer lab)_
     -  Faculty: Seth, Mutono
     -  Participants: Bianca, Fiona, Liliwe, Rashidul
