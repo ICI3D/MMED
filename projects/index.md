@@ -37,5 +37,5 @@ alertmsg: >
     -  Faculty: Thumbi, Zinhle
     -  Participants: Anita, Chenoa, Fola, Jordan, Yuri
 - [COVID in prisons and other congregate populations](./covid_prisons) _(Library)_
-    -  Faculty: Seth, Mutoni
+    -  Faculty: Seth, Mutono
     -  Participants: Bianca, Fiona, Liliwe, Rashidul
