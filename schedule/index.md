@@ -300,7 +300,7 @@ As they become available, session slides will appear in [this shared folder](htt
 ### Thursday, 6 July
 
 - {: .shadow} 8:00 Faculty check-in in Room 105
--   8:30 – 10:00 **Discussion**: Modeling for policy (Panel: TBA, Moderator: {% include instructors people="pulliam" %})
+-   8:30 – 10:00 **Discussion**: Modeling for policy (Panel: [Rebecca Borchering](../team/borchering), [Leigh Johnson](https://scholar.google.com/citations?hl=en&user=VYMmLd8AAAAJ), [Thumbi Mwangi](../team/mwangi), [Corey Peak](https://scholar.google.com/citations?hl=en&user=N9GVCQkAAAAJ), Moderator: {% include instructors people="pulliam" %})
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:30 **Work Session** (Project groups) - Mentors
     - {: .shadow} 10:30 – 12:30 Annual faculty meeting in E313 (TBC)
