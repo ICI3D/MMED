@@ -83,7 +83,7 @@ As they become available, session slides will appear in [this shared folder](htt
 -   9:15 – 10:00 **Live coding session:** Introduction to model implementation ({% include instructors people="vanschalkwyk" %})
     - {: .shadow} Note takers: dushoff, mwangi
 -   10:00 – 10:30 *Coffee break*
--   10:30 – 12:20 **Computer Session:** [R Tutorials](../tutorials) - [Lab 1](../tutorials): ODE models in R ({% include instructors people="brown" %}, {% include instructors people="sereo" %}, {% include instructors people="vanschalkwyk" %}, {% include instructors people="mwangi" %}, {% include instructors people="nyamai" %}, and {% include instructors people="pearson" %}); **MedPH break-out group** ({% include instructors people="mthombothi" %})
+-   10:30 – 12:20 **Computer Session:** [R Tutorials](../tutorials) - [Lab 1](../tutorials): ODE models in R ({% include instructors people="brown|sereo|vanschalkwyk|mwangi|nyamai|pearson" %}); **MedPH break-out group** ({% include instructors people="mthombothi" %})
     - All R tutorials and labs are linked from [this page](../tutorials)
     - You should have completed [R Tutorials I-III](../tutorials) prior to the Clinic. If you have not previously used R, we suggest you review these tutorials during this session, as the material they cover form the foundation for the computer sessions throughout the workshop. *Please use this opportunity to ask any questions you may have regarding the material in these tutorials.*
     - When you have completed Lab 1 (required), you may take a break or move on to Tutorial 4: Visualizing Infectious Disease Data in R (recommended)
@@ -125,7 +125,7 @@ As they become available, session slides will appear in [this shared folder](htt
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 10:45 **Lecture in the Main Computer Lab:** [Introduction to models and data: HIV in Harare](https://drive.google.com/file/d/1Bbqlbbc_JAY-u1f7jGM1kvfmWkPfiXpc/view?usp=drive_link) ({% include instructors people="kassanjee" %})
     - {: .shadow} Note takers: abbott and faculty/mentors assigned to the lab
--   10:45 – 12:30 **Computer Session in the Main Computer Lab:** Harare data in groups of \<4 ({% include instructors people="brown" %}, {% include instructors people="kassanjee" %}, {% include instructors people="mthombothi" %}, {% include instructors people="omondi" %}, {% include instructors people="pearson" %}, and {% include instructors people="pulliam" %})
+-   10:45 – 12:30 **Computer Session in the Main Computer Lab:** Harare data in groups of \<4 ({% include instructors people="brown|kassanjee|mthombothi|omondi|pearson|pulliam" %})
     - You will need the ICI3D R package for this tutorial.
     - To run the tutorial (after installing the package), type <b><code>ICI3D::hivTutorial()</code></b>.
     - If you finish all five versions of the model for the Harare data before lunch, move on to working on data from other countries.
@@ -142,7 +142,7 @@ As they become available, session slides will appear in [this shared folder](htt
         - {: .shadow} Note takers: pearson, mwangi
 -   16:00 – 16:30 *Tea*
 -   16:30 – 18:00 _**Parallel sessions**_
-    -   **Track A in Small Computer Lab:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology: Where does modeling fit? ({% include instructors people="vanschalkwyk" %}) - and [R Tutorials](../tutorials) - Lab 3: Study Design in Epidemiology ({% include instructors people="sereo" %}, {% include instructors people="dushoff" %}, and {% include instructors people="vanschalkwyk" %})
+    -   **Track A in Small Computer Lab:** **Lecture** and **Computer Session:** [Study Design and Analysis in Epidemiology: Where does modeling fit?](https://drive.google.com/file/d/1M8rgHwCe0nXDAccg_Wil36YV12de1tDi/view?usp=drive_link) ({% include instructors people="vanschalkwyk" %}) - and [R Tutorials](../tutorials) - Lab 3: Study Design in Epidemiology ({% include instructors people="sereo|dushoff|vanschalkwyk" %})
         - {: .shadow} Note takers: dushoff, kassanjee
         - Lab 3 Summary ({% include instructors people="sereo" %})
     -   **Track B in the Library:** **Exercise:** [Creating a model world to address a research question](../tutorials/modelWorld) ({% include instructors people="mwangi" %})
@@ -157,7 +157,7 @@ As they become available, session slides will appear in [this shared folder](htt
 
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 10:00  _**Parallel sessions:**_
-    - **Track A in the Small Computer Lab:** **Lecture** and **Computer Session:** Study Design and Analysis in Epidemiology II: RCT's ({% include instructors people="kassanjee" %}) and [R Tutorials](../tutorials) - [Lab 4: Study Design for Clinical Trials](https://drive.google.com/file/d/1Pw7Ciw3Zww8C-d4xqbLVQpiNChUComdh/view?usp=drive_link) ({% include instructors people="borchering|kassanjee|kombe" %})
+    - **Track A in the Small Computer Lab:** **Lecture** and **Computer Session:** [Study Design and Analysis in Epidemiology II: RCT's](https://drive.google.com/file/d/1Pw7Ciw3Zww8C-d4xqbLVQpiNChUComdh/view?usp=drive_link) ({% include instructors people="kassanjee" %}) and [R Tutorials](../tutorials) - [Lab 4: Study Design for Clinical Trials](https://drive.google.com/file/d/1Pw7Ciw3Zww8C-d4xqbLVQpiNChUComdh/view?usp=drive_link) ({% include instructors people="borchering|kassanjee|kombe" %})
         - {: .shadow} Note takers: reiner, dushoff
         - [Dataset for Lab 4](https://github.com/ICI3D/datasets/blob/master/clinicalTrials/MuTxT.Rdata?raw=true)
         - Lab 4 Summary ({% include instructors people="kombe" %})
@@ -165,7 +165,7 @@ As they become available, session slides will appear in [this shared folder](htt
         - {: .shadow} Note takers: abbott, vanschalkwyk
 -   {: .shadow} 10:00 – 10:30 *Coffee break*
 -   10:00 – 10:30 *Break* (**Note**: No _coffee_ provided by AIMS during this morning's coffee break.)
--   10:30 – 12:00 **Computer Session:** Tutorial catch-up, as needed ({% include instructors people="brown" %}, {% include instructors people="sereo" %}, {% include instructors people="omondi" %}, {% include instructors people="pulliam" %}, and {% include instructors people="reiner" %})
+-   10:30 – 12:00 **Computer Session:** Tutorial catch-up, as needed ({% include instructors people="brown|sereo|omondi|pulliam|reiner" %})
 -   12:30 – 14:00 **Social Activity:** Group lunch at Kalky's
     - **Meet in the AIMS lobby at 12:15.** Wear comfortable clothes that are appropriate for the weather.
     - **Note that AIMS lunch is not available today.**
@@ -177,10 +177,10 @@ As they become available, session slides will appear in [this shared folder](htt
 ### Friday, 30 June
 
 - {: .shadow} 8:00 Faculty check-in in Room 105
--   8:30 – 10:00 **Lecture:** Introduction to statistical philosophy ({% include instructors people="dushoff" %})
+-   8:30 – 10:00 **Lecture:** [Introduction to statistical philosophy](https://drive.google.com/file/d/15gXnJdtFr6ihTlk8BqPBI9I8GKjWvAvW/view?usp=drive_link) ({% include instructors people="dushoff" %}) ([handouts version](https://drive.google.com/file/d/1sbYSH6fvBtZW0eqMBknbiKMMaVA5dRnJ/view?usp=drive_link))
     - {: .shadow} Note takers: abbott, pearson
 -   10:00 – 10:30 *Coffee break*
--   10:30 – 11:00 **Discussion:** MMED research projects ({% include instructors people="reiner" %})
+-   10:30 – 11:00 **Discussion:** [MMED research projects](../projects/) ({% include instructors people="reiner" %})
     - {: .shadow} Note takers: mthombothi, blumberg
     - {: .shadow} HIDE [Potential project groups](../projects/) _NOTE needs updating!!!_{: .shadow}
 -   11:00 – 12:30 **Lecture:** Participatory coding of a dynamical model I ({% include instructors people="pulliam|mwangi" %}) _HIDE - Code on [Tutorials](../tutorials) page_{: .shadow}
