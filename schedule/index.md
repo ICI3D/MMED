@@ -247,7 +247,7 @@ As they become available, session slides will appear in [this shared folder](htt
     - {: .shadow} abbott, borchering
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
-    - 16:30 – 17:30 **Mentoring Session**: [schedule](https://docs.google.com/spreadsheets/d/1yDLtw8EeAt_XqYledsh0aQjZJBSa-bkCrfi-nkN79fU)
+    - 16:30 – 17:30 **Mentoring Session**: [schedule](https://docs.google.com/spreadsheets/d/1yDLtw8EeAt_XqYledsh0aQjZJBSa-bkCrfi-nkN79fU) _NOTE In future, don't do mentoring sessions on first day of projects_{: .shadow}
 - {: .shadow} 17:30-18:20 Faculty Meeting in Room 105
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 GitHub practice and troubleshooting and/or optional tutorial catch-up ({% include instructors people="borchering" %}, {% include instructors people="brown" %}, {% include instructors people="mthombothi" %}, {% include instructors people="omondi" %}, {% include instructors people="sereo" %}, and {% include instructors people="pulliam" %})
