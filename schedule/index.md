@@ -62,11 +62,9 @@ As they become available, session slides will appear in [this shared folder](htt
         - {: .shadow} Note takers: kassanjee, nyamai
     -   **Track B:** [Foundations of dynamic modeling](https://drive.google.com/file/d/1IsD1NYAtL7qEv-LLfYKJNRaaFYRzuHwH/view?usp=sharing) ({% include instructors people="dushoff" %}) ([handout version](https://drive.google.com/file/d/15oqcC5c6tVk3LBHslRraXoWOEqteqXM9/view?usp=sharing))
         - {: .shadow} Note takers: abbott, vanschalkwyk
--   15:00 – 15:30 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: {% include instructors people="kombe" %}, with {% include instructors people="borchering|sereo|omondi|pulliam|vanschalkwyk" %})
--   15:30 – 16:00 *Tea* _and **poster set-up**_{: .shadow}
-    - {: .shadow} with mthombothi and mentors
--   16:00 – 16:45 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: {% include instructors people="kombe" %}, with {% include instructors people="borchering|sereo|omondi|pulliam|vanschalkwyk" %})
--   16:45 – 17:00 **_Discussion_**: Dynamical Fever and Model Worlds ({% include instructors people="pulliam" %}) _NOTE [Slides](https://www.dropbox.com/s/grqk8603yqgj52f/dynamicalFever_Reveal.pptx?dl=1)_{: .shadow}
+-   15:00 – 17:00 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: {% include instructors people="kombe" %}, with {% include instructors people="borchering|sereo|omondi|pulliam|vanschalkwyk" %})
+	- 15:30 – 16:00 *Tea Break* _and **poster set-upw ith mthombothi and mentors**_{: .shadow}
+ - 	- 16:45 – 17:00 **_Summary Discussion_**: Dynamical Fever and Model Worlds ({% include instructors people="pulliam" %}) _NOTE [Slides](https://www.dropbox.com/s/grqk8603yqgj52f/dynamicalFever_Reveal.pptx?dl=1)_{: .shadow}
     - _Announcement: please bring **charged** laptops with the package installed to the 10:30 sesson tomorrow._{: .shadow}
 -   17:00 – 18:00 [**Poster session I**](../posters/sessions) **POSTPONED**
 -   17:15 – 17:45 *Dinner*, AIMS Dining Hall _NOTE normal time 18:00-18:30; changed due to loadshedding_{: .shadow}
