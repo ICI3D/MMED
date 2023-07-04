@@ -189,11 +189,11 @@ As they become available, session slides will appear in [this shared folder](htt
     - Please fill in [this form](https://forms.gle/ub73xyEodnYScASa7) to indicate what you will work on during the tutorial catch-up session on Saturday and whom you would like to meet for a mentoring session next week. (Due by 19:30 on Friday.)
     - {: .shadow} **13:30 Faculty check-in in Room 105**
 - 14:00 - 15:00 **Mentor presentations** ({% include instructors people="brown|omondi" %}, Moderator: {% include instructors people="pearson" %}) _NOTE stretch break recommended mid-way_{: .shadow}
--   15:00 – 15:45 **Lecture:** Introduction to Likelihood ({% include instructors people="vanschalkwyk" %})
+-   15:00 – 15:45 **Lecture:** [Introduction to Likelihood](https://drive.google.com/file/d/1aBVQU5t5KAhi4HPWBek6qG5KYbKcQTzA/view?usp=drive_link) ({% include instructors people="vanschalkwyk" %})
     - {: .shadow} Note takers: reiner, borchering
 -   15:45 – 16:15 *Tea*
     - {: .shadow} Faculty/mentor trip to Bluebird Garage - meet in the lobby at 16:00
--   16:15 – 18:00 **Computer Session:** [R Tutorials](../tutorials) - Lab 5: Introduction to Likelihood Lab ({% include instructors people="brown" %}, {% include instructors people="kombe" %}, {% include instructors people="mwangi" %}, {% include instructors people="omondi" %}, {% include instructors people="pearson" %}, and {% include instructors people="vanschalkwyk" %})
+-   16:15 – 18:00 **Computer Session:** [R Tutorials](../tutorials) - Lab 5: Introduction to Likelihood Lab ({% include instructors people="brown|kombe|mwangi|omondi|pearson|vanschalkwyk" %})
     - Lab 5 Summary ({% include instructors people="vanschalkwyk" %})
 -   18:00 – 18:30 *Dinner*
 - {: .shadow} 18:30 Faculty Meeting in the Library
@@ -235,7 +235,7 @@ As they become available, session slides will appear in [this shared folder](htt
     - {: .shadow} Note takers: pearson, pulliam
 -   9:15 – 9:45 **Organizational Session:** Response to feedback ({% include instructors people="mwangi" %})
     - {: .shadow} Note takers: borchering
--   9:45 – 10:00 **Organizational Session:** Schedule and goals for the second week ({% include instructors people="pearson" %}) _NOTE [Schedule and goals for the second week](https://github.com/ICI3D/MMED/blob/master/scheduleNotes/2_Mon_0915_Borchering.md)_{: .shadow}
+-   9:45 – 10:00 **Organizational Session:** [Goals and Schedule for Week II](https://drive.google.com/file/d/1KqaljAMLLdPCBpNcoBXH5Sc-wKEgJO9N/view?usp=drive_link) ({% include instructors people="pearson" %})
     - {: .shadow} Note takers: dushoff
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 11:30 **Computer Session:** Introduction to GitHub ([mthombothi](../team/mthombothi), with {% include instructors people="pearson" %}, {% include instructors people="pulliam" %}, {% include instructors people="abbott" %}, {% include instructors people="sereo" %}, and {% include instructors people="vanschalkwyk" %})
@@ -250,17 +250,15 @@ As they become available, session slides will appear in [this shared folder](htt
     - 16:30 – 17:30 **Mentoring Session**: [schedule](https://docs.google.com/spreadsheets/d/1yDLtw8EeAt_XqYledsh0aQjZJBSa-bkCrfi-nkN79fU) _NOTE In future, don't do mentoring sessions on first day of projects_{: .shadow}
 - {: .shadow} 17:30-18:20 Faculty Meeting in Room 105
 -   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 GitHub practice and troubleshooting and/or optional tutorial catch-up ({% include instructors people="borchering" %}, {% include instructors people="brown" %}, {% include instructors people="mthombothi" %}, {% include instructors people="omondi" %}, {% include instructors people="sereo" %}, and {% include instructors people="pulliam" %})
+-   19:00 – 20:00 GitHub practice and troubleshooting and/or optional tutorial catch-up ({% include instructors people="brown|mthombothi|omondi|sereo|pulliam" %})
 
 ### Tuesday, 4 July
 
 - {: .shadow} 8:00 Faculty check-in in Room 105
--   8:30 – 10:00 **Lecture**: Introduction to Monte Carlo Markov Chains (MCMC) ({% include instructors people="borchering" %}) - [Slides (180mb read-only powerpoint slide set with embedded movies)](https://ndownloader.figshare.com/files/8597005)
+-   8:30 – 10:00 **Lecture**: [Introduction to Monte Carlo Markov Chains (MCMC)](https://drive.google.com/file/d/1NoM9z9tweqaB3IBUdf5ESaQL30IicpfZ/view?usp=drive_link) ({% include instructors people="borchering" %}) - [Slides (180mb read-only powerpoint slide set with embedded movies)](https://ndownloader.figshare.com/files/8597005)
     - {: .shadow} Note takers: abbott, dushoff
-	- {: .shadow} **Download** the lecture locally from an AIMS computer on the desktop if you login as *guest* or, if you have an AIMS account, find it at /srv/local/guest/Desktop
-  - **Group photo after this lecture** _NOTE TBC_{: .shadow}
--   10:00 – 10:30 *Coffee break*
--   10:30 - 11:30 **Computer session**: Lab 6 (as needed) and MCMC fitting Labs 7-8 (optional) in [R Tutorials](../tutorials) ({% include instructors people="omondi" %}, {% include instructors people="kombe" %}, {% include instructors people="nyamai" %}, {% include instructors people="pearson" %}, {% include instructors people="pulliam" %}, and {% include instructors people="reiner" %})
+-   10:00 – 10:30 **Group photo** then *Coffee break*
+-   10:30 - 11:30 **Computer session**: Lab 6 (as needed) and MCMC fitting Labs 7-8 (optional) in [R Tutorials](../tutorials) ({% include instructors people="omondi|kombe|nyamai|pearson|pulliam|reiner" %})
     - Lab 7 Summary ({% include instructors people="pulliam" %})
     - Lab 8 Summary ({% include instructors people="pulliam" %})
     - {: .shadow} Note takers: pearson
