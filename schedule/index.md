@@ -273,9 +273,9 @@ As they become available, session slides will appear in [this shared folder](htt
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
     - 16:30 – 17:30 **Mentoring Session**: [schedule](https://docs.google.com/spreadsheets/d/1yDLtw8EeAt_XqYledsh0aQjZJBSa-bkCrfi-nkN79fU)
+- {: .shadow} 17:30-18:20 Faculty Meeting in Room 105
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example ([optional lecture](../talks)):** [Sam Abbott](../talks/abbott) (Moderator: {% include instructors people="reiner" %})
-- {: .shadow} (Time TBD) Faculty Meeting in Room 105
 
 ### Wednesday, 5 July
 
