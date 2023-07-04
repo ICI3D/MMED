@@ -281,34 +281,34 @@ As they become available, session slides will appear in [this shared folder](htt
 
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 9:30 **Lecture**: Model assessment ([Dushoff](../team/Dushoff))
+    - {: .shadow} Note takers: abbott, pulliam
 -   9:30 - 10:00  **Work Session** (Project groups)
     - **Computer Session:** Tutorial catch-up, as needed ({% include instructors people="borchering" %}, {% include instructors people="sereo" %}, {% include instructors people="mthombothi" %}, {% include instructors people="mwangi" %}, {% include instructors people="kassanjee" %}, and {% include instructors people="nyamai" %})
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:30 **Work Session** (Project groups)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - {: .shadow} HIDE **Sign up to go to on Saturday's field trip by 13:00.**
     - {: .shadow} **13:30 Faculty check-in in Room 105**
 -   14:00 – 15:30 **Work Session** (Project groups)
     - 14:00 – 15:30 _Optional Session_ - **Live coding:** Participatory coding for Variability, Sampling Distributions, and Simulation Lecture ({% include instructors people="dushoff|mwangi" %}) _NOTE [Code on Tutorials page](../tutorials)_{: .shadow}
+    - {: .shadow} Note takers: vanschalkwyk, borchering
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
     - 16:30 – 17:30 **Mentoring Session**: [schedule](https://docs.google.com/spreadsheets/d/1yDLtw8EeAt_XqYledsh0aQjZJBSa-bkCrfi-nkN79fU)
+- {: .shadow} 17:30-18:20 Faculty Meeting in Room 105
 -   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 **Real-world example ([optional guest lecture](../talks)):** TBD
-- {: .shadow} (Time TBD) Faculty Meeting in Room 105
+-   19:00 – 20:00 **Real-world example ([optional guest lecture](../talks)):** Health Economics talks from Kaja Abbas and Lander Willem
 
 ### Thursday, 6 July
 
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 10:00 **Discussion**: Modeling for policy (Panel: [Rebecca Borchering](../team/borchering), [Leigh Johnson](https://scholar.google.com/citations?hl=en&user=VYMmLd8AAAAJ), [Thumbi Mwangi](../team/mwangi), [Corey Peak](https://scholar.google.com/citations?hl=en&user=N9GVCQkAAAAJ), Moderator: {% include instructors people="pulliam" %})
 -   10:00 – 10:30 *Coffee break*
--   10:30 – 12:30 **Work Session** (Project groups) - Mentors
+-   10:30 – 12:30 **Work Session** (Project groups) - Mentors and Facutly Observers
     - {: .shadow} 10:30 – 12:30 Annual faculty meeting in E313 (TBC)
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - {: .shadow} **13:30 Faculty check-in in Room 105**
 -   14:00 – 15:30 **Work Session** (Project groups)
     - 14:00 – 15:30 _Optional Session_ - **Live coding:** A Project Pipeline ({% include instructors people="pearson|pulliam" %}) _NOTE [Code on Tutorials page](../tutorials)_{: .shadow}
-    - {: .shadow} Update observers: ?
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
     - 16:30 – 17:30 **Mentoring Session**: [schedule](https://docs.google.com/spreadsheets/d/1yDLtw8EeAt_XqYledsh0aQjZJBSa-bkCrfi-nkN79fU)
