@@ -302,25 +302,24 @@ As they become available, session slides will appear in [this shared folder](htt
 
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 10:00 **Discussion**: Modeling for policy (Panel: [Rebecca Borchering](../team/borchering), [Leigh Johnson](https://scholar.google.com/citations?hl=en&user=VYMmLd8AAAAJ), [Thumbi Mwangi](../team/mwangi), [Corey Peak](https://scholar.google.com/citations?hl=en&user=N9GVCQkAAAAJ), Moderator: {% include instructors people="pulliam" %})
+    - {: .shadow} Note takers: pearson, nyamai, mthombothi
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:30 **Work Session** (Project groups) - Mentors and Facutly Observers
-    - {: .shadow} 10:30 – 12:30 Annual faculty meeting in E313 (TBC)
+    - {: .shadow} 11:15 – 13:00 Annual faculty meeting in Small Seminar Room
 -   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - {: .shadow} **13:30 Faculty check-in in Room 105**
 -   14:00 – 15:30 **Work Session** (Project groups)
     - 14:00 – 15:30 _Optional Session_ - **Live coding:** A Project Pipeline ({% include instructors people="pearson|pulliam" %}) _NOTE [Code on Tutorials page](../tutorials)_{: .shadow}
+    - {: .shadow} Note takers: dushoff
 -   15:30 – 16:00 *Tea*
 -   16:00 – 17:30 **Work Session** (Project groups)
     - 16:30 – 17:30 **Mentoring Session**: [schedule](https://docs.google.com/spreadsheets/d/1yDLtw8EeAt_XqYledsh0aQjZJBSa-bkCrfi-nkN79fU)
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Work session** (Project groups)
-    - {: .shadow} 19:00 – whenever Mentor dinner (venue TBD)
+    - {: .shadow} 19:00 – whenever Mentor dinner (Olympia Cafe)
 
 ### Friday, 7 July
 
-- {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 10:00 **Work Session** (Project groups)
-    - 8:30 – 10:00 **Mentoring Session**: [schedule](https://docs.google.com/spreadsheets/d/1yDLtw8EeAt_XqYledsh0aQjZJBSa-bkCrfi-nkN79fU)
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:30 **Work Session** (Project groups)
     - 10:30 – 11:30 **Mentoring Session**: [schedule](https://docs.google.com/spreadsheets/d/1yDLtw8EeAt_XqYledsh0aQjZJBSa-bkCrfi-nkN79fU)
