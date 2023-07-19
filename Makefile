@@ -53,6 +53,9 @@ Sources +=_config.yml index.md
 
 ######################################################################
 
+makestuff:
+	/bin/ln -s ../makestuff .
+
 -include makestuff/os.mk
 -include makestuff/git.mk
 -include makestuff/visual.mk
