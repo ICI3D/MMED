@@ -323,6 +323,7 @@ As they become available, session slides will appear in [this shared folder](htt
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:30 **Work Session** (Project groups)
     - 10:30 – 11:30 **Mentoring Session**: [schedule](https://docs.google.com/spreadsheets/d/1yDLtw8EeAt_XqYledsh0aQjZJBSa-bkCrfi-nkN79fU)
+    - **Submit slides by 12:30.**
 -   12:30 – 13:45 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
     - {: .shadow} **13:15 Faculty check-in in Room 105**
 -   13:45 – 15:30 **Final presentations** (Moderator: {% include instructors people="pulliam" %})

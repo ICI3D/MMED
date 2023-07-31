@@ -20,7 +20,7 @@ Project presentations
 -   Keep your slides simple. Choose a few colors and use them consistently across slides. Avoid long chunks of text.
 -   Clearly label the axes on all figures.
 -   **Save your presentation as a PDF** to guarantee that you will able to open the file without formatting problems.
--   Upload your presentation to the **MMED2023 folder** of the [MMEDparticipants GitHub repository](https://github.com/ICI3D/MMEDparticipants/).
+-   Upload your presentation to the **MMED2023 folder** of the [MMEDparticipants GitHub repository](https://github.com/ICI3D/MMEDparticipants/) **by 12:30 on Friday**.
 
 Structure
 ---------
