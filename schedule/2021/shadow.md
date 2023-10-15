@@ -16,6 +16,7 @@ alertmsg: >
   <li><a href="https://github.com/ICI3D/MMED2017/edit/master/scheduleNotes">Click here for access to the MMED 2017 Notes GD.</a></li>
   <li>Note that links on this page do not (necessarily) work!</li>
   </ul>
+archive: true
 ---
 
 * [Faculty notes page](https://github.com/ICI3D/MMED/blob/master/notes.md)

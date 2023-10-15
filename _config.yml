@@ -6,6 +6,8 @@ title: MMED 2023
 longtitle: Clinic on Meaningful Modeling of Epidemiological Data
 summary: The twelfth MMED clinic  ~  June 26 - July 8, 2023  ~  Muizenberg, Cape Town, South Africa
 year: 2023
+takingapps: false
+applink:
 markdown: kramdown
 highlighter: rouge
 includes_dir: ICI3D.github.io/_includes
