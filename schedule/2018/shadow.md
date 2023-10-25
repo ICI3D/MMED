@@ -1,9 +1,8 @@
 ---
 layout: clinic
-redirect: http://www.ici3d.org/MMED/schedule
 tab: Schedule
-title: Shadow
-subtitle: Faculty Schedule (2018)
+title: Shadow 2018
+subtitle: Faculty Schedule
 alerttype: danger
 alertmsg: >
   <ul>
@@ -12,6 +11,7 @@ alertmsg: >
   <li><a href="https://github.com/ICI3D/MMED2017/edit/master/scheduleNotes">Click here for access to the MMED 2017 Notes GD.</a></li>
   <li>Note that links on this page do not (necessarily) work!</li>
   </ul>
+archive: true
 ---
 
 ### Sunday, 27 May
