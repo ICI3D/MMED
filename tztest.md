@@ -5,11 +5,21 @@ layout: clinic
 Select your timezone: <select name="TZ" id="TZ">
 <option value="0">Cape Town</option>
 <option value="-1">London</option>
+<option value="-10">Waikiki</option>
+<option value="11">Melbourne</option>
 </select>
 
 <style>
 li.tz::before {
   content: attr(data-start) ' - ' attr(data-end) ': ';
+  font-weight: bold;
+}
+li.tz.plus::before {
+  content: attr(data-start) ' - ' attr(data-end) ' (+1d): ';
+  font-weight: bold;
+}
+li.tz.minus::before {
+  content: attr(data-start) ' - ' attr(data-end) ' (-1d): ';
   font-weight: bold;
 }
 li[data-who]::after {
@@ -42,11 +52,28 @@ timeends = $('[data-end]');
 timeends.each(function() { $(this).attr("data-oe", $(this).data("end")); });
 $('select[name="TZ"]').on('change', function() {
   offset = parseInt($(this).val());
+  $(this).removeClass("plus minus");
   timestarts.each(function() {
-    $(this).attr("data-start", parseInt($(this).data("os")) + 100*offset);
+    checktime = parseInt($(this).data("oe")) + 100*offset;
+    if (checktime > 2400) {
+      checktime = checktime - 2400;
+      $(this).addClass("plus");
+    } else if (checktime < 0) {
+      checktime = checktime + 2400;
+      $(this).addClass("minus");
+    }
+    $(this).attr("data-start", checktime);
   });
   timeends.each(function() {
-    $(this).attr("data-end", parseInt($(this).data("oe")) + 100*offset);
+    checktime = parseInt($(this).data("oe")) + 100*offset;
+    if (checktime > 2400) {
+      checktime = checktime - 2400;
+      $(this).addClass("plus");
+    } else if (checktime < 0) {
+      checktime = checktime + 2400;
+      $(this).addClass("minus");
+    }
+    $(this).attr("data-end", checktime);
   });
 });
 </script>
