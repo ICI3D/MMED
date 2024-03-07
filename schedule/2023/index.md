@@ -15,34 +15,31 @@ alertmsg: >
   <li><a href="https://github.com/ICI3D/MMED/edit/master/scheduleNotes">Click here for access to the MMED 2018 Notes GD.</a></li>
   <li><a href="https://github.com/ICI3D/MMED2017/edit/master/scheduleNotes">Click here for access to the MMED 2017 Notes GD.</a></li>
   </ul>
-archive: false
+archive: true
 ---
 
-{% if false %}
-    - When preparing this page for a new Clinic, you can set the layout variable to "redirect" and the redirect variable to ""../development"" to send participants to a filler page until the schedule is ready for sharing. When ready to share the page, change the layout variable back to "clinic".
-{% endif %}
+As they become available, session slides will appear in [this shared folder](https://drive.google.com/drive/folders/1eANZnzN0VhQ14lupd2rHvQOQzOG45Gsp).
 
 > The MMED program includes a number of parallel sessions for participants with different backgrounds. **Track A** is designed for those with a mathematical background, particularly those who have extensive training and/or experience with differential equation models of infectious disease dynamics. **Track B** is designed for those with a background in epidemiology and/or statistics, particularly those who are involved in data collection for infectious disease systems.
 
 <div class="alert alert-warning" role="alert">
   <div class="container padding-left=0px padding-right=0px">
     <ul style="font-size:16px; margin:0px;">
-      <li>The schedule below represents the 2023 schedule, and is therefore <b>preliminary and subject to change.</b></li>
+      <li>The schedule below is <b>preliminary</b> and subject to change.</li>
       <li>Links to R tutorials and exercises are available <a href="../tutorials">here</a>.</li>
-      <li>As they become available, session slides will appear in <a href="https://drive.google.com/drive/folders/1eANZnzN0VhQ14lupd2rHvQOQzOG45Gsp">this shared folder</a>.</li>
       <li>Unless otherwise noted, all materials made available through this website are licensed through a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC-BY International License</a>.</li>
     </ul>
   </div>
 </div>
 
-### Day 0 (Sunday 16 June)
+### Sunday, 25 June
 
 -   14:00 – 18:00 Registration and welcome, AIMS lobby
 -   17:15 – 17:45 *Dinner*, AIMS Dining Hall _NOTE normal time 18:00-18:30; changed due to loadshedding_{: .shadow}
 - {: .shadow} Faculty meeting and dinner in E313 at 18:00.
     - {: .shadow} Save food for late-arriving faculty (RB, JD)!
 
-### Day 1
+### Monday, 26 June
 
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:00 – 8:25 Registration and welcome, AIMS lobby
@@ -76,7 +73,7 @@ archive: false
 -   19:00 – 19:30 **Social Activity:** Ice breakers ({% include instructors people="bruce" %})
 -   19:30 – 20:30 **Social Activity:** Card games: Bullsh!t and Casino
 
-### Day 2
+### Tuesday, 27 June
 
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 9:15 **Lecture:** [(Hidden) assumptions of simple ODE models](https://drive.google.com/file/d/1Tsx7IKDBatRGUDYKWlro76wT7D6fHfGM/view?usp=sharing) ({% include instructors people="borchering" %})
@@ -113,7 +110,9 @@ archive: false
 -   19:00 – 20:00 [**Poster session III**](../posters/sessions)
 - {: .shadow} 20:05 Faculty Meeting in E313
 
-### Day 3
+### Wednesday, 28 June
+
+**Note that the main lecture hall is not available for MMED sessions on Wednesday and Thursday.**
 
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 10:00 _**Parallel sessions**_
@@ -150,7 +149,9 @@ archive: false
 -   19:00 – 20:00 **Working session in Main Computer Lab:** Model World Assignment (Track B) and Tutorial catch-up, as needed ({% include instructors people="brown|mthombothi|nyamai|pulliam|sereo" %})
 - {: .shadow} 20;15 Faculty Meeting in E313
 
-### Day 4
+### Thursday, 29 June
+
+**Note that the main lecture hall is not available for MMED sessions on Wednesday and Thursday.**
 
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 10:00  _**Parallel sessions:**_
@@ -171,7 +172,7 @@ archive: false
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example ([optional lecture](../talks) in the Main Lecture Hall):** [Seth Blumberg](../talks/blumberg)
 
-### Day 5
+### Friday, 30 June
 
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 10:00 **Lecture:** [Introduction to statistical philosophy](https://drive.google.com/file/d/15gXnJdtFr6ihTlk8BqPBI9I8GKjWvAvW/view?usp=drive_link) ({% include instructors people="dushoff" %}) ([handouts version](https://drive.google.com/file/d/1sbYSH6fvBtZW0eqMBknbiKMMaVA5dRnJ/view?usp=drive_link))
@@ -198,7 +199,7 @@ archive: false
 - {: .shadow} 18:30 Faculty Meeting in the Library
 -   19:30 – 21:00 **Social activity:** Drumming
 
-### Day 6
+### Saturday, 1 July
 
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 9:15 **Lecture in the Main Lecture Hall:** Likelihood fitting and dynamic models, Part 1: Dynamic Model Fitting and Inference Robustness ({% include instructors people="reiner" %})
@@ -220,14 +221,14 @@ archive: false
 -   18:00 – 18:30 *Dinner*
 -   {: .shadow} 19:00 Party in E313
 
-### Day 7
+### Sunday, 2 July
 
 - 10:00 Deadline to [sign up for project groups](https://forms.gle/xNvYdUUswpiU2k2u7)
 - Free day – optional group trip to Cape Point
     -   We will leave at 10:00. *Please meet in the AIMS lobby by 9:55.* Wear comfortable clothes. We will be going on a boat!
 - {: .shadow} **Faculty meeting in E313 at 17:30.**
 
-### Day 8
+### Monday, 3 July
 
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 9:15 **Lecture:** The Lifecycle of a Modelling Project ({% include instructors people="reiner" %})
@@ -251,7 +252,7 @@ archive: false
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 GitHub practice and troubleshooting and/or optional tutorial catch-up ({% include instructors people="brown|mthombothi|omondi|sereo|pulliam" %})
 
-### Day 9
+### Tuesday, 4 July
 
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 10:00 **Lecture**: [Introduction to Monte Carlo Markov Chains (MCMC)](https://drive.google.com/file/d/1NoM9z9tweqaB3IBUdf5ESaQL30IicpfZ/view?usp=drive_link) ({% include instructors people="borchering" %}) - [Slides (180mb read-only powerpoint slide set with embedded movies)](https://ndownloader.figshare.com/files/8597005)
@@ -276,7 +277,7 @@ archive: false
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example ([optional lecture](../talks)):** [Sam Abbott](../talks/abbott) (Moderator: {% include instructors people="reiner" %})
 
-### Day 10
+### Wednesday, 5 July
 
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 9:30 **Lecture**: Model assessment ([Dushoff](../team/Dushoff))
@@ -297,7 +298,7 @@ archive: false
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example ([optional guest lecture](../talks)):** Health Economics talks from Kaja Abbas and Lander Willem
 
-### Day 11
+### Thursday, 6 July
 
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 10:00 **Discussion**: Modeling for policy (Panel: [Rebecca Borchering](../team/borchering), [Leigh Johnson](https://scholar.google.com/citations?hl=en&user=VYMmLd8AAAAJ), [Thumbi Mwangi](../team/mwangi), [Corey Peak](https://scholar.google.com/citations?hl=en&user=N9GVCQkAAAAJ), Moderator: {% include instructors people="pulliam" %})
@@ -316,7 +317,7 @@ archive: false
 -   19:00 – 20:00 **Work session** (Project groups)
     - {: .shadow} 19:00 – whenever Mentor dinner (Olympia Cafe)
 
-### Day 12
+### Friday, 7 July
 
 -   8:30 – 10:00 **Work Session** (Project groups)
 -   10:00 – 10:30 *Coffee break*
@@ -332,6 +333,6 @@ archive: false
 -   18:00 – 18:30 *Dinner*
 -   {: .shadow} 20:00 – 22:00 **Social Activity**: TBD
 
-### Day 13
+### Saturday, 8 July
 
 -   Clinic officially ends on Friday, but there will be an optional group trip on Saturday.

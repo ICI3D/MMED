@@ -3,7 +3,7 @@ layout: clinic
 alerttype: warning
 alertmsg: >
   <ul style="font-size:16px">
-    <li>Information about MMED 2023 will be added to this site as it becomes available.</li>
+    <li>Information about MMED 2024 will be added to this site as it becomes available.</li>
     <li>Slides, code, and other materials from MMED 2019 are linked from <b><a href = "./resources/slides/">this page</a></b>.</li>
     <li>Reminder: Videos, slides, and other materials from the MMED and DAIDD clinics are available via the <b><a href="https://figshare.com/collections/International_Clinics_on_Infectious_Disease_Dynamics_and_Data/3788224">ICI3D Figshare Collection</a></b> and the <b><a href="https://www.youtube.com/channel/UCtzFZwz48_JG4Owf6gQ-rUA">ICI3D YouTube Channel</a></b>.</li>
   </ul>
