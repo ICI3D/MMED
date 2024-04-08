@@ -2,7 +2,7 @@
 Meeting 9
 =========
 
-We will be running the meetings using [a cool spreadsheet](https://docs.google.com/spreadsheets/d/1dIvtczsHU98YqCq_4tdx0pWOc4ZvlBd7LmdCLt-YWko/edit#gid=0) (part of the [MMED google drive](https://docs.google.com/spreadsheets/d/1dIvtczsHU98YqCq_4tdx0pWOc4ZvlBd7LmdCLt-YWko/edit#gid=0).
+We will be running the meetings using [a cool spreadsheet](https://docs.google.com/spreadsheets/d/1dIvtczsHU98YqCq_4tdx0pWOc4ZvlBd7LmdCLt-YWko/edit#gid=0) (part of the [MMED google drive](https://docs.google.com/spreadsheets/d/1dIvtczsHU98YqCq_4tdx0pWOc4ZvlBd7LmdCLt-YWko/edit#gid=0)).
 
 Leads should be filling in their timetables backwards and figuring out what needs to be discussed with Carl and Reshma and what needs to be discussed at faculty meetings. For example, if a decision needs to be made, or they are stuck on something.
 
