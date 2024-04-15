@@ -1,4 +1,79 @@
 
+Meeting 8
+=========
+
+AIMS outreach
+* Carl to put Jonathan in touch with Claire and Karin
+* Faikah to meet with Ulrich
+
+Personnel
+* Bobby to join curriculum group, 
+
+Applications
+* 37 (hoping to accept 13)
+	* 25 with R experience
+	* 20 with advanced degrees
+	* 4 do not need funding
+	* 19 with reference letters
+	* 7 from outside Africa
+
+* Fellowships
+	* 3 to 4 from LSHTM
+	* Unknown from Faikah
+	* Not clear how to address funding gap
+
+Carl suggests closing applications
+* Selection process could be eligibility-blind
+	* Can be more generous to self-funded
+* Optimistic that funded people would be accepted
+
+LSHTM funding available only for LSHTM affiliates
+
+Should we tell people they're accepted separately, or wait for funding decisions before communicating?
+* Faikah: wait
+* Carl: try to reach participants with final information by 1 may
+* Faikah: there was a timeline before, will share
+
+Reviews
+* Try to get them done before 29 Apr
+* Mutono will recruit a team
+	* Can reach out to other ICI3D faculty and ICI3D executive
+	* Try to schedule a meeting this week to happen next week
+	* [Timeline](https://docs.google.com/document/d/1GvFqFBVIhqn10Vas7-OBErTrfAMLasqeIaQ0FU6XSds/edit)
+
+[Contributors](https://docs.google.com/spreadsheets/d/11ebEzHHLtY0sytfbEmH8gQ3HVEPDHTl11q6-_O9Nsa8/edit#gid=0)
+* Thumbi wants to send emails on Wed to proposed 
+	* Mphatso, Lauren plus one more mentor
+		* Linsay
+* Seth and Prem for FO
+* Carl will connect Thumbi to AIMS mentors
+
+Curriculum
+* Faculty shortfalls
+	* Cari, Ivy, Juliet
+	* Elisha must replace all of these people 🙂
+* Plan
+	* People should mostly keep their roles
+	* Elisha will take on role of Ivy or Cari
+	* Other two missing faculty tasks need to be shared
+	* We should figure out what lectures are easier to take over than others
+* Bigger plan
+	* Are we keeping the tracks?
+	* Any lectures to drop or add?
+	* Should we track the AIMS students? AI vs mechanistic people
+	* JD: We can't just keep the old tracks; at least not without careful consideration
+		* Last year Track B was almost abandoned by the end
+* Suggestion from Carl:
+	* Propose something with no tracks
+	* Propose something else with an AIMS-based split
+		* Carl will provide some informaton about AIMS coursework
+* Question:
+	* How are AI students selected?
+* Please email Elisha with your thoughts about your role
+
+
+
+
 Meeting 9
 =========
 
