@@ -6,7 +6,7 @@ Projects group will present a plan or report next week
 * Needs to be integrated with curriculum
 * Priority for integration with Week 1
 
-First week
+[First week](https://docs.google.com/spreadsheets/d/1fb5qT8DCURzShYe16CaBCJGAr3oWnY61-su50q-79_g/#gid=0)
 * 34 AIMS participants, can we find another faculty member?
 	* Maybe check with SACEMA people
 * AIMS folks should be doing something project- and pedagogic-useful but which also leads into the next two weeks
@@ -22,16 +22,14 @@ First week
 	* to the faculty ASAP; discuss next week
 
 Elisha has two proposals
-* https://docs.google.com/document/d/1ZyXg2--JEycTn2EgFU9o6ullyOq9IP8f-qXOqJFYBKQ/edit?usp=sharing
-* https://docs.google.com/document/d/18wdIPWRv4qOXCYFN0cs3Ay3ug5EHpTLw5jZ1JVy8XUo/edit?usp=sharing
 
-Track A/B proposal
+[Track A/B proposal](https://docs.google.com/document/d/18wdIPWRv4qOXCYFN0cs3Ay3ug5EHpTLw5jZ1JVy8XUo/edit?usp=sharing)
 * Basically the same as before
 * Poster presentations are returning
 * 4 teachers for each general lab; 6 for each tracked lab
 * Optimistic that funded people would be accepted
 
-No-track proposal
+[No-track proposal](https://docs.google.com/document/d/1ZyXg2--JEycTn2EgFU9o6ullyOq9IP8f-qXOqJFYBKQ/edit?usp=sharing)
 * Mostly eliminates Track B
 
 Suggestion: Schedules should be more formatted, maybe as a spreadsheet
