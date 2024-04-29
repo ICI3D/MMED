@@ -1,4 +1,44 @@
 
+Meeting 6
+=========
+
+
+
+Logistics
+* Dushoff was having internet problems.
+
+Operations
+* Update your team folder
+* Don't wait for meetings
+
+Applications
+* Some issues with recommendation follow-up
+* Delay from last week
+* 14 Additional application packets now compiled and sent to reviewers
+	* Becky, Juliet, Ivy, Mutono
+	* Waiting for reviewers to respond about time line
+* Need a clear policy about ref letters and follow up for future
+
+Development
+* Mphatso yes (MMED only)
+* Jeannette yes (MMED only)
+* Lauren, no
+
+Projects
+ Progress is being made, please look at the projects document [in the projects folder](https://drive.google.com/drive/folders/1ciVEcjtetmGTle3x9ytn7PzifA-HNwrh)
+* Concern about how to fit in a good number of “assignments”
+
+Curriculum
+* Repetition issues look manageable when viewed from “MedPH” side
+* Commit to one track, use the comparison to see if we've made good decisions about this
+* Need to worry about which exercises might need to split people and how to split them; should not be a problem
+* Desiderata
+	* Save Intro Stochastic
+	* Lengthen Modeling intro
+	* Shorten Data intro
+	* Heterogeneity should be either given an hour, or Jonathan should simplify it, or both
+		 * It might be good to move it later (and maybe StatPhil earlier)
+
 Meeting 7
 =========
 
