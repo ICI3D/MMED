@@ -9,7 +9,7 @@ subtitle: Logistical information
 
 ### For everyone
 - {: .shadow} Please review this [important information for visitors to AIMS and South Africa](./ImportantInfoAIMS.pdf) prior to arrival.
-- Most participants will be staying in the Empire Building, across the street from AIMS. If you arrive at AIMS after 14:00 on Sunday, one or more volunteers will be available in the lobby to answer any questions you may have and take you to your room.
+- Participants will be staying in the AIMS housing, joining the students there for the year-long programme. You will likely be sharing a room with another participant, and the bathrooms are shared. If you arrive at AIMS after checkin on Sunday, one or more volunteers will be available in the lobby to answer any questions you may have and take you to your room.
 - Check back here for final accommodation guidelines. **Please review the [accommodation guidelines](./accommodationGuidelines) prior to arrival.**{: .shadow}
 - {: .shadow} Please complete the [Emergency Contact](./emergencyContact) and [Photo Release](./photoRelease) forms and send completed copies to <forms@ici3d.org> by the end of the day on Monday.
 
@@ -22,8 +22,8 @@ subtitle: Logistical information
 
 #### For those arriving by ground
 
-- **All participants without a scheduled airport transfer should plan to arrive between 12:00 and 17:00 (South African local time) on Sunday (25 June), if possible**.
-- When you arrive, please proceed to the AIMS lobby. If you have a car, you will be able to park it in the lot at the Empire Building, but be sure to let the volunteers who greet you know that you need parking.
+- **All participants without a scheduled airport transfer should plan to arrive between 12:00 and 17:00 (South African local time) on Sunday (16 June), if possible**.
+- When you arrive, please proceed to the AIMS lobby. At this time, long term parking arrangements are *not* finalized. Please contact us ASAP if you will need parking.
 
 ## Welcome and Registration
 
@@ -38,7 +38,7 @@ subtitle: Logistical information
 - All MMED participants are expected to engage fully in the MMED program. This includes attending all MMED sessions (other than those designated as optional).
 - You will be frequently using your laptops, but we will typically ask you to close them for certain activities: including most all seminar and discussion activities. This will help you and the other participants focus on the material at hand. This rule also applies to other electronic devices, such as phones. We allow note taking on tablets, provided you are not abusing that allowance to pursue other activities.
 - Please be aware that participants come from a wide variety of backgrounds and cultures. This diversity adds greatly to the MMED experience, and all participants should strive to create a welcoming, respectful learning environment.
-- All MMED participants should follow the [AIMS house rules](./AIMS_house_rules.pdf). Because all MMED students are guests of AIMS, these rules apply whether you are housed in AIMS accommodations or elsewhere (e.g., in the Empire Building).
+- All MMED participants should follow the [AIMS house rules](./AIMS_house_rules.pdf). Because all MMED participants are guests of AIMS and their behavior reflects on the institution, these rules apply both at AIMS and around Muizenberg.
 
 ## Muizenberg
 
@@ -57,19 +57,9 @@ subtitle: Logistical information
     * *Lunch* is served from 12:30 - 13:00.  
     * *Dinner* is served from 18:00 - 18:30.
 
-- **Laundry** facilities are available in some apartments. There are washing machines and dryers. You will need to provide your own detergent. You can purchase detergent from local shops or bring your own from home (being sure to comply with air travel rules).
-- **Wireless internet access** is available throughout the main AIMS facility. To connect to the network with your personal computer, you will need to register your computer on the AIMS network. Instructions are available [here](./AIMS_IT.pdf). Wifi is also available in the Empire Building if you are willing to pay for it.
+- **Wireless internet access** is available throughout the main AIMS facility. To connect to the network with your personal computer, you will need to register your computer on the AIMS network. Instructions are available [here](./AIMS_IT.pdf).
 
 ## Things to bring or buy
 
 - If you are coming from abroad and bringing any electronics with you, you will need appropriate **electrical converters and plug adapters**. Phones and computers (and some digital cameras) usually come with a converter. Plug adapters can be purchased at local shops. If you would like to purchase adapters before you arrive, you can use any of the plug types described on for example [this page](http://www.power-plugs-sockets.com/south-africa/) at AIMS. We recommend purchasing grounded adapters if you have the option.
-- **SIM cards** for mobile phones (GSM only) can be purchased at the airport or local shops. South Africa has strict regulations for registration of SIM cards so you'll need to bring proof of identity (passport) and proof of address (your apartment or AIMS keys and any printed letter of invitation to the workshop should suffice).
-- Note that there is no indoor heating at AIMS and no central heating in the Empire Building. We recommend bringing **warm sleepwear** as it can get quite chilly at night.
-
-## Tips for those staying in the Empire Building
-
-- {: .shadow} **Please review the [accommodation guidelines](./accommodationGuidelines) prior to arrival.**
-- If your kitchen sink isn't draining, open the drain by pressing down on the drain plug and releasing.
-- If you are bringing a vehicle, you may park in the garage at the Empire building. You should first check in with security and then move your vehicle to the parking garage.
-
-[map]: http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&ll>=-34.107878,18.469359&spn=0.00469,0.007832&z=17&msid=213677819135429766434.0004a4048a8ea5f6d63d3
+- **SIM cards** for mobile phones (GSM only) can be purchased at the airport or local shops. South Africa has strict regulations for registration of SIM cards so you'll need to bring proof of identity (passport) and proof of address (the AIMS address and any printed letter of invitation to the workshop should suffice).
