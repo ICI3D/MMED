@@ -5,12 +5,14 @@ subtitle: MMED 2023 Projects
 tab: Projects
 title: Projects
 alerttype: success
-alertmsg: >
+prevalertmsg: >
   <ul>
   <li><b>Guidelines for the project presentations (last day of Clinic) are available <a href="./projectPresentations">here</a>.</b></li>
   <li><b>Guidelines for the project reports (due 1 Sep) are available <a href="./projectReports">here</a>.</b></li>
   </ul>
 ---
+
+Information about the 2024 projects will be posted here when available.
 
 - [Using transmission models to inform trial design for dengue](./dengueTrials) _(Main lecture hall)_
     -  Faculty: Bobby
