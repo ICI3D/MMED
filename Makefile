@@ -38,12 +38,11 @@ Sources += $(wildcard projects/*.md)
 
 Ignore += _site/
 ## cerve: ~/mmed.jekyll.log
-cerve: jekyll.log
+cerve: 
 	./run.sh > ~/mmed.jekyll.log 2>&1 &
 
 curve:
 	ps x | grep -v grep | grep jekyll | perl -pe 's/([0-9]) .*/$1/' | xargs kill
-
 
 ## If you need a different Gemfile, please commit with a suffix and 
 ## symbolic link to Gemfile
