@@ -17,37 +17,116 @@ alertmsg: >
   </ul>
 archive: false
 ---
-
+{% assign lobby = "Lobby" %}{% assign main = "Main Hall (YYY)" %}{% assign sections = "Section 1 (YYY), Section 2 (ZZZ)" %}{% assign lab = "Comp. Lab" %}{% assign breakout = "Group Breakouts" %}
 {% if false %}
     - When preparing this page for a new Clinic, you can set the layout variable to "redirect" and the redirect variable to ""../development"" to send participants to a filler page until the schedule is ready for sharing. When ready to share the page, change the layout variable back to "clinic".
 {% endif %}
 
-> The MMED program includes a number of parallel sessions for participants with different backgrounds. **Track A** is designed for those with a mathematical background, particularly those who have extensive training and/or experience with differential equation models of infectious disease dynamics. **Track B** is designed for those with a background in epidemiology and/or statistics, particularly those who are involved in data collection for infectious disease systems.
-
 <div class="alert alert-warning" role="alert">
   <div class="container padding-left=0px padding-right=0px">
     <ul style="font-size:16px; margin:0px;">
-      <li>The schedule below represents the 2023 schedule, and is therefore <b>preliminary and subject to change.</b></li>
+      <li>The schedule below is mostly final, but there may be some changes in who leads sessions or potentially order</li>
       <li>Links to R tutorials and exercises are available <a href="../tutorials">here</a>.</li>
-      <li>As they become available, session slides will appear in <a href="https://drive.google.com/drive/folders/1eANZnzN0VhQ14lupd2rHvQOQzOG45Gsp">this shared folder</a>.</li>
+      <li>As they become available, session slides will appear in <a href="https://drive.google.com/drive/folders/1IJgX3960Ss80iFuzY9XebtU_x3ITE6pj">this shared folder</a>.</li>
       <li>Unless otherwise noted, all materials made available through this website are licensed through a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC-BY International License</a>.</li>
     </ul>
   </div>
 </div>
+																				
+## Week 0: Modeling in Medicine and Public Health (MMedPH)
 
-### Day 0 (Sunday 16 June)
+### Day 1 (Monday, 10 June)
 
--   14:00 – 18:00 Registration and welcome, AIMS lobby
--   17:15 – 17:45 *Dinner*, AIMS Dining Hall _NOTE normal time 18:00-18:30; changed due to loadshedding_{: .shadow}
-- {: .shadow} Faculty meeting and dinner in E313 at 18:00.
-    - {: .shadow} Save food for late-arriving faculty (RB, JD)!
+- 09h00-09h20 Introductions, Overview (everyone, {{ main }})
+- 09h20-10h30 Public health, epidemiology, and infectious disease modelling ({% include instructors people="pearson" %}, {{ main }})
+- 10h30-11h00 Coffee
+- 11h00-12h00 Introduction to infectious disease dynamics, Part I ({% include instructors people="mthomboti" %}, {{ main }})
+- 12h00-13h00 Tutorial I: Introduction to R and Epidemic curves	(all, {{ lab }})
+- 13h00-14h00 Lunch
+- 14h00-15h30 Tutorial I cont. (all, {{ lab }})
+- 15h30-16h00 Tea Break
+- 16h00-16h45 How to read a scientific paper ({% include instructors people="pearson" %}, {{ main }})
+- 16h45-17h30 Introduction to projects ({% include instructors people="pearson" %}, {{ main }})
+
+### Day 2
+
+- 08h30-09h00 Review Questions from Tutorial 1 (mentor, {{ main }})
+- 09h00-10h30 Introduction to infectious disease dynamics, Part II ({% include instructors people="mthomboti" %}, {{ main }})
+- 10h30-11h00 Coffee
+- 11h00-12h00 Dynamics of directly transmitted pathogens ({% include instructors people="pearson" %}, {{ main }})
+- 12h00-13h00 Tutorial 2 & benchmark questions	(all, {{ lab }})
+- 13h00-14h00 Lunch
+- 14h00-15h30 Tutorial 2 & benchmark questions, project development (all, {{ lab }})
+- 15h30-16h00 Tea Break
+- 16h00-18h00 Project development (all, {{ breakout }})
+
+### Day 3
+
+- 08h30-10h00 How to read a scientific paper: Discussion (all mentors, {{ main }})
+- 10h00-10h30 Review Questions from Tutorial 2 (mentor, {{ main }})
+- 10h30-11h00 Coffee
+- 11h00-11h45 Study Design and Analysis in Epidemiology: Where does modeling fit? ({% include instructors people="vanschalkwyk" %}, {{ main }})
+- 11h45-13h00 Lab 3: Study Design in Epidemiology (all, {{ lab }})
+- 13h00-14h00 Lunch
+- 14h00-15h30 Binomial Distribution Tutorial (all, {{ lab }})
+- 15h30-16h00 Tea Break
+- 16h00-18h00 Project development (all, {{ breakout }})
+
+### Day 4
+
+- 08h30-09h15 Study Design and Analysis in Epidemiology II: RCT’s ({% include instructors people="pearson" %}, {{ main }})
+- 09h15-10h30 Lab 4: Study Design for Clinical Trials (all, {{ lab }})
+- 10h30-11h00 Coffee
+- 11h00-12h00 Transmission in Finite Populations ({% include instructors people="mthomboti" %}, {{ main }})
+- 12h00-13h00 Project development (present on progress)	(all, {{ main }})
+- 13h00-14h00 Lunch
+- 14h00-15h30 Project development (present on progress)	(all, {{ main }})
+- 15h30-16h00 Tea Break
+- 16h00-18h00 Tutorial III: simple stochastic models of epidemics (all, {{ lab }})
+
+### Day 5
+
+- 08h30-09h30 Dynamics of vector-borne pathogens ({% include instructors people="mthomboti" %}, {{ main }})
+- 09h30-10h00 Review Questions from Tutorial 3 (mentor, {{ main }})
+- 10h30-11h00 Coffee
+- 10h30-12h00 Practice presentations and feedback (all, {{ main }})
+- 12h00-13h00 Project development and presentation revisions ({{ breakout }})
+- 13h00-14h00 Lunch
+- 14h00-14h30 Wrap-up and preparation for next week (all, {{ main }})
+- 14h30-15h30 Project development and presentation revisions ({{ breakout }})
+- 15h30-16h00 Tea Break
+- 16h00-18h00 Project revision based on feedback and additional practice presentations as needeed (all, {{ main }})
+
+## Week 1: Meaningful Modeling of Epidemiological Data (MMED)
+
+### Day 0 (Sunday, 16 June)
+
+-   16h00–18h00 Registration and Welcome ({% include instructors people="bruce" %}, {{ lobby }})
+- {: .shadow} Faculty meeting and dinner in E??? at 18:30; be sure to save food for late arrivals once known
 
 ### Day 1
 
-- {: .shadow} 8:00 Faculty check-in in Room 105
--   8:00 – 8:25 Registration and welcome, AIMS lobby
-    -   **Please gather in the main lecture hall by 8:30.**
--   8:30 – 9:00 [Welcome and Motivation for Workshop](https://drive.google.com/file/d/1EvvdVlBb3TPf7RAAlN9pnhIWL9_kppK3/view?usp=sharing) ({% include instructors people="pearson|mthombothi|brown" %})
+- {: .shadow} 08h00 Faculty check-in in Room 105
+- 08h00-08h25 Registration and welcome ({% include instructors people="bruce" %}, {{lobby}})
+- 08h30-09h00 Welcome and motivation for workshop ({% include instructors people="pearson|nyamai|sereo" %}, {{main}})
+- 09h00-10h00 Public health, epidemiology, and models ({% include instructors people="pearson" %}, {{main}})
+- 10h00-10h30 Coffee
+- 10h30-10h45 MMED roadmap and program overview ({% include instructors people="reiner" %}, {{main}})
+- 10h45-11h30 Simplest Model ({% include instructors people="pearson" %}, {{main}})
+- 11h30-12h30 Foundation of dynamic modeling ({% include instructors people="dushoff" %}, {{main}})
+- 12h30-14h00 Lunch (technical assistance for participants, {{ lab }})  	
+- 14h00-15h00 Introduction to infectious disease data ({% include instructors people="mwangi" %}, {{main}})
+- 15h00-15h30 Dynamical fever exercise ({% include instructors people="mthomboti|reiner|EAh|nyamai|dawa|sereo" %}, {{lab}})
+- 15h30-16h00 Tea (poster setup, group 1) ({% include instructors people="nyamai|MP|BM" %}, {{main}})
+- 16h00-16h45 Dynamical fever exercise, cont.
+- 16h45-17h00 Dynamical fever summary ({% include instructors people="reiner" %}, {{lab}})
+- 17h00-18h00 Poster session 1 (all, {{main}})
+- 18h00-18h30 Dinner
+- 19h00-20h30 Ice-breaker/Card games ({% include instructors people="bruce" %}, {{main}})
+
+<!--
+- 08h00–08h25 Registration and Welcome ({% include instructors people="bruce" %}, {{ lobby }})
+- 08h30–09h00 [Welcome and Motivation for Workshop](https://drive.google.com/file/d/1EvvdVlBb3TPf7RAAlN9pnhIWL9_kppK3/view?usp=sharing) ({% include instructors people="pearson|mthombothi|brown" %})
 -   9:00 – 10:00 **Lecture:** [Public Health, Epidemiology, and Models](https://drive.google.com/file/d/1BttHcz_-B_DpcaIAE1tFXq23Kih5UCZs/view?usp=sharing) ({% include instructors people="pearson" %})
     - {: .shadow} Note takers: pulliam, mwangi
 -   10:00 – 10:30 *Coffee break*
@@ -75,9 +154,28 @@ archive: false
 - {: .shadow} 18:00 Faculty Meeting in Mail Lecture Hall
 -   19:00 – 19:30 **Social Activity:** Ice breakers ({% include instructors people="bruce" %})
 -   19:30 – 20:30 **Social Activity:** Card games: Bullsh!t and Casino
+-->
 
 ### Day 2
 
+- {: .shadow} 8:00 Faculty check-in in Room 105
+- 08h30-09h15 (Hidden) assumptions of simple ODE models ({% include instructors people="EA" %}, {{main}})
+- 09h15-10h00 Live coding: Introduction to model implementation ({% include instructors people="kassanjee" %}, {{main}})
+- 10h00-10h30 Coffee
+- 10h30-11h15 Basic stochastic simulation models ({% include instructors people="borchering" %}, {{main}})
+- 11h15-12h30 MMED projects (introduction + Q&A) ({% include instructors people="borchering|dushoff" %}, {{main}})
+- 12h30-14h00 Lunch
+- 14h00-15h30 Lab 1 (ODE Models in R) and Tutorial 4 ({% include instructors people="nyamai|borchering|mwangi|MP|BM|dawa|sereo" %}, {{lab}})
+- 15h30-16h00 Tea (poster setup, group 2) ({% include instructors people="EA|sereo|EAh" %}, {{main}})
+- 16h00-16h45 Lab 1 and Tutorial 4, cont.
+- 16h45-17h00 Lab 1 summary	({% include instructors people="nyamai" %}, {{lab}})
+- 16h45-17h00 Tutorial 4 summary ({% include instructors people="sereo" %}, {{lab}})
+- 17h00-18h00 Poster session 2 ({% include instructors people="" %}, {{main}})
+- 18h00-18h30 Dinner
+- 19h00-20h00 Tutorial catch-up ({% include instructors people="EA|nyamai|dawa|EAh|sereo|BM" %}, {{lab}})
+- 23h59 Project sign-up deadline
+
+<!--
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 9:15 **Lecture:** [(Hidden) assumptions of simple ODE models](https://drive.google.com/file/d/1Tsx7IKDBatRGUDYKWlro76wT7D6fHfGM/view?usp=sharing) ({% include instructors people="borchering" %})
     - {: .shadow} Note takers: pulliam, reiner
@@ -112,9 +210,27 @@ archive: false
     - {: .shadow} with {% include instructors people="mthombothi" %} and mentors
 -   19:00 – 20:00 [**Poster session III**](../posters/sessions)
 - {: .shadow} 20:05 Faculty Meeting in E313
+-->
 
 ### Day 3
 
+- 08h30-09h15 Ex 1 / Lab 2A (simulation models) ({% include instructors people="borchering|mthomboti|nyamai|EAh|MP|sereo" %}, {{lab}})
+- {: .shadow } this seems like to little time?
+- Summary ({% include instructors people="borchering" %}, {{lab}})
+- 09h15-10h15 Thinking about Data ({% include instructors people="nyamai" %}, {{main}})
+- 10h15-10h45 Coffee _NOTE need time shift?_{: .shadow}
+- 10h45-11h00 Introduction to models and data: HIV in Harare ({% include instructors people="kassanjee" %}, {{main}})
+- 11h00-12h30 HIV in Harare tutorial ({% include instructors people="pearson|kassanjee|mwangi|mthomboti|MP|BM|dawa" %}, {{lab}})
+- 12h30-14h00 Lunch
+- 14h00-14h30 Harare tutorial cont. ({{lab}})
+- 14h30-15h15 Box car models, HIV in Harare Summary ({% include instructors people="pearson" %}, {{lab}})
+- 15h15-15h30 Project group assignments ({% include instructors people="borchering|mthomboti" %}, {{main}})
+- 16h00-17h00 Formulating research questions ({% include instructors people="mwangi|EA" %}, {{sections}})
+- 17h00-18h00 Study design and analysis in epidemiology Review ({% include instructors people="kassanjee" %}, {{main}})
+- 18h00-18h30 Dinner
+- 19h00-20h00 Optional: Lab 3 & 4 - study design I & II	({% include instructors people="nyamai|mthomboti|BM|EAh|dawa|sereo|MP" %}, {{lab}})
+
+<!--
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 10:00 _**Parallel sessions**_
     -   **Track A in Small Computer Lab:** **Computer Session:** [R Tutorials](../tutorials) - Tutorial 4: Visualizing Infectious Disease Data in R ({% include instructors people="brown" %}, {% include instructors people="mwangi" %}, {% include instructors people="nyamai" %}, and {% include instructors people="omondi" %})
@@ -149,9 +265,23 @@ archive: false
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Working session in Main Computer Lab:** Model World Assignment (Track B) and Tutorial catch-up, as needed ({% include instructors people="brown|mthombothi|nyamai|pulliam|sereo" %})
 - {: .shadow} 20;15 Faculty Meeting in E313
+-->
 
 ### Day 4
 
+- 08h30-10h00 Creating a model world to address a research question	({% include instructors people="mwangi|borchering|nyamai|reiner|EA|mthomboti" %}, {{ sections }})
+- 10h00-10h30 Coffee
+- 10h30-12h00 Introduction to statistical philosophy ({% include instructors people="dushoff" %}, {{main}})
+- 12h00-12h30 MMED projects ({{ breakout }})
+- 12h30-14h00 Lunch
+- 14h00-15h30 Participatory coding of a dynamical model	({% include instructors people="pearson" %}, {{main}})
+- 15h30-16h00 Tea
+- 16h00-16h45 Introduction to likelihood ({% include instructors people="reiner" %}, {{ main }})
+- 16h45-18h00 Lab 5 (Introduction to likelihood) ({% include instructors people="dawa" %}, {{ lab }})
+- 18h00-18h30 Dinner	
+- 19h30-21h00 Drumming ({{ main }})
+
+<!--
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 10:00  _**Parallel sessions:**_
     - **Track A in the Small Computer Lab:** **Lecture** and **Computer Session:** [Study Design and Analysis in Epidemiology II: RCT's](https://drive.google.com/file/d/1Pw7Ciw3Zww8C-d4xqbLVQpiNChUComdh/view?usp=drive_link) ({% include instructors people="kassanjee" %}) and [R Tutorials](../tutorials) - [Lab 4: Study Design for Clinical Trials](https://drive.google.com/file/d/1Pw7Ciw3Zww8C-d4xqbLVQpiNChUComdh/view?usp=drive_link) ({% include instructors people="borchering|kassanjee|kombe" %})
@@ -170,9 +300,23 @@ archive: false
     - {: .shadow} **17:00 Faculty meeting in Room E313**
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example ([optional lecture](../talks) in the Main Lecture Hall):** [Seth Blumberg](../talks/blumberg)
+-->
 
 ### Day 5
 
+- 08h30-10h00 Description of proposed model and assumptions	({% include instructors people="mthomboti|EA|sereo|mwangi|MP|dawa" %}, {{ sections }})
+- 10h00-10h30 Coffee
+- 10h30-11h15 Likelihood fitting & dynamic models I: Dynamic Model Fitting and Inference Robustness ({% include instructors people="reiner" %}, {{main}})
+- 11h15-12h30 Lab 6 (MLE fitting of an SIR model to prevalence data) ({% include instructors people="kassanjee|mwangi|nyamai|BM|EAh|dawa" %}, {{ lab }})
+- 12h30-14h00 Lunch
+- 14h00-15h30 MMED project work	({% include instructors people="" %}, {{ breakout}})
+- 15h30-16h00 Tea
+- 16h00-17h00 Mentor presentations ({% include instructors people="nyamai" %}, {{main}})
+- 17h00-18h00 Feeback session I	({% include instructors people="bruce" %}, {{main}})
+- 18h00-18h30 Dinner
+- 19h30-21h30 Movie Night ({{main}})
+
+<!--
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 10:00 **Lecture:** [Introduction to statistical philosophy](https://drive.google.com/file/d/15gXnJdtFr6ihTlk8BqPBI9I8GKjWvAvW/view?usp=drive_link) ({% include instructors people="dushoff" %}) ([handouts version](https://drive.google.com/file/d/1sbYSH6fvBtZW0eqMBknbiKMMaVA5dRnJ/view?usp=drive_link))
     - {: .shadow} Note takers: abbott, pearson
@@ -197,9 +341,17 @@ archive: false
 -   18:00 – 18:30 *Dinner*
 - {: .shadow} 18:30 Faculty Meeting in the Library
 -   19:30 – 21:00 **Social activity:** Drumming
+-->
 
 ### Day 6
 
+- 08h30-09h30 Consequences of heterogeneity and modelling options ({% include instructors people="dushoff" %}, {{main}})
+- 09h30-10h30 Lab 2 (Consequences of heterogeneity)	({% include instructors people="pearson|dushoff|reiner|EAh|MP|BM" %}, {{lab}})
+- 10h30-11h00 Coffee
+- 11h00-12h30 Tutorial catch-up (optional) ({% include instructors people="reiner|dawa|EAh|BM|MP|sereo" %}, {{lab}})
+- Group Lunch at Kalky's
+
+<!--
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 9:15 **Lecture in the Main Lecture Hall:** Likelihood fitting and dynamic models, Part 1: Dynamic Model Fitting and Inference Robustness ({% include instructors people="reiner" %})
     - {: .shadow} Note takers: dushoff, borchering
@@ -219,16 +371,37 @@ archive: false
 -   17:30 – 18:00 A good chance to [sign up for project groups](https://forms.gle/xNvYdUUswpiU2k2u7)
 -   18:00 – 18:30 *Dinner*
 -   {: .shadow} 19:00 Party in E313
+-->
 
 ### Day 7
 
+- Optional: Cape Point trip; schedule to be finalized, but leave AM, return PM
+
+<!--
 - 10:00 Deadline to [sign up for project groups](https://forms.gle/xNvYdUUswpiU2k2u7)
 - Free day – optional group trip to Cape Point
     -   We will leave at 10:00. *Please meet in the AIMS lobby by 9:55.* Wear comfortable clothes. We will be going on a boat!
 - {: .shadow} **Faculty meeting in E313 at 17:30.**
+-->
 
-### Day 8
+## Week 2: MMED Project Focus
 
+### Day 8 (Monday, 24 June)
+
+- 08h30-09h15 Doing science/Life cycle of a project	
+- 09h15-09h30 Feedback responses; Review Schedule & goals	
+- 09h30-10h00 MMED project work	({{breakout}})
+- 10h00-10h30 Coffee
+- 10h30-11h30 Introduction to github ({% include instructors people="pearson|mthomboti|EA|dawa|EAh|sereo" %}, {{lab}})
+- 11h30-12h30 MMED project work	({{breakout}})
+- 12h30-14h00 Lunch
+- 14h00-15h30 Likelihood fitting and dynamical models II ({% include instructors people="reiner" %}, {{main}})
+- 15h30-16h00 Tea
+- 16h00-17h30 MMED project work + mentoring sessions ({{breakout}})
+- 18h00-18h30 Dinner
+- 19h00-20h00 Github practice and and trouble-shooting / tutorial catch-up (optional)	({% include instructors people="pearson|EA|MP|BM|dawa" %}, {{lab}})
+
+<!--
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 9:15 **Lecture:** The Lifecycle of a Modelling Project ({% include instructors people="reiner" %})
     - {: .shadow} Note takers: pearson, pulliam
@@ -250,9 +423,23 @@ archive: false
 - {: .shadow} 17:30-18:20 Faculty Meeting in Room 105
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 GitHub practice and troubleshooting and/or optional tutorial catch-up ({% include instructors people="brown|mthombothi|omondi|sereo|pulliam" %})
+-->
 
 ### Day 9
 
+- 08h30-10h00 Introduction to monte carlo markov chains	({% include instructors people="borchering" %}, {{main}})
+- 10h00-10h30 Coffee
+- 10h30-11h30 Labs 7 & 8 (MCMC model fitting) ({% include instructors people="kassanjee|pearson|mwangi|EAh|sereo|MP" %}, {{lab}})
+- 11h30-12h30 MMED project work	({{breakout}})
+- 12h30-14h00 Lunch
+- 14h00-14h45 Data wrangling 1: Data management and cleaning ({% include instructors people="mwangi" %}, {{main}})
+- 14h45-15h30 Tutorial 5 (Data cleaning) ({% include instructors people="mwangi|EA|BM|EAh|MP|dawa" %}, {{lab}})
+- 15h30-16h00 Tea
+- 16h00-17h30 MMED project work + mentoring sessions ({{breakout}})
+- 18h00-18h30 Dinner	
+- 19h00-20h00 Guest Lecture	({% include instructors people="dushoff (moderator)|SBe" %}, {{main}})
+
+<!--
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 10:00 **Lecture**: [Introduction to Monte Carlo Markov Chains (MCMC)](https://drive.google.com/file/d/1NoM9z9tweqaB3IBUdf5ESaQL30IicpfZ/view?usp=drive_link) ({% include instructors people="borchering" %}) - [Slides (180mb read-only powerpoint slide set with embedded movies)](https://ndownloader.figshare.com/files/8597005)
     - {: .shadow} Note takers: abbott, dushoff
@@ -275,9 +462,23 @@ archive: false
 - {: .shadow} 17:30-18:20 Faculty Meeting in Room 105
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example ([optional lecture](../talks)):** [Sam Abbott](../talks/abbott) (Moderator: {% include instructors people="reiner" %})
+-->
 
 ### Day 10
 
+- 08h30-09h30 Model assessment ({% include instructors people="dushoff" %}, {{main}})
+- 09h30-10h00 MMED project work	({{breakout}})
+- 10h00-10h30 Coffee
+- 10h30-11h00 MMED project work ({{breakout}})
+- 11h00-12h30 Participatory coding for variability, sampling distributions, and simulation lecture / Study design and simulation based validation / stochastic modelling II with live coding ({% include instructors people="dushoff|kassanjee|BM" %}, {{main}})
+- 12h30-14h00 Lunch _NOTE: technical check with virtual panelists_{: .shadow}
+- 14h00-15h30 MMED project work	({{breakout}})
+- 15h30-16h00 Tea
+- 16h00-17h30 MMED project work + mentoring sessions ({{breakout}})
+- 18h00-18h30 Dinner
+- {: .shadow } 19h00-20h00 Real-World example ({{main}})
+
+<!--
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 9:30 **Lecture**: Model assessment ([Dushoff](../team/Dushoff))
     - {: .shadow} Note takers: abbott, pulliam
@@ -296,9 +497,21 @@ archive: false
 - {: .shadow} 17:30-18:20 Faculty Meeting in Room 105
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Real-world example ([optional guest lecture](../talks)):** Health Economics talks from Kaja Abbas and Lander Willem
+-->
 
 ### Day 11
 
+- 08h30-10h00 MMED project work + mentoring sessions ({{breakout}})
+- 10h00-10h30 Coffee	
+- 10h30-12h30 MMED project work	({{breakout}})
+- 12h30-14h00 Lunch	
+- 14h00-15h30 MMED project work or Project pipeline:Live coding(optional) ({% include instructors people="pearson" %} ({{breakout}} or {{main}})
+- 15h30-16h00 Tea
+- 16h00-17h30 Modelling for policy ({% include instructors people="reiner|mwangi|borchering|JP" %}, {{main}})
+- 18h00-18h30 Dinner
+- 18h30-20h00 MMED project work	({{breakout}})
+
+<!--
 - {: .shadow} 8:00 Faculty check-in in Room 105
 -   8:30 – 10:00 **Discussion**: Modeling for policy (Panel: [Rebecca Borchering](../team/borchering), [Leigh Johnson](https://scholar.google.com/citations?hl=en&user=VYMmLd8AAAAJ), [Thumbi Mwangi](../team/mwangi), [Corey Peak](https://scholar.google.com/citations?hl=en&user=N9GVCQkAAAAJ), Moderator: {% include instructors people="pulliam" %})
     - {: .shadow} Note takers: pearson, nyamai, mthombothi
@@ -315,9 +528,20 @@ archive: false
 -   18:00 – 18:30 *Dinner*
 -   19:00 – 20:00 **Work session** (Project groups)
     - {: .shadow} 19:00 – whenever Mentor dinner (Olympia Cafe)
+-->
 
 ### Day 12
 
+- 08h30-10h00 MMED project work + mentoring sessions ({{breakout}})
+- 10h00-10h30 Coffee	
+- 10h30-12h30 MMED project work + mentoring sessions ({{breakout}})
+- 12h30-13h45 Lunch	
+- 13h45-15h30 Project presentations	({% include instructors people="EA" %}, {{main}})
+- 15h30-16h00 Tea
+- 16h00-17h00 Feedback session II ({% include instructors people="bruce" %}, {{main}})
+- 17h15-17h45 Closing ({% include instructors people="pearson" %}, {{main}})
+
+<!--
 -   8:30 – 10:00 **Work Session** (Project groups)
 -   10:00 – 10:30 *Coffee break*
 -   10:30 – 12:30 **Work Session** (Project groups)
@@ -331,6 +555,7 @@ archive: false
 -   17:15 – 17:45 Closing session ({% include instructors people="pearson" %})
 -   18:00 – 18:30 *Dinner*
 -   {: .shadow} 20:00 – 22:00 **Social Activity**: TBD
+-->
 
 ### Day 13
 
