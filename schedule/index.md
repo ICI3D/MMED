@@ -101,14 +101,14 @@ archive: false
 
 ### Day 0 (Sunday, 16 June)
 
--   16h00–18h00 Registration and Welcome ({% include instructors people="bruce" %}, {{ lobby }})
+-   16h00–18h00 Registration ({% include instructors people="bruce" %}, {{ lobby }})
 - {: .shadow} Faculty meeting and dinner in E??? at 18:30; be sure to save food for late arrivals once known
 
 ### Day 1
 
 - {: .shadow} 08h00 Faculty check-in in Room 105
-- 08h00-08h25 Registration and welcome ({% include instructors people="bruce" %}, {{lobby}})
-- 08h30-09h00 Welcome and motivation for workshop ({% include instructors people="pearson|nyamai|sereo" %}, {{main}})
+- 08h00-08h25 Registration ({% include instructors people="bruce" %}, {{lobby}})
+- 08h30-09h00 [Welcome and Motivation for Workshop](https://docs.google.com/presentation/d/1j3htK-oN2JO0JhADZqjmuG-KU2u6tgUY) ({% include instructors people="pearson|nyamai|sereo" %}, {{main}})
 - 09h00-10h00 Public health, epidemiology, and models ({% include instructors people="pearson" %}, {{main}})
 - 10h00-10h30 Coffee
 - 10h30-10h45 MMED roadmap and program overview ({% include instructors people="reiner" %}, {{main}})
@@ -126,7 +126,7 @@ archive: false
 
 <!--
 - 08h00–08h25 Registration and Welcome ({% include instructors people="bruce" %}, {{ lobby }})
-- 08h30–09h00 [Welcome and Motivation for Workshop](https://drive.google.com/file/d/1EvvdVlBb3TPf7RAAlN9pnhIWL9_kppK3/view?usp=sharing) ({% include instructors people="pearson|mthombothi|brown" %})
+- 08h30–09h00  ({% include instructors people="pearson|mthombothi|brown" %})
 -   9:00 – 10:00 **Lecture:** [Public Health, Epidemiology, and Models](https://drive.google.com/file/d/1BttHcz_-B_DpcaIAE1tFXq23Kih5UCZs/view?usp=sharing) ({% include instructors people="pearson" %})
     - {: .shadow} Note takers: pulliam, mwangi
 -   10:00 – 10:30 *Coffee break*
