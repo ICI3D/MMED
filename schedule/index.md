@@ -162,8 +162,8 @@ archive: false
 - 08h30-09h15 (Hidden) assumptions of simple ODE models ({% include instructors people="EA" %}, {{main}})
 - 09h15-10h00 Live coding: Introduction to model implementation ({% include instructors people="kassanjee" %}, {{main}})
 - 10h00-10h30 Coffee
-- 10h30-11h15 Basic stochastic simulation models ({% include instructors people="borchering" %}, {{main}})
-- 11h15-12h30 MMED projects (introduction + Q&A) ({% include instructors people="borchering|dushoff" %}, {{main}})
+- 10h30-11h30 Thinking about Data ({% include instructors people="nyamai" %}, {{main}})
+- 11h30-12h30 MMED projects (introduction + Q&A) ({% include instructors people="borchering|dushoff" %}, {{main}})
 - 12h30-14h00 Lunch
 - 14h00-15h30 Lab 1 (ODE Models in R) and Tutorial 4 ({% include instructors people="nyamai|borchering|mwangi|MP|BM|dawa|sereo" %}, {{lab}})
 - 15h30-16h00 Tea (poster setup, group 2) ({% include instructors people="EA|sereo|EAh" %}, {{main}})
@@ -214,17 +214,17 @@ archive: false
 
 ### Day 3
 
-- 08h30-09h15 Ex 1 / Lab 2A (simulation models) ({% include instructors people="borchering|mthomboti|nyamai|EAh|MP|sereo" %}, {{lab}})
+- 08h30-09h15 Basic stochastic simulation models ({% include instructors people="borchering" %}, {{lab}})
+- 09h15-10h00 Ex 1 / Lab 2A (simulation models) ({% include instructors people="borchering|mthomboti|nyamai|EAh|MP|sereo" %}, {{lab}})
 - {: .shadow } this seems like to little time?
 - Summary ({% include instructors people="borchering" %}, {{lab}})
-- 09h15-10h15 Thinking about Data ({% include instructors people="nyamai" %}, {{main}})
-- 10h15-10h45 Coffee _NOTE need time shift?_{: .shadow}
-- 10h45-11h00 Introduction to models and data: HIV in Harare ({% include instructors people="kassanjee" %}, {{main}})
-- 11h00-12h30 HIV in Harare tutorial ({% include instructors people="pearson|kassanjee|mwangi|mthomboti|MP|BM|dawa" %}, {{lab}})
+- 10h00-10h30 Coffee _NOTE need time shift?_{: .shadow}
+- 10h30-10h45 Introduction to models and data: HIV in Harare ({% include instructors people="kassanjee" %}, {{lab}})
+- 10h45-12h30 HIV in Harare tutorial ({% include instructors people="pearson|kassanjee|mwangi|mthomboti|MP|BM|dawa" %}, {{lab}})
 - 12h30-14h00 Lunch
-- 14h00-14h30 Harare tutorial cont. ({{lab}})
-- 14h30-15h15 Box car models, HIV in Harare Summary ({% include instructors people="pearson" %}, {{lab}})
-- 15h15-15h30 Project group assignments ({% include instructors people="borchering|mthomboti" %}, {{main}})
+- 14h00-14h45 Box car models, HIV in Harare Summary ({% include instructors people="pearson" %}, {{lab}})
+- 14h45-15h30 Project group assignments ({% include instructors people="borchering|mthomboti" %}, {{main}})
+- 15h30-16h00 Tea
 - 16h00-17h00 Formulating research questions ({% include instructors people="mwangi|EA" %}, {{sections}})
 - 17h00-18h00 Study design and analysis in epidemiology Review ({% include instructors people="kassanjee" %}, {{main}})
 - 18h00-18h30 Dinner
