@@ -40,18 +40,19 @@ archive: false
 - 09h00-09h20 Introductions, Overview (everyone, {{ main }})
 - 09h20-10h30 Public health, epidemiology, and infectious disease modelling ({% include instructors people="pearson" %}, {{ main }})
 - 10h30-11h00 Coffee
-- 11h00-12h00 Introduction to infectious disease dynamics, Part I ({% include instructors people="mthomboti" %}, {{ main }})
-- 12h00-13h00 Tutorial I: Introduction to R and Epidemic curves	(all, {{ lab }})
+- 11h00-12h00 Introduction to infectious disease dynamics, Part I ({% include instructors people="mthombothi" %}, {{ main }})
+- 12h00-12h10 A brief stretch
+- 12h10-13h00 How to read a scientific paper ({% include instructors people="pearson" %}, {{ main }})
 - 13h00-14h00 Lunch
-- 14h00-15h30 Tutorial I cont. (all, {{ lab }})
+- 14h00-15h30 Tutorial I: Introduction to R and Epidemic curves	(all, {{ lab }})
 - 15h30-16h00 Tea Break
-- 16h00-16h45 How to read a scientific paper ({% include instructors people="pearson" %}, {{ main }})
-- 16h45-17h30 Introduction to projects ({% include instructors people="pearson" %}, {{ main }})
+- 16h00-17h00 Tutorial I cont. (all, {{ lab }})
+- 17h00-17h45 Introduction to projects ({% include instructors people="pearson" %}, {{ main }})
 
 ### Day 2
 
 - 08h30-09h00 Review Questions from Tutorial 1 (mentor, {{ main }})
-- 09h00-10h30 Introduction to infectious disease dynamics, Part II ({% include instructors people="mthomboti" %}, {{ main }})
+- 09h00-10h30 Introduction to infectious disease dynamics, Part II ({% include instructors people="mthombothi" %}, {{ main }})
 - 10h30-11h00 Coffee
 - 11h00-12h00 Dynamics of directly transmitted pathogens ({% include instructors people="pearson" %}, {{ main }})
 - 12h00-13h00 Tutorial 2 & benchmark questions	(all, {{ lab }})
@@ -70,14 +71,15 @@ archive: false
 - 13h00-14h00 Lunch
 - 14h00-15h30 Binomial Distribution Tutorial (all, {{ lab }})
 - 15h30-16h00 Tea Break
-- 16h00-18h00 Project development (all, {{ breakout }})
+- 16h00-16h30 Review Questions from Tutorial 3 (mentors, {{ lab }})
+- 16h30-18h00 Project development (all, {{ breakout }})
 
 ### Day 4
 
 - 08h30-09h15 Study Design and Analysis in Epidemiology II: RCT’s ({% include instructors people="pearson" %}, {{ main }})
 - 09h15-10h30 Lab 4: Study Design for Clinical Trials (all, {{ lab }})
 - 10h30-11h00 Coffee
-- 11h00-12h00 Transmission in Finite Populations ({% include instructors people="mthomboti" %}, {{ main }})
+- 11h00-12h00 Transmission in Finite Populations ({% include instructors people="mthombothi" %}, {{ main }})
 - 12h00-13h00 Project development (present on progress)	(all, {{ main }})
 - 13h00-14h00 Lunch
 - 14h00-15h30 Project development (present on progress)	(all, {{ main }})
@@ -86,14 +88,14 @@ archive: false
 
 ### Day 5
 
-- 08h30-09h30 Dynamics of vector-borne pathogens ({% include instructors people="mthomboti" %}, {{ main }})
-- 09h30-10h00 Review Questions from Tutorial 3 (mentor, {{ main }})
+- 08h30-09h30 Dynamics of vector-borne pathogens ({% include instructors people="mthombothi" %}, {{ main }})
+- 09h30-10h00 Review Questions from Lab 3 (mentor, {{ main }})
+- 10h00-10h30 Review Questions from Lab 4 (mentor, {{ main }})
 - 10h30-11h00 Coffee
-- 10h30-12h00 Practice presentations and feedback (all, {{ main }})
-- 12h00-13h00 Project development and presentation revisions ({{ breakout }})
+- 11h00-13h00 Practice presentations and feedback (all, {{ main }})
 - 13h00-14h00 Lunch
-- 14h00-14h30 Wrap-up and preparation for next week (all, {{ main }})
-- 14h30-15h30 Project development and presentation revisions ({{ breakout }})
+- 14h00-15h00 Project development and presentation revisions ({{ breakout }})
+- 15h00-15h30 Wrap-up and preparation for next week (all, {{ main }})
 - 15h30-16h00 Tea Break
 - 16h00-18h00 Project revision based on feedback and additional practice presentations as needeed (all, {{ main }})
 
@@ -116,7 +118,7 @@ archive: false
 - 11h30-12h30 Foundation of dynamic modeling ({% include instructors people="dushoff" %}, {{main}})
 - 12h30-14h00 Lunch (technical assistance for participants, {{ lab }})  	
 - 14h00-15h00 Introduction to infectious disease data ({% include instructors people="mwangi" %}, {{main}})
-- 15h00-15h30 Dynamical fever exercise ({% include instructors people="mthomboti|reiner|EAh|nyamai|dawa|sereo" %}, {{lab}})
+- 15h00-15h30 Dynamical fever exercise ({% include instructors people="mthombothi|reiner|EAh|nyamai|dawa|sereo" %}, {{lab}})
 - 15h30-16h00 Tea (poster setup, group 1) ({% include instructors people="nyamai|MP|BM" %}, {{main}})
 - 16h00-16h45 Dynamical fever exercise, cont.
 - 16h45-17h00 Dynamical fever summary ({% include instructors people="reiner" %}, {{lab}})
@@ -215,20 +217,20 @@ archive: false
 ### Day 3
 
 - 08h30-09h15 Basic stochastic simulation models ({% include instructors people="borchering" %}, {{lab}})
-- 09h15-10h00 Ex 1 / Lab 2A (simulation models) ({% include instructors people="borchering|mthomboti|nyamai|EAh|MP|sereo" %}, {{lab}})
+- 09h15-10h00 Ex 1 / Lab 2A (simulation models) ({% include instructors people="borchering|mthombothi|nyamai|EAh|MP|sereo" %}, {{lab}})
 - {: .shadow } this seems like to little time?
 - Summary ({% include instructors people="borchering" %}, {{lab}})
 - 10h00-10h30 Coffee _NOTE need time shift?_{: .shadow}
 - 10h30-10h45 Introduction to models and data: HIV in Harare ({% include instructors people="kassanjee" %}, {{lab}})
-- 10h45-12h30 HIV in Harare tutorial ({% include instructors people="pearson|kassanjee|mwangi|mthomboti|MP|BM|dawa" %}, {{lab}})
+- 10h45-12h30 HIV in Harare tutorial ({% include instructors people="pearson|kassanjee|mwangi|mthombothi|MP|BM|dawa" %}, {{lab}})
 - 12h30-14h00 Lunch
 - 14h00-14h45 Box car models, HIV in Harare Summary ({% include instructors people="pearson" %}, {{lab}})
-- 14h45-15h30 Project group assignments ({% include instructors people="borchering|mthomboti" %}, {{main}})
+- 14h45-15h30 Project group assignments ({% include instructors people="borchering|mthombothi" %}, {{main}})
 - 15h30-16h00 Tea
 - 16h00-17h00 Formulating research questions ({% include instructors people="mwangi|EA" %}, {{sections}})
 - 17h00-18h00 Study design and analysis in epidemiology Review ({% include instructors people="kassanjee" %}, {{main}})
 - 18h00-18h30 Dinner
-- 19h00-20h00 Optional: Lab 3 & 4 - study design I & II	({% include instructors people="nyamai|mthomboti|BM|EAh|dawa|sereo|MP" %}, {{lab}})
+- 19h00-20h00 Optional: Lab 3 & 4 - study design I & II	({% include instructors people="nyamai|mthombothi|BM|EAh|dawa|sereo|MP" %}, {{lab}})
 
 <!--
 - {: .shadow} 8:00 Faculty check-in in Room 105
@@ -269,7 +271,7 @@ archive: false
 
 ### Day 4
 
-- 08h30-10h00 Creating a model world to address a research question	({% include instructors people="mwangi|borchering|nyamai|reiner|EA|mthomboti" %}, {{ sections }})
+- 08h30-10h00 Creating a model world to address a research question	({% include instructors people="mwangi|borchering|nyamai|reiner|EA|mthombothi" %}, {{ sections }})
 - 10h00-10h30 Coffee
 - 10h30-12h00 Introduction to statistical philosophy ({% include instructors people="dushoff" %}, {{main}})
 - 12h00-12h30 MMED projects ({{ breakout }})
@@ -304,7 +306,7 @@ archive: false
 
 ### Day 5
 
-- 08h30-10h00 Description of proposed model and assumptions	({% include instructors people="mthomboti|EA|sereo|mwangi|MP|dawa" %}, {{ sections }})
+- 08h30-10h00 Description of proposed model and assumptions	({% include instructors people="mthombothi|EA|sereo|mwangi|MP|dawa" %}, {{ sections }})
 - 10h00-10h30 Coffee
 - 10h30-11h15 Likelihood fitting & dynamic models I: Dynamic Model Fitting and Inference Robustness ({% include instructors people="reiner" %}, {{main}})
 - 11h15-12h30 Lab 6 (MLE fitting of an SIR model to prevalence data) ({% include instructors people="kassanjee|mwangi|nyamai|BM|EAh|dawa" %}, {{ lab }})
@@ -392,7 +394,7 @@ archive: false
 - 09h15-09h30 Feedback responses; Review Schedule & goals	
 - 09h30-10h00 MMED project work	({{breakout}})
 - 10h00-10h30 Coffee
-- 10h30-11h30 Introduction to github ({% include instructors people="pearson|mthomboti|EA|dawa|EAh|sereo" %}, {{lab}})
+- 10h30-11h30 Introduction to github ({% include instructors people="pearson|mthombothi|EA|dawa|EAh|sereo" %}, {{lab}})
 - 11h30-12h30 MMED project work	({{breakout}})
 - 12h30-14h00 Lunch
 - 14h00-15h30 Likelihood fitting and dynamical models II ({% include instructors people="reiner" %}, {{main}})
