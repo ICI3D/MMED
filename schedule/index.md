@@ -104,38 +104,38 @@ archive: false
 
 ### Day 5
 
-- 08h30-09h30 Dynamics of vector-borne pathogens ({% include instructors people="mthombothi" %}, {{ main }})
-- 09h30-10h00 Review Questions from Tutorial 3 (mentor, {{ main }})
-- 10h00-10h30 Review Questions from Lab 4 (mentor, {{ main }})
+- 08h30-09h30 {{ lect }} Dynamics of vector-borne pathogens ({% include instructors people="mthombothi" %}, {{ main }})
+- 09h30-10h00 {{ disc }} Review Questions from Tutorial 3 (mentor, {{ main }})
+- 10h00-10h30 {{ disc }} Review Questions from Lab 4 (mentor, {{ main }})
 - 10h30-11h00 {{ coffee }}
-- 11h00-13h00 Practice presentations and feedback (all, {{ main }})
-- 13h00-14h00 Lunch
-- 14h00-15h00 Project development and presentation revisions ({{ breakout }})
-- 15h00-15h30 Wrap-up and preparation for next week (all, {{ main }})
+- 11h00-13h00 {{ gw }} Practice presentations and feedback (all, {{ main }})
+- 13h00-14h00 {{ lunch }}
+- 14h00-15h00 {{ gw }} Project development and presentation revisions ({{ breakout }})
+- 15h00-15h30 {{ disc }} Wrap-up and preparation for next week (all, {{ main }})
 - 15h30-16h00 {{ tea }}
-- 16h00-18h00 Project revision based on feedback and additional practice presentations as needeed (all, {{ main }})
+- 16h00-18h00 {{ gw }} Project revision based on feedback and additional practice presentations as needeed (all, {{ main }})
 
 ## Week 1: Meaningful Modeling of Epidemiological Data (MMED)
 
 ### Day 0 (Sunday, 16 June)
 
--   16h00–18h00 Registration ({% include instructors people="bruce" %}, {{ lobby }})
+-   16h00–18h00 {{ org }} Registration ({% include instructors people="bruce" %}, {{ lobby }})
 - {: .shadow} Faculty meeting and dinner in E??? at 18:30; be sure to save food for late arrivals once known
 
 ### Day 1
 
 - {: .shadow} 08h00 Faculty check-in in Room 105
-- 08h00-08h25 Registration ({% include instructors people="bruce" %}, {{lobby}})
+- 08h00-08h25 {{ org }} Registration ({% include instructors people="bruce" %}, {{lobby}})
 - 08h30-09h00 [Welcome and Motivation for Workshop](https://docs.google.com/presentation/d/1j3htK-oN2JO0JhADZqjmuG-KU2u6tgUY) ({% include instructors people="pearson|nyamai|sereo" %}, {{main}})
-- 09h00-10h00 Public health, epidemiology, and models ({% include instructors people="pearson" %}, {{main}})
+- 09h00-10h00 {{ disc }} Public health, epidemiology, and models ({% include instructors people="pearson" %}, {{main}})
 - 10h00-10h30 {{ coffee }}
 - 10h30-10h45 MMED roadmap and program overview ({% include instructors people="reiner" %}, {{main}})
-- 10h45-11h30 Simplest Model ({% include instructors people="pearson" %}, {{main}})
-- 11h30-12h30 Foundation of dynamic modeling ({% include instructors people="dushoff" %}, {{main}})
-- 12h30-14h00 Lunch (technical assistance for participants, {{ lab }})  	
-- 14h00-15h00 Introduction to infectious disease data ({% include instructors people="mwangi" %}, {{main}})
-- 15h00-15h30 Dynamical fever exercise ({% include instructors people="mthombothi|reiner|EAh|nyamai|dawa|sereo" %}, {{lab}})
-- 15h30-16h00 Tea (poster setup, group 1) ({% include instructors people="nyamai|MP|BM" %}, {{main}})
+- 10h45-11h30 {{ lect }} Simplest Model ({% include instructors people="pearson" %}, {{main}})
+- 11h30-12h30 {{ lect }} Foundation of dynamic modeling ({% include instructors people="dushoff" %}, {{main}})
+- 12h30-14h00 {{ lunch }} (technical assistance for participants, {{ lab }})  	
+- 14h00-15h00 {{ lect }} Introduction to infectious disease data ({% include instructors people="mwangi" %}, {{main}})
+- 15h00-15h30 {{ prac }} Dynamical fever exercise ({% include instructors people="mthombothi|reiner|EAh|nyamai|dawa|sereo" %}, {{lab}})
+- 15h30-16h00 {{ tea }} (poster setup, group 1) ({% include instructors people="nyamai|MP|BM" %}, {{main}})
 - 16h00-16h45 Dynamical fever exercise, cont.
 - 16h45-17h00 Dynamical fever summary ({% include instructors people="reiner" %}, {{lab}})
 - 17h00-18h00 Poster session 1 (all, {{main}})
