@@ -4,9 +4,9 @@ baseurl: /MMED
 url: //www.ici3d.org
 title: MMED 2024
 longtitle: Clinic on Meaningful Modeling of Epidemiological Data
-summary: The thirteenth MMED clinic ~ June 17-29, 2024 ~ Muizenberg, Cape Town, South Africa
+summary: The 13th MMED clinic ~ June 10-29, 2024 ~ Muizenberg, Cape Town, South Africa
 year: 2024
-takingapps: true
+takingapps: false
 applink: https://forms.gle/LpQqNa8xwdQEPiXDA
 markdown: kramdown
 highlighter: rouge

@@ -3,7 +3,7 @@ layout: clinic
 alerttype: warning
 alertmsg: >
   <ul style="font-size:16px">
-    <li>More information about MMED 2024 will be added to this site as it becomes available. The planned dates are 17-29 June 2024.</li>
+    <li>More information about MMED 2024 will be added to this site as it becomes available. The dates are 10-29 June 2024.</li>
     <li>Slides, code, and other materials from previous MMEDs are linked from <b><a href = "./resources/slides/">our summary page</a></b>, <b><a href="https://figshare.com/collections/International_Clinics_on_Infectious_Disease_Dynamics_and_Data/3788224">the ICI3D Figshare Collection</a></b>, and <b><a href="https://www.youtube.com/channel/UCtzFZwz48_JG4Owf6gQ-rUA">the ICI3D YouTube Channel</a></b>.</li>
   </ul>
 ---
