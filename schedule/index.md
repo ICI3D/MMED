@@ -135,7 +135,7 @@ archive: false
 - 12h30-14h00 {{ lunch }} (technical assistance for participants, {{ lab }})  	
 - 14h00-15h00 {{ lect }} Introduction to infectious disease data ({% include instructors people="mwangi" %}, {{main}})
 - 15h00-15h30 {{ prac }} Dynamical fever exercise ({% include instructors people="mthombothi|reiner|EAh|nyamai|dawa|sereo" %}, {{lab}})
-- 15h30-16h00 {{ tea }} (poster setup, group 1) ({% include instructors people="nyamai|MP|BM" %}, {{main}})
+- 15h30-16h00 {{ tea }} (poster setup, group 1) ({% include instructors people="nyamai|phiri|BM" %}, {{main}})
 - 16h00-16h45 Dynamical fever exercise, cont. ({{ lab }})
 - 16h45-17h00 Dynamical fever summary ({% include instructors people="reiner" %}, {{ lab }})
 - 17h00-18h00 Poster session 1 (all, {{main}})
@@ -183,7 +183,7 @@ archive: false
 - 10h30-11h30 Thinking about Data ({% include instructors people="nyamai" %}, {{main}})
 - 11h30-12h30 MMED projects (introduction + Q&A) ({% include instructors people="borchering|dushoff" %}, {{ main }})
 - 12h30-14h00 Lunch
-- 14h00-15h30 [R Tutorials](../tutorials): [Lab 1 - ODE Models](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab1_ODEmodels.R) and [Tutorial 4 - Visualizing Infectious Disease Data](../tutorials/visualizeData) ({% include instructors people="nyamai|borchering|mwangi|MP|BM|dawa|sereo" %}, {{lab}})
+- 14h00-15h30 [R Tutorials](../tutorials): [Lab 1 - ODE Models](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab1_ODEmodels.R) and [Tutorial 4 - Visualizing Infectious Disease Data](../tutorials/visualizeData) ({% include instructors people="nyamai|borchering|mwangi|phiri|BM|dawa|sereo" %}, {{lab}})
 - 15h30-16h00 {{ tea }} (poster setup, group 2) ({% include instructors people="EA|sereo|EAh" %}, {{main}})
 - 16h00-16h45 Lab 1 and Tutorial 4, cont.
 - 16h45-17h00 Lab 1 and Tutorial 4 summaries ({% include instructors people="nyamai|sereo" %}, {{lab}})
@@ -232,12 +232,12 @@ archive: false
 ### Day 3
 
 - 08h30-09h15 Introduction stochastic simulation models ({% include instructors people="borchering" %}, {{lab}})
-- 09h15-10h00 [Exercises 1](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_spillover_introductions.R) [and 2](https://raw.githubusercontent.com/ICI3D/RTutorials/master/SimpleStochastic/SimpleStochastic.R)  ({% include instructors people="borchering|mthombothi|nyamai|EAh|MP|sereo" %}, {{lab}})
+- 09h15-10h00 [Exercises 1](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_spillover_introductions.R) [and 2](https://raw.githubusercontent.com/ICI3D/RTutorials/master/SimpleStochastic/SimpleStochastic.R)  ({% include instructors people="borchering|mthombothi|nyamai|EAh|phiri|sereo" %}, {{lab}})
 - {: .shadow } this seems like to little time?
 - Summary ({% include instructors people="borchering" %}, {{lab}})
 - 10h00-10h30 {{ coffee }} _NOTE need time shift?_{: .shadow}
 - 10h30-10h45 Introduction to models and data: HIV in Harare ({% include instructors people="kassanjee" %}, {{lab}})
-- 10h45-12h30 HIV in Harare tutorial ({% include instructors people="pearson|kassanjee|mwangi|mthombothi|MP|BM|dawa" %}, {{lab}})
+- 10h45-12h30 HIV in Harare tutorial ({% include instructors people="pearson|kassanjee|mwangi|mthombothi|phiri|BM|dawa" %}, {{lab}})
   - Launch from R prompt with `ICI3D::hivTutorial()`
   - If you finish all five versions of the model for the Harare data before lunch, move on to working on data from other countries.
   -  **Additional info:** [Distributed Delay Models of Survival](../tutorials/distributedDelay.pdf) (Boxcar Models) and [example script](https://www.dropbox.com/s/ykirgmodga2j7m9/distributed_delay_boxcar.R?dl=1)
@@ -248,7 +248,7 @@ archive: false
 - 16h00-17h00 Formulating research questions ({% include instructors people="mwangi|EA" %}, {{sections}})
 - 17h00-18h00 Study design and analysis in epidemiology Review ({% include instructors people="kassanjee" %}, {{main}})
 - 18h00-18h30 Dinner
-- 19h00-20h00 Optional: [Lab 3 - study design I](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab3_EpiStudyDesign.R) & [Lab 4 - study design II](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab4_RCT.R) ({% include instructors people="nyamai|mthombothi|BM|EAh|dawa|sereo|MP" %}, {{lab}})
+- 19h00-20h00 Optional: [Lab 3 - study design I](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab3_EpiStudyDesign.R) & [Lab 4 - study design II](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab4_RCT.R) ({% include instructors people="nyamai|mthombothi|BM|EAh|dawa|sereo|phiri" %}, {{lab}})
 
 <!--
 - {: .shadow} 8:00 Faculty check-in in Room 105
@@ -324,7 +324,7 @@ archive: false
 
 ### Day 5
 
-- 08h30-10h00 Description of proposed model and assumptions	({% include instructors people="mthombothi|EA|sereo|mwangi|MP|dawa" %}, {{ sections }})
+- 08h30-10h00 Description of proposed model and assumptions	({% include instructors people="mthombothi|EA|sereo|mwangi|phiri|dawa" %}, {{ sections }})
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h15 Likelihood fitting & dynamic models I: Dynamic Model Fitting and Inference Robustness ({% include instructors people="reiner" %}, {{main}})
 - 11h15-12h30 [Lab 6 - MLE fitting of an SIR model to prevalence data](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab6_MLE_SIV_HIV.R) ({% include instructors people="kassanjee|mwangi|nyamai|BM|EAh|dawa" %}, {{ lab }})
@@ -366,11 +366,11 @@ archive: false
 ### Day 6
 
 - 08h30-09h30 Consequences of heterogeneity and modelling options ({% include instructors people="dushoff" %}, {{main}})
-- 09h30-10h30 Lab 2 - Consequences of heterogeneity ({% include instructors people="pearson|dushoff|reiner|EAh|MP|BM" %}, {{lab}})
+- 09h30-10h30 Lab 2 - Consequences of heterogeneity ({% include instructors people="pearson|dushoff|reiner|EAh|phiri|BM" %}, {{lab}})
   - run `ICI3D::heterogeneityTutorial()` at the R prompt
   - If you would like to look under the hood, the relevant code is available [here](https://github.com/ICI3D/ici3d-pkg/blob/master/R/heterogeneityTutorial.R)
 - 10h30-11h00 {{ coffee }}
-- 11h00-12h30 [Tutorial catch-up (optional)](../tutorials) ({% include instructors people="reiner|dawa|EAh|BM|MP|sereo" %}, {{lab}})
+- 11h00-12h30 [Tutorial catch-up (optional)](../tutorials) ({% include instructors people="reiner|dawa|EAh|BM|phiri|sereo" %}, {{lab}})
 - {{ sc }} Group Lunch at Kalky's
 
 <!--
@@ -421,7 +421,7 @@ archive: false
 - 15h30-16h00 Tea
 - 16h00-17h30 MMED project work + mentoring sessions ({{breakout}})
 - 18h00-18h30 Dinner
-- 19h00-20h00 Github practice and and trouble-shooting / tutorial catch-up (optional)	({% include instructors people="pearson|EA|MP|BM|dawa" %}, {{lab}})
+- 19h00-20h00 Github practice and and trouble-shooting / tutorial catch-up (optional)	({% include instructors people="pearson|EA|phiri|BM|dawa" %}, {{lab}})
 
 <!--
 - {: .shadow} 8:00 Faculty check-in in Room 105
@@ -451,11 +451,11 @@ archive: false
 
 - 08h30-10h00 Introduction to monte carlo markov chains	({% include instructors people="borchering" %}, {{main}})
 - 10h00-10h30 {{ coffee }}
-- 10h30-11h30 Labs 7 & 8 (MCMC model fitting) ({% include instructors people="kassanjee|pearson|mwangi|EAh|sereo|MP" %}, {{lab}})
+- 10h30-11h30 Labs 7 & 8 (MCMC model fitting) ({% include instructors people="kassanjee|pearson|mwangi|EAh|sereo|phiri" %}, {{lab}})
 - 11h30-12h30 MMED project work	({{breakout}})
 - 12h30-14h00 Lunch
 - 14h00-14h45 Data wrangling 1: Data management and cleaning ({% include instructors people="mwangi" %}, {{main}})
-- 14h45-15h30 Tutorial 5 (Data cleaning) ({% include instructors people="mwangi|EA|BM|EAh|MP|dawa" %}, {{lab}})
+- 14h45-15h30 Tutorial 5 (Data cleaning) ({% include instructors people="mwangi|EA|BM|EAh|phiri|dawa" %}, {{lab}})
 - 15h30-16h00 Tea
 - 16h00-17h30 MMED project work + mentoring sessions ({{breakout}})
 - 18h00-18h30 Dinner	
