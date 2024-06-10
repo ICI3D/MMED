@@ -59,11 +59,15 @@ archive: false
 - 11h00-12h00 {{ lect }} [Introduction to infectious disease dynamics, Part I](https://drive.google.com/file/d/12cI1s0IAhNTC3FgoJLAgNKSoTqlWk1Up) ({% include instructors people="mthomboti" %}, {{ main }})
 - 12h00-12h10 A brief stretch
 - 12h10-13h00 {{ disc }} [How to read a scientific paper](../MedPH/How_to_read_exRabies.pdf) ({% include instructors people="pearson" %}, {{ main }})
+  - [Reference Paper](https://github.com/ICI3D/MathModelsMedPH/blob/6a85664902283b428ad093701dbd258070bffb2d/readings/Hampson2009.pdf)
 - 13h00-14h00 {{ lunch }}
 - 14h00-15h30 {{ prac }} [Tutorial 1: Introduction to R and Epidemic curves](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_1.R) ({% include instructors people="Bria" %}, {{ lab }})
 - 15h30-16h00 {{ tea }}
 - 16h00-17h00 {{ prac }} [Tutorial 1 cont.](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_1.R) ({% include instructors people="Bria" %}, {{ lab }})
-- 17h00-17h45 {{ org }} Introduction to projects ({% include instructors people="pearson" %}, {{ main }})
+- 17h00-17h45 {{ org }} [Introduction to projects](https://docs.google.com/presentation/d/1dxD_mGLNHHMXfd6IsHwPHRHUUv-P1gGAckw9o9Y_UYo) ({% include instructors people="pearson" %}, {{ main }})
+  - [Pilot Project Prompt](../tutorials/pilotproject)
+  - [Project Groups](https://docs.google.com/spreadsheets/d/1BusASpUW65aKUGAhRl1ODkZWlDdpRwKu)
+
 
 ### Day 2
 
@@ -80,6 +84,7 @@ archive: false
 ### Day 3
 
 - 08h30-10h00 {{ disc }} How to read a scientific paper (mentors, {{ lab }})
+  - [Reference Paper](https://github.com/ICI3D/MathModelsMedPH/blob/6a85664902283b428ad093701dbd258070bffb2d/readings/Hampson2009.pdf)
 - 10h00-10h30 {{ prac }} Review Questions from Tutorial 2 (mentor, {{ lab }})
 - 10h30-11h00 {{ coffee }}
 - 11h00-11h45 {{ lect }} Study Design and Analysis in Epidemiology: Where does modeling fit? ({% include instructors people="vanschalkwyk" %}, {{ main }})
