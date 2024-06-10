@@ -69,7 +69,7 @@ You can visit these pages to find general information on many diseases and speci
 
 ### For groups working on Measles
 
-Measles data to be used in the projects are made available courtesy of **Professor David Earn, Department of Mathematics, McMaster University**. The data files are available online from the International Infectious Disease Data Archive (IIDDA, <http://iidda.mcmaster.ca>). **Note that use of these data is only permitted for the purposes of this course, and any outside use must receive prior approval from Prof. Earn.** These data were originally analyzed in the following two publications:
+Measles data to be used in the projects are made available courtesy of **Professor David Earn, Department of Mathematics, McMaster University**. The data files are available online from the [International Infectious Disease Data Archive (IIDDA)](https://github.com/canmod/iidda/tree/main/data). **Note that use of these data is only permitted for the purposes of this course, and any outside use must receive prior approval from Prof. Earn.** These data were originally analyzed in the following two publications:
 
 - [D. J. D. Earn; P. Rohani; B. M. Bolker; B. T. Grenfell (2000) A simple model for complex dynamical transitions in epidemics Science 287(5453): 667-670.]({{page.repo}}/blob/master/references/Earn2000.pdf?raw=true)
 - [C. T. Bauch and D. J. D. Earn (2003) Transients and Attractors in Epidemics. Proceedings of the Royal Society of London Series B 270:1573-1578.]({{page.repo}}/blob/master/references/Bauch2003.pdf?raw=true)
