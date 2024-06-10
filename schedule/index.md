@@ -71,15 +71,15 @@ archive: false
 
 ### Day 2
 
-- 08h30-09h00 {{ disc }} Review Questions from Tutorial 1 (mentor, {{ lab }})
-- 09h00-10h30 {{ lect }} Introduction to infectious disease dynamics, Part II ({% include instructors people="mthombothi" %}, {{ main }})
+- 08h30-09h00 [Reading time for a scientific paper](https://github.com/ICI3D/MathModelsMedPH/blob/6a85664902283b428ad093701dbd258070bffb2d/readings/Hampson2009.pdf) (own choice)
+- 09h00-10h30 {{ lect }} [Introduction to infectious disease dynamics, Part II](https://drive.google.com/file/d/1JnylT9yjXUSUEo2tAJ0oOUdzPVi3HVmQ/view?usp=sharing) ({% include instructors people="mthombothi" %}, {{ main }})
 - 10h30-11h00 {{ coffee }}
 - 11h00-12h00 {{ lect }} Dynamics of directly transmitted pathogens ({% include instructors people="pearson" %}, {{ main }})
-- 12h00-13h00 {{ prac }} Tutorial 2	(all, {{ lab }})
+- 12h00-13h00 {{ prac }} [Tutorial 2: More on Vectors, Data Frames, and Functions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_2.R) ({% include instructors people="Emmanuel" %}, {{ lab }})
 - 13h00-14h00 {{ lunch }}
-- 14h00-15h30 {{ prac }} Tutorial 2 & benchmark questions, project development (all, {{ lab }})
+- 14h00-15h30 {{ prac }} [Tutorial 2 & benchmark questions]((https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_2.R)), [project development](../tutorials/pilotproject) as available ({% include instructors people="Emmanuel" %}, {{ lab }})
 - 15h30-16h00 {{ tea }}
-- 16h00-18h00 {{ gw }} Project development (all, {{ breakout }})
+- 16h00-18h00 {{ gw }} [Project development](../tutorials/pilotproject) (any faculty/mentors as need, {{ breakout }})
 
 ### Day 3
 
