@@ -53,16 +53,16 @@ archive: false
 
 ### Day 1 (Monday, 10 June)
 
-- 09h00-09h20 {{ org }} Introductions, Overview (everyone, {{ main }})
-- 09h20-10h30 {{ disc }} Public health, epidemiology, and infectious disease modelling ({% include instructors people="pearson" %}, {{ main }})
+- 09h00-09h20 {{ org }} [Introductions, Overview](https://docs.google.com/presentation/d/1v1iQ17-rw5A-CFj7RSCpZ_GXVBs8ihWVNeRxU2ReTrU/edit?usp=sharing) (everyone, {{ main }})
+- 09h20-10h30 {{ disc }} [Public health, epidemiology, and infectious disease modelling](https://docs.google.com/presentation/d/18roBropa2apbe6DyFait0pZSe3jK4znBslYFdPo0zT0) ({% include instructors people="pearson" %}, {{ main }})
 - 10h30-11h00 {{ coffee }}
-- 11h00-12h00 {{ lect }} Introduction to infectious disease dynamics, Part I ({% include instructors people="mthombothi" %}, {{ main }})
+- 11h00-12h00 {{ lect }} [Introduction to infectious disease dynamics, Part I](https://drive.google.com/file/d/12cI1s0IAhNTC3FgoJLAgNKSoTqlWk1Up) ({% include instructors people="mthomboti" %}, {{ main }})
 - 12h00-12h10 A brief stretch
-- 12h10-13h00 {{ disc }} How to read a scientific paper ({% include instructors people="pearson" %}, {{ main }})
+- 12h10-13h00 {{ disc }} [How to read a scientific paper](../MedPH/How_to_read_exRabies.pdf) ({% include instructors people="pearson" %}, {{ main }})
 - 13h00-14h00 {{ lunch }}
-- 14h00-15h30 {{ prac }} Tutorial 1: Introduction to R and Epidemic curves	(all, {{ lab }})
+- 14h00-15h30 {{ prac }} [Tutorial 1: Introduction to R and Epidemic curves](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_1.R) ({% include instructors people="Bria" %}, {{ lab }})
 - 15h30-16h00 {{ tea }}
-- 16h00-17h00 {{ prac }} Tutorial 1 cont. (all, {{ lab }})
+- 16h00-17h00 {{ prac }} [Tutorial 1 cont.](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_1.R) ({% include instructors people="Bria" %}, {{ lab }})
 - 17h00-17h45 {{ org }} Introduction to projects ({% include instructors people="pearson" %}, {{ main }})
 
 ### Day 2
