@@ -74,6 +74,7 @@ archive: false
 
 - 08h30-09h00 [Reading time for a scientific paper](https://github.com/ICI3D/MathModelsMedPH/blob/6a85664902283b428ad093701dbd258070bffb2d/readings/Hampson2009.pdf) (own choice)
 - 09h00-10h30 {{ lect }} [Introduction to infectious disease dynamics, Part II](https://drive.google.com/file/d/1JnylT9yjXUSUEo2tAJ0oOUdzPVi3HVmQ/view?usp=sharing) ({% include instructors people="mthombothi" %}, {{ main }})
+  - ["The" R0 paper](https://link.springer.com/article/10.1007/bf00178324) (might need [unpaywall](https://unpaywall.org/products/extension) or similar tools to access)
 - 10h30-11h00 {{ coffee }}
 - 11h00-12h00 {{ lect }} [Dynamics of directly transmitted pathogens](https://docs.google.com/presentation/d/1bYGvFolwVecUiEoiBAj05fVvYVE8u-ip) ({% include instructors people="pearson" %}, {{ main }})
 - 12h00-13h00 {{ prac }} [Tutorial 2: More on Vectors, Data Frames, and Functions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_2.R) ({% include instructors people="Emmanuel" %}, {{ lab }})
