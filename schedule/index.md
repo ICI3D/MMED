@@ -77,10 +77,10 @@ archive: false
   - ["The" R0 paper](https://link.springer.com/article/10.1007/bf00178324) (might need [unpaywall](https://unpaywall.org/products/extension) or similar tools to access)
 - 10h30-11h00 {{ coffee }}
 - 11h00-12h00 {{ lect }} [Dynamics of directly transmitted pathogens](https://docs.google.com/presentation/d/1bYGvFolwVecUiEoiBAj05fVvYVE8u-ip) ({% include instructors people="pearson" %}, {{ main }})
-- 12h00-13h00 {{ prac }} [Tutorial 2: More on Vectors, Data Frames, and Functions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_2.R) ({% include instructors people="Emmanuel" %}, {{ lab }})
+- 12h00-13h00 {{ prac }} [Tutorial 2: More on Vectors, Data Frames, and Functions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_2.R), and [SEIR](https://raw.githubusercontent.com/ICI3D/RTutorials/master/seir.R) ({% include instructors people="Emmanuel" %}, {{ lab }})
 - 13h00-14h00 {{ lunch }}
   - {: .shadow } 13h30 Check in with mentors re reading papers plans
-- 14h00-15h30 {{ prac }} [Tutorial 2 & benchmark questions]((https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_2.R)), [project development](../tutorials/pilotproject) as available ({% include instructors people="Emmanuel" %}, {{ lab }})
+- 14h00-15h30 {{ prac }} [Tutorial 2 & benchmark questions], and [SEIR & Benchmark questions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/seir.R)((https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_2.R)), [project development](../tutorials/pilotproject) as available ({% include instructors people="Emmanuel" %}, {{ lab }})
 - 15h30-16h00 {{ break }}
 - 16h00-18h00 {{ gw }} [Project development](../tutorials/pilotproject) ({{ breakout }})
   - from 17h00, each group will check in with Carl (odd, in 105) or Zinhle (even, lobby): 17h00 1 and 2, 17h12 3 and 4, 17h24 5 and 6, 17h36 7 and 8, 17h48 9
