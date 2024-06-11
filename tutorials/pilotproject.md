@@ -14,23 +14,25 @@ During the first week of MMED, you will work on a pilot project that will help y
 
 For your project, you should address a public health oriented research question, based on infectious disease epidemiology phenomena and using a mathematical model. As part of your project, you should replicate published work, with some small modification. To emphasize: the point of the pilot project is *not* to do a self-directed project, but to get practice with working as a group, to address a research question with a known answer, and to get feedback on your work.
 
+For all the submitted elements below, please send them to [Zinhle](mailto:zinhle@aims.ca.za)
+
 ## Elements
 
 Based on the simulation work you do with your model to answer your research question, you will produce the following elements:
 
-### Practice Presentation: Given Friday Afternoon
+### Practice Presentation: Given Friday Afternoon, submit 10h00 Saturday Morning
 
 A 5-minute presentation that clearly communicates your system, research question, model, results, and work setup. Your group should give that presentation and answer questions. You will then get feedback, which you will have an opportunity to incorporate and then re-present. Use this opportunity to learn: you will want it for the presentation of the full project at the end of the course.
 
-### Report: Due Midnight Saturday
+### Report: Due 10h00 Saturday Morning
 
 A max 5-page report, with an informative title, and including an introduction (putting your research question and system in context), a methods section (explaining your model and how you use it), results (figures, tables, etc and explanation of what they show), and a discussion (interpreting your results in the context of your research question). Your report should also document how readers can find your code, access any data used, etc.
 
 In an appendix (not included in 5 page limit), you should also include a paragraph or two for each individual in the group describing their contribution to the project. Those paragraphs should be written by the individual themselves, but must be approved by the group.
 
-### Poster: Due Midnight Saturday
+### Poster: Due 10h00 Saturday Morning
 
-An A4 poster that clearly communicates your system, research question, model, results, and work setup. Your group will present this poster to the class, rotating through all the members (so you will have an opportunity to see other group posters). As with the presentation and report, you should communicate the research question, your methods, your results, and the validity of those results to other contexts.
+An A1 poster that clearly communicates your system, research question, model, results, and work setup. Your group will present this poster to the class, rotating through all the members (so you will have an opportunity to see other group posters). As with the presentation and report, you should communicate the research question, your methods, your results, and the validity of those results to other contexts.
 
 ## Examples
 
