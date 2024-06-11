@@ -78,6 +78,7 @@ archive: false
 - 11h00-12h00 {{ lect }} [Dynamics of directly transmitted pathogens](https://docs.google.com/presentation/d/1bYGvFolwVecUiEoiBAj05fVvYVE8u-ip) ({% include instructors people="pearson" %}, {{ main }})
 - 12h00-13h00 {{ prac }} [Tutorial 2: More on Vectors, Data Frames, and Functions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_2.R) ({% include instructors people="Emmanuel" %}, {{ lab }})
 - 13h00-14h00 {{ lunch }}
+  - {: .shadow } 13h30 Check in with mentors re reading papers plans
 - 14h00-15h30 {{ prac }} [Tutorial 2 & benchmark questions]((https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_2.R)), [project development](../tutorials/pilotproject) as available ({% include instructors people="Emmanuel" %}, {{ lab }})
 - 15h30-16h00 {{ break }}
 - 16h00-18h00 {{ gw }} [Project development](../tutorials/pilotproject) ({{ breakout }})
