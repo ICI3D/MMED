@@ -87,10 +87,11 @@ archive: false
 
 ### Day 3
 
-- 08h30-10h30 {{ disc }} How to read a scientific paper (mentors, {{ lab }})
+- 08h30-09h00 {{ disc }} Tutorial 2 & SEIR Review ({% include instructors people="Emmanuel" %}, {{ lab }})
+- 09h00-10h30 {{ disc }} How to read a scientific paper (mentors, {{ lab }})
   - [Reference Paper](https://github.com/ICI3D/MathModelsMedPH/blob/6a85664902283b428ad093701dbd258070bffb2d/readings/Hampson2009.pdf)
 - 10h30-11h00 {{ coffee }}
-- 11h00-11h45 {{ lect }} Study Design and Analysis in Epidemiology: Where does modeling fit? ({% include instructors people="vanschalkwyk" %}, {{ main }})
+- 11h00-11h45 {{ lect }} [Study Design and Analysis in Epidemiology: Where does modeling fit?](https://docs.google.com/presentation/d/1gw2R6rCzWxSzUwLCDmBPbqjs3zEl1-qH) ({% include instructors people="vanschalkwyk" %}, {{ main }})
 - 11h45-13h00 {{ prac }} [Lab 3: Study Design in Epidemiology](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab3_EpiStudyDesign.R) ({% include instructors people="sereo" %}, {{ lab }})
 - 13h00-14h00 {{ lunch }}
 - 14h00-15h30 {{ prac }} [Binomial Distribution Tutorial](https://raw.githubusercontent.com/ICI3D/RTutorials/master/binomialDistribution.R) ({% include instructors people="sereo" %}, {{ lab }})
