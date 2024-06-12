@@ -100,15 +100,19 @@ archive: false
 
 ### Day 4
 
-- 08h30-09h15 {{ lect }} Study Design and Analysis in Epidemiology II: RCT’s ({% include instructors people="pearson" %}, {{ main }})
-- 09h15-10h30 {{ prac }} Lab 4: Study Design for Clinical Trials (all, {{ lab }})
+- 08h30-09h15 {{ lect }} [Study Design and Analysis, part II: RCT’s](https://docs.google.com/presentation/d/1rMHSkn2jvCbu-f5JZTC_996FlEE88XV-) ({% include instructors people="pearson" %}, {{ main }})
+  - Side reading: [CDC on the Tuskegee Experiment](https://www.cdc.gov/tuskegee/timeline.htm), [Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/), [Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html)
+- 09h15-10h30 {{ prac }} [Study Design for Clinical Trials](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab4_RCT.R) ({% include instructors people="Maryse" %}, {{ lab }})
 - 10h30-11h00 {{ coffee }}
 - 11h00-12h00 {{ lect }} Transmission in Finite Populations ({% include instructors people="mthombothi" %}, {{ main }})
-- 12h00-13h00 {{ gw }} Project development (present on progress) (all, {{ main }})
+- 12h00-13h00 {{ gw }} Project work, with progress checkin ({{ breakout }})
+  - Odd groups check in with Carl in 105, even with Zinhle in Lobby. Be prepared to show your draft report, slides, poster, and code.
+  - 12h00 1 and 2, 12h30 3 and 4
 - 13h00-14h00 Lunch
-- 14h00-15h30 {{ gw }} Project development (present on progress) (all, {{ main }})
-- 15h30-16h00 {{ tea }}
-- 16h00-18h00 {{ prac }} Tutorial 3: simple stochastic models of epidemics (all, {{ lab }})
+- 14h00-15h30 {{ gw }} Project development (present on progress) ({{ breakout }})
+  - 14h00 5 and 6, 14h30 7 and 8, 15h00 9
+- 15h30-16h00 {{ break }}
+- 16h00-18h00 {{ prac }} Tutorial 3: simple stochastic models of epidemics ({% include instructors people="Gillian" %}, {{ lab }})
 
 ### Day 5
 
@@ -120,7 +124,7 @@ archive: false
 - 13h00-14h00 {{ lunch }}
 - 14h00-15h00 {{ gw }} Project development and presentation revisions ({{ breakout }})
 - 15h00-15h30 {{ disc }} Wrap-up and preparation for next week (all, {{ main }})
-- 15h30-16h00 {{ tea }}
+- 15h30-16h00 {{ break }}
 - 16h00-18h00 {{ gw }} Project revision based on feedback and additional practice presentations as needeed (all, {{ main }})
 
 ## Week 1: Meaningful Modeling of Epidemiological Data (MMED)
@@ -239,24 +243,21 @@ archive: false
 
 ### Day 3
 
-- 08h30-09h15 Introduction stochastic simulation models ({% include instructors people="borchering" %}, {{lab}})
-- 09h15-10h00 [Exercises 1](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_spillover_introductions.R) [and 2](https://raw.githubusercontent.com/ICI3D/RTutorials/master/SimpleStochastic/SimpleStochastic.R)  ({% include instructors people="borchering|mthombothi|nyamai|EAh|phiri|sereo" %}, {{lab}})
-- {: .shadow } this seems like to little time?
-- Summary ({% include instructors people="borchering" %}, {{lab}})
-- 10h00-10h30 {{ coffee }} _NOTE need time shift?_{: .shadow}
-- 10h30-10h45 Introduction to models and data: HIV in Harare ({% include instructors people="kassanjee" %}, {{lab}})
-- 10h45-12h30 HIV in Harare tutorial ({% include instructors people="pearson|kassanjee|mwangi|mthombothi|phiri|BM|dawa" %}, {{lab}})
+- 08h30-09h15 {{ lect }} Introduction stochastic simulation models ({% include instructors people="borchering" %}, {{lab}})
+- 09h15-10h00 {{ pract }} [Exercises 1](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_spillover_introductions.R) [and 2](https://raw.githubusercontent.com/ICI3D/RTutorials/master/SimpleStochastic/SimpleStochastic.R) ({% include instructors people="borchering|mthombothi|nyamai|EAh|phiri|sereo" %}, {{lab}})
+- 10h00-10h30 {{ coffee }}
+- 10h30-10h45 {{ mlect }} Introduction to models and data: HIV in Harare ({% include instructors people="kassanjee" %}, {{lab}})
+- 10h45-12h30 {{ prac }} HIV in Harare tutorial ({% include instructors people="pearson|kassanjee|mwangi|mthombothi|phiri|BM|dawa" %}, {{lab}})
   - Launch from R prompt with `ICI3D::hivTutorial()`
   - If you finish all five versions of the model for the Harare data before lunch, move on to working on data from other countries.
   -  **Additional info:** [Distributed Delay Models of Survival](../tutorials/distributedDelay.pdf) (Boxcar Models) and [example script](https://www.dropbox.com/s/ykirgmodga2j7m9/distributed_delay_boxcar.R?dl=1)
-- 12h30-14h00 Lunch
-- 14h00-14h45 HIV in Harare Summary, Box car models ({% include instructors people="pearson" %}, {{lab}})
-- 14h45-15h30 Project group assignments ({% include instructors people="borchering|mthombothi" %}, {{main}})
+- 12h30-14h00 {{ lunch }}
+- 14h00-15h30 Project group assignments, initial group work ({% include instructors people="borchering|mthombothi" %}, {{main}})
 - 15h30-16h00 {{ tea }}
 - 16h00-17h00 Formulating research questions ({% include instructors people="mwangi|EA" %}, {{sections}})
-- 17h00-18h00 Study design and analysis in epidemiology Review ({% include instructors people="kassanjee" %}, {{main}})
+- 17h00-18h00 Study design and analysis in epidemiology Review ({% include instructors people="kassanjee" %}, {{ main }})
 - 18h00-18h30 Dinner
-- 19h00-20h00 Optional: [Lab 3 - study design I](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab3_EpiStudyDesign.R) & [Lab 4 - study design II](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab4_RCT.R) ({% include instructors people="nyamai|mthombothi|BM|EAh|dawa|sereo|phiri" %}, {{lab}})
+- 19h00-20h00 Optional: [Lab 3 - study design I](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab3_EpiStudyDesign.R) & [Lab 4 - study design II](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab4_RCT.R) ({% include instructors people="mentors" %}, {{lab}})
 
 <!--
 - {: .shadow} 8:00 Faculty check-in in Room 105
