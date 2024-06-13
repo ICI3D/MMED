@@ -116,7 +116,7 @@ archive: false
 
 ### Day 5
 
-- 08h30-09h30 {{ lect }} Dynamics of vector-borne pathogens ({% include instructors people="mthombothi" %}, {{ main }})
+- 08h30-09h30 {{ lect }} [Dynamics of vector-borne pathogens](https://drive.google.com/file/d/1tJQ6TxDwoAS9vze3qhH0JQFOYeCINvhd) ({% include instructors people="mthombothi" %}, {{ main }})
 - 09h30-10h30 {{ gw }} Final Group Work ({{ breakout }}) 
 - 10h30-11h00 {{ coffee }}
 - 11h00-13h00 {{ gw }} Practice presentations and feedback (all, {{ main }})
