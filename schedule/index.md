@@ -102,9 +102,9 @@ archive: false
 
 - 08h30-09h15 {{ lect }} [Study Design and Analysis, part II: RCT’s](https://docs.google.com/presentation/d/1rMHSkn2jvCbu-f5JZTC_996FlEE88XV-) ({% include instructors people="pearson" %}, {{ main }})
   - Side reading: [CDC on the Tuskegee Experiment](https://www.cdc.gov/tuskegee/timeline.htm), [Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/), [Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html)
-- 09h15-10h30 {{ prac }} [Study Design for Clinical Trials](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab4_RCT.R) ({% include instructors people="Maryse" %}, {{ lab }})
+- 09h15-10h30 {{ prac }} [Lab 4: Study Design for Clinical Trials](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab4_RCT.R) ({% include instructors people="Maryse" %}, {{ lab }})
 - 10h30-11h00 {{ coffee }}
-- 11h00-12h00 {{ lect }} Transmission in Finite Populations ({% include instructors people="mthombothi" %}, {{ main }})
+- 11h00-12h00 {{ lect }} [Transmission in Finite Populations](https://drive.google.com/file/d/1GPplZPOr7ztftH9W_oF-ilo-C5PL1Mnn) ({% include instructors people="mthombothi" %}, {{ main }})
 - 12h00-13h00 {{ gw }} Project work, with progress checkin ({{ breakout }})
   - Odd groups check in with Carl in 105, even with Zinhle in Lobby. Be prepared to show your draft report, slides, poster, and code.
   - 12h00 1 and 2, 12h30 3 and 4
@@ -112,20 +112,22 @@ archive: false
 - 14h00-15h30 {{ gw }} Project development (present on progress) ({{ breakout }})
   - 14h00 5 and 6, 14h30 7 and 8, 15h00 9
 - 15h30-16h00 {{ break }}
-- 16h00-18h00 {{ prac }} Tutorial 3: simple stochastic models of epidemics ({% include instructors people="Gillian" %}, {{ lab }})
+- 16h00-18h00 {{ prac }} [Tutorial 3: Probability Distributions and Control Structures](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_3.R) ({% include instructors people="Gillian" %}, {{ lab }})
 
 ### Day 5
 
 - 08h30-09h30 {{ lect }} Dynamics of vector-borne pathogens ({% include instructors people="mthombothi" %}, {{ main }})
-- 09h30-10h00 {{ disc }} Review Questions from Tutorial 3 (mentor, {{ lab }})
-- 10h00-10h30 {{ disc }} Review Questions from Lab 4 (mentor, {{ lab }})
+- 09h30-10h00 {{ disc }} [Review Questions from Tutorial 3](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_3.R) ({% include instructors people="Gillian" %}, {{ lab }})
+- 10h00-10h30 {{ disc }} [Review Questions from Lab 4: Study Design for Clinical Trials](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab4_RCT.R) ({% include instructors people="Maryse" %}, {{ lab }})
 - 10h30-11h00 {{ coffee }}
 - 11h00-13h00 {{ gw }} Practice presentations and feedback (all, {{ main }})
+  - 5 minutes + 2 minutes for questions + 3 minutes for feedback
+  - 11h00-11h10 1, 11h10-11h20 2, 11h20-11h30 3, 11h30-11h40 4, 11h40-11h50 5, 11h50-12h00 6, 12h00-12h10 7, 12h10-12h20 8, 12h20-12h30 9 (with 30 minute buffer for overruns)
 - 13h00-14h00 {{ lunch }}
-- 14h00-15h00 {{ gw }} Project development and presentation revisions ({{ breakout }})
-- 15h00-15h30 {{ disc }} Wrap-up and preparation for next week (all, {{ main }})
+- 14h00-15h00 {{ gw }} Revisions ({{ breakout }})
+- 15h00-15h30 {{ disc }} Preview for next week (all, {{ main }})
 - 15h30-16h00 {{ break }}
-- 16h00-18h00 {{ gw }} Project revision based on feedback and additional practice presentations as needeed (all, {{ main }})
+- 16h00-18h00 {{ gw }} Optional: re-present + re-feedback. Optional: poster feedback. ({{ main }})
 
 ## Week 1: Meaningful Modeling of Epidemiological Data (MMED)
 
