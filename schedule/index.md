@@ -121,7 +121,7 @@ archive: false
 - 10h30-11h00 {{ coffee }}
 - 11h00-13h00 {{ gw }} Practice presentations and feedback (all, {{ main }})
   - 5 minutes + 2 minutes for questions + 3 minutes for feedback
-  - 11h00-11h10 1, 11h10-11h20 2, 11h20-11h30 3, 11h30-11h40 4, 11h40-11h50 5, 11h50-12h00 6, 12h00-12h10 7, 12h10-12h20 8, 12h20-12h30 9 (with 30 minute buffer for overruns)
+  - 11h00-11h10 4, 11h10-11h20 1, 11h20-11h30 2, 11h30-11h40 3, 11h40-11h50 5, 11h50-12h00 6, 12h00-12h10 7, 12h10-12h20 8, 12h20-12h30 9 (with 30 minute buffer for overruns)
 - 13h00-14h00 {{ lunch }}
 - 14h00-15h00 {{ gw }} Revisions ({{ breakout }})
 - 15h00-15h30 {{ disc }} Preview for next week, Pop Quiz ({{ main }})
