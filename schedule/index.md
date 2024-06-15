@@ -133,25 +133,25 @@ archive: false
 ### Day 0 (Sunday, 16 June)
 
 -   16h00–18h00 {{ org }} Registration ({% include instructors people="bruce" %}, {{ lobby }})
-- {: .shadow} Faculty meeting and dinner in E??? at 18:30; be sure to save food for late arrivals once known
+- {: .shadow} Faculty meeting and dinner in E313 at 18h30; be sure to save food for late arrivals once known
 
 ### Day 1
 
 - {: .shadow} 08h00 Faculty check-in in Room 105
 - 08h00-08h25 {{ org }} Registration ({% include instructors people="bruce" %}, {{lobby}})
-- 08h30-09h00 [Welcome and Motivation for Workshop](https://docs.google.com/presentation/d/1j3htK-oN2JO0JhADZqjmuG-KU2u6tgUY) ({% include instructors people="pearson|nyamai|sereo" %}, {{main}})
-- 09h00-10h00 {{ disc }} Public health, epidemiology, and models ({% include instructors people="pearson" %}, {{main}})
+- 08h30-09h00 [Welcome and Motivation for Workshop](https://docs.google.com/presentation/d/1j3htK-oN2JO0JhADZqjmuG-KU2u6tgUY) ({% include instructors people="kassanjee|nyamai|sereo" %}, {{ main }})
+- 09h00-10h00 {{ disc }} Public health, epidemiology, and models ({% include instructors people="pearson" %}, {{ main }})
 - 10h00-10h30 {{ coffee }}
-- 10h30-10h45 MMED roadmap and program overview ({% include instructors people="reiner" %}, {{main}})
-- 10h45-11h30 {{ lect }} Simplest Model ({% include instructors people="pearson" %}, {{main}})
-- 11h30-12h30 {{ lect }} Foundation of dynamic modeling ({% include instructors people="dushoff" %}, {{main}})
+- 10h30-10h45 MMED roadmap and program overview ({% include instructors people="reiner" %}, {{ main }})
+- 10h45-11h30 {{ lect }} [Simplest Model](https://docs.google.com/presentation/d/1Ki_ppxS5ozZkig0ryq71sYSkDPCKM2-hUt4Hht1YYvA) ({% include instructors people="pearson" %}, {{ main }})
+- 11h30-12h30 {{ lect }} Foundation of dynamic modeling ({% include instructors people="dushoff" %}, {{ main }})
 - 12h30-14h00 {{ lunch }} (technical assistance for participants, {{ lab }})  	
-- 14h00-15h00 {{ lect }} Introduction to infectious disease data ({% include instructors people="mwangi" %}, {{main}})
-- 15h00-15h30 {{ prac }} Dynamical fever exercise ({% include instructors people="mthombothi|reiner|EAh|nyamai|dawa|sereo" %}, {{lab}})
-- 15h30-16h00 {{ tea }} (poster setup, group 1) ({% include instructors people="nyamai|phiri|BM" %}, {{main}})
+- 14h00-15h00 {{ lect }} Introduction to infectious disease data ({% include instructors people="reiner" %}, {{ main }})
+- 15h00-15h30 {{ prac }} Dynamical fever exercise ({% include instructors people="reiner|mthombothi|nyamai|Mentors" %}, {{ lab }})
+- 15h30-16h00 {{ tea }} (poster setup, group 1) ({% include instructors people="nyamai|Mentors" %}, {{main}})
 - 16h00-16h45 Dynamical fever exercise, cont. ({{ lab }})
 - 16h45-17h00 Dynamical fever summary ({% include instructors people="reiner" %}, {{ lab }})
-- 17h00-18h00 Poster session 1 (all, {{main}})
+- 17h00-18h00 Poster session 1 ({{main}})
 - 18h00-18h30 Dinner
 - 19h00-20h30 Ice-breaker/Card games ({% include instructors people="bruce" %}, {{ main }})
 
@@ -196,13 +196,13 @@ archive: false
 - 10h30-11h30 Thinking about Data ({% include instructors people="nyamai" %}, {{main}})
 - 11h30-12h30 MMED projects (introduction + Q&A) ({% include instructors people="borchering|dushoff" %}, {{ main }})
 - 12h30-14h00 Lunch
-- 14h00-15h30 [R Tutorials](../tutorials): [Lab 1 - ODE Models](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab1_ODEmodels.R) and [Tutorial 4 - Visualizing Infectious Disease Data](../tutorials/visualizeData) ({% include instructors people="nyamai|borchering|mwangi|phiri|BM|dawa|sereo" %}, {{lab}})
-- 15h30-16h00 {{ tea }} (poster setup, group 2) ({% include instructors people="EA|sereo|EAh" %}, {{main}})
+- 14h00-15h30 [R Tutorials](../tutorials): [Lab 1 - ODE Models](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab1_ODEmodels.R) and [Tutorial 4 - Visualizing Infectious Disease Data](../tutorials/visualizeData) ({% include instructors people="nyamai|borchering|Mentors" %}, {{lab}})
+- 15h30-16h00 {{ tea }} (poster setup, group 2) ({% include instructors people="are|Mentors" %}, {{main}})
 - 16h00-16h45 Lab 1 and Tutorial 4, cont.
 - 16h45-17h00 Lab 1 and Tutorial 4 summaries ({% include instructors people="nyamai|sereo" %}, {{lab}})
-- 17h00-18h00 Poster session 2 ({% include instructors people="" %}, {{main}})
+- 17h00-18h00 Poster session 2 ({{ main }})
 - 18h00-18h30 Dinner
-- 19h00-20h00 [Tutorials](../tutorials) catch-up ({% include instructors people="EA|nyamai|dawa|EAh|sereo|BM" %}, {{lab}})
+- 19h00-20h00 [Tutorials](../tutorials) catch-up ({% include instructors people="are|nyamai|Mentors" %}, {{ lab }})
 - 23h59 Project sign-up deadline
 
 <!--
@@ -245,18 +245,18 @@ archive: false
 ### Day 3
 
 - 08h30-09h15 {{ lect }} Introduction stochastic simulation models ({% include instructors people="borchering" %}, {{lab}})
-- 09h15-10h00 {{ pract }} [Exercises 1](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_spillover_introductions.R) [and 2](https://raw.githubusercontent.com/ICI3D/RTutorials/master/SimpleStochastic/SimpleStochastic.R) ({% include instructors people="borchering|mthombothi|nyamai|EAh|phiri|sereo" %}, {{lab}})
+- 09h15-10h00 {{ pract }} [Exercises 1](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_spillover_introductions.R) [and 2](https://raw.githubusercontent.com/ICI3D/RTutorials/master/SimpleStochastic/SimpleStochastic.R) ({% include instructors people="borchering|mthombothi|nyamai|Mentors" %}, {{lab}})
 - 10h00-10h30 {{ coffee }}
 - 10h30-10h45 {{ mlect }} Introduction to models and data: HIV in Harare ({% include instructors people="kassanjee" %}, {{lab}})
-- 10h45-12h30 {{ prac }} HIV in Harare tutorial ({% include instructors people="pearson|kassanjee|mwangi|mthombothi|phiri|BM|dawa" %}, {{lab}})
+- 10h45-12h30 {{ prac }} HIV in Harare tutorial ({% include instructors people="kassanjee|mthombothi|pearson|Mentors" %}, {{lab}})
   - Launch from R prompt with `ICI3D::hivTutorial()`
   - If you finish all five versions of the model for the Harare data before lunch, move on to working on data from other countries.
   -  **Additional info:** [Distributed Delay Models of Survival](../tutorials/distributedDelay.pdf) (Boxcar Models) and [example script](https://www.dropbox.com/s/ykirgmodga2j7m9/distributed_delay_boxcar.R?dl=1)
 - 12h30-14h00 {{ lunch }}
-- 14h00-15h30 Project group assignments, initial group work ({% include instructors people="borchering|mthombothi" %}, {{main}})
+- 14h00-15h30 Project group assignments, initial group work ({% include instructors people="borchering|mthombothi" %}, {{ main }})
 - 15h30-16h00 {{ tea }}
-- 16h00-17h00 Formulating research questions ({% include instructors people="mwangi|EA" %}, {{sections}})
-- 17h00-18h00 Study design and analysis in epidemiology Review ({% include instructors people="kassanjee" %}, {{ main }})
+- 16h00-17h00 {{ disc }} Formulating research questions ({% include instructors people="dushoff|are" %}, {{ sections }})
+- 17h00-18h00 {{ lect }} Study design and analysis in epidemiology Review ({% include instructors people="kassanjee" %}, {{ main }})
 - 18h00-18h30 Dinner
 - 19h00-20h00 Optional: [Lab 3 - study design I](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab3_EpiStudyDesign.R) & [Lab 4 - study design II](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab4_RCT.R) ({% include instructors people="mentors" %}, {{lab}})
 
@@ -299,17 +299,18 @@ archive: false
 
 ### Day 4
 
-- 08h30-10h00 Creating a model world to address a research question	({% include instructors people="mwangi|borchering|nyamai|reiner|EA|mthombothi" %}, {{ sections }})
+- 08h30-10h00 {{ disc }} Creating a model world to address a research question	({% include instructors people="borchering|nyamai|reiner|are|mthombothi" %}, {{ sections }})
+  - {: .shadow } isn't this a faculty lead + mentor split?
 - 10h00-10h30 {{ coffee }}
-- 10h30-12h00 Introduction to statistical philosophy ({% include instructors people="dushoff" %}, {{main}})
-- 12h00-12h30 MMED projects ({{ breakout }})
-- 12h30-14h00 Lunch
-- 14h00-15h30 Participatory coding of a dynamical model	({% include instructors people="pearson" %}, {{ main }})
-- 15h30-16h00 Tea
-- 16h00-16h45 Introduction to likelihood ({% include instructors people="reiner" %}, {{ main }})
-- 16h45-18h00 [Lab 5 - Introduction to likelihood](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab5_introLikelihood.R) ({% include instructors people="dawa" %}, {{ lab }}) _NOTE: who else?_{: .shadow }
+- 10h30-12h00 {{ lect }} Introduction to statistical philosophy ({% include instructors people="dushoff" %}, {{ main }})
+- 12h00-12h30 {{ gw }} MMED projects ({{ breakout }})
+- 12h30-14h00 {{ lunch }}
+- 14h00-15h30 {{ lc }} Participatory coding of a dynamical model ({% include instructors people="pearson" %}, {{ main }})
+- 15h30-16h00 {{ tea }}
+- 16h00-16h45 {{ lect }} Introduction to likelihood ({% include instructors people="reiner" %}, {{ main }})
+- 16h45-18h00 {{ prac }} [Lab 5 - Introduction to likelihood](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab5_introLikelihood.R) ({% include instructors people="reiner|Mentors" %}, {{ lab }}) _NOTE: who else?_{: .shadow }
 - 18h00-18h30 Dinner	
-- 19h30-21h00 Drumming ({{ main }})
+- 19h30-21h00 {{ sc }} Drumming ({{ main }})
 
 <!--
 - {: .shadow} 8:00 Faculty check-in in Room 105
@@ -334,17 +335,17 @@ archive: false
 
 ### Day 5
 
-- 08h30-10h00 Description of proposed model and assumptions	({% include instructors people="mthombothi|EA|sereo|mwangi|phiri|dawa" %}, {{ sections }})
+- 08h30-10h00 {{ disc }} Description of proposed model and assumptions	({% include instructors people="mthombothi|are|Mentors" %}, {{ sections }})
 - 10h00-10h30 {{ coffee }}
-- 10h30-11h15 Likelihood fitting & dynamic models I: Dynamic Model Fitting and Inference Robustness ({% include instructors people="reiner" %}, {{main}})
-- 11h15-12h30 [Lab 6 - MLE fitting of an SIR model to prevalence data](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab6_MLE_SIV_HIV.R) ({% include instructors people="kassanjee|mwangi|nyamai|BM|EAh|dawa" %}, {{ lab }})
-- 12h30-14h00 Lunch
-- 14h00-15h30 MMED project work	({% include instructors people="" %}, {{ breakout}})
-- 15h30-16h00 Tea
-- 16h00-17h00 Mentor presentations ({% include instructors people="nyamai" %}, {{main}})
-- 17h00-18h00 Mid-Clinic Feeback session ({% include instructors people="bruce" %}, {{main}})
+- 10h30-11h15 {{ lect }} Likelihood fitting & dynamic models I: Dynamic Model Fitting and Inference Robustness ({% include instructors people="reiner" %}, {{main}})
+- 11h15-12h30 {{ prac }} [Lab 6 - MLE fitting of an SIR model to prevalence data](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab6_MLE_SIV_HIV.R) ({% include instructors people="kassanjee|nyamai|Mentors" %}, {{ lab }})
+- 12h30-14h00 {{ lunch }}
+- 14h00-15h30 {{ gw }} MMED project work ({{ breakout}})
+- 15h30-16h00 {{ tea }}
+- 16h00-17h00 Mentor presentations ({% include instructors people="nyamai|dawa|sereo|phiri" %}, {{ main }})
+- 17h00-18h00 Mid-Clinic Feeback session ({% include instructors people="bruce" %}, {{ main }})
 - 18h00-18h30 Dinner
-- 19h30-21h30 Movie Night ({{main}})
+- 19h30-21h30 {{ sc }} Movie Night ({{main}})
 
 <!--
 - {: .shadow} 8:00 Faculty check-in in Room 105
@@ -375,13 +376,14 @@ archive: false
 
 ### Day 6
 
-- 08h30-09h30 Consequences of heterogeneity and modelling options ({% include instructors people="dushoff" %}, {{main}})
-- 09h30-10h30 Lab 2 - Consequences of heterogeneity ({% include instructors people="pearson|dushoff|reiner|EAh|phiri|BM" %}, {{lab}})
+- 08h30-09h30 {{ lect }} Consequences of heterogeneity and modelling options ({% include instructors people="dushoff" %}, {{ main }})
+- 09h30-10h30 {{ prac }} Lab 2 - Consequences of heterogeneity ({% include instructors people="pearson|dushoff|reiner|Mentors" %}, {{ lab }})
   - run `ICI3D::heterogeneityTutorial()` at the R prompt
   - If you would like to look under the hood, the relevant code is available [here](https://github.com/ICI3D/ici3d-pkg/blob/master/R/heterogeneityTutorial.R)
 - 10h30-11h00 {{ coffee }}
-- 11h00-12h30 [Tutorial catch-up (optional)](../tutorials) ({% include instructors people="reiner|dawa|EAh|BM|phiri|sereo" %}, {{lab}})
-- {{ sc }} Group Lunch at Kalky's
+- 11h00-12h30 [Tutorial catch-up (optional)](../tutorials) ({% include instructors people="Mentors" %}, {{lab}})
+- {{ sc }} Optional: Group Lunch at Kalky's (costs covered)
+- {: .shadow} post-Kalky's all hands faculty meeting in E313
 
 <!--
 - {: .shadow} 8:00 Faculty check-in in Room 105
@@ -407,7 +409,7 @@ archive: false
 
 ### Day 7
 
-- Optional: Cape Point trip; schedule to be finalized, but leave AM, return PM
+- {{ sc }} Optional: Cape Point trip; schedule to be finalized, but leave AM, return PM (costs covered, meals included)
 
 <!--
 - 10:00 Deadline to [sign up for project groups](https://forms.gle/xNvYdUUswpiU2k2u7)
@@ -420,18 +422,18 @@ archive: false
 
 ### Day 8 (Monday, 24 June)
 
-- 08h30-09h15 Doing science/Life cycle of a project	
-- 09h15-09h30 Feedback responses; Review Schedule & goals	
-- 09h30-10h00 MMED project work	({{breakout}})
+- 08h30-08h45 {{ disc }} Feedback responses; Review Schedule & goals ({% include instructors people="kassanjee" %}, {{ main }})
+- 08h45-09h30 {{ lect }} Doing science/Life cycle of a project ({{ main }})
+- 09h30-10h00 {{ gw }} MMED project work ({{ breakout }})
 - 10h00-10h30 {{ coffee }}
-- 10h30-11h30 Introduction to github ({% include instructors people="pearson|mthombothi|EA|dawa|EAh|sereo" %}, {{lab}})
-- 11h30-12h30 MMED project work	({{breakout}})
-- 12h30-14h00 Lunch
-- 14h00-15h30 Likelihood fitting and dynamical models II ({% include instructors people="reiner" %}, {{main}})
-- 15h30-16h00 Tea
-- 16h00-17h30 MMED project work + mentoring sessions ({{breakout}})
+- 10h30-11h30 Introduction to github ({% include instructors people="pearson|mthombothi|are|Mentors" %}, {{lab}})
+- 11h30-12h30 {{ gw }} MMED project work	({{breakout}})
+- 12h30-14h00 {{ lunch }}
+- 14h00-15h30 {{ lect }} Likelihood fitting and dynamical models II ({% include instructors people="reiner" %}, {{main}})
+- 15h30-16h00 {{ tea }}
+- 16h00-17h30 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
 - 18h00-18h30 Dinner
-- 19h00-20h00 Github practice and and trouble-shooting / tutorial catch-up (optional)	({% include instructors people="pearson|EA|phiri|BM|dawa" %}, {{lab}})
+- 19h00-20h00 Optional: Github practice and and trouble-shooting / tutorial catch-up ({% include instructors people="pearson|Mentors" %}, {{lab}})
 
 <!--
 - {: .shadow} 8:00 Faculty check-in in Room 105
@@ -459,17 +461,17 @@ archive: false
 
 ### Day 9
 
-- 08h30-10h00 Introduction to monte carlo markov chains	({% include instructors people="borchering" %}, {{main}})
+- 08h30-10h00 {{ lect }} Introduction to Markov Chain Monte Carlo (MCMC) ({% include instructors people="borchering" %}, {{ main }})
 - 10h00-10h30 {{ coffee }}
-- 10h30-11h30 Labs 7 & 8 (MCMC model fitting) ({% include instructors people="kassanjee|pearson|mwangi|EAh|sereo|phiri" %}, {{lab}})
-- 11h30-12h30 MMED project work	({{breakout}})
-- 12h30-14h00 Lunch
-- 14h00-14h45 Data wrangling 1: Data management and cleaning ({% include instructors people="mwangi" %}, {{main}})
-- 14h45-15h30 Tutorial 5 (Data cleaning) ({% include instructors people="mwangi|EA|BM|EAh|phiri|dawa" %}, {{lab}})
-- 15h30-16h00 Tea
-- 16h00-17h30 MMED project work + mentoring sessions ({{breakout}})
+- 10h30-11h30 {{ prac }} [Labs 7](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab7_MCMC-Binomial.R) & [Lab 8](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab8_MCMC-SI_HIV.R) MCMC model fitting ({% include instructors people="kassanjee|pearson|Mentors" %}, {{lab}})
+- 11h30-12h30 {{ gw }} MMED project work ({{breakout}})
+- 12h30-14h00 {{ lunch }}
+- 14h00-14h45 {{ lect }} Data management and cleaning ({% include instructors people="pearson" %}, {{ main }})
+- 14h45-15h30 {{ prac }} [Tutorial 5: Data cleaning](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_5_DataCleaning.R) ({% include instructors people="pearson|Mentors" %}, {{lab}})
+- 15h30-16h00 {{ tea }}
+- 16h00-17h30 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
 - 18h00-18h30 Dinner	
-- 19h00-20h00 Guest Lecture	({% include instructors people="dushoff (moderator)|SBe" %}, {{main}})
+- 19h00-20h00 {{ lect }} Guest Lecture ({% include instructors people="dushoff" %}, {{ main }})
 
 <!--
 - {: .shadow} 8:00 Faculty check-in in Room 105
@@ -498,15 +500,15 @@ archive: false
 
 ### Day 10
 
-- 08h30-09h30 Model assessment ({% include instructors people="dushoff" %}, {{main}})
-- 09h30-10h00 MMED project work	({{breakout}})
+- 08h30-09h30 {{ lect }} Model assessment ({% include instructors people="dushoff" %}, {{ main }})
+- 09h30-10h00 {{ gw }} MMED project work ({{breakout}})
 - 10h00-10h30 {{ coffee }}
-- 10h30-11h00 MMED project work ({{breakout}})
-- 11h00-12h30 Participatory coding for variability, sampling distributions, and simulation lecture / Study design and simulation based validation / stochastic modelling II with live coding ({% include instructors people="dushoff|kassanjee|BM" %}, {{main}})
-- 12h30-14h00 Lunch _NOTE: technical check with virtual panelists_{: .shadow}
-- 14h00-15h30 MMED project work	({{breakout}})
-- 15h30-16h00 Tea
-- 16h00-17h30 MMED project work + mentoring sessions ({{breakout}})
+- 10h30-11h00 {{ gw }} MMED project work ({{breakout}})
+- 11h00-12h30 {{ lc }} Participatory coding for variability, sampling distributions, and simulation lecture / Study design and simulation based validation / stochastic modelling II with live coding ({% include instructors people="dushoff|kassanjee" %}, {{main}})
+- 12h30-14h00 {{ lunch }} _NOTE: technical check with virtual panelists_{: .shadow}
+- 14h00-15h30 {{ gw }} MMED project work ({{breakout}})
+- 15h30-16h00 {{ tea }}
+- 16h00-17h30 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
 - 18h00-18h30 Dinner
 - {: .shadow } 19h00-20h00 Real-World example ({{main}})
 
@@ -533,15 +535,14 @@ archive: false
 
 ### Day 11
 
-- 08h30-10h00 MMED project work + mentoring sessions ({{breakout}})
+- 08h30-10h00 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
 - 10h00-10h30 {{ coffee }}	
-- 10h30-12h30 MMED project work	({{breakout}})
-- 12h30-14h00 Lunch	
-- 14h00-15h30 MMED project work or Project pipeline:Live coding(optional) ({% include instructors people="pearson" %} ({{breakout}} or {{main}})
-- 15h30-16h00 Tea
-- 16h00-17h30 Modelling for policy ({% include instructors people="reiner|mwangi|borchering|JP" %}, {{main}})
+- 10h30-12h30 {{ gw }} MMED project work ({{breakout}})
+- 12h30-14h00 {{ lunch }}
+- 14h00-15h30 {{ gw }} MMED project work XOR {{ lc }} Analysis pipelines ({% include instructors people="pearson" %}, {{breakout}} XOR {{main}})
+- 15h30-16h00 {{ tea }}
+- 16h00-17h30 {{ disc }} Modelling for policy ({% include instructors people="reiner" %}, {{main}})
 - 18h00-18h30 Dinner
-- 18h30-20h00 MMED project work	({{breakout}})
 
 <!--
 - {: .shadow} 8:00 Faculty check-in in Room 105
@@ -564,14 +565,14 @@ archive: false
 
 ### Day 12
 
-- 08h30-10h00 MMED project work + mentoring sessions ({{breakout}})
+- 08h30-10h00 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
 - 10h00-10h30 {{ coffee }}	
-- 10h30-12h30 MMED project work + mentoring sessions ({{breakout}})
-- 12h30-13h45 Lunch	
-- 13h45-15h30 Project presentations	({% include instructors people="EA" %}, {{main}})
-- 15h30-16h00 Tea
-- 16h00-17h00 Feedback session II ({% include instructors people="bruce" %}, {{main}})
-- 17h15-17h45 Closing ({% include instructors people="pearson" %}, {{main}})
+- 10h30-12h30 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
+- 12h30-13h45 {{ lunch }}
+- 13h45-15h30 {{ gw }} Project presentations ({% include instructors people="are" %}, {{main}})
+- 15h30-16h00 {{ tea }}
+- 16h00-17h00 {{ disc }} Feedback session II ({% include instructors people="bruce" %}, {{main}})
+- 17h15-17h45 Closing Remarks ({% include instructors people="pearson" %}, {{main}})
 
 <!--
 -   8:30 – 10:00 **Work Session** (Project groups)
@@ -591,4 +592,4 @@ archive: false
 
 ### Day 13
 
--   Clinic officially ends on Friday, but there will be an optional group trip on Saturday.
+- Clinic officially ends on Friday, but there will be an optional group trip on Saturday.

@@ -53,9 +53,9 @@ subtitle: Logistical information
 ## Facilities
 
 - **Meals** are provided in the AIMS dining hall.
-    * *Breakfast* is served from 7:45 - 8:30.
-    * *Lunch* is served from 12:30 - 13:00.  
-    * *Dinner* is served from 18:00 - 18:30.
+    * *Breakfast* is served from 07h45-08h15 (08h00-09h00 on weekends).
+    * *Lunch* is served from 13h00-13h30.  
+    * *Dinner* is served from 18h00-18h30.
 
 - **Wireless internet access** is available throughout the main AIMS facility. To connect to the network with your personal computer, you will need to register your computer on the AIMS network. Instructions are available [here](./AIMS_IT.pdf).
 
