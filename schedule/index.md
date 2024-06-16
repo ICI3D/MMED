@@ -139,16 +139,17 @@ archive: false
 
 ### Day 1
 
-- {: .shadow} 08h00 Faculty check-in in Room 105
+- {: .shadow} 0730? whatsapp checkin
 - 08h00-08h25 {{ org }} Registration ({% include instructors people="bruce" %}, {{lobby}})
 - 08h30-09h00 [Welcome and Motivation for Workshop](https://docs.google.com/presentation/d/1j3htK-oN2JO0JhADZqjmuG-KU2u6tgUY) ({% include instructors people="kassanjee|nyamai|sereo" %}, {{ main }})
-- 09h00-10h00 {{ disc }} Public health, epidemiology, and models ({% include instructors people="pearson" %}, {{ main }})
+- 09h00-10h00 {{ disc }} [Public health, epidemiology, and models](https://docs.google.com/presentation/d/1c0pURbdU9kbU8pUnLroASYxwGpNBoJYM) ({% include instructors people="pearson" %}, {{ main }})
 - 10h00-10h30 {{ coffee }}
 - 10h30-10h45 MMED roadmap and program overview ({% include instructors people="reiner" %}, {{ main }})
-- 10h45-11h30 {{ lect }} [Simplest Model](https://docs.google.com/presentation/d/1Ki_ppxS5ozZkig0ryq71sYSkDPCKM2-hUt4Hht1YYvA) ({% include instructors people="pearson" %}, {{ main }})
-- 11h30-12h30 {{ lect }} Foundation of dynamic modeling ({% include instructors people="dushoff" %}, {{ main }})
+- 10h45-11h30 {{ lect }} [Simple Models](https://docs.google.com/presentation/d/1Ki_ppxS5ozZkig0ryq71sYSkDPCKM2-hUt4Hht1YYvA) ({% include instructors people="pearson" %}, {{ main }})
+- 11h30-12h30 {{ lect }} [Foundations of dynamic modeling](https://drive.google.com/file/d/1xkJTNZ6-mmZ-tuFte2by2uhjjpOChSta) ({% include instructors people="dushoff" %}, {{ main }})
+- {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }} (technical assistance for participants, {{ lab }})  	
-- 14h00-15h00 {{ lect }} Introduction to infectious disease data ({% include instructors people="reiner" %}, {{ main }})
+- 14h00-15h00 {{ lect }} [Introduction to infectious disease data](https://docs.google.com/presentation/d/1UWc4DMfY1wnJcurHr4FDqq7L-2tdrSWC) ({% include instructors people="reiner" %}, {{ main }})
 - 15h00-15h30 {{ prac }} Dynamical fever exercise ({% include instructors people="reiner|mthombothi|nyamai|Mentors" %}, {{ lab }})
 - 15h30-16h00 {{ tea }} (poster setup, group 1) ({% include instructors people="nyamai|Mentors" %}, {{main}})
 - 16h00-16h45 Dynamical fever exercise, cont. ({{ lab }})
@@ -157,46 +158,15 @@ archive: false
 - 18h00-18h30 Dinner
 - 19h00-20h30 Ice-breaker/Card games ({% include instructors people="bruce" %}, {{ main }})
 
-<!--
-- 08h00–08h25 Registration and Welcome ({% include instructors people="bruce" %}, {{ lobby }})
-- 08h30–09h00  ({% include instructors people="pearson|mthombothi|brown" %})
--   9:00 – 10:00 **Lecture:** [Public Health, Epidemiology, and Models](https://drive.google.com/file/d/1BttHcz_-B_DpcaIAE1tFXq23Kih5UCZs/view?usp=sharing) ({% include instructors people="pearson" %})
-    - {: .shadow} Note takers: pulliam, mwangi
--   10:00 – 10:30 *{{ coffee }} break*
--   10:30 – 10:45 **Organizational session:** [MMED Road Map](../roadmap) and programme overview ({% include instructors people="reiner" %})
-    - {: .shadow} Note takers: pulliam, vanschalkwyk
--   10:45 – 11:30 **Lecture:** [Introduction to Thinking About Data I](https://drive.google.com/file/d/19xLqcq1F0gATOQF5I37rSB1CG25zvjgV/view?usp=sharing) ({% include instructors people="nyamai" %})
-    - {: .shadow} Note takers: reiner, vanschalkwyk
--   11:30 – 12:30 **Lecture:** [Introduction to dynamic modeling of infectious diseases](https://drive.google.com/file/d/1p4wgQ5AS0S7ZTqPXO5KjDAwA7qNcmXpn/view?usp=drive_link) ({% include instructors people="mthombothi" %})
-    - {: .shadow} Note takers: reiner, vanschalkwyk
--   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - **Faculty observers** will help people get their laptops set up for Dynamical Fever at 12:30 in the main lecture hall. _NOTE (mentors on call)_{: .shadow}
-    - {: .shadow} **13:30 Faculty check-in in Room 105**
--   14:00 – 15:00 **_Parallel sessions_**
-    -   **Track A:** [Introduction to infectious disease data](https://drive.google.com/file/d/13sBU-77tjBG4jp4QDQw8iIrJq7FlMika/view?usp=sharing) ({% include instructors people="mwangi" %})
-        - {: .shadow} Note takers: kassanjee, nyamai
-    -   **Track B:** [Foundations of dynamic modeling](https://drive.google.com/file/d/1IsD1NYAtL7qEv-LLfYKJNRaaFYRzuHwH/view?usp=sharing) ({% include instructors people="dushoff" %}) ([handout version](https://drive.google.com/file/d/15oqcC5c6tVk3LBHslRraXoWOEqteqXM9/view?usp=sharing))
-        - {: .shadow} Note takers: abbott, vanschalkwyk
--   15:00 – 17:00 **_Exercise and discussion_**: Dynamical Fever and Model Worlds (in pairs) and discussion (Moderator: {% include instructors people="kombe" %}, with {% include instructors people="borchering|sereo|omondi|pulliam|vanschalkwyk" %})
-	- 15:30 – 16:00 *Tea Break* _and **poster set-upw ith mthombothi and mentors**_{: .shadow}
- - 	- 16:45 – 17:00 **_Summary Discussion_**: Dynamical Fever and Model Worlds ({% include instructors people="pulliam" %}) _NOTE [Slides](https://www.dropbox.com/s/grqk8603yqgj52f/dynamicalFever_Reveal.pptx?dl=1)_{: .shadow}
-    - _Announcement: please bring **charged** laptops with the package installed to the 10:30 sesson tomorrow._{: .shadow}
--   17:00 – 18:00 [**Poster session I**](../posters/sessions) **POSTPONED**
--   17:15 – 17:45 *Dinner*, AIMS Dining Hall _NOTE normal time 18:00-18:30; changed due to loadshedding_{: .shadow}
-    - **Note that dinner has been moved earlier due to load-shedding at 18:00**
-- {: .shadow} 18:00 Faculty Meeting in Mail Lecture Hall
--   19:00 – 19:30 **Social Activity:** Ice breakers ({% include instructors people="bruce" %})
--   19:30 – 20:30 **Social Activity:** Card games: Bullsh!t and Casino
--->
-
 ### Day 2
 
-- {: .shadow} 8:00 Faculty check-in in Room 105
+- {: .shadow} 0730? whatsapp checkin
 - 08h30-09h15 (Hidden) assumptions of simple ODE models ({% include instructors people="are" %}, {{ main }})
-- 09h15-10h00 Live coding: Introduction to model implementation ({% include instructors people="kassanjee" %}, {{ main }})
+- 09h15-10h00 Live coding: Introduction to model implementation in R ({% include instructors people="kassanjee" %}, {{ main }})
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h30 Thinking about Data ({% include instructors people="nyamai" %}, {{main}})
 - 11h30-12h30 MMED projects (introduction + Q&A) ({% include instructors people="borchering|dushoff" %}, {{ main }})
+- {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 Lunch
 - 14h00-15h30 [R Tutorials](../tutorials): [Lab 1 - ODE Models](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab1_ODEmodels.R) and [Tutorial 4 - Visualizing Infectious Disease Data](../tutorials/visualizeData) ({% include instructors people="nyamai|borchering|Mentors" %}, {{lab}})
 - 15h30-16h00 {{ tea }} (poster setup, group 2) ({% include instructors people="are|Mentors" %}, {{main}})
@@ -246,6 +216,7 @@ archive: false
 
 ### Day 3
 
+- {: .shadow} 0730? whatsapp checkin
 - 08h30-09h15 {{ lect }} Introduction stochastic simulation models ({% include instructors people="borchering" %}, {{lab}})
 - 09h15-10h00 {{ pract }} [Exercises 1](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_spillover_introductions.R) [and 2](https://raw.githubusercontent.com/ICI3D/RTutorials/master/SimpleStochastic/SimpleStochastic.R) ({% include instructors people="borchering|mthombothi|nyamai|Mentors" %}, {{lab}})
 - 10h00-10h30 {{ coffee }}
@@ -254,6 +225,7 @@ archive: false
   - Launch from R prompt with `ICI3D::hivTutorial()`
   - If you finish all five versions of the model for the Harare data before lunch, move on to working on data from other countries.
   -  **Additional info:** [Distributed Delay Models of Survival](../tutorials/distributedDelay.pdf) (Boxcar Models) and [example script](https://www.dropbox.com/s/ykirgmodga2j7m9/distributed_delay_boxcar.R?dl=1)
+- {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
 - 14h00-15h30 Project group assignments, initial group work ({% include instructors people="borchering|mthombothi" %}, {{ main }})
 - 15h30-16h00 {{ tea }}
@@ -301,11 +273,13 @@ archive: false
 
 ### Day 4
 
+- {: .shadow} 0730? whatsapp checkin
 - 08h30-10h00 {{ disc }} Creating a model world to address a research question	({% include instructors people="borchering|nyamai|reiner|are|mthombothi" %}, {{ sections }})
   - {: .shadow } isn't this a faculty lead + mentor split?
 - 10h00-10h30 {{ coffee }}
 - 10h30-12h00 {{ lect }} Introduction to statistical philosophy ({% include instructors people="dushoff" %}, {{ main }})
 - 12h00-12h30 {{ gw }} MMED projects ({{ breakout }})
+- {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
 - 14h00-15h30 {{ lc }} Participatory coding of a dynamical model ({% include instructors people="pearson" %}, {{ main }})
 - 15h30-16h00 {{ tea }}
@@ -337,10 +311,12 @@ archive: false
 
 ### Day 5
 
+- {: .shadow} 0730? whatsapp checkin
 - 08h30-10h00 {{ disc }} Description of proposed model and assumptions	({% include instructors people="mthombothi|are|Mentors" %}, {{ sections }})
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h15 {{ lect }} Likelihood fitting & dynamic models I: Dynamic Model Fitting and Inference Robustness ({% include instructors people="reiner" %}, {{main}})
 - 11h15-12h30 {{ prac }} [Lab 6 - MLE fitting of an SIR model to prevalence data](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab6_MLE_SIV_HIV.R) ({% include instructors people="kassanjee|nyamai|Mentors" %}, {{ lab }})
+- {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
 - 14h00-15h30 {{ gw }} MMED project work ({{ breakout}})
 - 15h30-16h00 {{ tea }}
@@ -378,6 +354,7 @@ archive: false
 
 ### Day 6
 
+- {: .shadow} 0730? whatsapp checkin
 - 08h30-09h30 {{ lect }} Consequences of heterogeneity and modelling options ({% include instructors people="dushoff" %}, {{ main }})
 - 09h30-10h30 {{ prac }} Lab 2 - Consequences of heterogeneity ({% include instructors people="pearson|dushoff|reiner|Mentors" %}, {{ lab }})
   - run `ICI3D::heterogeneityTutorial()` at the R prompt
@@ -385,7 +362,7 @@ archive: false
 - 10h30-11h00 {{ coffee }}
 - 11h00-12h30 [Tutorial catch-up (optional)](../tutorials) ({% include instructors people="Mentors" %}, {{lab}})
 - {{ sc }} Optional: Group Lunch at Kalky's (costs covered)
-- {: .shadow} post-Kalky's all hands faculty meeting in E313
+- {: .shadow} 14h30ish-? post-Kalky's all hands faculty meeting in E313
 
 <!--
 - {: .shadow} 8:00 Faculty check-in in Room 105
