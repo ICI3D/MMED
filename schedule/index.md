@@ -49,8 +49,8 @@ archive: false
     </ul>
   </div>
 </div>
-																				
-## Week 0: Modeling in Medicine and Public Health (MMedPH)
+
+<details markdown="1"><summary>Week 0: Modeling in Medicine and Public Health (MMedPH)</summary>
 
 ### Day 1 (Monday, 10 June)
 
@@ -128,7 +128,9 @@ archive: false
 - 15h30-16h00 {{ break }}
 - 16h00-18h00 {{ gw }} Optional: re-present + re-feedback. Optional: poster feedback. ({{ main }})
 
-## Week 1: Meaningful Modeling of Epidemiological Data (MMED)
+</details>
+
+<details markdown="1" open><summary>Week 1: Meaningful Modeling of Epidemiological Data (MMED)</summary>
 
 ### Day 0 (Sunday, 16 June)
 
@@ -411,6 +413,8 @@ archive: false
 
 - {{ sc }} Optional: Cape Point trip; schedule to be finalized, but leave AM, return PM (costs covered, meals included)
 
+</details>
+
 <!--
 - 10:00 Deadline to [sign up for project groups](https://forms.gle/xNvYdUUswpiU2k2u7)
 - Free day – optional group trip to Cape Point
@@ -418,7 +422,7 @@ archive: false
 - {: .shadow} **Faculty meeting in E313 at 17:30.**
 -->
 
-## Week 2: MMED Project Focus
+<details markdown="1"><summary>Week 2: MMED Project Focus</summary>
 
 ### Day 8 (Monday, 24 June)
 
@@ -593,3 +597,5 @@ archive: false
 ### Day 13
 
 - Clinic officially ends on Friday, but there will be an optional group trip on Saturday.
+
+</details>
