@@ -57,7 +57,7 @@ archive: false
 - 09h00-09h20 {{ org }} [Introductions, Overview](https://docs.google.com/presentation/d/1v1iQ17-rw5A-CFj7RSCpZ_GXVBs8ihWVNeRxU2ReTrU/edit?usp=sharing) (everyone, {{ main }})
 - 09h20-10h30 {{ disc }} [Public health, epidemiology, and infectious disease modelling](https://docs.google.com/presentation/d/18roBropa2apbe6DyFait0pZSe3jK4znBslYFdPo0zT0) ({% include instructors people="pearson" %}, {{ main }})
 - 10h30-11h00 {{ coffee }}
-- 11h00-12h00 {{ lect }} [Introduction to infectious disease dynamics, Part I](https://drive.google.com/file/d/12cI1s0IAhNTC3FgoJLAgNKSoTqlWk1Up) ({% include instructors people="mthomboti" %}, {{ main }})
+- 11h00-12h00 {{ lect }} [Introduction to infectious disease dynamics, Part I](https://drive.google.com/file/d/12cI1s0IAhNTC3FgoJLAgNKSoTqlWk1Up) ({% include instructors people="mthombothi" %}, {{ main }})
 - 12h00-12h10 A brief stretch
 - 12h10-13h00 {{ disc }} [How to read a scientific paper](../MedPH/How_to_read_exRabies.pdf) ({% include instructors people="pearson" %}, {{ main }})
   - [Reference Paper](https://github.com/ICI3D/MathModelsMedPH/blob/6a85664902283b428ad093701dbd258070bffb2d/readings/Hampson2009.pdf)
@@ -202,8 +202,8 @@ archive: false
 - 16h45-17h00 Lab 1 and Tutorial 4 summaries ({% include instructors people="nyamai|sereo" %}, {{lab}})
 - 17h00-18h00 Poster session 2 ({{ main }})
 - 18h00-18h30 Dinner
+- 19h00 Project sign-up deadline
 - 19h00-20h00 [Tutorials](../tutorials) catch-up ({% include instructors people="are|nyamai|Mentors" %}, {{ lab }})
-- 23h59 Project sign-up deadline
 
 <!--
 - {: .shadow} 8:00 Faculty check-in in Room 105
