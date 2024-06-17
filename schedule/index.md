@@ -144,7 +144,7 @@ archive: false
 - 08h30-09h00 [Welcome and Motivation for Workshop](https://docs.google.com/presentation/d/1j3htK-oN2JO0JhADZqjmuG-KU2u6tgUY) ({% include instructors people="kassanjee|nyamai|sereo" %}, {{ main }})
 - 09h00-10h00 {{ disc }} [Public health, epidemiology, and models](https://docs.google.com/presentation/d/1c0pURbdU9kbU8pUnLroASYxwGpNBoJYM) ({% include instructors people="pearson" %}, {{ main }})
 - 10h00-10h30 {{ coffee }}
-- 10h30-10h45 MMED roadmap and program overview ({% include instructors people="reiner" %}, {{ main }})
+- 10h30-10h45 [MMED roadmap and program overview](https://docs.google.com/presentation/d/1DQrOs5UKtHVkJ6VNMDi6nLgNLIALfLZj) ({% include instructors people="reiner" %}, {{ main }})
 - 10h45-11h30 {{ lect }} [Simple Models](https://docs.google.com/presentation/d/1Ki_ppxS5ozZkig0ryq71sYSkDPCKM2-hUt4Hht1YYvA) ({% include instructors people="pearson" %}, {{ main }})
 - 11h30-12h30 {{ lect }} [Foundations of dynamic modeling](https://drive.google.com/file/d/1xkJTNZ6-mmZ-tuFte2by2uhjjpOChSta) ({% include instructors people="dushoff" %}, {{ main }})
 - {: .shadow} 12h30-13h00 faculty meeting
