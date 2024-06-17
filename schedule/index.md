@@ -167,7 +167,7 @@ archive: false
 - 09h15-10h00 {{ lc }} [Introduction to model implementation in R](https://docs.google.com/presentation/d/1HuG2nsg7__NrVz6FdvGY4gJ28T7XSQBq) ({% include instructors people="kassanjee" %}, {{ main }})
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h30 Thinking about Data ({% include instructors people="nyamai" %}, {{main}})
-- 11h30-12h30 [MMED projects](https://drive.google.com/drive/folders/1ImtVbJoS5wx1Cr4DoJWV7ptcpIWERT5x) (introduction + Q&A) ({% include instructors people="borchering|dushoff" %}, {{ main }})
+- 11h30-12h30 [MMED projects](https://drive.google.com/drive/folders/1PFn1LfeQP3h-iaDcx6Ol0aehZTvKffe9) (introduction + Q&A) ({% include instructors people="borchering|dushoff" %}, {{ main }})
   - [Signup Survey](https://forms.gle/Dnd2943WrRqnRpMGA)
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 Lunch
