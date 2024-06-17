@@ -151,6 +151,7 @@ archive: false
 - 12h30-14h00 {{ lunch }} (technical assistance for participants, {{ lab }})  	
 - 14h00-15h00 {{ lect }} [Introduction to infectious disease data](https://docs.google.com/presentation/d/1e6hpWQz5wdxmYhHqbMH-j-iyxTIhbpg3) ({% include instructors people="reiner" %}, {{ main }})
 - 15h00-15h30 {{ prac }} Dynamical fever exercise ({% include instructors people="reiner|mthombothi|nyamai|Mentors" %}, {{ lab }})
+  - Launch from R prompt with `ICI3D::dynamicalFever()`
 - 15h30-16h00 {{ tea }} (poster setup, group 1) ({% include instructors people="nyamai|Mentors" %}, {{main}})
 - 16h00-16h45 Dynamical fever exercise, cont. ({{ lab }})
 - 16h45-17h00 Dynamical fever summary ({% include instructors people="reiner" %}, {{ lab }})
