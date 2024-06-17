@@ -167,6 +167,7 @@ archive: false
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h30 Thinking about Data ({% include instructors people="nyamai" %}, {{main}})
 - 11h30-12h30 [MMED projects](https://drive.google.com/drive/folders/1ImtVbJoS5wx1Cr4DoJWV7ptcpIWERT5x) (introduction + Q&A) ({% include instructors people="borchering|dushoff" %}, {{ main }})
+  - [Signup Survey](https://forms.gle/Dnd2943WrRqnRpMGA)
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 Lunch
 - 14h00-15h30 [R Tutorials](../tutorials): [Lab 1 - ODE Models](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab1_ODEmodels.R) and [Tutorial 4 - Visualizing Infectious Disease Data](../tutorials/visualizeData) ({% include instructors people="nyamai|borchering|Mentors" %}, {{lab}})
@@ -176,7 +177,7 @@ archive: false
 - 17h00-18h00 Poster session 2 ({{ main }})
 - {: .shadow } graders: {% include instructors people="reiner|are|dushoff|nyamai" %}; grades provided to participants by W1D3
 - 18h00-18h30 Dinner
-- 19h30 Project sign-up deadline
+- 19h30 [Project sign-up deadline](https://forms.gle/Dnd2943WrRqnRpMGA)
 - 19h00-20h00 [Tutorials](../tutorials) catch-up ({% include instructors people="are|nyamai|Mentors" %}, {{ lab }})
 
 <!--
