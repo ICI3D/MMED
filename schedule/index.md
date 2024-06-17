@@ -153,8 +153,8 @@ archive: false
 - 15h00-15h30 {{ prac }} Dynamical fever exercise ({% include instructors people="reiner|mthombothi|nyamai|Mentors" %}, {{ lab }})
   - Launch from R prompt with `ICI3D::dynamicalFever()`
 - 15h30-16h00 {{ tea }} (poster setup, group 1) ({% include instructors people="nyamai|Mentors" %}, {{main}})
-- 16h00-16h45 Dynamical fever exercise, cont. ({{ lab }})
-- 16h45-17h00 Dynamical fever summary ({% include instructors people="reiner" %}, {{ lab }})
+- 16h00-17h00 Dynamical fever exercise, cont. ({{ lab }})
+  - [Dynamical fever summary](https://docs.google.com/presentation/d/1eQwv_rypMyH7htUlHOT-FrXHZGvn_2dp) ({% include instructors people="reiner" %}, {{ lab }})
 - 17h00-18h00 Poster session 1 ({{main}})
 - {: .shadow } graders: {% include instructors people="reiner|are|dushoff|nyamai" %}; grades provided to participants by W1D3
 - 18h00-18h30 Dinner
