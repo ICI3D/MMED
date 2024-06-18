@@ -163,14 +163,14 @@ archive: false
 ### Day 2
 
 - {: .shadow} 0730? whatsapp checkin
-- 08h30-09h15 (Hidden) assumptions of simple ODE models ({% include instructors people="are" %}, {{ main }})
+- 08h30-09h15 [(Hidden) assumptions of simple ODE models](https://docs.google.com/presentation/d/14EQv4eXX9z6BA_B-Hyeu1SC2h4nby0fb) ({% include instructors people="are" %}, {{ main }})
 - 09h15-10h00 {{ lc }} [Introduction to model implementation in R](https://docs.google.com/presentation/d/1HuG2nsg7__NrVz6FdvGY4gJ28T7XSQBq) ({% include instructors people="kassanjee" %}, {{ main }})
 - 10h00-10h30 {{ coffee }}
-- 10h30-11h30 Thinking about Data ({% include instructors people="nyamai" %}, {{main}})
+- 10h30-11h30 [Thinking about Data](https://docs.google.com/presentation/d/1IOH-qs3vO6cjGB5nGiIvjyS5gb58PGAs) ({% include instructors people="nyamai" %}, {{main}})
 - 11h30-12h30 [MMED projects](https://drive.google.com/drive/folders/1PFn1LfeQP3h-iaDcx6Ol0aehZTvKffe9) (introduction + Q&A) ({% include instructors people="borchering|dushoff" %}, {{ main }})
   - [Signup Survey](https://forms.gle/Dnd2943WrRqnRpMGA)
 - {: .shadow} 12h30-13h00 faculty meeting
-- 12h30-14h00 Lunch
+- 12h30-14h00 {{ lunch }}
 - 14h00-15h30 [R Tutorials](../tutorials): [Lab 1 - ODE Models](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab1_ODEmodels.R) and [Tutorial 4 - Visualizing Infectious Disease Data](../tutorials/visualizeData) ({% include instructors people="nyamai|borchering|Mentors" %}, {{lab}})
 - 15h30-16h00 {{ tea }} (poster setup, group 2) ({% include instructors people="are|Mentors" %}, {{main}})
 - 16h00-17h00 Lab 1 and Tutorial 4, cont.
