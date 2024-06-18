@@ -240,7 +240,7 @@ archive: false
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
 - 14h00-14h30 Project group assignments ({% include instructors people="borchering|dushoff" %}, {{ main }})
-- 14h30-15h30 {{ disc }} Formulating research questions ({% include instructors people="dushoff|are" %}, {{ sections }})
+- 14h30-15h30 {{ disc }} [Formulating research questions](https://docs.google.com/presentation/d/1scFqkar1BqeHh5O3Rx4eduTjN_ub3kx6) ({% include instructors people="dushoff|are" %}, {{ sections }})
 - 15h30-16h00 {{ tea }}
 - 16h00-17h00 Initial group work ({{ breakout }})
 - 17h00-18h00 {{ lect }} Study design and analysis in epidemiology Review ({% include instructors people="kassanjee" %}, {{ main }})
@@ -287,7 +287,7 @@ archive: false
 ### Day 4
 
 - {: .shadow} 0730? whatsapp checkin
-- 08h30-10h00 {{ disc }} Creating a model world to address a research question	({% include instructors people="nyamai|mthombothi|Mentor" %}, {{ sections }})
+- 08h30-10h00 {{ disc }} [Creating a model world to address a research question](https://docs.google.com/presentation/d/15adXeefsel9xxuNcDJQriGWn7vbrvwDl) ({% include instructors people="nyamai|mthombothi|Mentor" %}, {{ sections }})
 - 10h00-10h30 {{ coffee }}
 - 10h30-12h00 {{ lect }} Introduction to statistical philosophy ({% include instructors people="dushoff" %}, {{ main }})
 - 12h00-12h30 {{ gw }} MMED projects ({{ breakout }})
