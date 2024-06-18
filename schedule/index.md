@@ -166,7 +166,7 @@ archive: false
 - 08h30-09h15 [(Hidden) assumptions of simple ODE models](https://docs.google.com/presentation/d/14EQv4eXX9z6BA_B-Hyeu1SC2h4nby0fb) ({% include instructors people="are" %}, {{ main }})
   - {: .shadow } note takers {% include instructors people="borchering|nyamai" %}
 - 09h15-10h00 {{ lc }} [Introduction to model implementation in R](https://docs.google.com/presentation/d/1HuG2nsg7__NrVz6FdvGY4gJ28T7XSQBq) ({% include instructors people="kassanjee" %}, {{ main }})
-  - {: .shadow } [Resulting Code](https://drive.google.com/file/d/1L5vRCk5RgXqEe1a4tp5lmhTm0efa-_d-)
+  - [Resulting Code](https://drive.google.com/file/d/1L5vRCk5RgXqEe1a4tp5lmhTm0efa-_d-)
   - {: .shadow } note takers {% include instructors people="are|nyamai" %}
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h30 [Thinking about Data](https://docs.google.com/presentation/d/1IOH-qs3vO6cjGB5nGiIvjyS5gb58PGAs) ({% include instructors people="nyamai" %}, {{main}})
