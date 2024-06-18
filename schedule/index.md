@@ -164,17 +164,23 @@ archive: false
 
 - {: .shadow} 0730? whatsapp checkin
 - 08h30-09h15 [(Hidden) assumptions of simple ODE models](https://docs.google.com/presentation/d/14EQv4eXX9z6BA_B-Hyeu1SC2h4nby0fb) ({% include instructors people="are" %}, {{ main }})
+  - {: .shadow } note takers {% include instructors people="borchering|nyamai" %}
 - 09h15-10h00 {{ lc }} [Introduction to model implementation in R](https://docs.google.com/presentation/d/1HuG2nsg7__NrVz6FdvGY4gJ28T7XSQBq) ({% include instructors people="kassanjee" %}, {{ main }})
+  - {: .shadow } [Resulting Code](https://drive.google.com/file/d/1L5vRCk5RgXqEe1a4tp5lmhTm0efa-_d-)
+  - {: .shadow } note takers {% include instructors people="are|nyamai" %}
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h30 [Thinking about Data](https://docs.google.com/presentation/d/1IOH-qs3vO6cjGB5nGiIvjyS5gb58PGAs) ({% include instructors people="nyamai" %}, {{main}})
+  - {: .shadow } note takers {% include instructors people="are|kassanjee" %}
 - 11h30-12h30 [MMED projects](https://drive.google.com/drive/folders/1PFn1LfeQP3h-iaDcx6Ol0aehZTvKffe9) (introduction + Q&A) ({% include instructors people="borchering|dushoff" %}, {{ main }})
   - [Signup Survey](https://forms.gle/Dnd2943WrRqnRpMGA)
+  - {: .shadow } note takers {% include instructors people="kassanjee|nyamai" %}
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
-- 14h00-15h30 [R Tutorials](../tutorials): [Lab 1 - ODE Models](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab1_ODEmodels.R) and [Tutorial 4 - Visualizing Infectious Disease Data](../tutorials/visualizeData) ({% include instructors people="nyamai|borchering|Mentors" %}, {{lab}})
-- 15h30-16h00 {{ tea }} (poster setup, group 2) ({% include instructors people="are|Mentors" %}, {{main}})
+- 14h00-15h30 [R Tutorials](../tutorials): [Lab 1 - ODE Models](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab1_ODEmodels.R) and [Tutorial 4 - Visualizing Infectious Disease Data](../tutorials/visualizeData) ({% include instructors people="nyamai|borchering|Mentors" %}, {{ lab }})
+- 15h30-16h00 {{ tea }} (poster setup, group 2) ({% include instructors people="are|Mentors" %}, {{ main }})
 - 16h00-17h00 Lab 1 and Tutorial 4, cont.
-  - Summaries ({% include instructors people="nyamai|sereo" %}, {{lab}})
+  - Summaries ({% include instructors people="nyamai|sereo" %}, {{ lab }})
+  - {: .shadow } note takers {% include instructors people="are|borchering" %}
 - 17h00-18h00 Poster session 2 ({{ main }})
 - {: .shadow } graders: {% include instructors people="reiner|are|dushoff|nyamai" %}; grades provided to participants by W1D3
 - 18h00-18h30 Dinner
@@ -222,7 +228,7 @@ archive: false
 
 - {: .shadow} 0730? whatsapp checkin
 - 08h30-09h15 {{ lect }} [Introduction stochastic simulation models](https://drive.google.com/file/d/1N0DL_3d5ls-2sPArn36ncWfeYV-LsdJw) ({% include instructors people="borchering" %}, {{ main }})
-- 09h15-10h00 {{ pract }} [Exercise 1](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Ex1_StochasticSpillover.R) ({% include instructors people="borchering|mthombothi|nyamai|Mentors" %}, {{lab}})
+- 09h15-10h00 {{ pract }} [Exercise 1](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Ex1_StochasticSpillover.R) ({% include instructors people="borchering|mthombothi|nyamai|Mentors" %}, {{ lab }})
   - {: .shadow} [Summary](https://drive.google.com/file/d/1N0DL_3d5ls-2sPArn36ncWfeYV-LsdJw) ({% include instructors people="borchering" %})
 - 10h00-10h30 {{ coffee }}
 - 10h30-10h45 {{ mlect }} Introduction to models and data: HIV in Harare ({% include instructors people="kassanjee" %}, {{ lab }})
@@ -233,7 +239,7 @@ archive: false
   - {: .shadow} Summary of Harare tutorial ({% include instructors people="pearson" %})
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
-- 14h00-14h30 Project group assignments ({% include instructors people="borchering|mthombothi" %}, {{ main }})
+- 14h00-14h30 Project group assignments ({% include instructors people="borchering|dushoff" %}, {{ main }})
 - 14h30-15h30 {{ disc }} Formulating research questions ({% include instructors people="dushoff|are" %}, {{ sections }})
 - 15h30-16h00 {{ tea }}
 - 16h00-17h00 Initial group work ({{ breakout }})
