@@ -179,7 +179,7 @@ archive: false
 - 14h00-15h30 [R Tutorials](../tutorials): [Lab 1 - ODE Models](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab1_ODEmodels.R) and [Tutorial 4 - Visualizing Infectious Disease Data](../tutorials/visualizeData) ({% include instructors people="nyamai|borchering|Mentors" %}, {{ lab }})
 - 15h30-16h00 {{ tea }} (poster setup, group 2) ({% include instructors people="are|Mentors" %}, {{ main }})
 - 16h00-17h00 Lab 1 and Tutorial 4, cont.
-  - Summaries ({% include instructors people="nyamai|sereo" %}, {{ lab }})
+  - Summaries: Lab 1 and [Tutorial 4](https://docs.google.com/presentation/d/1s4SYhSwo6Bzbt5jhLjz682GjKBsbnaIi) ({% include instructors people="nyamai|sereo" %}, {{ lab }})
   - {: .shadow } note takers {% include instructors people="are|borchering" %}
 - 17h00-18h00 Poster session 2 ({{ main }})
 - {: .shadow } graders: {% include instructors people="reiner|are|dushoff|nyamai" %}; grades provided to participants by W1D3
@@ -239,10 +239,10 @@ archive: false
   - Launch from R prompt with `ICI3D::hivTutorial()`
   - If you finish all five versions of the model for the Harare data before lunch, move on to working on data from other countries.
   -  **Additional info:** [Distributed Delay Models of Survival](../tutorials/distributedDelay.pdf) (Boxcar Models) and [example script](https://www.dropbox.com/s/ykirgmodga2j7m9/distributed_delay_boxcar.R?dl=1)
-  - {: .shadow} [Summary of Harare tutorial](https://docs.google.com/presentation/d/1-h6CiVMoJOLWlUStkGvBMrOYUSNDQrIY) ({% include instructors people="pearson" %})
+  - [Summary of Harare tutorial](https://docs.google.com/presentation/d/1-h6CiVMoJOLWlUStkGvBMrOYUSNDQrIY) ({% include instructors people="pearson" %})
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
-- 14h00-14h30 Project group assignments ({% include instructors people="borchering|dushoff" %}, {{ main }})
+- 14h00-14h30 [Project group assignments](https://docs.google.com/presentation/d/1RREm_WDMg6w_iGqhCUokNnq21_ABxNRVzlwZ2_vKkZU) ({% include instructors people="borchering|dushoff" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="kassanjee|pearson" %}
 - 14h30-15h30 {{ disc }} [Formulating research questions](https://docs.google.com/presentation/d/1scFqkar1BqeHh5O3Rx4eduTjN_ub3kx6) ({% include instructors people="dushoff|are" %}, {{ sections }})
   - {: .shadow } section 1: {% include instructors people="kassanjee" %}, section 2: {% include instructors people="borchering" %}
@@ -425,7 +425,7 @@ archive: false
 ### Day 8 (Monday, 24 June)
 
 - 08h30-08h45 {{ disc }} Feedback responses; Review Schedule & goals ({% include instructors people="kassanjee" %}, {{ main }})
-- 08h45-09h30 {{ lect }} Doing science/Life cycle of a project ({{ main }})
+- 08h45-09h30 {{ lect }} Doing science/Life cycle of a project ({% include instructors people="reiner" %}, {{ main }})
 - 09h30-10h00 {{ gw }} MMED project work ({{ breakout }})
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h30 Introduction to github ({% include instructors people="pearson|mthombothi|are|Mentors" %}, {{ lab }})
