@@ -228,10 +228,13 @@ archive: false
 
 - {: .shadow} 0730? whatsapp checkin
 - 08h30-09h15 {{ lect }} [Introduction stochastic simulation models](https://drive.google.com/file/d/1N0DL_3d5ls-2sPArn36ncWfeYV-LsdJw) ({% include instructors people="borchering" %}, {{ main }})
+  - {: .shadow } note takers: {% include instructors people="nyamai|pearson" %}, {{ main }}
 - 09h15-10h00 {{ pract }} [Exercise 1](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Ex1_StochasticSpillover.R) ({% include instructors people="borchering|mthombothi|nyamai|Mentors" %}, {{ lab }})
+  - {: .shadow } note takers: {% include instructors people="dushoff|are" %}, {{ main }}
   - {: .shadow} [Summary](https://drive.google.com/file/d/1N0DL_3d5ls-2sPArn36ncWfeYV-LsdJw) ({% include instructors people="borchering" %})
 - 10h00-10h30 {{ coffee }}
 - 10h30-10h45 {{ mlect }} [Introduction to models and data: HIV in Harare](https://docs.google.com/presentation/d/1fnX38elfkn4KWPSqlJXgmCtVBYZnmX3g) ({% include instructors people="kassanjee" %}, {{ lab }})
+  - {: .shadow } note takers: {% include instructors people="dushoff|are" %} (also for tutorial, summary etc)
 - 10h45-12h30 {{ prac }} HIV in Harare tutorial ({% include instructors people="kassanjee|mthombothi|pearson|Mentors" %}, {{ lab }})
   - Launch from R prompt with `ICI3D::hivTutorial()`
   - If you finish all five versions of the model for the Harare data before lunch, move on to working on data from other countries.
@@ -240,10 +243,13 @@ archive: false
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
 - 14h00-14h30 Project group assignments ({% include instructors people="borchering|dushoff" %}, {{ main }})
+  - {: .shadow } note takers: {% include instructors people="kassanjee|pearson" %}
 - 14h30-15h30 {{ disc }} [Formulating research questions](https://docs.google.com/presentation/d/1scFqkar1BqeHh5O3Rx4eduTjN_ub3kx6) ({% include instructors people="dushoff|are" %}, {{ sections }})
+  - {: .shadow } section 1: {% include instructors people="kassanjee" %}, section 2: {% include instructors people="borchering" %}
 - 15h30-16h00 {{ tea }}
 - 16h00-17h00 Initial group work ({{ breakout }})
 - 17h00-18h00 {{ lect }} [Study design and analysis in epidemiology Review](https://docs.google.com/presentation/d/121bfgjwV-qDBVcbPbMh3tBIj0YOb42SU) ({% include instructors people="kassanjee" %}, {{ main }})
+  - {: .shadow } note takers: {% include instructors people="dushoff|mthombothi" %}
 - 18h00-18h30 Dinner
 - 19h00-20h00 Optional: [Lab 3 - study design I](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab3_EpiStudyDesign.R) & [Lab 4 - study design II](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab4_RCT.R) ({% include instructors people="mentors" %}, {{lab}})
 
