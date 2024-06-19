@@ -249,7 +249,7 @@ archive: false
 - 15h30-16h00 {{ tea }}
 - 16h00-17h00 Initial group work ({{ breakout }})
 - 17h00-18h00 {{ lect }} [Study design and analysis in epidemiology Review](https://docs.google.com/presentation/d/121bfgjwV-qDBVcbPbMh3tBIj0YOb42SU) ({% include instructors people="kassanjee" %}, {{ main }})
-  - {: .shadow } note takers: {% include instructors people="dushoff|mthombothi" %}
+  - {: .shadow } note takers: {% include instructors people="mthombothi" %}
 - 18h00-18h30 Dinner
 - 19h00-20h00 Optional: [Lab 3 - study design I](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab3_EpiStudyDesign.R) & [Lab 4 - study design II](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab4_RCT.R) ({% include instructors people="mentors" %}, {{lab}})
 
@@ -294,15 +294,20 @@ archive: false
 
 - {: .shadow} 0730? whatsapp checkin
 - 08h30-10h00 {{ disc }} [Creating a model world to address a research question](https://docs.google.com/presentation/d/15adXeefsel9xxuNcDJQriGWn7vbrvwDl) ({% include instructors people="nyamai|mthombothi|Mentor" %}, {{ sections }})
+  - {: .shadow } note takers: section 1 {% include instructors people="pearson" %}, section 2 {% include instructors people="reiner" %} 
 - 10h00-10h30 {{ coffee }}
 - 10h30-12h00 {{ lect }} Introduction to statistical philosophy ({% include instructors people="dushoff" %}, {{ main }})
+  - {: .shadow } note takers: {% include instructors people="nyamai|reiner" %}
 - 12h00-12h30 {{ gw }} MMED projects ({{ breakout }})
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
 - 14h00-15h30 {{ lc }} Participatory coding of a dynamical model ({% include instructors people="pearson" %}, {{ main }})
+  - {: .shadow } note takers: {% include instructors people="mthombothi|kassanjee" %}
 - 15h30-16h00 {{ tea }}
 - 16h00-16h45 {{ lect }} Introduction to likelihood ({% include instructors people="reiner" %}, {{ main }})
+  - {: .shadow } note takers: {% include instructors people="pearson|nyamai" %}
 - 16h45-18h00 {{ prac }} [Lab 5 - Introduction to likelihood](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab5_introLikelihood.R) ({% include instructors people="kassanjee|nyamai|Mentors" %}, {{ lab }})
+  - {: .shadow } note takers: {% include instructors people="mthombothi|nyamai" %}
   - {: .shadow } Summary ({% include instructors people="dawa" %})
 - 18h00-18h30 Dinner	
 - 19h30-21h00 {{ sc }} Drumming ({{ main }})
@@ -332,15 +337,19 @@ archive: false
 
 - {: .shadow} 0730? whatsapp checkin
 - 08h30-10h00 {{ disc }} Description of proposed model and assumptions	({% include instructors people="mthombothi|are|Mentors" %}, {{ sections }})
+  - {: .shadow } note takers:
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h15 {{ lect }} Likelihood fitting & dynamic models I: Dynamic Model Fitting and Inference Robustness ({% include instructors people="reiner" %}, {{ main }})
+  - {: .shadow } note takers:
 - 11h15-12h30 {{ prac }} [Lab 6 - MLE fitting of an SIR model to prevalence data](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab6_MLE_SIV_HIV.R) ({% include instructors people="kassanjee|nyamai|Mentors" %}, {{ lab }})
+  - {: .shadow } note takers:
   - Summary ({% include instructors people="kassanjee" %})
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
 - 14h00-15h30 {{ gw }} MMED project work ({{ breakout}})
 - 15h30-16h00 {{ tea }}
 - 16h00-17h00 Mentor presentations ({% include instructors people="nyamai|dawa|sereo|phiri" %}, {{ main }})
+  - {: .shadow } note takers:
 - 17h00-18h00 Mid-Clinic Feeback session ({% include instructors people="bruce" %}, {{ main }})
 - 18h00-18h30 Dinner
 - 19h30-21h30 {{ sc }} Movie Night ({{main}})
@@ -376,7 +385,9 @@ archive: false
 
 - {: .shadow} 0730? whatsapp checkin
 - 08h30-09h30 {{ lect }} Consequences of heterogeneity and modelling options ({% include instructors people="dushoff" %}, {{ main }})
+  - {: .shadow } note takers:
 - 09h30-10h30 {{ prac }} Lab 2 - Consequences of heterogeneity ({% include instructors people="pearson|dushoff|reiner|Mentors" %}, {{ lab }})
+  - {: .shadow } note takers:
   - run `ICI3D::heterogeneityTutorial()` at the R prompt
   - If you would like to look under the hood, the relevant code is available [here](https://github.com/ICI3D/ici3d-pkg/blob/master/R/heterogeneityTutorial.R)
   - Summary ({% include instructors people="pearson" %})
@@ -409,7 +420,7 @@ archive: false
 
 ### Day 7
 
-- {{ sc }} Optional: Cape Point trip; schedule to be finalized, but leave AM, return PM (costs covered, meals included)
+- {{ sc }} 09h55 Optional: Meet in AIMS lobby for Cape Point trip (departure at 10h00) Wear comfortable clothes. We will be going on a boat!
 
 </details>
 
