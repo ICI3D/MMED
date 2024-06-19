@@ -8,11 +8,11 @@ repo: https://github.com/ICI3D/MathModelsMedPH
 
 ## Overview
 
-During the first week of MMED, you will work on a pilot project that will help you prepare for the final project. The pilot project is *not* intended to be new research, it is a short-duration *exercise* with feedback to prepare you for the larger scale, more self-directed MMED project. The pilot project will be due at the end of the first week of MMED, and you will receive feedback on your pilot project before you start your final project.
+During the first week of MMED, you will work on a pilot project that will help you prepare for the final project. The pilot project is *not* intended to be new research, and it is entirely expected that your model will not "work". It is a short-duration *exercise* with feedback to prepare you for the larger scale, more self-directed MMED project. The pilot project will be due at the end of the first week of MMED, and you will receive feedback on your pilot project before you start your final project.
 
 ## Prompt
 
-For your project, you should address a public health oriented research question, based on infectious disease epidemiology phenomena and using a mathematical model. As part of your project, you should replicate published work, with some small modification. To emphasize: the point of the pilot project is *not* to do a self-directed project, but to get practice with working as a group, to address a research question with a known answer, and to get feedback on your work.
+For your project, you should address a public health oriented research question, based on infectious disease epidemiology phenomena and using a mathematical model. As part of your project, you should look to published work for an existing model and at most implement it with some small modification. To emphasize: the point of the pilot project is *not* to do a self-directed project, but to get practice with working as a group, to practice specifying a good research question, even if you cannot answer it, and to get feedback on your work.
 
 For all the submitted elements below, please send them to [Zinhle](mailto:zinhle@aims.ca.za)
 
@@ -33,6 +33,8 @@ In an appendix (not included in 5 page limit), you should also include a paragra
 ### Poster: Due 10h00 Saturday Morning
 
 An A1 poster that clearly communicates your system, research question, model, results, and work setup. Your group will present this poster to the class, rotating through all the members (so you will have an opportunity to see other group posters). As with the presentation and report, you should communicate the research question, your methods, your results, and the validity of those results to other contexts.
+
+It is *not* necessary for your modeling to be valid, however its validity must be clearly communicated e.g. by comparison to real data.
 
 ## Examples
 
