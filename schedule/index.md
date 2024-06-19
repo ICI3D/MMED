@@ -227,11 +227,11 @@ archive: false
 ### Day 3
 
 - {: .shadow} 0730? whatsapp checkin
-- 08h30-09h15 {{ lect }} [Introduction stochastic simulation models](https://drive.google.com/file/d/1N0DL_3d5ls-2sPArn36ncWfeYV-LsdJw) ({% include instructors people="borchering" %}, {{ main }})
-  - {: .shadow } note takers: {% include instructors people="nyamai|pearson" %}, {{ main }}
+- 08h30-09h15 {{ lect }} [Introduction stochastic simulation models](https://drive.google.com/file/d/1X7QhdZiPjFBiNmRj_zZaITj3Pd_i7ppo) ({% include instructors people="borchering" %}, {{ main }})
+  - {: .shadow } note takers: {% include instructors people="nyamai|pearson" %}
 - 09h15-10h00 {{ pract }} [Exercise 1](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Ex1_StochasticSpillover.R) ({% include instructors people="borchering|mthombothi|nyamai|Mentors" %}, {{ lab }})
-  - {: .shadow } note takers: {% include instructors people="dushoff|are" %}, {{ main }}
-  - {: .shadow} [Summary](https://drive.google.com/file/d/1N0DL_3d5ls-2sPArn36ncWfeYV-LsdJw) ({% include instructors people="borchering" %})
+  - {: .shadow } note takers: {% include instructors people="dushoff|are" %}
+  - [Summary](https://drive.google.com/file/d/1N0DL_3d5ls-2sPArn36ncWfeYV-LsdJw) ({% include instructors people="borchering" %})
 - 10h00-10h30 {{ coffee }}
 - 10h30-10h45 {{ mlect }} [Introduction to models and data: HIV in Harare](https://docs.google.com/presentation/d/1fnX38elfkn4KWPSqlJXgmCtVBYZnmX3g) ({% include instructors people="kassanjee" %}, {{ lab }})
   - {: .shadow } note takers: {% include instructors people="dushoff|are" %} (also for tutorial, summary etc)
