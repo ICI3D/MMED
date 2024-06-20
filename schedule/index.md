@@ -421,7 +421,7 @@ archive: false
 
 ### Day 7
 
-- {{ sc }} 09h55 Optional: Meet in AIMS lobby for Cape Point trip (departure at 10h00) Wear comfortable clothes. We will be going on a boat!
+- {{ sc }} 09h55 to ~17h00 Optional: Meet in AIMS lobby for Cape Point trip (firm departure at 10h00). Wear comfortable clothes. We will be going on a boat! Box lunch provided.
 
 </details>
 
