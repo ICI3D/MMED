@@ -297,6 +297,7 @@ archive: false
   - {: .shadow } note takers: section 1 {% include instructors people="pearson" %}, section 2 {% include instructors people="reiner" %} 
 - 10h00-10h30 {{ coffee }}
 - 10h30-12h00 {{ lect }} Introduction to statistical philosophy ({% include instructors people="dushoff" %}, {{ main }})
+	* [Quiz](https://drive.google.com/drive/folders/1W9CUWaH_Bt15meM9EMzWOEt06zpPOLWi)
   - {: .shadow } note takers: {% include instructors people="nyamai|reiner" %}
 - 12h00-12h30 {{ gw }} MMED projects ({{ breakout }})
 - {: .shadow} 12h30-13h00 faculty meeting
