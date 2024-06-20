@@ -306,7 +306,7 @@ archive: false
   - [This years results](https://raw.githubusercontent.com/ICI3D/RTutorials/master/participatory_coding_2024.R) (past years generally available [here](https://github.com/ICI3D/RTutorials))
   - {: .shadow } note takers: {% include instructors people="mthombothi|kassanjee" %}
 - 15h30-16h00 {{ tea }}
-- 16h00-16h45 {{ lect }} Introduction to likelihood ({% include instructors people="reiner" %}, {{ main }})
+- 16h00-16h45 {{ lect }} [Introduction to likelihood](https://docs.google.com/presentation/d/1f0uanscu8VAnchS5QHq5HEoM_yR7FF4p) ({% include instructors people="reiner" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="pearson|nyamai" %}
 - 16h45-18h00 {{ prac }} [Lab 5 - Introduction to likelihood](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab5_introLikelihood.R) ({% include instructors people="kassanjee|nyamai|Mentors" %}, {{ lab }})
   - {: .shadow } note takers: {% include instructors people="mthombothi|nyamai" %}
@@ -396,7 +396,7 @@ archive: false
 - 10h30-11h00 {{ coffee }}
 - 11h00-12h30 [Tutorial catch-up (optional)](../tutorials) ({% include instructors people="Mentors" %}, {{lab}})
 - {{ sc }} Optional: Group Lunch at Kalky's (costs covered)
-- {: .shadow} 14h30ish-? post-Kalky's all hands faculty meeting in E313
+- {: .shadow} 16h30ish-? post-Kalky's all hands faculty meeting in E313
 
 <!--
 - {: .shadow} 8:00 Faculty check-in in Room 105
