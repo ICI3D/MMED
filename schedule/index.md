@@ -339,10 +339,10 @@ archive: false
 
 - {: .shadow} 0730? whatsapp checkin
 - 08h30-10h00 {{ disc }} Description of proposed model and assumptions	({% include instructors people="mthombothi|are|Mentors" %}, {{ sections }})
-  - {: .shadow } note takers:
+  - {: .shadow } note takers: section 1 {% include instructors people="kassanjee" %}, section 2 {% include instructors people="nyamai" %}
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h15 {{ lect }} Likelihood fitting & dynamic models I: Dynamic Model Fitting and Inference Robustness ({% include instructors people="reiner" %}, {{ main }})
-  - {: .shadow } note takers:
+  - {: .shadow } note takers: {% include instructors people="nyamai|mthombothi" %}
 - 11h15-12h30 {{ prac }} [Lab 6 - MLE fitting of an SIR model to prevalence data](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab6_MLE_SIV_HIV.R) ({% include instructors people="kassanjee|nyamai|Mentors" %}, {{ lab }})
   - {: .shadow } note takers:
   - Summary ({% include instructors people="kassanjee" %})
@@ -351,10 +351,10 @@ archive: false
 - 14h00-15h30 {{ gw }} MMED project work ({{ breakout}})
 - 15h30-16h00 {{ tea }}
 - 16h00-17h00 Mentor presentations ({% include instructors people="nyamai|dawa|sereo|phiri" %}, {{ main }})
-  - {: .shadow } note takers:
+  - {: .shadow } note takers: {% include instructors people="are|reiner" %}
 - 17h00-18h00 Mid-Clinic Feeback session ({% include instructors people="bruce" %}, {{ main }})
 - 18h00-18h30 Dinner
-- 19h30-21h30 {{ sc }} Movie Night ({{main}})
+- 19h30-21h30 {{ sc }} Movie Night ({{ main }})
 
 <!--
 - {: .shadow} 8:00 Faculty check-in in Room 105
@@ -387,9 +387,9 @@ archive: false
 
 - {: .shadow} 0730? whatsapp checkin
 - 08h30-09h30 {{ lect }} Consequences of heterogeneity and modelling options ({% include instructors people="dushoff" %}, {{ main }})
-  - {: .shadow } note takers:
+  - {: .shadow } note takers: {% include instructors people="pearson|reiner" %}
 - 09h30-10h30 {{ prac }} Lab 2 - Consequences of heterogeneity ({% include instructors people="pearson|dushoff|reiner|Mentors" %}, {{ lab }})
-  - {: .shadow } note takers:
+  - {: .shadow } note takers: {% include instructors people="dushoff|reiner" %}
   - run `ICI3D::heterogeneityTutorial()` at the R prompt
   - If you would like to look under the hood, the relevant code is available [here](https://github.com/ICI3D/ici3d-pkg/blob/master/R/heterogeneityTutorial.R)
   - Summary ({% include instructors people="pearson" %})
@@ -439,12 +439,15 @@ archive: false
 
 - 08h30-08h45 {{ disc }} Feedback responses; Review Schedule & goals ({% include instructors people="kassanjee" %}, {{ main }})
 - 08h45-09h30 {{ lect }} Doing science/Life cycle of a project ({% include instructors people="reiner" %}, {{ main }})
+  - {: .shadow } note takers: {% include instructors people="" %}
 - 09h30-10h00 {{ gw }} MMED project work ({{ breakout }})
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h30 Introduction to github ({% include instructors people="pearson|mthombothi|are|Mentors" %}, {{ lab }})
+  - {: .shadow } note takers: {% include instructors people="" %}
 - 11h30-12h30 {{ gw }} MMED project work ({{ breakout }})
 - 12h30-14h00 {{ lunch }}
 - 14h00-15h30 {{ lect }} Likelihood fitting and dynamical models II ({% include instructors people="reiner" %}, {{main}})
+  - {: .shadow } note takers: {% include instructors people="" %}
 - 15h30-16h00 {{ tea }}
 - 16h00-17h30 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
 - 18h00-18h30 Dinner
@@ -477,14 +480,18 @@ archive: false
 ### Day 9
 
 - 08h30-10h00 {{ lect }} Introduction to Markov Chain Monte Carlo (MCMC) ({% include instructors people="borchering" %}, {{ main }})
+  - {: .shadow } note takers: {% include instructors people="" %}
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h30 {{ prac }} [Lab 7](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab7_MCMC-Binomial.R) & [Lab 8](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab8_MCMC-SI_HIV.R) MCMC model fitting ({% include instructors people="kassanjee|pearson|Mentors" %}, {{lab}})
+  - {: .shadow } note takers: {% include instructors people="" %}
 - 11h30-12h30 {{ gw }} MMED project work ({{breakout}})
 - 12h30-14h00 {{ lunch }}
   - {: .shadow} ICI3D meeting with remoting adds
 - 14h00-14h45 {{ lect }} Data management and cleaning ({% include instructors people="pearson" %}, {{ main }})
+  - {: .shadow } note takers: {% include instructors people="" %}
 - 14h45-15h30 {{ prac }} [Tutorial 5: Data cleaning](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_5_DataCleaning.R) ({% include instructors people="pearson|Mentors" %}, {{ lab }})
   - Summary ({% include instructors people="phiri" %})
+  - {: .shadow } note takers: {% include instructors people="" %}
 - 15h30-16h00 {{ tea }}
 - 16h00-17h30 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
 - 18h00-18h30 Dinner	
@@ -518,10 +525,12 @@ archive: false
 ### Day 10
 
 - 08h30-09h30 {{ lect }} Model assessment ({% include instructors people="dushoff" %}, {{ main }})
+  - {: .shadow } note takers: {% include instructors people="" %}
 - 09h30-10h00 {{ gw }} MMED project work ({{breakout}})
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h00 {{ gw }} MMED project work ({{breakout}})
 - 11h00-12h30 {{ lc }} Participatory coding for variability, sampling distributions, and simulation lecture / Study design and simulation based validation / stochastic modelling II with live coding ({% include instructors people="dushoff|kassanjee" %}, {{ main }})
+  - {: .shadow } note takers: {% include instructors people="" %}
   - {: .shadow } Get a more direct summary title for this
 - 12h30-14h00 {{ lunch }} _NOTE: Bobby + mentors: technical check with virtual panelists_{: .shadow}
 - 14h00-15h30 {{ gw }} MMED project work ({{ breakout }})
@@ -557,8 +566,10 @@ archive: false
 - 10h30-12h30 {{ gw }} MMED project work ({{breakout}})
 - 12h30-14h00 {{ lunch }}
 - 14h00-15h30 {{ gw }} MMED project work XOR {{ lc }} Analysis pipelines ({% include instructors people="pearson" %}, {{breakout}} XOR {{main}})
+  - {: .shadow } note takers: {% include instructors people="" %}
 - 15h30-16h00 {{ tea }}
 - 16h00-17h30 {{ disc }} Modelling for policy ({% include instructors people="reiner" %}, {{main}})
+  - {: .shadow } note takers: {% include instructors people="" %}
 - 18h00-18h30 Dinner
 
 <!--
@@ -587,9 +598,11 @@ archive: false
 - 10h30-12h30 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
 - 12h30-13h45 {{ lunch }}
 - 13h45-15h30 {{ gw }} Project presentations ({% include instructors people="are" %}, {{main}})
+  - {: .shadow } note takers: {% include instructors people="" %}
 - 15h30-16h00 {{ tea }}
 - 16h00-17h00 {{ disc }} Feedback session II ({% include instructors people="bruce" %}, {{ main }})
 - 17h15-17h45 Closing Remarks ({% include instructors people="pearson" %}, {{ main }})
+  - {: .shadow } note takers: {% include instructors people="" %}
 - 18h00-18h30 Dinner
 
 <!--
