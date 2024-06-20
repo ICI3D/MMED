@@ -303,6 +303,7 @@ archive: false
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
 - 14h00-15h30 {{ lc }} Participatory coding of a dynamical model ({% include instructors people="pearson" %}, {{ main }})
+  - [This years results](https://raw.githubusercontent.com/ICI3D/RTutorials/master/participatory_coding_2024.R) (past years generally available [here](https://github.com/ICI3D/RTutorials))
   - {: .shadow } note takers: {% include instructors people="mthombothi|kassanjee" %}
 - 15h30-16h00 {{ tea }}
 - 16h00-16h45 {{ lect }} Introduction to likelihood ({% include instructors people="reiner" %}, {{ main }})
