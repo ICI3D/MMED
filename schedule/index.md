@@ -311,7 +311,7 @@ archive: false
   - {: .shadow } note takers: {% include instructors people="mthombothi|nyamai" %}
   - {: .shadow } Summary ({% include instructors people="dawa" %})
 - 18h00-18h30 Dinner	
-- 19h30-21h00 {{ sc }} Drumming ({{ main }})
+- 19h00-21h00 {{ sc }} Drumming ({{ main }})
 
 <!--
 - {: .shadow} 8:00 Faculty check-in in Room 105
