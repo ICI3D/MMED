@@ -252,7 +252,7 @@ archive: false
   - {: .shadow } note takers: {% include instructors people="nyamai|mthombothi" %}
 - 11h15-12h30 {{ prac }} [Lab 6 - MLE fitting of an SIR model to prevalence data](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab6_MLE_SIV_HIV.R) ({% include instructors people="kassanjee|nyamai|Mentors" %}, {{ lab }})
   - {: .shadow } note takers:
-  - Summary ({% include instructors people="kassanjee" %})
+  - [Summary](https://docs.google.com/presentation/d/1ICIafTEDb3_0jA_6JA2wuj7z-yfpMvHV) ({% include instructors people="kassanjee" %})
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
 - 14h00-15h30 {{ gw }} MMED project work ({{ breakout}})
@@ -277,7 +277,7 @@ archive: false
 - 10h30-11h00 {{ coffee }}
 - 11h00-12h30 [Tutorial catch-up (optional)](../tutorials) ({% include instructors people="Mentors" %}, {{lab}})
 - {{ sc }} Optional: Group Lunch at Kalky's (costs covered)
-- {: .shadow} 16h30ish-? post-Kalky's all hands faculty meeting in E313
+- {: .shadow} 18h30 post-Kalky's all hands faculty meeting in E313; beverages provided
 
 ### Day 7
 
