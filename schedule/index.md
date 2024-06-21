@@ -50,6 +50,8 @@ archive: false
   </div>
 </div>
 
+## [Participant List](https://github.com/ICI3D/MMEDparticipants/blob/3b1f91b77e1d913c64a764a63875eb33cfcd03b2/logistics/mmed2024facepage.pdf)
+
 <details markdown="1"><summary>Week 0: Modeling in Medicine and Public Health (MMedPH)</summary>
 
 ### Day 1 (Monday, 10 June)
@@ -187,43 +189,6 @@ archive: false
 - 19h30 [Project sign-up deadline](https://forms.gle/Dnd2943WrRqnRpMGA)
 - 19h00-20h00 [Tutorials](../tutorials) catch-up ({% include instructors people="are|nyamai|Mentors" %}, {{ lab }})
 
-<!--
-- {: .shadow} 8:00 Faculty check-in in Room 105
--   8:30 – 9:15 **Lecture:** [(Hidden) assumptions of simple ODE models](https://drive.google.com/file/d/1Tsx7IKDBatRGUDYKWlro76wT7D6fHfGM/view?usp=sharing) ({% include instructors people="borchering" %})
-    - {: .shadow} Note takers: pulliam, reiner
--   9:15 – 10:00 **Live coding session:** Introduction to model implementation ({% include instructors people="vanschalkwyk" %})
-    - {: .shadow} Note takers: dushoff, mwangi
--   10:00 – 10:30 *{{ coffee }} break*
--   10:30 – 12:20 **Computer Session:** [R Tutorials](../tutorials) - [Lab 1](../tutorials): ODE models in R ({% include instructors people="brown|sereo|vanschalkwyk|mwangi|nyamai|pearson" %}); **MedPH break-out group** ({% include instructors people="mthombothi" %})
-    - All R tutorials and labs are linked from [this page](../tutorials)
-    - You should have completed [R Tutorials I-III](../tutorials) prior to the Clinic. If you have not previously used R, we suggest you review these tutorials during this session, as the material they cover form the foundation for the computer sessions throughout the workshop. *Please use this opportunity to ask any questions you may have regarding the material in these tutorials.*
-    - When you have completed Lab 1 (required), you may take a break or move on to Tutorial 4: Visualizing Infectious Disease Data in R (recommended)
--   12:20 – 12:30 **Discussion:** Lab 1 Summary ({% include instructors people="brown" %})
--   12:30 – 13:45 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - {: .shadow} **13:15 Faculty check-in in Room 105**
--   13:45 – 14:45 _**Parallel sessions**_ _NOTE (Note: for this session only, Track A participants may attend the Track B session.)_{: .shadow}
-    -   **Track A in the Library:** **Lecture:** [Introduction to Thinking About Data II](https://drive.google.com/file/d/1nU5wD2UZm6st3qE3-Vg19WubuPUleBpF/view?usp=drive_link) ({% include instructors people="kassanjee" %})
-        - {: .shadow} Note takers: pearson, blumberg
-    -   **Track B in the Main Lecture Hall:** **Lecture:** [Basic stochastic simulation models](https://drive.google.com/file/d/1nNcBU8HGf9kCAththoVuIReeZ8vNakS2/view?usp=drive_link) ({% include instructors people="kombe" %})
-        - {: .shadow} Note takers: reiner, borchering
--   14:45 – 15:30 **Lecture:** [Consequences of heterogeneity, and modeling options](https://drive.google.com/file/d/1zVEzfcDbgBMyvW8376OnEAmRdSReXCYg/view?usp=drive_link) ({% include instructors people="dushoff" %}) ([handouts version](https://drive.google.com/file/d/1K3fH3mwc62N8keBv0WlGNxuhi4j1_9Ui/view?usp=drive_link))
-    - {: .shadow} Note takers: reiner, abbott
-    - {: .shadow} **Note for future years:** This lecture needs more time!! (see faculty notes doc)
--   15:30 – 16:00 *Tea* and **poster set-up**
-    - {: .shadow} with {% include instructors people="mthombothi" %} and mentors
-    - {: .shadow} Table moving: Becky, Zinhle, Lauren, Bobby, Tumelo, Faikah
--   16:00 - 17:00 **Computer Session:** [R Tutorials](../tutorials) - Lab 2: Consequences of heterogeneity ({% include instructors people="dushoff" %}, {% include instructors people="kassanjee" %}, {% include instructors people="mthombothi" %}, {% include instructors people="pearson" %}, {% include instructors people="reiner" %}, and {% include instructors people="vanschalkwyk" %})
-    - You will need the most recent version of the ICI3D R package for this tutorial. If you are using your laptop for the tutorials, please update the package before you begin by running the command <b><code>remotes::install_github('ICI3D/ici3d-pkg')</code></b> in R studio.
-    - To run the tutorial (after installing the package), type <b><code>ICI3D::heterogeneityTutorial()</code></b>.
-    -  Lab 2 Summary ({% include instructors people="pearson" %})
--   17:00 – 18:00 [**Poster session II**](../posters/sessions)
--   18:00 – 18:30 *Dinner*
--   18:30 – 19:00 **Poster set-up**
-    - {: .shadow} with {% include instructors people="mthombothi" %} and mentors
--   19:00 – 20:00 [**Poster session III**](../posters/sessions)
-- {: .shadow} 20:05 Faculty Meeting in E313
--->
-
 ### Day 3
 
 - {: .shadow} 0730? whatsapp checkin
@@ -253,43 +218,6 @@ archive: false
 - 18h00-18h30 Dinner
 - 19h00-20h00 Optional: [Lab 3 - study design I](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab3_EpiStudyDesign.R) & [Lab 4 - study design II](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab4_RCT.R) ({% include instructors people="mentors" %}, {{lab}})
 
-<!--
-- {: .shadow} 8:00 Faculty check-in in Room 105
--   8:30 – 10:00 _**Parallel sessions**_
-    -   **Track A in Small Computer Lab:** **Computer Session:** [R Tutorials](../tutorials) - Tutorial 4: Visualizing Infectious Disease Data in R ({% include instructors people="brown" %}, {% include instructors people="mwangi" %}, {% include instructors people="nyamai" %}, and {% include instructors people="omondi" %})
-        - Tutorial 4 Summary ({% include instructors people="omondi" %})
-    -   **Track B in Main Computer Lab:** **Computer Session:** [R Tutorials](../tutorials) - Exercise 1: Basic stochastic simulation models ({% include instructors people="borchering" %}, {% include instructors people="kombe" %}, and {% include instructors people="mthombothi" %})
-         - Exercise 1 Summary ({% include instructors people="borchering" %})
--   10:00 – 10:30 *{{ coffee }} break*
--   10:30 – 10:45 **Lecture in the Main Computer Lab:** [Introduction to models and data: HIV in Harare](https://drive.google.com/file/d/1Bbqlbbc_JAY-u1f7jGM1kvfmWkPfiXpc/view?usp=drive_link) ({% include instructors people="kassanjee" %})
-    - {: .shadow} Note takers: abbott and faculty/mentors assigned to the lab
--   10:45 – 12:30 **Computer Session in the Main Computer Lab:** Harare data in groups of \<4 ({% include instructors people="brown|kassanjee|mthombothi|omondi|pearson|pulliam" %})
-    - You will need the ICI3D R package for this tutorial.
-    - To run the tutorial (after installing the package), type <b><code>ICI3D::hivTutorial()</code></b>.
-    - If you finish all five versions of the model for the Harare data before lunch, move on to working on data from other countries.
-    -  **Additional info:** [Distributed Delay Models of Survival](../tutorials/distributedDelay.pdf) (Boxcar Models) ({% include instructors people="pulliam" %})
-        - [example script](https://www.dropbox.com/s/ykirgmodga2j7m9/distributed_delay_boxcar.R?dl=1)
--   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - {: .shadow} **13:30 Faculty check-in in Room 105**
--   14:00 – 14:30 **Computer Session in the Main Computer Lab:** Harare/other data in same groups ({% include instructors people="brown" %}, {% include instructors people="kassanjee" %}, {% include instructors people="mthombothi" %}, {% include instructors people="omondi" %}, {% include instructors people="pearson" %}, and {% include instructors people="pulliam" %})
--   14:30 – 15:00 **Discussion in the Main Computer Lab:** [Harare tutorial](https://drive.google.com/file/d/1pKsTClF2Dk0gwNN6mFHxCGFDtoGI9b8s/view?usp=drive_link) ({% include instructors people="pulliam" %})
--   15:00 – 16:00 _**Parallel sessions**_
-    -   **Track A in the Small Computer Lab:** [Formulating Research Questions A](./researchQuestionsA) ({% include instructors people="nyamai" %})
-         - {: .shadow} Note takers: pulliam, vanschalkwyk
-    -   **Track B in the Library:** [Formulating Research Questions B](./researchQuestionsB) ({% include instructors people="borchering" %}) _NOTE look at notes from Cari and feedback from Becky; talk also with JP_{: .shadow}
-        - {: .shadow} Note takers: pearson, mwangi
--   16:00 – 16:30 *Tea*
--   16:30 – 18:00 _**Parallel sessions**_
-    -   **Track A in Small Computer Lab:** **Lecture** and **Computer Session:** [Study Design and Analysis in Epidemiology: Where does modeling fit?](https://drive.google.com/file/d/1M8rgHwCe0nXDAccg_Wil36YV12de1tDi/view?usp=drive_link) ({% include instructors people="vanschalkwyk" %}) - and [R Tutorials](../tutorials) - Lab 3: Study Design in Epidemiology ({% include instructors people="sereo|dushoff|vanschalkwyk" %})
-        - {: .shadow} Note takers: dushoff, kassanjee
-        - Lab 3 Summary ({% include instructors people="sereo" %})
-    -   **Track B in the Library:** **Exercise:** [Creating a model world to address a research question](../tutorials/modelWorld) ({% include instructors people="mwangi" %})
-        - {: .shadow} Note takers: pearson, pulliam
--   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 **Working session in Main Computer Lab:** Model World Assignment (Track B) and Tutorial catch-up, as needed ({% include instructors people="brown|mthombothi|nyamai|pulliam|sereo" %})
-- {: .shadow} 20;15 Faculty Meeting in E313
--->
-
 ### Day 4
 
 - {: .shadow} 0730? whatsapp checkin
@@ -314,34 +242,13 @@ archive: false
 - 18h00-18h30 Dinner	
 - 19h00-21h00 {{ sc }} Drumming ({{ main }})
 
-<!--
-- {: .shadow} 8:00 Faculty check-in in Room 105
--   8:30 – 10:00  _**Parallel sessions:**_
-    - **Track A in the Small Computer Lab:** **Lecture** and **Computer Session:** [Study Design and Analysis in Epidemiology II: RCT's](https://drive.google.com/file/d/1Pw7Ciw3Zww8C-d4xqbLVQpiNChUComdh/view?usp=drive_link) ({% include instructors people="kassanjee" %}) and [R Tutorials](../tutorials) - [Lab 4: Study Design for Clinical Trials](https://drive.google.com/file/d/1Pw7Ciw3Zww8C-d4xqbLVQpiNChUComdh/view?usp=drive_link) ({% include instructors people="borchering|kassanjee|kombe" %})
-        - {: .shadow} Note takers: reiner, dushoff
-        - [Dataset for Lab 4](https://github.com/ICI3D/datasets/blob/master/clinicalTrials/MuTxT.Rdata?raw=true)
-        - Lab 4 Summary ({% include instructors people="kombe" %})
-    - **Track B in the Library: Exercise:** Description of proposed model and assumptions ({% include instructors people="mthombothi" %})
-        - {: .shadow} Note takers: abbott, vanschalkwyk
--   {: .shadow} 10:00 – 10:30 *{{ coffee }} break*
--   10:00 – 10:30 *Break* (**Note**: No _{{ coffee }}_ provided by AIMS during this morning's {{ coffee }} break.)
--   10:30 – 12:00 **Computer Session:** Tutorial catch-up, as needed ({% include instructors people="brown|sereo|omondi|pulliam|reiner" %})
--   12:30 – 14:00 **Social Activity:** Group lunch at Kalky's
-    - **Meet in the AIMS lobby at 12:15.** Wear comfortable clothes that are appropriate for the weather.
-    - **Note that AIMS lunch is not available today.**
--   14:00 – 18:00 Free/working afternoon
-    - {: .shadow} **17:00 Faculty meeting in Room E313**
--   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 **Real-world example ([optional lecture](../talks) in the Main Lecture Hall):** [Seth Blumberg](../talks/blumberg)
--->
-
 ### Day 5
 
 - {: .shadow} 0730? whatsapp checkin
-- 08h30-10h00 {{ disc }} Description of proposed model and assumptions	({% include instructors people="mthombothi|are|Mentors" %}, {{ sections }})
+- 08h30-10h00 {{ disc }} [Description of proposed model and assumptions](https://docs.google.com/presentation/d/1-Hos7PLUTE8te8-lWEq8ctNX2xjrOAjs)	({% include instructors people="mthombothi|are|Mentors" %}, {{ sections }})
   - {: .shadow } note takers: section 1 {% include instructors people="kassanjee" %}, section 2 {% include instructors people="nyamai" %}
 - 10h00-10h30 {{ coffee }}
-- 10h30-11h15 {{ lect }} Likelihood fitting & dynamic models I: Dynamic Model Fitting and Inference Robustness ({% include instructors people="reiner" %}, {{ main }})
+- 10h30-11h15 {{ lect }} [Likelihood fitting & dynamic models I: Dynamic Model Fitting and Inference Robustness](https://docs.google.com/presentation/d/1qYlW9Vf1iDygCEyqKakhNPZ5IviU5La8) ({% include instructors people="reiner" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="nyamai|mthombothi" %}
 - 11h15-12h30 {{ prac }} [Lab 6 - MLE fitting of an SIR model to prevalence data](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab6_MLE_SIV_HIV.R) ({% include instructors people="kassanjee|nyamai|Mentors" %}, {{ lab }})
   - {: .shadow } note takers:
@@ -349,39 +256,13 @@ archive: false
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
 - 14h00-15h30 {{ gw }} MMED project work ({{ breakout}})
+- 15h30 [initial project work update due](https://docs.google.com/presentation/d/1cACkd7oZRYN7tXFn9aoj1R4gSEsqqWCS3I3arwwNWR4)
 - 15h30-16h00 {{ tea }}
 - 16h00-17h00 Mentor presentations ({% include instructors people="nyamai|dawa|sereo|phiri" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="are|reiner" %}
 - 17h00-18h00 Mid-Clinic Feeback session ({% include instructors people="bruce" %}, {{ main }})
 - 18h00-18h30 Dinner
 - 19h30-21h30 {{ sc }} Movie Night ({{ main }})
-
-<!--
-- {: .shadow} 8:00 Faculty check-in in Room 105
--   8:30 – 10:00 **Lecture:** [Introduction to statistical philosophy](https://drive.google.com/file/d/15gXnJdtFr6ihTlk8BqPBI9I8GKjWvAvW/view?usp=drive_link) ({% include instructors people="dushoff" %}) ([handouts version](https://drive.google.com/file/d/1sbYSH6fvBtZW0eqMBknbiKMMaVA5dRnJ/view?usp=drive_link))
-    - {: .shadow} Note takers: abbott, pearson
--   10:00 – 10:30 *{{ coffee }} break*
--   10:30 – 11:00 **Discussion:** [MMED research projects](../projects/) ({% include instructors people="reiner" %})
-    - {: .shadow} Note takers: mthombothi, blumberg
-    - {: .shadow} HIDE [Potential project groups](../projects/) _NOTE needs updating!!!_{: .shadow}
--   11:00 – 12:30 **Lecture:** Participatory coding of a dynamical model I ({% include instructors people="pulliam|mwangi" %}) _HIDE - Code on [Tutorials](../tutorials) page_{: .shadow}
-    - {: .shadow} Note takers: dushoff or kassanjee, pearson
-    - [Code from the session](https://github.com/ICI3D/MMEDparticipants/blob/master/Resources/participatoryCoding_I.R)
-    - {: .shadow} Request that everyone download lab during lunch and charge laptops
--   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - Please fill in [this form](https://forms.gle/ub73xyEodnYScASa7) to indicate what you will work on during the tutorial catch-up session on Saturday and whom you would like to meet for a mentoring session next week. (Due by 19:30 on Friday.)
-    - {: .shadow} **13:30 Faculty check-in in Room 105**
-- 14:00 - 15:00 **Mentor presentations** ({% include instructors people="brown|omondi" %}, Moderator: {% include instructors people="pearson" %}) _NOTE stretch break recommended mid-way_{: .shadow}
--   15:00 – 15:45 **Lecture:** [Introduction to Likelihood](https://drive.google.com/file/d/1aBVQU5t5KAhi4HPWBek6qG5KYbKcQTzA/view?usp=drive_link) ({% include instructors people="vanschalkwyk" %})
-    - {: .shadow} Note takers: reiner, borchering
--   15:45 – 16:15 *Tea*
-    - {: .shadow} Faculty/mentor trip to Bluebird Garage - meet in the lobby at 16:00
--   16:15 – 18:00 **Computer Session:** [R Tutorials](../tutorials) - Lab 5: Introduction to Likelihood Lab ({% include instructors people="brown|kombe|mwangi|omondi|pearson|vanschalkwyk" %})
-    - Lab 5 Summary ({% include instructors people="vanschalkwyk" %})
--   18:00 – 18:30 *Dinner*
-- {: .shadow} 18:30 Faculty Meeting in the Library
--   19:30 – 21:00 **Social activity:** Drumming
--->
 
 ### Day 6
 
@@ -398,40 +279,11 @@ archive: false
 - {{ sc }} Optional: Group Lunch at Kalky's (costs covered)
 - {: .shadow} 16h30ish-? post-Kalky's all hands faculty meeting in E313
 
-<!--
-- {: .shadow} 8:00 Faculty check-in in Room 105
--   8:30 – 9:15 **Lecture in the Main Lecture Hall:** Likelihood fitting and dynamic models, Part 1: Dynamic Model Fitting and Inference Robustness ({% include instructors people="reiner" %})
-    - {: .shadow} Note takers: dushoff, borchering
--   9:15 - 10:30 **Computer Session in the Main Computer Lab:** [Lab 6:](../tutorials/) MLE fitting of an SIR model to prevalence data ({% include instructors people="brown" %}, {% include instructors people="dushoff" %}, {% include instructors people="kassanjee" %}, {% include instructors people="kombe" %}, {% include instructors people="nyamai" %}, {% include instructors people="reiner" %}, and {% include instructors people="pulliam" %})
-    - **Additional info:** [Parameter transformation](../tutorials/parameterTransformations.pdf)
-    - Lab Summary: [Lab 6](../tutorials) ({% include instructors people="kassanjee" %})
--   10:30 – 11:00 *{{ coffee }} break*
--   11:00 – 12:30 **Lecture:** Participatory coding of a dynamical model II ({% include instructors people="pearson|pulliam" %}) _Code on [Tutorials](../tutorials) page_{: .shadow}
-    - {: .shadow} Note takers: mthombothi, dushoff
--   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
--   14:00 – 15:00 **MMED Projects:** Participants ask questions about specific projects (Moderator: {% include instructors people="borchering|reiner" %})
-    - Project group sign-up will be available after this session
-    - {: .shadow} Note takers: nyamai, pulliam
--   15:00 – 16:00 **Mid-session Feedback** (Moderator: {% include instructors people="bruce" %})
--   16:00 – 16:30 A good chance to [sign up for project groups](https://forms.gle/xNvYdUUswpiU2k2u7) and *Tea*
--   16:30 – 17:30 **Computer Session:** Tutorial catch-up, as needed ({% include instructors people="brown|omondi|sereo" %})
--   17:30 – 18:00 A good chance to [sign up for project groups](https://forms.gle/xNvYdUUswpiU2k2u7)
--   18:00 – 18:30 *Dinner*
--   {: .shadow} 19:00 Party in E313
--->
-
 ### Day 7
 
 - {{ sc }} 09h55 to ~17h00 Optional: Meet in AIMS lobby for Cape Point trip (firm departure at 10h00). Wear comfortable clothes. We will be going on a boat! Box lunch provided.
 
 </details>
-
-<!--
-- 10:00 Deadline to [sign up for project groups](https://forms.gle/xNvYdUUswpiU2k2u7)
-- Free day – optional group trip to Cape Point
-    -   We will leave at 10:00. *Please meet in the AIMS lobby by 9:55.* Wear comfortable clothes. We will be going on a boat!
-- {: .shadow} **Faculty meeting in E313 at 17:30.**
--->
 
 <details markdown="1"><summary>Week 2: MMED Project Focus</summary>
 
