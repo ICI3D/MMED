@@ -267,7 +267,7 @@ archive: false
 ### Day 6
 
 - {: .shadow} 0730? whatsapp checkin
-- 08h30-09h30 {{ lect }} Consequences of heterogeneity and modelling options ({% include instructors people="dushoff" %}, {{ main }})
+- 08h30-09h30 {{ lect }} [Consequences of heterogeneity and modelling options](https://drive.google.com/file/d/1iFRn-UVBDaCeud5ASZetMLNN-vvC9CRX/) ({% include instructors people="dushoff" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="pearson|reiner" %}
 - 09h30-10h30 {{ prac }} Lab 2 - Consequences of heterogeneity ({% include instructors people="pearson|dushoff|reiner|Mentors" %}, {{ lab }})
   - {: .shadow } note takers: {% include instructors people="dushoff|reiner" %}
