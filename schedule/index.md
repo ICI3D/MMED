@@ -260,6 +260,9 @@ archive: false
 - 15h30-16h00 {{ tea }}
 - 16h00-17h00 Mentor presentations ({% include instructors people="nyamai|dawa|sereo|phiri" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="are|reiner" %}
+  - {: .shadow } Tumelo: TALK
+  - {: .shadow } Jeanette: TALK
+  - {: .shadow } Mphatso: TALK
 - 17h00-18h00 Mid-Clinic Feeback session ({% include instructors people="bruce" %}, {{ main }})
 - 18h00-18h30 Dinner
 - 19h30-21h30 {{ sc }} Movie Night ({{ main }})
