@@ -293,126 +293,57 @@ archive: false
 ### Day 8 (Monday, 24 June)
 
 - 08h30-08h45 {{ disc }} Feedback responses; Review Schedule & goals ({% include instructors people="kassanjee" %}, {{ main }})
-- 08h45-09h30 {{ lect }} Doing science/Life cycle of a project ({% include instructors people="reiner" %}, {{ main }})
-  - {: .shadow } note takers: {% include instructors people="" %}
+- 08h45-09h30 {{ lect }} [Life cycle of a modeling project](https://docs.google.com/presentation/d/17OMoPo0DOe6WBn4cjwY4j6Cy-3v9xzFp) ({% include instructors people="reiner" %}, {{ main }})
+  - {: .shadow } note takers: {% include instructors people="pearson|kassanjee" %}
 - 09h30-10h00 {{ gw }} MMED project work ({{ breakout }})
 - 10h00-10h30 {{ coffee }}
-- 10h30-11h30 Introduction to github ({% include instructors people="pearson|mthombothi|are|Mentors" %}, {{ lab }})
-  - {: .shadow } note takers: {% include instructors people="" %}
+- 10h30-11h30 [Introduction to github](https://docs.google.com/presentation/d/1x8Xgi5lNINegaj55wORTgXmZdnfnDB8Y) ({% include instructors people="pearson|mthombothi|are|Mentors" %}, {{ lab }})
+  - {: .shadow } note takers: {% include instructors people="are|mthombothi" %}
 - 11h30-12h30 {{ gw }} MMED project work ({{ breakout }})
 - 12h30-14h00 {{ lunch }}
-- 14h00-15h30 {{ lect }} Likelihood fitting and dynamical models II ({% include instructors people="reiner" %}, {{main}})
-  - {: .shadow } note takers: {% include instructors people="" %}
+- 14h00-15h30 {{ lect }} [Likelihood fitting and dynamical models II](https://docs.google.com/presentation/d/1cXXeQ_gAGNXlYVRGgGIGUxTZM-nE5FOu) ({% include instructors people="reiner" %}, {{main}})
+  - {: .shadow } note takers: {% include instructors people="pearson|kassanjee" %}
 - 15h30-16h00 {{ tea }}
 - 16h00-17h30 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
 - 18h00-18h30 Dinner
-- 19h00-20h00 Optional: Github practice and and trouble-shooting / tutorial catch-up ({% include instructors people="pearson|Mentors" %}, {{lab}})
-
-<!--
-- {: .shadow} 8:00 Faculty check-in in Room 105
--   8:30 – 9:15 **Lecture:** The Lifecycle of a Modelling Project ({% include instructors people="reiner" %})
-    - {: .shadow} Note takers: pearson, pulliam
--   9:15 – 9:45 **Organizational Session:** Response to feedback ({% include instructors people="mwangi" %})
-    - {: .shadow} Note takers: borchering
--   9:45 – 10:00 **Organizational Session:** [Goals and Schedule for Week II](https://drive.google.com/file/d/1KqaljAMLLdPCBpNcoBXH5Sc-wKEgJO9N/view?usp=drive_link) ({% include instructors people="pearson" %})
-    - {: .shadow} Note takers: dushoff
--   10:00 – 10:30 *{{ coffee }} break*
--   10:30 – 11:30 **Computer Session:** Introduction to GitHub ([mthombothi](../team/mthombothi), with {% include instructors people="pearson" %}, {% include instructors people="pulliam" %}, {% include instructors people="abbott" %}, {% include instructors people="sereo" %}, and {% include instructors people="vanschalkwyk" %})
-    - {: .shadow} Note takers: pearson
--   11:30 – 12:30 **Work Session:** Work plans for group projects (Project groups / all instructors) _NOTE Project groups meet for the first time_{: .shadow}
--   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - {: .shadow} **13:30 Faculty check-in in Room 105**
--   14:00 – 15:30 **Lecture:** Likelihood fitting and dynamic models II ({% include instructors people="reiner" %})
-    - {: .shadow} abbott, borchering
--   15:30 – 16:00 *Tea*
--   16:00 – 17:30 **Work Session** (Project groups)
-    - 16:30 – 17:30 **Mentoring Session**: [schedule](https://docs.google.com/spreadsheets/d/1yDLtw8EeAt_XqYledsh0aQjZJBSa-bkCrfi-nkN79fU) _NOTE In future, don't do mentoring sessions on first day of projects_{: .shadow}
-- {: .shadow} 17:30-18:20 Faculty Meeting in Room 105
--   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 GitHub practice and troubleshooting and/or optional tutorial catch-up ({% include instructors people="brown|mthombothi|omondi|sereo|pulliam" %})
--->
+- 19h00-20h00 Optional: Github practice and and trouble-shooting / tutorial catch-up ({% include instructors people="pearson|Mentors" %}, {{ lab }})
 
 ### Day 9
 
 - 08h30-10h00 {{ lect }} Introduction to Markov Chain Monte Carlo (MCMC) ({% include instructors people="borchering" %}, {{ main }})
-  - {: .shadow } note takers: {% include instructors people="" %}
+  - {: .shadow } note takers: {% include instructors people="pearson|kassanjee" %}
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h30 {{ prac }} [Lab 7](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab7_MCMC-Binomial.R) & [Lab 8](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab8_MCMC-SI_HIV.R) MCMC model fitting ({% include instructors people="kassanjee|pearson|Mentors" %}, {{lab}})
-  - {: .shadow } note takers: {% include instructors people="" %}
+  - {: .shadow } note takers: {% include instructors people="borchering|kassanjee" %}
 - 11h30-12h30 {{ gw }} MMED project work ({{breakout}})
 - 12h30-14h00 {{ lunch }}
-  - {: .shadow} ICI3D meeting with remoting adds
+  - {: .shadow} 1300 ICI3D meeting with remoting adds
 - 14h00-14h45 {{ lect }} Data management and cleaning ({% include instructors people="pearson" %}, {{ main }})
-  - {: .shadow } note takers: {% include instructors people="" %}
+  - {: .shadow } note takers: {% include instructors people="dushoff|borchering" %}
 - 14h45-15h30 {{ prac }} [Tutorial 5: Data cleaning](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_5_DataCleaning.R) ({% include instructors people="pearson|Mentors" %}, {{ lab }})
   - Summary ({% include instructors people="phiri" %})
-  - {: .shadow } note takers: {% include instructors people="" %}
+  - {: .shadow } note takers: {% include instructors people="are|dushoff" %}
 - 15h30-16h00 {{ tea }}
 - 16h00-17h30 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
 - 18h00-18h30 Dinner	
 - 19h00-20h00 {{ lect }} Guest Lecture ({% include instructors people="dushoff" %}, {{ main }})
-
-<!--
-- {: .shadow} 8:00 Faculty check-in in Room 105
--   8:30 – 10:00 **Lecture**: [Introduction to Monte Carlo Markov Chains (MCMC)](https://drive.google.com/file/d/1NoM9z9tweqaB3IBUdf5ESaQL30IicpfZ/view?usp=drive_link) ({% include instructors people="borchering" %}) - [Slides (180mb read-only powerpoint slide set with embedded movies)](https://ndownloader.figshare.com/files/8597005)
-    - {: .shadow} Note takers: abbott, dushoff
--   10:00 – 10:30 **Group photo** then *{{ coffee }} break*
--   10:30 - 11:30 **Computer session**: Lab 6 (as needed) and MCMC fitting Labs 7-8 (optional) in [R Tutorials](../tutorials) ({% include instructors people="omondi|kombe|nyamai|pearson|pulliam|reiner" %})
-    - Lab 7 Summary ({% include instructors people="pulliam" %})
-    - Lab 8 Summary ({% include instructors people="pulliam" %})
-    - {: .shadow} Note takers: pearson
--   11:30 – 12:30 **Work Session** (Project groups); **MedPH break-out group** ({% include instructors people="pulliam|mthombothi" %})
--   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - {: .shadow} **13:30 Faculty check-in in Room 105**
--   14:00 – 14:45 **Lecture**: Data wrangling I: Data management and cleaning ([Mwangi](../team/mwangi))
-    - {: .shadow} Note takers: dushoff, pearson
--   14:45 – 15:30 **Computer session**: [R Tutorials](../tutorials) - Data wrangling ({% include instructors people="brown" %}, {% include instructors people="kassanjee" %}, {% include instructors people="mwangi" %}, {% include instructors people="nyamai" %}, {% include instructors people="omondi" %}, and {% include instructors people="vanschalkwyk" %})
-    - Tutorial 5 Summary ({% include instructors people="nyamai" %})
-    - {: .shadow} Note takers: kassanjee
--   15:30 – 16:00 *Tea*
--   16:00 – 17:30 **Work Session** (Project groups)
-    - 16:30 – 17:30 **Mentoring Session**: [schedule](https://docs.google.com/spreadsheets/d/1yDLtw8EeAt_XqYledsh0aQjZJBSa-bkCrfi-nkN79fU)
-- {: .shadow} 17:30-18:20 Faculty Meeting in Room 105
--   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 **Real-world example ([optional lecture](../talks)):** [Sam Abbott](../talks/abbott) (Moderator: {% include instructors people="reiner" %})
--->
+  - {: .shadow } note takers {% include instructors people="pearson|dushoff" %}
 
 ### Day 10
 
 - 08h30-09h30 {{ lect }} Model assessment ({% include instructors people="dushoff" %}, {{ main }})
-  - {: .shadow } note takers: {% include instructors people="" %}
-- 09h30-10h00 {{ gw }} MMED project work ({{breakout}})
+  - {: .shadow } note takers: {% include instructors people="mthombothi|kassanjee" %}
+- 09h30-10h00 {{ gw }} MMED project work ({{ breakout }})
 - 10h00-10h30 {{ coffee }}
-- 10h30-11h00 {{ gw }} MMED project work ({{breakout}})
+- 10h30-11h00 {{ gw }} MMED project work ({{ breakout }})
 - 11h00-12h30 {{ lc }} Participatory coding for variability, sampling distributions, and simulation lecture / Study design and simulation based validation / stochastic modelling II with live coding ({% include instructors people="dushoff|kassanjee" %}, {{ main }})
-  - {: .shadow } note takers: {% include instructors people="" %}
+  - {: .shadow } note takers: {% include instructors people="mthombothi|kassanjee" %}
   - {: .shadow } Get a more direct summary title for this
 - 12h30-14h00 {{ lunch }} _NOTE: Bobby + mentors: technical check with virtual panelists_{: .shadow}
 - 14h00-15h30 {{ gw }} MMED project work ({{ breakout }})
 - 15h30-16h00 {{ tea }}
 - 16h00-17h30 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
 - 18h00-18h30 Dinner
-
-<!--
-- {: .shadow} 8:00 Faculty check-in in Room 105
--   8:30 – 9:30 **Lecture**: Model assessment ([Dushoff](../team/Dushoff))
-    - {: .shadow} Note takers: abbott, pulliam
--   9:30 - 10:00  **Work Session** (Project groups)
-    - **Computer Session:** Tutorial catch-up, as needed ({% include instructors people="borchering" %}, {% include instructors people="sereo" %}, {% include instructors people="mthombothi" %}, {% include instructors people="mwangi" %}, {% include instructors people="kassanjee" %}, and {% include instructors people="nyamai" %})
--   10:00 – 10:30 *{{ coffee }} break*
--   10:30 – 12:30 **Work Session** (Project groups)
--   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
-    - {: .shadow} **13:30 Faculty check-in in Room 105**
--   14:00 – 15:30 **Work Session** (Project groups)
-    - 14:00 – 15:30 _Optional Session_ - **Live coding:** Participatory coding for Variability, Sampling Distributions, and Simulation Lecture ({% include instructors people="dushoff|mwangi" %}) _NOTE [Code on Tutorials page](../tutorials)_{: .shadow}
-    - {: .shadow} Note takers: vanschalkwyk, borchering
--   15:30 – 16:00 *Tea*
--   16:00 – 17:30 **Work Session** (Project groups)
-    - 16:30 – 17:30 **Mentoring Session**: [schedule](https://docs.google.com/spreadsheets/d/1yDLtw8EeAt_XqYledsh0aQjZJBSa-bkCrfi-nkN79fU)
-- {: .shadow} 17:30-18:20 Faculty Meeting in Room 105
--   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 **Real-world example ([optional guest lecture](../talks)):** Health Economics talks from Kaja Abbas and Lander Willem
--->
 
 ### Day 11
 
@@ -421,30 +352,11 @@ archive: false
 - 10h30-12h30 {{ gw }} MMED project work ({{breakout}})
 - 12h30-14h00 {{ lunch }}
 - 14h00-15h30 {{ gw }} MMED project work XOR {{ lc }} Analysis pipelines ({% include instructors people="pearson" %}, {{breakout}} XOR {{main}})
-  - {: .shadow } note takers: {% include instructors people="" %}
+  - {: .shadow } note takers: {% include instructors people="mthombothi|kassanjee" %}
 - 15h30-16h00 {{ tea }}
 - 16h00-17h30 {{ disc }} Modelling for policy ({% include instructors people="reiner" %}, {{main}})
-  - {: .shadow } note takers: {% include instructors people="" %}
+  - {: .shadow } note takers: {% include instructors people="are|dushoff" %}
 - 18h00-18h30 Dinner
-
-<!--
-- {: .shadow} 8:00 Faculty check-in in Room 105
--   8:30 – 10:00 **Discussion**: Modeling for policy (Panel: [Rebecca Borchering](../team/borchering), [Leigh Johnson](https://scholar.google.com/citations?hl=en&user=VYMmLd8AAAAJ), [Thumbi Mwangi](../team/mwangi), [Corey Peak](https://scholar.google.com/citations?hl=en&user=N9GVCQkAAAAJ), Moderator: {% include instructors people="pulliam" %})
-    - {: .shadow} Note takers: pearson, nyamai, mthombothi
--   10:00 – 10:30 *{{ coffee }} break*
--   10:30 – 12:30 **Work Session** (Project groups) - Mentors and Facutly Observers
-    - {: .shadow} 11:15 – 13:00 Annual faculty meeting in Small Seminar Room
--   12:30 – 14:00 *Lunch break* (*Lunch is served from 12:30 to 13:00.*)
--   14:00 – 15:30 **Work Session** (Project groups)
-    - 14:00 – 15:30 _Optional Session_ - **Live coding:** A Project Pipeline ({% include instructors people="pearson|pulliam" %}) _NOTE [Code on Tutorials page](../tutorials)_{: .shadow}
-    - {: .shadow} Note takers: dushoff
--   15:30 – 16:00 *Tea*
--   16:00 – 17:30 **Work Session** (Project groups)
-    - 16:30 – 17:30 **Mentoring Session**: [schedule](https://docs.google.com/spreadsheets/d/1yDLtw8EeAt_XqYledsh0aQjZJBSa-bkCrfi-nkN79fU)
--   18:00 – 18:30 *Dinner*
--   19:00 – 20:00 **Work session** (Project groups)
-    - {: .shadow} 19:00 – whenever Mentor dinner (Olympia Cafe)
--->
 
 ### Day 12
 
@@ -453,11 +365,11 @@ archive: false
 - 10h30-12h30 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
 - 12h30-13h45 {{ lunch }}
 - 13h45-15h30 {{ gw }} Project presentations ({% include instructors people="are" %}, {{main}})
-  - {: .shadow } note takers: {% include instructors people="" %}
+  - {: .shadow } note takers: {% include instructors people="dushoff|reiner" %}
 - 15h30-16h00 {{ tea }}
 - 16h00-17h00 {{ disc }} Feedback session II ({% include instructors people="bruce" %}, {{ main }})
 - 17h15-17h45 Closing Remarks ({% include instructors people="pearson" %}, {{ main }})
-  - {: .shadow } note takers: {% include instructors people="" %}
+  - {: .shadow } note takers: {% include instructors people="are|reiner" %}
 - 18h00-18h30 Dinner
 
 <!--
