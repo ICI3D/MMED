@@ -132,7 +132,7 @@ archive: false
 
 </details>
 
-<details markdown="1" open><summary>Week 1: Meaningful Modeling of Epidemiological Data (MMED)</summary>
+<details markdown="1"><summary>Week 1: Meaningful Modeling of Epidemiological Data (MMED)</summary>
 
 ### Day 0 (Sunday, 16 June)
 
@@ -288,11 +288,11 @@ archive: false
 
 </details>
 
-<details markdown="1"><summary>Week 2: MMED Project Focus</summary>
+<details markdown="1" open><summary>Week 2: MMED Project Focus</summary>
 
 ### Day 8 (Monday, 24 June)
 
-- 08h30-08h45 {{ disc }} Feedback responses; Review Schedule & goals ({% include instructors people="kassanjee" %}, {{ main }})
+- 08h30-08h45 {{ disc }} [Feedback responses; Review Schedule & goals](https://docs.google.com/presentation/d/1wzq3tqmQuZnNp47WZwdK-8sXVPMgB8Ba) ({% include instructors people="kassanjee" %}, {{ main }})
 - 08h45-09h30 {{ lect }} [Life cycle of a modeling project](https://docs.google.com/presentation/d/17OMoPo0DOe6WBn4cjwY4j6Cy-3v9xzFp) ({% include instructors people="reiner" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="pearson|kassanjee" %}
 - 09h30-10h00 {{ gw }} MMED project work ({{ breakout }})
