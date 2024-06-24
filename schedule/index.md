@@ -256,7 +256,7 @@ archive: false
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
 - 14h00-15h30 {{ gw }} MMED project work ({{ breakout}})
-- 15h30 [initial project work update due](https://docs.google.com/presentation/d/1cACkd7oZRYN7tXFn9aoj1R4gSEsqqWCS3I3arwwNWR4)
+	- 15h30 [Initial project work update due](https://docs.google.com/presentation/d/1cACkd7oZRYN7tXFn9aoj1R4gSEsqqWCS3I3arwwNWR4)
 - 15h30-16h00 {{ tea }}
 - 16h00-17h00 Mentor presentations ({% include instructors people="nyamai|dawa|sereo|phiri" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="are|reiner" %}
@@ -341,6 +341,7 @@ archive: false
   - {: .shadow } Get a more direct summary title for this
 - 12h30-14h00 {{ lunch }} _NOTE: Bobby + mentors: technical check with virtual panelists_{: .shadow}
 - 14h00-15h30 {{ gw }} MMED project work ({{ breakout }})
+	- 15h30 [Week 2 update due](https://docs.google.com/document/d/1i3it69_dGFOoklfUl9hQ7ltLTC5YdDNjNNQfSnz2Jus/edit)
 - 15h30-16h00 {{ tea }}
 - 16h00-17h30 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
 - 18h00-18h30 Dinner
