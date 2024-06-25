@@ -326,7 +326,8 @@ archive: false
 - 15h30-16h00 {{ tea }}
 - 16h00-17h30 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
 - 18h00-18h30 Dinner	
-- 19h00-20h00 {{ lect }} Guest Lecture ({% include instructors people="dushoff" %}, {{ main }})
+- 19h00-20h00 {{ lect }} Guest Lecture [Slimane ben Miled](https://scholar.google.com/citations?user=KhW_2YsAAAAJ&hl=en): Coupling scale in epidemiology
+	* Moderator:({% include instructors people="dushoff" %}, {{ main }})
   - {: .shadow } note takers {% include instructors people="pearson|dushoff" %}
 
 ### Day 10
