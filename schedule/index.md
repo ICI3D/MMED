@@ -310,7 +310,7 @@ archive: false
 
 ### Day 9
 
-- 08h30-10h00 {{ lect }} Introduction to Markov Chain Monte Carlo (MCMC) ({% include instructors people="borchering" %}, {{ main }})
+- 08h30-10h00 {{ lect }} [Introduction to Markov Chain Monte Carlo (MCMC)](https://drive.google.com/file/d/1KF7y40WT0dv080O5D35bTH-He-LiO_co) ({% include instructors people="borchering" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="pearson|kassanjee" %}
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h30 {{ prac }} [Lab 7](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab7_MCMC-Binomial.R) & [Lab 8](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab8_MCMC-SI_HIV.R) MCMC model fitting ({% include instructors people="kassanjee|pearson|Mentors" %}, {{lab}})
