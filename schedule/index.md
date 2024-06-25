@@ -310,7 +310,7 @@ archive: false
 
 ### Day 9
 
-- 08h30-10h00 {{ lect }} Introduction to Markov Chain Monte Carlo (MCMC) ({% include instructors people="borchering" %}, {{ main }})
+- 08h30-10h00 {{ lect }} [Introduction to Markov Chain Monte Carlo (MCMC)](https://drive.google.com/file/d/1KF7y40WT0dv080O5D35bTH-He-LiO_co) ({% include instructors people="borchering" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="pearson|kassanjee" %}
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h30 {{ prac }} [Lab 7](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab7_MCMC-Binomial.R) & [Lab 8](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab8_MCMC-SI_HIV.R) MCMC model fitting ({% include instructors people="kassanjee|pearson|Mentors" %}, {{lab}})
@@ -318,10 +318,10 @@ archive: false
 - 11h30-12h30 {{ gw }} MMED project work ({{breakout}})
 - 12h30-14h00 {{ lunch }}
   - {: .shadow} 1300 ICI3D meeting with remoting adds
-- 14h00-14h45 {{ lect }} Data management and cleaning ({% include instructors people="pearson" %}, {{ main }})
+- 14h00-14h45 {{ lect }} [Data management and cleaning](https://github.com/mac-theobio/QMEE/blob/master/lectures/cleaning.rmd) ({% include instructors people="pearson" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="dushoff|borchering" %}
-- 14h45-15h30 {{ prac }} [Tutorial 5: Data cleaning](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_5_DataCleaning.R) ({% include instructors people="pearson|Mentors" %}, {{ lab }})
-  - Summary ({% include instructors people="phiri" %})
+- 14h45-15h30 {{ prac }} [Tutorial 5: Data cleaning](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_5_DataCleaning.R), [data](https://github.com/ICI3D/datasets/blob/master/dataCleaning/tutorial5.csv) ({% include instructors people="pearson|Mentors" %}, {{ lab }})
+  - [Summary](https://docs.google.com/presentation/d/1qDmiDe5E9lDv_yMEcnszChP_P-9dyqtE) ({% include instructors people="phiri" %})
   - {: .shadow } note takers: {% include instructors people="are|dushoff" %}
 - 15h30-16h00 {{ tea }}
 - 16h00-17h30 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
