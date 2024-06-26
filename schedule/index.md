@@ -334,6 +334,7 @@ archive: false
 
 - 08h30-09h30 {{ lect }} Model assessment ({% include instructors people="dushoff" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="mthombothi|kassanjee" %}
+  * [Slides](https://drive.google.com/file/d/1p8OUr_1KP7JK0CWtDXpZu4gT0FF-zmCz/view)
 - 09h30-10h00 {{ gw }} MMED project work ({{ breakout }})
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h00 {{ gw }} MMED project work ({{ breakout }})
