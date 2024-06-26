@@ -338,13 +338,13 @@ archive: false
 - 09h30-10h00 {{ gw }} MMED project work ({{ breakout }})
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h00 {{ gw }} MMED project work ({{ breakout }})
-- 11h00-12h30 {{ lc }} Participatory coding for study design and simulation based validation {% include instructors people="dushoff|kassanjee" %}, {{ main }})
+- 11h00-12h30 {{ lc }} Participatory coding for study design and simulation based validation ({% include instructors people="dushoff|kassanjee" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="mthombothi|kassanjee" %}
   * [One-study code](https://github.com/ICI3D/RTutorials/blob/master/sampling_JD/study_design.R); [Many-study code](https://github.com/ICI3D/RTutorials/blob/master/sampling_JD/study_design_rep.R)
   - {: .shadow } Get a more direct summary title for this
 - 12h30-14h00 {{ lunch }} _NOTE: Bobby + mentors: technical check with virtual panelists_{: .shadow}
 - 14h00-15h30 {{ gw }} MMED project work ({{ breakout }})
-	- 15h30 [Week 2 update due](https://docs.google.com/document/d/1i3it69_dGFOoklfUl9hQ7ltLTC5YdDNjNNQfSnz2Jus/edit)
+	- 15h30 [Week 2 update due](https://docs.google.com/document/d/1i3it69_dGFOoklfUl9hQ7ltLTC5YdDNjNNQfSnz2Jus)
 - 15h30-16h00 {{ tea }}
 - 16h00-17h30 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
 - 18h00-18h30 Dinner
@@ -367,8 +367,10 @@ archive: false
 - 08h30-10h00 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
 - 10h00-10h30 {{ coffee }}	
 - 10h30-12h30 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
-- 12h30-13h45 {{ lunch }}
-- 13h45-15h30 {{ gw }} Project presentations ({% include instructors people="are" %}, {{main}})
+  - 12h30 [Report due](https://docs.google.com/document/d/1_gM8EV6m-PDJYNwVCRUsQke56cFB0Qk-pcynE7JbV_A)
+  - 13h00 [Presentations due](https://docs.google.com/document/d/1DWAZnk0KQRJqWrcFj4z4j3YCfrOHjK5EgS73NLUXw-k)
+- 12h30-13h30 {{ lunch }}
+- 13h30-15h30 {{ gw }} Project presentations ({% include instructors people="are" %}, {{main}})
   - {: .shadow } note takers: {% include instructors people="dushoff|reiner" %}
 - 15h30-16h00 {{ tea }}
 - 16h00-17h00 {{ disc }} Feedback session II ({% include instructors people="bruce" %}, {{ main }})
