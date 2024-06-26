@@ -340,7 +340,7 @@ archive: false
 - 10h30-11h00 {{ gw }} MMED project work ({{ breakout }})
 - 11h00-12h30 {{ lc }} Participatory coding for study design and simulation based validation {% include instructors people="dushoff|kassanjee" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="mthombothi|kassanjee" %}
-  * [Code](https://github.com/ICI3D/RTutorials/blob/master/sampling_JD/study_design.R)
+  * [One-study code](https://github.com/ICI3D/RTutorials/blob/master/sampling_JD/study_design.R); [Many-study code](https://github.com/ICI3D/RTutorials/blob/master/sampling_JD/study_design_rep.R)
   - {: .shadow } Get a more direct summary title for this
 - 12h30-14h00 {{ lunch }} _NOTE: Bobby + mentors: technical check with virtual panelists_{: .shadow}
 - 14h00-15h30 {{ gw }} MMED project work ({{ breakout }})
