@@ -337,7 +337,7 @@ archive: false
 - 09h30-10h00 {{ gw }} MMED project work ({{ breakout }})
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h00 {{ gw }} MMED project work ({{ breakout }})
-- 11h00-12h30 {{ lc }} Participatory coding for variability, sampling distributions, and simulation lecture / Study design and simulation based validation / stochastic modelling II with live coding ({% include instructors people="dushoff|kassanjee" %}, {{ main }})
+- 11h00-12h30 {{ lc }} Participatory coding for study design and simulation based validation {% include instructors people="dushoff|kassanjee" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="mthombothi|kassanjee" %}
   * [Code](https://github.com/ICI3D/RTutorials/blob/master/sampling_JD/study_design.R)
   - {: .shadow } Get a more direct summary title for this
