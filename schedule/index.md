@@ -355,7 +355,7 @@ archive: false
 - 10h00-10h30 {{ coffee }}	
 - 10h30-12h30 {{ gw }} MMED project work ({{breakout}})
 - 12h30-14h00 {{ lunch }}
-- 14h00-15h30 **either** {{ gw }} MMED project work **or** {{ lc }} Analysis pipelines ({% include instructors people="pearson" %}, {{breakout}} or {{main}})
+- 14h00-15h30 **either** {{ gw }} MMED project work **or** {{ lc }} [Analysis pipelines (video + transcript)](https://drive.google.com/drive/folders/1sr9YnsxfejQbcaS_wX0npn3WkWXDX9Ul) ([resulting code](https://github.com/ICI3D/RTutorials/tree/master/pipelines/2024)) ({% include instructors people="pearson" %}, {{breakout}} or {{main}})
   - {: .shadow } note takers: {% include instructors people="mthombothi|kassanjee" %}
 - 15h30-16h00 {{ tea }}
 - 16h00-17h30 {{ disc }} Modelling for policy ({% include instructors people="reiner" %}, {{main}})
