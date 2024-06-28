@@ -370,7 +370,7 @@ archive: false
   - 12h30 [Report due](https://docs.google.com/document/d/1_gM8EV6m-PDJYNwVCRUsQke56cFB0Qk-pcynE7JbV_A)
   - 13h00 [Presentations due](https://docs.google.com/document/d/1DWAZnk0KQRJqWrcFj4z4j3YCfrOHjK5EgS73NLUXw-k)
 - 12h30-13h30 {{ lunch }}
-	* _Probable_ MMED group photo at 13h20. You do not want to miss this
+	* MMED group photo at 13h20. Please be prompt.
 - 13h30-15h30 {{ gw }} Project presentations ({% include instructors people="are" %}, {{main}})
   - {: .shadow } note takers: {% include instructors people="dushoff|reiner" %}
 - 15h30-16h00 {{ tea }}
