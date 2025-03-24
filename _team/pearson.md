@@ -1,5 +1,4 @@
 ---
 tab: Team
-type: director
-role: Clinic Director for MMED 2024
+role: Faculty MMED 2025
 ---

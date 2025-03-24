@@ -1,12 +1,12 @@
 ---
 layout: clinic
 title: Info
-year: 2023
+year: 2025
 tab: Info
 longtitle: Clinic on Meaningful Modeling of Epidemiological Data
 summary: MMED is a 2­‐week modeling clinic that emphasizes the use of data in understanding infectious disease dynamics. Participants conduct modeling projects informed by epidemiological data that address practical questions in a meaningful way.
 alerttype: warning
-alertmsg: The next <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> will be held on 17-29 June 2024 in Muizenberg, South Africa.
+alertmsg: The next <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> will be held on 9-27 June 2025 in Muizenberg, South Africa.
 ---
 
 {% if site.takingapps == true %}
@@ -23,11 +23,11 @@ Selection of participants will be on the basis of the applicant’s academic bac
 
 ## Course fees
 
-The course registration fee is ZAR35,000. The fee includes room and board for the two weeks of the Clinic. A small number of scholarships will be available. Instructions for paying the course fee will be made available to successful applicants by the end of May.
+The course registration fee is in ZAR, final value TBD. The fee includes room and board for the two weeks of the Clinic. A small number of scholarships will be available. Instructions for paying the course fee will be made available to successful applicants by the end of May.
 
 ## Venue
 
-MMED 2024 will be held at the African Institute of Mathematical Sceinces in Muizenberg, Cape Town, South Africa.
+MMED 2025 will be held at the African Institute of Mathematical Sceinces in Muizenberg, Cape Town, South Africa.
 
 ## Schedule
 
@@ -35,6 +35,7 @@ MMED 2024 will be held at the African Institute of Mathematical Sceinces in Muiz
 
 Schedules from previous years:
 
+- [MMED 2024](../schedule/2024 "MMED 2023 schedule")
 - [MMED 2023](../schedule/2023 "MMED 2023 schedule")
 - [MMED 2021](../schedule/2021 "MMED 2021 schedule")
 - [MMED 2019](../schedule/2019 "MMED 2019 schedule")
