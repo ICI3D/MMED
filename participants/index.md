@@ -4,6 +4,7 @@ redirect: https://github.com/ICI3D/MMEDparticipants/blob/master/Resources/MMED_2
 tab: Participants
 title: Participants
 subtitle: MMED 2023 Participants
+redirect: "./development"
 ---
 
 - [List of participants](./participantList)
