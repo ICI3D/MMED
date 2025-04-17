@@ -5,6 +5,8 @@ title: Logistics
 subtitle: Logistical information
 ---
 
+Final details for logistics will be updated in May 2025. For previous year's guidance -- which will likely be similar but not the same as this years -- see below.
+
 ## Arrival
 
 ### For everyone
