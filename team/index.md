@@ -87,6 +87,7 @@ subtitle: MMED 2025 Instructional Team
   {% endif %}
 {% endfor %}
 
+<!--
 {% for profile in site.team %}
 {% assign key = profile.relative_path | split: '/' | last | split: '.' | first %}
 {% assign member = site.data.team[key] %}
@@ -96,7 +97,6 @@ subtitle: MMED 2025 Instructional Team
   {% assign usetype = member.type %}
 {% endif %}
 {% if usetype == "support" %}
-<!-- Reset role for Workshop Faculty and Mentors. -->
 {% assign userole = profile.role %}
   <div class="team-member media" style="font-size:18px">
     <img src="{{site.url}}{{site.path}}/assets/img/{{member.img}}" class="media-object img-circle pull-left" alt="{{ member.name }}" height="115" />
@@ -107,11 +107,11 @@ subtitle: MMED 2025 Instructional Team
       <div class="clearfix"></div>
       <p style="font-size:14px"> <em>{{ member.position }}<br>{{ member.affiliation }}</em></p>
       <p style="font-size:14px">(<a href="{{ key }}">more info</a>)</p>
-  </div><!-- media-body -->
-</div><!-- team-member media -->
+  </div>
+</div>
   {% endif %}
 {% endfor %}
-
+-->
 
 {% include bottomTable.html %}
 
