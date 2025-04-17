@@ -1,4 +1,5 @@
 ---
 tab: Team
-role: MMED 2023 Logistics Lead<br>Faculty Member, MMED and DAIDD clinics
+type: workshop
+role: MMED Fundamentals Lecturer
 ---

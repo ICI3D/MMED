@@ -1,6 +1,6 @@
 ---
 tab: Team
-type: inactive
-role: Faculty Observer, MMED 2023
+type: workshop
+role: Faculty
 img: transmission.png
 ---

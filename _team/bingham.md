@@ -1,6 +1,6 @@
 ---
 tab: Team
 type: mentor
-role: MMED Mentor
+role: Mentor
 img: transmission.png
 ---

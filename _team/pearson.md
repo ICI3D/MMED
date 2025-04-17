@@ -1,4 +1,5 @@
 ---
 tab: Team
-role: Faculty MMED 2025
+type: workshop
+role: Faculty
 ---

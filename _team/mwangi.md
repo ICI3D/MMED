@@ -1,3 +1,4 @@
 ---
 tab: Team
+type: inactive
 ---
