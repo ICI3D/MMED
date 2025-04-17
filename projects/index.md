@@ -1,5 +1,5 @@
 ---
-layout: clinic
+layout: redirect
 redirect: ../development
 subtitle: MMED 2025 Projects
 tab: Projects
