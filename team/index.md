@@ -10,9 +10,9 @@ subtitle: MMED 2025 Instructional Team
 
 <br>
 
-{% for profile in site.team %}
+{% for profile in site.team %}{% comment %}this is the mmed/_team contents{% endcomment %}
 {% assign key = profile.relative_path | split: '/' | last | split: '.' | first %}
-{% assign member = site.data.team[key] %}
+{% assign member = site.data.team[key] %}{% comment %}this is the ici3d/_team contents{% endcomment %}
 {% if member.type contains "i3d" or profile.type contains "inactive" or profile.type contains "director" %}
   {% assign usetype = profile.type %}
 {% else %}
@@ -23,7 +23,7 @@ subtitle: MMED 2025 Instructional Team
     <img src="{{site.url}}{{site.path}}/assets/img/{{member.img}}" class="media-object img-circle pull-left" alt="{{ member.name }}" height="115" />
     <div class="media-body">
       <h3 class="media-heading team-name">{{ member.name }}</h3>
-      <strong>{{ member.role }}</strong>
+      <strong>{{ profile.role }}</strong>
       <hr class="pull-left">
       <div class="clearfix"></div>
       <p style="font-size:14px"> <em>{{ member.position }}<br>{{ member.affiliation }}</em></p>

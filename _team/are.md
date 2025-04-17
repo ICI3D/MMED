@@ -1,5 +1,5 @@
 ---
 tab: Team
-role: Support Faculty, MMED 2025
+role: Preparation Team
 type: support
 ---
