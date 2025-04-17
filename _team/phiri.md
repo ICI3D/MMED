@@ -1,4 +1,5 @@
 ---
 tab: Team
-role: MMED Mentor
+type: mentor
+role: Mentor
 ---

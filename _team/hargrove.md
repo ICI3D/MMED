@@ -1,4 +1,5 @@
 ---
 tab: Team
-type: inactive
+type: support
+role: Lecturer
 ---
