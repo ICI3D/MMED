@@ -6,7 +6,7 @@ longtitle: Clinic on Meaningful Modeling of Epidemiological Data
 tab: Info
 year: 2025
 alerttype: danger
-alertmsg: The next <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> will be held 9-27 June 2025 in Muizenberg, South Africa.
+alertmsg: The next <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> will be held 16-27 June 2025 in Muizenberg, South Africa.
 ---
 
 {%if false%}

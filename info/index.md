@@ -6,7 +6,7 @@ tab: Info
 longtitle: Clinic on Meaningful Modeling of Epidemiological Data
 summary: MMED is a 2­‐week modeling clinic that emphasizes the use of data in understanding infectious disease dynamics. Participants conduct modeling projects informed by epidemiological data that address practical questions in a meaningful way.
 alerttype: warning
-alertmsg: The next <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> will be held on 9-27 June 2025 in Muizenberg, South Africa.
+alertmsg: The next <strong>Clinic on the Meaningful Modeling of Epidemiological Data (MMED)</strong> will be held on 16-27 June 2025 in Muizenberg, South Africa.
 ---
 
 {% if site.takingapps == true %}
@@ -15,15 +15,15 @@ alertmsg: The next <strong>Clinic on the Meaningful Modeling of Epidemiological 
 
 ## Intended audience
 
-This clinic targets quantitative scientists, including mathematicians, statisticians, computer scientists, and infectious disease epidemiologists with strong quantitative backgrounds. Applicants should be junior / early career researchers and can be based at institutions anywhere in the world. Participants will engage with meaningful questions about infectious disease dynamics by integrating mathematical models with epidemiological data.
+This clinic targets quantitative scientists, including mathematicians, statisticians, computer scientists, and infectious disease epidemiologists with strong quantitative backgrounds. Participants are typically junior / early career researchers based at institutions around the world. Participants will engage with meaningful questions about infectious disease dynamics by integrating mathematical models with epidemiological data.
 
 ## Selection criteria
 
-Selection of participants will be on the basis of the applicant’s academic background, the unique perspectives that they will bring to the Clinic, and the degree to which the selection committee expects the applicant will benefit from attending the Clinic. We expect to have up to eight places for applicants based outside Africa and up to ten places for applicants from African institutions.
+Selection of participants is based on academic background, unique perspectives they will bring to the Clinic, and potential for them to benefit from attending the Clinic.
 
 ## Course fees
 
-The course registration fee is in ZAR, final value TBD. The fee includes room and board for the two weeks of the Clinic. A small number of scholarships will be available. Instructions for paying the course fee will be made available to successful applicants by the end of May.
+The course registration fee is in ZAR. The fee includes room and board for the two weeks of the Clinic. Most years, a small number of scholarships are available.
 
 ## Venue
 
