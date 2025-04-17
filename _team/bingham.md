@@ -1,6 +1,6 @@
 ---
 tab: Team
-type: inactive
+type: mentor
 role: MMED Mentor
 img: transmission.png
 ---
