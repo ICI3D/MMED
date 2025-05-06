@@ -11,7 +11,7 @@ Final details for logistics will be updated in May 2025. For previous year's gui
 
 ### For everyone
 - {: .shadow} Please review this [important information for visitors to AIMS and South Africa](./ImportantInfoAIMS.pdf) prior to arrival.
-- Participants will be staying in the AIMS housing, joining the students there for the year-long programme. You will likely be sharing a room with another participant, and the bathrooms are shared. If you arrive at AIMS after checkin on Sunday, one or more volunteers will be available in the lobby to answer any questions you may have and take you to your room.
+- External participants will be staying in the Empire Building, across the street from AIMS.
 - Check back here for final accommodation guidelines. **Please review the [accommodation guidelines](./accommodationGuidelines) prior to arrival.**{: .shadow}
 - {: .shadow} Please complete the [Emergency Contact](./emergencyContact) and [Photo Release](./photoRelease) forms and send completed copies to <forms@ici3d.org> by the end of the day on Monday.
 
@@ -25,13 +25,13 @@ Final details for logistics will be updated in May 2025. For previous year's gui
 #### For those arriving by ground
 
 - **All participants without a scheduled airport transfer should plan to arrive between 12:00 and 17:00 (South African local time) on Sunday (16 June), if possible**.
-- When you arrive, please proceed to the AIMS lobby. At this time, long term parking arrangements are *not* finalized. Please contact us ASAP if you will need parking.
+- When you arrive, please proceed to the AIMS lobby. You will be able to park it in the lot at the Empire Building after checking in.
 
 ## Welcome and Registration
 
 - If you arrive between 12:00 and 17:00 on Sunday, you are welcome to come by the AIMS lobby to meet some of the MMED mentors and AIMS students and staff. One or more volunteers will be available in the lobby to answer any questions you may have during this time.
 - You must register to receive your welcome packet and name tag. **There are two opportunities for registration**:
-    - If you arrive in Muizenberg on Sunday afternoon, please come to the AIMS lobby for registration _between 14:00 and 18:00 on Sunday (25 June)_.
+    - If you arrive in Muizenberg on Sunday afternoon, please come to the AIMS lobby for registration _between 14:00 and 18:00 on Sunday (15 June)_.
     - If you arrive after 18:00 on Sunday, please register on Monday morning. The registration table will be open from _8:00 - 8:25 on Monday_.
 - The first session of the Clinic will start promptly at 8:30 on Monday in the main lecture hall (see [schedule](../schedule)).
 
@@ -59,7 +59,7 @@ Final details for logistics will be updated in May 2025. For previous year's gui
     * *Lunch* is served from 13h00-13h30.  
     * *Dinner* is served from 18h00-18h30.
 
-- **Wireless internet access** is available throughout the main AIMS facility. To connect to the network with your personal computer, you will need to register your computer on the AIMS network. Instructions are available [here](./AIMS_IT.pdf).
+- **Wireless internet access** is available throughout the main AIMS facility. To connect to the network with your personal computer, you will need to register your computer on the AIMS network. Instructions are available [here](./AIMS_IT.pdf). Wi-fi will also be available in the Empire Building.
 
 ## Things to bring or buy
 
