@@ -76,8 +76,6 @@ subtitle: MMED 2025 Instructional Team
   {% endif %}
 {% endfor %}
 
-{% include bottomTable.html %}
-
 <h2 style="color: #15378a">Program Evaluator</h2>
 <br>
 
