@@ -51,6 +51,7 @@ subtitle: MMED 2025 Instructional Team
 {% endfor %}
 
 <br>
+<h2 style="color: #15378a">Mentors and Faculty Observer</h2>
 
 {% include centerTable.html %}
 
