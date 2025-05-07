@@ -15,7 +15,7 @@ The final guidance for MMED 2025 will be available in May 2025. In the meantime,
 Prepare a poster presentation to share your research.
 
 - Poster preparation guidelines are available [here](../posters).  
-- Be sure to submit your poster by the June 19 deadline, if you would like us to print it for you.
+- Be sure to submit your poster by the June 9 deadline, if you would like us to print it for you.
 - {: .shadow } See [this page](../posters/sessions) for poster session assignments.
 
 ### <a id="#Software"></a> 2. Software installation
