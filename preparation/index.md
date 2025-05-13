@@ -93,8 +93,8 @@ C Viboud, and the Isaac Newton Institute IDD Collaboration. (2015) [Modeling inf
 
 #### Especially for those new to dynamical modeling
 
-- **Welte, A**, **B Williams**, and **G Hitchcock**. [Mathematical models of transmission and control of infectious agents][WelteWilliamsHitchcock], Chapter 5.18 in _Oxford Textbook of Global Public Health_ (Sixth Edition, Eds. R Detels, M Gulliford, QA Karim, and CC Tan). Oxford University Press  (February 2015). Print ISBN-13: 9780199661756
+- **A Welte**, **C van Schalkwyk**. [Mathematical models of transmission and control of infectious agents][WelteVanSchalkwyk], Chapter 5.16 in Oxford Textbook of Global Public Health (Seventh Edition, Eds. R Detels, QA Karim, F Baum, L Li, and AH Leyland). Oxford University Press (2021). Print ISBN-13: 9780198816805
 
 [Heesterbeek2015]: https://github.com/ICI3D/MMEDparticipants/raw/master/Readings/Heesterbeek2015.pdf
-[WelteWilliamsHitchcock]:  https://github.com/ICI3D/MMEDparticipants/raw/master/Readings/WelteWilliamsHitchcock.pdf
+[WelteVanSchalkwyk]: https://www.researchgate.net/publication/340922578_Mathematical_Models_of_Transmission_and_Control_of_Infectious_Agents
 [ICI3Dintro]: https://github.com/ICI3D/MMEDparticipants/raw/master/Readings/ICI3Dintro.pdf
