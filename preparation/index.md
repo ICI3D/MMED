@@ -8,8 +8,6 @@ alerttype: success
 alertmsg: Please prepare for the Clinic by completing the following tasks. <b>You will need to be logged into your GitHub account to access some of the materials linked below.</b>
 ---
 
-The final guidance for MMED 2025 will be available in May 2025. In the meantime, please see the information below for MMED 2024.
-
 ### 1. Poster preparation
 
 Prepare a poster presentation to share your research.
