@@ -65,12 +65,7 @@ If you are unfamiliar with or rusty on your understanding of the [Binomial Distr
 
 #### **Introduction to Git**
 
-In addition, please complete all 4 lessons in [this free, browser-based tutorial from Codecademy](https://www.codecademy.com/learn/learn-git). You will learn the foundations of how to work with git to improve your workflow and collaborate on projects that involve code.
-
-- _Basic Git Workflow_ teaches you how to create a repository for a project and keep track of changes you make to files.
-- _How to Backtrack in Git_ shows you how to correct mistakes in coding projects or revert to an older version of your code if you decide to change directions.
-- _Git Branching_ introduces a workflow that allows you to have multiple working versions of your code, how to bring them back together, and what to do if your versions have conflicting changes.
-- _Git Teamwork_ teaches you how to collaborate on a project using git.
+You should find and complete some introductory git training, including on how to use branching for collaboration. We recommend these free, browser-based tutorials from Codecademy: [Learn Git: Introduction](https://www.codecademy.com/enrolled/courses/learn-git-introduction) and [Learn Git: Branching and Collaboration](https://www.codecademy.com/learn/learn-git-branching-and-collaboration). More broadly you can look at all their offerings on git with [this search](https://www.codecademy.com/search?query=Git) (though these include non-free options). There are a wide variety of git resources out there, and you can make use of whatever training covers the basics and collaborative work in git. We also recommend you consider materials offered by [Github](https://skills.github.com/), as these cover some other workflows you might want to use in addition to git.
 
 If you are already comfortable using git, you can skip this activity, but if you're new to git or your skills are rusty, please take the time to work through all four lessons.
 
