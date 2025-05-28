@@ -19,7 +19,7 @@ subtitle: Resources for during and after the Clinic
     - [R Studio Cheat Sheets](http://www.rstudio.com/resources/cheatsheets)
     - [R for Data Science](http://r4ds.had.co.nz/)
     - [R Studio Data Wrangling Cheat Sheets](https://posit.co/resources/cheatsheets/)
-    - [R Bootcamp]](https://r-bootcamp.netlify.app/) - specifically for learning tidyverse
+    - [R Bootcamp](https://r-bootcamp.netlify.app/) - specifically for learning tidyverse
     - [Epirecipes project](http://epirecip.es/epicookbook/) - not just R!
 - Learning Git and GitHub
     - [Happy Git with R](https://happygitwithr.com/)
