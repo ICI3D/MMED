@@ -166,7 +166,7 @@ archive: false
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h15-13h45 {{ lunch }} (note slight shift)
 - 13h45-15h00 {{ prac }} [Lab 6 - MLE fitting of an SIR model to prevalence data](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab6_MLE_SIV_HIV.R) ({% include instructors people="schalkwyk|Mentors" %}, {{ lab }})
-	- 15h30 [Summary]() ({% include instructors people="kassanjee" %})
+	- 15h30 [Summary]() ({% include instructors people="blumberg" %})
 - 15h00-15h30 [Projects: Topic Qs]() ({% include instructors people="dushoff" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="kassanjee|pearson" %}
 - 15h30-16h00 {{ tea }}
