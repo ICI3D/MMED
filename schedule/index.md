@@ -86,7 +86,7 @@ archive: false
   - {: .shadow } [Resulting Code]()
   - {: .shadow } note takers {% include instructors people="nyamai" %}
 - 10h00-10h30 {{ coffee }}
-- 10h30-11h30 [R Tutorials](../tutorials): [Lab 1 - ODE Models](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab1_ODEmodels.R) ({% include instructors people="kassanjee|Mentors" %}, {{ lab }})
+- 10h30-11h30 [R Tutorials](../tutorials): [Lab 1 - ODE Models](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab1_ODEmodels.R) ({% include instructors people="schalkwyk|Mentors" %}, {{ lab }})
 - 11h30-12h30 [Thinking about Data]() ({% include instructors people="nyamai|Mentors" %}, {{main}})
   - {: .shadow } note takers {% include instructors people="kassanjee" %}
 - 14h00-15h00 {{ lect }} [Study design]() ({% include instructors people="kassanjee" %}, {{ main }})
