@@ -40,13 +40,94 @@ archive: false
     <ul style="font-size:16px; margin:0px;">
       <li>The schedule below is mostly final, but there may be some changes in who leads sessions or potentially order</li>
       <li>Links to R tutorials and exercises are available <a href="../tutorials">here</a>.</li>
-      <li>As they become available, session slides will appear in <a href="https://drive.google.com/drive/folders/1IJgX3960Ss80iFuzY9XebtU_x3ITE6pj">this shared folder</a>.</li>
+      <li>As they become available, session slides will appear in <a href="https://drive.google.com/drive/folders/1C5LW7zhYYU856bHRBPu_s0yl5ToN8yOW">this shared folder</a>.</li>
       <li>Unless otherwise noted, all materials made available through this website are licensed through a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC-BY International License</a>.</li>
     </ul>
   </div>
 </div>
 
-## [Participant List](https://github.com/ICI3D/MMEDparticipants/blob/3b1f91b77e1d913c64a764a63875eb33cfcd03b2/logistics/mmed2024facepage.pdf)
+## {: .shadow } [Participant List](https://github.com/ICI3D/MMEDparticipants/blob/3b1f91b77e1d913c64a764a63875eb33cfcd03b2/logistics/mmed2024facepage.pdf)
+
+<details markdown="1"><summary>Week 0: MMED Foundations</summary>
+
+### Day 1 (Monday, 9 June)
+
+- 09h00-09h20 {{ org }} [Introductions, Overview]() (everyone, {{ main }})
+- 09h20-10h30 {{ disc }} [Public health, epidemiology, and infectious disease modelling]() ({% include instructors people="pearson" %}, {{ main }})
+- 10h30-11h00 {{ coffee }}
+- 11h00-12h00 {{ lect }} [Introduction to infectious disease dynamics, Part I](https://drive.google.com/file/d/1nbtUAtmsc1SEbKq3-3YAz83_T2q1lYM0) ({% include instructors people="mthombothi" %}, {{ main }})
+- 12h00-13h00 {{ lect }} [Simple Models]() ({% include instructors people="pearson" %}, {{ main }})
+- 13h00-14h00 {{ lunch }}
+- 14h00-15h30 {{ prac }} [Tutorial 1: Introduction to R and Epidemic curves](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_1.R) ({% include instructors people="Tutors" %}, {{ lab }})
+- 15h30-16h00 {{ break }}
+- 16h00-17h00 {{ prac }} [Tutorial 1 cont.](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_1.R) ({% include instructors people="Tutors" %}, {{ lab }})
+- 17h10-17h45 {{ disc }} [How to read a scientific paper](../MedPH/How_to_read_exRabies.pdf) ({% include instructors people="pearson" %}, {{ main }})
+  - [Reference Paper](https://github.com/ICI3D/MathModelsMedPH/blob/6a85664902283b428ad093701dbd258070bffb2d/readings/Hampson2009.pdf)
+- 17h45-18h00 {{ org }} [Introduction to projects]() ({% include instructors people="pearson" %}, {{ main }})
+  - {: .shadow } [Pilot Project Prompt](../tutorials/pilotproject)
+  - {: .shadow } [Project Groups](https://docs.google.com/spreadsheets/d/1BusASpUW65aKUGAhRl1ODkZWlDdpRwKu)
+
+### Day 2
+
+- 08h30-09h00 [Reading time for a scientific paper](https://github.com/ICI3D/MathModelsMedPH/blob/6a85664902283b428ad093701dbd258070bffb2d/readings/Hampson2009.pdf)
+- 09h00-10h30 {{ lect }} [Introduction to infectious disease dynamics, Part II]() ({% include instructors people="mthombothi" %}, {{ main }})
+  - ["The" R0 paper](https://link.springer.com/article/10.1007/bf00178324) (might need [unpaywall](https://unpaywall.org/products/extension) or similar tools to access)
+- 10h30-11h00 {{ coffee }}
+- 11h00-12h00 {{ lect }} [Dynamics of directly transmitted pathogens]() ({% include instructors people="pearson" %}, {{ main }})
+- 12h00-13h00 {{ prac }} [Tutorial 2: More on Vectors, Data Frames, and Functions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_2.R), and [SEIR](https://raw.githubusercontent.com/ICI3D/RTutorials/master/seir.R) ({% include instructors people="Tutors" %}, {{ lab }})
+- 13h00-14h00 {{ lunch }}
+  - {: .shadow } 13h30 Check in with mentors re reading papers plans
+- 14h00-15h30 {{ prac }} [Tutorial 2 & benchmark questions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_2.R), and [SEIR & Benchmark questions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/seir.R) ({% include instructors people="Tutors" %}, {{ lab }})
+  - {: .shadow } [project development](../tutorials/pilotproject) as available
+- 15h30-16h00 {{ break }}
+- {: .shadow } 16h00-18h00 {{ gw }} [Project development](../tutorials/pilotproject) ({{ breakout }})
+  - {: .shadow } from 17h00, each group will check in with Carl (odd, in 105) or Zinhle (even, lobby): 17h00 1 and 2, 17h12 3 and 4, 17h24 5 and 6, 17h36 7 and 8, 17h48 9
+
+### Day 3
+
+- 08h30-09h00 {{ disc }} Tutorial 2 & SEIR Review ({% include instructors people="Tutors" %}, {{ lab }})
+- 09h00-10h30 {{ disc }} How did you read a scientific paper? (**mentors**, {{ lab }})
+  - [Reference Paper](https://github.com/ICI3D/MathModelsMedPH/blob/6a85664902283b428ad093701dbd258070bffb2d/readings/Hampson2009.pdf)
+- 10h30-11h00 {{ coffee }}
+- 11h00-11h45 {{ lect }} [Study Design and Analysis in Epidemiology: Where does modeling fit?]() ({% include instructors people="pearson" %}, {{ main }})
+- 11h45-13h00 {{ prac }} [Lab 3: Study Design in Epidemiology](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab3_EpiStudyDesign.R) ({% include instructors people="Tutors" %}, {{ lab }})
+- 13h00-14h00 {{ lunch }}
+- 14h00-15h30 {{ prac }} [Binomial Distribution Tutorial](https://raw.githubusercontent.com/ICI3D/RTutorials/master/binomialDistribution.R) ({% include instructors people="Tutors" %}, {{ lab }})
+- 15h30-16h00 {{ break }}
+- {: .shadow } 16h00-18h00 {{ gw }} [Project development](../tutorials/pilotproject) ({{ breakout }})
+
+### Day 4
+
+- 08h30-09h15 {{ lect }} [Study Design and Analysis, part II: RCT’s]() ({% include instructors people="pearson" %}, {{ main }})
+  - Side reading: [CDC on the Tuskegee Experiment](https://www.cdc.gov/tuskegee/timeline.htm), [Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/), [Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html)
+- 09h15-10h30 {{ prac }} [Lab 4: Study Design for Clinical Trials](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab4_RCT.R) ({% include instructors people="Tutors" %}, {{ lab }})
+- 10h30-11h00 {{ coffee }}
+- 11h00-12h00 {{ lect }} [Transmission in Finite Populations]() ({% include instructors people="mthombothi" %}, {{ main }})
+- {: .shadow } 12h00-13h00 {{ gw }} Project work, with progress checkin ({{ lab }} or {{ breakout }})
+  - {: .shadow } All checkins in the lab. Odd groups check in with Carl, even with Zinhle. Be prepared to show your draft report, slides, poster, and code.
+  - {: .shadow } 12h00 1 and 2, 12h30 3 and 4
+- 13h00-14h00 Lunch
+- {: .shadow } 14h00-15h30 {{ gw }} Project development (present on progress) ({{ lab }} or {{ breakout }})
+  - {: .shadow } 14h00 5 and 6, 14h30 7 and 8, 15h00 9
+- 15h30-16h00 {{ break }}
+- 16h00-18h00 {{ prac }} [Review Questions from Lab 4: Study Design for Clinical Trials](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab4_RCT.R) ({% include instructors people="Tutors" %}), [Tutorial 3: Probability Distributions and Control Structures, and review questions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_3.R) ({% include instructors people="Tutors" %}, {{ lab }})
+
+### Day 5
+
+- 08h30-09h30 {{ lect }} [Dynamics of vector-borne pathogens]() ({% include instructors people="mthombothi" %}, {{ main }})
+- 09h30-10h30 {{ gw }} Final Group Work ({{ breakout }}) 
+- 10h30-11h00 {{ coffee }}
+- 11h00-13h00 {{ gw }} Practice presentations and feedback (all, {{ main }})
+  - 5 minutes + 2 minutes for questions + 3 minutes for feedback
+  - 11h00-11h10 4, 11h10-11h20 1, 11h20-11h30 2, 11h30-11h40 3, 11h40-11h50 5, 11h50-12h00 6, 12h00-12h10 7, 12h10-12h20 8, 12h20-12h30 9 (with 30 minute buffer for overruns)
+- 13h00-14h00 {{ lunch }}
+- 14h00-15h00 {{ gw }} Revisions ({{ breakout }})
+- 15h00-15h30 {{ disc }} Preview for next week, Pop Quiz ({{ main }})
+- 15h30-16h00 {{ break }}
+- 16h00-18h00 {{ gw }} Optional: re-present + re-feedback. Optional: poster feedback. ({{ main }})
+
+</details>
+
 
 <details markdown="1"><summary>Week 1: Meaningful Modeling of Epidemiological Data (MMED)</summary>
 
@@ -280,88 +361,3 @@ archive: false
 - 18h00-18h30 Dinner
 
 </details>
-
-<!--
-
-<details markdown="1"><summary>Week 0: MMED Foundations</summary>
-
-### Day 1 (Monday, 9 June)
-
-- 10h45-11h30 {{ lect }} [Simple Models](https://docs.google.com/presentation/d/1Ki_ppxS5ozZkig0ryq71sYSkDPCKM2-hUt4Hht1YYvA) ({% include instructors people="pearson" %}, {{ main }})
-- 09h00-09h20 {{ org }} [Introductions, Overview](https://docs.google.com/presentation/d/1v1iQ17-rw5A-CFj7RSCpZ_GXVBs8ihWVNeRxU2ReTrU/edit?usp=sharing) (everyone, {{ main }})
-- 09h20-10h30 {{ disc }} [Public health, epidemiology, and infectious disease modelling](https://docs.google.com/presentation/d/18roBropa2apbe6DyFait0pZSe3jK4znBslYFdPo0zT0) ({% include instructors people="pearson" %}, {{ main }})
-- 10h30-11h00 {{ coffee }}
-- 11h00-12h00 {{ lect }} [Introduction to infectious disease dynamics, Part I](https://drive.google.com/file/d/12cI1s0IAhNTC3FgoJLAgNKSoTqlWk1Up) ({% include instructors people="mthombothi" %}, {{ main }})
-- 12h00-12h10 A brief stretch
-- 12h10-13h00 {{ disc }} [How to read a scientific paper](../MedPH/How_to_read_exRabies.pdf) ({% include instructors people="pearson" %}, {{ main }})
-  - [Reference Paper](https://github.com/ICI3D/MathModelsMedPH/blob/6a85664902283b428ad093701dbd258070bffb2d/readings/Hampson2009.pdf)
-- 13h00-14h00 {{ lunch }}
-- 14h00-15h30 {{ prac }} [Tutorial 1: Introduction to R and Epidemic curves](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_1.R) ({% include instructors people="Bria" %}, {{ lab }})
-- 15h30-16h00 {{ break }}
-- 16h00-17h00 {{ prac }} [Tutorial 1 cont.](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_1.R) ({% include instructors people="Bria" %}, {{ lab }})
-- 17h00-17h45 {{ org }} [Introduction to projects](https://docs.google.com/presentation/d/1dxD_mGLNHHMXfd6IsHwPHRHUUv-P1gGAckw9o9Y_UYo) ({% include instructors people="pearson" %}, {{ main }})
-  - [Pilot Project Prompt](../tutorials/pilotproject)
-  - [Project Groups](https://docs.google.com/spreadsheets/d/1BusASpUW65aKUGAhRl1ODkZWlDdpRwKu)
-
-
-### Day 2
-
-- 08h30-09h00 [Reading time for a scientific paper](https://github.com/ICI3D/MathModelsMedPH/blob/6a85664902283b428ad093701dbd258070bffb2d/readings/Hampson2009.pdf) (own choice)
-- 09h00-10h30 {{ lect }} [Introduction to infectious disease dynamics, Part II](https://drive.google.com/file/d/1JnylT9yjXUSUEo2tAJ0oOUdzPVi3HVmQ/view?usp=sharing) ({% include instructors people="mthombothi" %}, {{ main }})
-  - ["The" R0 paper](https://link.springer.com/article/10.1007/bf00178324) (might need [unpaywall](https://unpaywall.org/products/extension) or similar tools to access)
-- 10h30-11h00 {{ coffee }}
-- 11h00-12h00 {{ lect }} [Dynamics of directly transmitted pathogens](https://docs.google.com/presentation/d/1bYGvFolwVecUiEoiBAj05fVvYVE8u-ip) ({% include instructors people="pearson" %}, {{ main }})
-- 12h00-13h00 {{ prac }} [Tutorial 2: More on Vectors, Data Frames, and Functions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_2.R), and [SEIR](https://raw.githubusercontent.com/ICI3D/RTutorials/master/seir.R) ({% include instructors people="Emmanuel" %}, {{ lab }})
-- 13h00-14h00 {{ lunch }}
-  - {: .shadow } 13h30 Check in with mentors re reading papers plans
-- 14h00-15h30 {{ prac }} [Tutorial 2 & benchmark questions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_2.R), and [SEIR & Benchmark questions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/seir.R), [project development](../tutorials/pilotproject) as available ({% include instructors people="Emmanuel" %}, {{ lab }})
-- 15h30-16h00 {{ break }}
-- 16h00-18h00 {{ gw }} [Project development](../tutorials/pilotproject) ({{ breakout }})
-  - from 17h00, each group will check in with Carl (odd, in 105) or Zinhle (even, lobby): 17h00 1 and 2, 17h12 3 and 4, 17h24 5 and 6, 17h36 7 and 8, 17h48 9
-
-### Day 3
-
-- 08h30-09h00 {{ disc }} Tutorial 2 & SEIR Review ({% include instructors people="Emmanuel" %}, {{ lab }})
-- 09h00-10h30 {{ disc }} How to read a scientific paper (mentors, {{ lab }})
-  - [Reference Paper](https://github.com/ICI3D/MathModelsMedPH/blob/6a85664902283b428ad093701dbd258070bffb2d/readings/Hampson2009.pdf)
-- 10h30-11h00 {{ coffee }}
-- 11h00-11h45 {{ lect }} [Study Design and Analysis in Epidemiology: Where does modeling fit?](https://docs.google.com/presentation/d/1gw2R6rCzWxSzUwLCDmBPbqjs3zEl1-qH) ({% include instructors people="vanschalkwyk" %}, {{ main }})
-- 11h45-13h00 {{ prac }} [Lab 3: Study Design in Epidemiology](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab3_EpiStudyDesign.R) ({% include instructors people="sereo" %}, {{ lab }})
-- 13h00-14h00 {{ lunch }}
-- 14h00-15h30 {{ prac }} [Binomial Distribution Tutorial](https://raw.githubusercontent.com/ICI3D/RTutorials/master/binomialDistribution.R) ({% include instructors people="sereo" %}, {{ lab }})
-- 15h30-16h00 {{ break }}
-- 16h00-18h00 {{ gw }} [Project development](../tutorials/pilotproject) ({{ breakout }})
-
-### Day 4
-
-- 08h30-09h15 {{ lect }} [Study Design and Analysis, part II: RCT’s](https://docs.google.com/presentation/d/1rMHSkn2jvCbu-f5JZTC_996FlEE88XV-) ({% include instructors people="pearson" %}, {{ main }})
-  - Side reading: [CDC on the Tuskegee Experiment](https://www.cdc.gov/tuskegee/timeline.htm), [Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/), [Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html)
-- 09h15-10h30 {{ prac }} [Lab 4: Study Design for Clinical Trials](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab4_RCT.R) ({% include instructors people="Maryse" %}, {{ lab }})
-- 10h30-11h00 {{ coffee }}
-- 11h00-12h00 {{ lect }} [Transmission in Finite Populations](https://drive.google.com/file/d/1GPplZPOr7ztftH9W_oF-ilo-C5PL1Mnn) ({% include instructors people="mthombothi" %}, {{ main }})
-- 12h00-13h00 {{ gw }} Project work, with progress checkin ({{ lab }} or {{ breakout }})
-  - All checkins in the lab. Odd groups check in with Carl, even with Zinhle. Be prepared to show your draft report, slides, poster, and code.
-  - 12h00 1 and 2, 12h30 3 and 4
-- 13h00-14h00 Lunch
-- 14h00-15h30 {{ gw }} Project development (present on progress) ({{ lab }} or {{ breakout }})
-  - 14h00 5 and 6, 14h30 7 and 8, 15h00 9
-- 15h30-16h00 {{ break }}
-- 16h00-18h00 {{ prac }} [Review Questions from Lab 4: Study Design for Clinical Trials](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab4_RCT.R) ({% include instructors people="Maryse" %}), [Tutorial 3: Probability Distributions and Control Structures, and review questions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_3.R) ({% include instructors people="Gillian" %}, {{ lab }})
-
-### Day 5
-
-- 08h30-09h30 {{ lect }} [Dynamics of vector-borne pathogens](https://drive.google.com/file/d/1tJQ6TxDwoAS9vze3qhH0JQFOYeCINvhd) ({% include instructors people="mthombothi" %}, {{ main }})
-- 09h30-10h30 {{ gw }} Final Group Work ({{ breakout }}) 
-- 10h30-11h00 {{ coffee }}
-- 11h00-13h00 {{ gw }} Practice presentations and feedback (all, {{ main }})
-  - 5 minutes + 2 minutes for questions + 3 minutes for feedback
-  - 11h00-11h10 4, 11h10-11h20 1, 11h20-11h30 2, 11h30-11h40 3, 11h40-11h50 5, 11h50-12h00 6, 12h00-12h10 7, 12h10-12h20 8, 12h20-12h30 9 (with 30 minute buffer for overruns)
-- 13h00-14h00 {{ lunch }}
-- 14h00-15h00 {{ gw }} Revisions ({{ breakout }})
-- 15h00-15h30 {{ disc }} Preview for next week, Pop Quiz ({{ main }})
-- 15h30-16h00 {{ break }}
-- 16h00-18h00 {{ gw }} Optional: re-present + re-feedback. Optional: poster feedback. ({{ main }})
-
-</details>
-
--->
