@@ -8,33 +8,37 @@ repo: https://github.com/ICI3D/MathModelsMedPH
 
 ## Overview
 
-During the first week of MMED, you will work on a pilot project that will help you prepare for the final project. The pilot project is *not* intended to be new research, and it is entirely expected that your model will not "work". It is a short-duration *exercise* with feedback to prepare you for the larger scale, more self-directed MMED project. The pilot project will be due at the end of the first week of MMED, and you will receive feedback on your pilot project before you start your final project.
+During the first week of MMED, you will work on a pilot project that will help you prepare for the final project. The pilot project is *not* intended to be new research: it is to familiarize you with collaborative work, foundational technical skills, and to review the introductory concepts from the initial week. It is a short-duration *exercise* with feedback to prepare you for the larger scale, more self-directed MMED project. The pilot project will be due at the end of the first week of MMED, and you will receive feedback on your pilot project before you start your final project.
 
 ## Prompt
 
-For your project, you should address a public health oriented research question, based on infectious disease epidemiology phenomena and using a mathematical model. As part of your project, you should look to published work for an existing model and at most implement it with some small modification. To emphasize: the point of the pilot project is *not* to do a self-directed project, but to get practice with working as a group, to practice specifying a good research question, even if you cannot answer it, and to get feedback on your work.
+For your project, you review literature associated with the 1918 global influenza pandemic. Citing that work, you should summarize relevant epidemiological characteristics, public health insights, and trends the characterized that pandemic. We have curated a dataset of 1918 flu impact in South Africa that we will make available to you and which you should use to present local trends in the context of those larger trends.
+
+If you have time, you should frame a public health oriented research question that could be answered with an infectious disease model, and if you have more time, implement that model in R.
+
+To emphasize: the point of the pilot project is *not* to do a self-directed project, but to get practice with working as a group, to practice specifying a good research question, even if you cannot answer it, and to get feedback on your work.
 
 For all the submitted elements below, please send them to [Zinhle](mailto:zinhle@aims.ca.za)
 
 ## Elements
 
-Based on the simulation work you do with your model to answer your research question, you will produce the following elements:
-
 ### Practice Presentation: Given Friday Afternoon, submit 10h00 Saturday Morning
 
-A 5-minute presentation that clearly communicates your system, research question, model, results, and work setup. Your group should give that presentation and answer questions. You will then get feedback, which you will have an opportunity to incorporate and then re-present. Use this opportunity to learn: you will want it for the presentation of the full project at the end of the course.
+A 5-minute presentation that clearly communicates your collaborative work setup, summary of your findings and visualizations, and optionally the extended research question and model implementation. Your group should give that presentation and answer questions. You will then get feedback, which you will have an opportunity to incorporate and then re-present. Use this opportunity to learn: you will want it for the presentation of the full project at the end of the course.
 
 ### Report: Due 10h00 Saturday Morning
 
-A max 5-page report, with an informative title, and including an introduction (putting your research question and system in context), a methods section (explaining your model and how you use it), results (figures, tables, etc and explanation of what they show), and a discussion (interpreting your results in the context of your research question). Your report should also document how readers can find your code, access any data used, etc.
+A max 5-page report, which follows the framing from How to Read a Scientific Paper, but instead from the writing perspective. You report should include proper citations; the reference section does not count against the page limit. Be sure to include tables of the relevant epidemiological and public health insights, as well as at least one visualization of the local versus global suitation.
 
 In an appendix (not included in 5 page limit), you should also include a paragraph or two for each individual in the group describing their contribution to the project. Those paragraphs should be written by the individual themselves, but must be approved by the group.
 
 ### Poster: Due 10h00 Saturday Morning
 
-An A1 poster that clearly communicates your system, research question, model, results, and work setup. Your group will present this poster to the class, rotating through all the members (so you will have an opportunity to see other group posters). As with the presentation and report, you should communicate the research question, your methods, your results, and the validity of those results to other contexts.
+An A1 poster that clearly covers your insights and collaborative work setup. Your group will present this poster to the class, rotating through all the members (so you will have an opportunity to see other group posters).
 
-It is *not* necessary for your modeling to be valid, however its validity must be clearly communicated e.g. by comparison to real data.
+Regarding the extended deliverables of a research question and potentially modelling work: it is *not* necessary for those to be "right", but they should be clearly communicated.
+
+<!--
 
 ## Examples
 
@@ -119,3 +123,5 @@ Measles data to be used in the projects are made available courtesy of **Profess
 
 - [2014 Example]({{page.repo}}/blob/master/projectData/KathleenKagisoPoster.pdf?raw=true)
 - [2015 Example]({{page.repo}}/blob/master/projectData/WhoopingCoughOntario2.pdf?raw=true)
+
+-->
