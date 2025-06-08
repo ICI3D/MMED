@@ -52,20 +52,19 @@ archive: false
 
 ### Day 1 (Monday, 9 June)
 
-- 09h00-09h20 {{ org }} [Introductions, Overview]() (everyone, {{ main }})
-- 09h20-10h30 {{ disc }} [Public health, epidemiology, and infectious disease modelling]() ({% include instructors people="pearson" %}, {{ main }})
+- 09h00-09h20 {{ org }} [Introductions, Overview](https://docs.google.com/presentation/d/1g7F4kTMvPGq1NobmcAtLj_amwjV76MrFGRrJNURISBM) (everyone, {{ main }})
+- 09h20-10h30 {{ disc }} [Public health, epidemiology, and infectious disease modelling](https://docs.google.com/presentation/d/1Cxt6ZtRCalcu0iV0pX9fwDaW7DeNYi9Zgg58vUD5EfA) ({% include instructors people="pearson" %}, {{ main }})
 - 10h30-11h00 {{ coffee }}
 - 11h00-12h00 {{ lect }} [Introduction to infectious disease dynamics, Part I](https://drive.google.com/file/d/1nbtUAtmsc1SEbKq3-3YAz83_T2q1lYM0) ({% include instructors people="mthombothi" %}, {{ main }})
-- 12h00-13h00 {{ lect }} [Simple Models]() ({% include instructors people="pearson" %}, {{ main }})
+- 12h00-13h00 {{ lect }} [Simple Models](https://docs.google.com/presentation/d/1tFHnRbpf-KBbA_k301pA3WAlS3FbhKlardRRb6jbis4) ({% include instructors people="pearson" %}, {{ main }})
 - 13h00-14h00 {{ lunch }}
 - 14h00-15h30 {{ prac }} [Tutorial 1: Introduction to R and Epidemic curves](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_1.R) ({% include instructors people="Tutors" %}, {{ lab }})
 - 15h30-16h00 {{ break }}
 - 16h00-17h00 {{ prac }} [Tutorial 1 cont.](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_1.R) ({% include instructors people="Tutors" %}, {{ lab }})
 - 17h10-17h45 {{ disc }} [How to read a scientific paper](../MedPH/How_to_read_exRabies.pdf) ({% include instructors people="pearson" %}, {{ main }})
   - [Reference Paper](https://github.com/ICI3D/MathModelsMedPH/blob/6a85664902283b428ad093701dbd258070bffb2d/readings/Hampson2009.pdf)
-- 17h45-18h00 {{ org }} [Introduction to projects]() ({% include instructors people="pearson" %}, {{ main }})
-  - {: .shadow } [Pilot Project Prompt](../tutorials/pilotproject)
-  - {: .shadow } [Project Groups](https://docs.google.com/spreadsheets/d/1BusASpUW65aKUGAhRl1ODkZWlDdpRwKu)
+- 17h45-18h00 {{ org }} [Introduction to projects](../tutorials/pilotproject) ({% include instructors people="pearson" %}, {{ main }})
+  - [Project Groups](https://docs.google.com/spreadsheets/d/1gLfek_HAcFw-B1raWN6ZPZH_MHC4gtE88sjIf-jaIkc)
 
 ### Day 2
 
