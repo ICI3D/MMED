@@ -2,11 +2,11 @@
 
 # http://127.0.0.1:4000/schedule/index.html
 # http://127.0.0.1:4000/schedule/2024/
-# http://127.0.0.1:4000/
 # http://127.0.0.1:4000/schedule?shadow
 
 ## http://www.ici3d.org/MMED/
 ## http://www.ici3d.org/MMED/schedule
+## http://www.ici3d.org/MMED/schedule?shadow
 
 ######################################################################
 
@@ -14,6 +14,8 @@
 
 current: target
 -include target.mk
+
+vim_session: bash -cl "vmt schedule/index.md"
 
 ##################################################################
 
