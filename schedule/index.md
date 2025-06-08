@@ -46,8 +46,6 @@ archive: false
   </div>
 </div>
 
-## {: .shadow } [Participant List](https://github.com/ICI3D/MMEDparticipants/blob/3b1f91b77e1d913c64a764a63875eb33cfcd03b2/logistics/mmed2024facepage.pdf)
-
 <details markdown="1"><summary>Week 0: MMED Foundations</summary>
 
 ### Day 1 (Monday, 9 June)
