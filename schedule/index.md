@@ -72,23 +72,22 @@ archive: false
 ### Day 2
 
 - 08h30-09h00 [Reading time for a scientific paper](https://github.com/ICI3D/MathModelsMedPH/blob/6a85664902283b428ad093701dbd258070bffb2d/readings/Hampson2009.pdf)
-- 09h00-10h30 {{ lect }} [Introduction to infectious disease dynamics, Part II]() ({% include instructors people="mthombothi" %}, {{ main }})
+- 09h00-10h30 {{ lect }} [Introduction to infectious disease dynamics, Part II](https://drive.google.com/file/d/1SzQnv9haPgZ_o10GbGDT4nmoOvBeVU_T) ({% include instructors people="mthombothi" %}, {{ main }})
   - ["The" R0 paper](https://link.springer.com/article/10.1007/bf00178324) (might need [unpaywall](https://unpaywall.org/products/extension) or similar tools to access)
 - 10h30-11h00 {{ coffee }}
-- 11h00-12h00 {{ lect }} [Dynamics of directly transmitted pathogens]() ({% include instructors people="pearson" %}, {{ main }})
+- 11h00-12h00 {{ lect }} [Dynamics of directly transmitted pathogens](https://docs.google.com/presentation/d/1zFQVS4gHNyfFPXKuz8BIvweMzWQNf6c9) ({% include instructors people="pearson" %}, {{ main }})
 - 12h00-13h00 {{ prac }} [Tutorial 2: More on Vectors, Data Frames, and Functions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_2.R), and [SEIR](https://raw.githubusercontent.com/ICI3D/RTutorials/master/seir.R) ({% include instructors people="Tutors" %}, {{ lab }})
 - 13h00-14h00 {{ lunch }}
-  - {: .shadow } 13h30 Check in with mentors re reading papers plans
 - 14h00-15h30 {{ prac }} [Tutorial 2 & benchmark questions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_2.R), and [SEIR & Benchmark questions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/seir.R) ({% include instructors people="Tutors" %}, {{ lab }})
-  - {: .shadow } [project development](../tutorials/pilotproject) as available
 - 15h30-16h00 {{ break }}
 - 16h00-18h00 {{ gw }} [Project development](../tutorials/pilotproject) ({{ breakout }})
+- {: .shadow } [End of Day Questions](https://forms.gle/cWeCsKXKX6GSWSnk8)
 
 ### Day 3
 
 - 08h30-09h30 {{ gw }} [Project development](../tutorials/pilotproject) ({{ breakout }})
   - from 08h30, each group will check in with Carl (odd, in 105) or Zinhle (even, lobby): 08h30 1 and 2, 08h50 3 and 4, 09h10 5 and 6
-- 09h30-10h30 {{ disc }} How did you read a scientific paper? (**mentors**, {{ lab }})
+- 09h30-10h30 {{ disc }} How did you read a scientific paper? ({% include instructors people="pearson" %}, {{ lab }})
   - [Reference Paper](https://github.com/ICI3D/MathModelsMedPH/blob/6a85664902283b428ad093701dbd258070bffb2d/readings/Hampson2009.pdf)
 - 10h30-11h00 {{ coffee }}
 - 11h00-11h45 {{ lect }} [Study Design and Analysis in Epidemiology: Where does modeling fit?]() ({% include instructors people="pearson" %}, {{ main }})
