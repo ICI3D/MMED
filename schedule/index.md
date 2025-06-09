@@ -61,7 +61,7 @@ archive: false
 - 14h00-15h30 {{ prac }} [Tutorial 1: Introduction to R and Epidemic curves](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_1.R) ({% include instructors people="Tutors" %}, {{ lab }})
 - 15h30-16h00 {{ break }}
 - 16h00-17h00 {{ prac }} [Tutorial 1 cont.](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_1.R) ({% include instructors people="Tutors" %}, {{ lab }})
-- 17h10-17h45 {{ disc }} [How to read a scientific paper](../MedPH/How_to_read_exRabies.pdf) ({% include instructors people="pearson" %}, {{ main }})
+- 17h00-17h45 {{ disc }} [How to read a scientific paper](../MedPH/How_to_read_exRabies.pdf) ({% include instructors people="pearson" %}, {{ main }})
   - [Reference Paper](https://github.com/ICI3D/MathModelsMedPH/blob/6a85664902283b428ad093701dbd258070bffb2d/readings/Hampson2009.pdf)
 - 17h45-18h00 {{ org }} [Introduction to projects](../tutorials/pilotproject) ({% include instructors people="pearson" %}, {{ main }})
   - [Project Groups](https://docs.google.com/spreadsheets/d/1gLfek_HAcFw-B1raWN6ZPZH_MHC4gtE88sjIf-jaIkc)
