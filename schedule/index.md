@@ -48,6 +48,8 @@ archive: false
   </div>
 </div>
 
+### [Participants](https://drive.google.com/file/d/1UQtxdo2EN2egBiqZqLkICumHhD3_LvCh)
+
 <details markdown="1" open><summary>Week 0: MMED Foundations</summary>
 
 ### Day 1 (Monday, 9 June)
