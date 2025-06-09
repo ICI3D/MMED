@@ -81,12 +81,12 @@ archive: false
   - {: .shadow } [project development](../tutorials/pilotproject) as available
 - 15h30-16h00 {{ break }}
 - 16h00-18h00 {{ gw }} [Project development](../tutorials/pilotproject) ({{ breakout }})
-  - from 17h00, each group will check in with Carl (odd, in 105) or Zinhle (even, lobby): 17h00 1 and 2, 17h20 3 and 4, 17h40 5 and 6
 
 ### Day 3
 
-- 08h30-09h00 {{ disc }} Tutorial 2 & SEIR Review ({% include instructors people="Tutors" %}, {{ lab }})
-- 09h00-10h30 {{ disc }} How did you read a scientific paper? (**mentors**, {{ lab }})
+- 08h30-09h30 {{ gw }} [Project development](../tutorials/pilotproject) ({{ breakout }})
+  - from 08h30, each group will check in with Carl (odd, in 105) or Zinhle (even, lobby): 08h30 1 and 2, 08h50 3 and 4, 09h10 5 and 6
+- 09h30-10h30 {{ disc }} How did you read a scientific paper? (**mentors**, {{ lab }})
   - [Reference Paper](https://github.com/ICI3D/MathModelsMedPH/blob/6a85664902283b428ad093701dbd258070bffb2d/readings/Hampson2009.pdf)
 - 10h30-11h00 {{ coffee }}
 - 11h00-11h45 {{ lect }} [Study Design and Analysis in Epidemiology: Where does modeling fit?]() ({% include instructors people="pearson" %}, {{ main }})
