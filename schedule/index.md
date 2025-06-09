@@ -80,8 +80,8 @@ archive: false
 - 14h00-15h30 {{ prac }} [Tutorial 2 & benchmark questions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_2.R), and [SEIR & Benchmark questions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/seir.R) ({% include instructors people="Tutors" %}, {{ lab }})
   - {: .shadow } [project development](../tutorials/pilotproject) as available
 - 15h30-16h00 {{ break }}
-- {: .shadow } 16h00-18h00 {{ gw }} [Project development](../tutorials/pilotproject) ({{ breakout }})
-  - {: .shadow } from 17h00, each group will check in with Carl (odd, in 105) or Zinhle (even, lobby): 17h00 1 and 2, 17h12 3 and 4, 17h24 5 and 6, 17h36 7 and 8, 17h48 9
+- 16h00-18h00 {{ gw }} [Project development](../tutorials/pilotproject) ({{ breakout }})
+  - from 17h00, each group will check in with Carl (odd, in 105) or Zinhle (even, lobby): 17h00 1 and 2, 17h20 3 and 4, 17h40 5 and 6
 
 ### Day 3
 
@@ -94,7 +94,7 @@ archive: false
 - 13h00-14h00 {{ lunch }}
 - 14h00-15h30 {{ prac }} [Binomial Distribution Tutorial](https://raw.githubusercontent.com/ICI3D/RTutorials/master/binomialDistribution.R) ({% include instructors people="Tutors" %}, {{ lab }})
 - 15h30-16h00 {{ break }}
-- {: .shadow } 16h00-18h00 {{ gw }} [Project development](../tutorials/pilotproject) ({{ breakout }})
+- 16h00-18h00 {{ gw }} [Project development](../tutorials/pilotproject) ({{ breakout }})
 
 ### Day 4
 
@@ -107,8 +107,7 @@ archive: false
   - {: .shadow } All checkins in the lab. Odd groups check in with Carl, even with Zinhle. Be prepared to show your draft report, slides, poster, and code.
   - {: .shadow } 12h00 1 and 2, 12h30 3 and 4
 - 13h00-14h00 Lunch
-- {: .shadow } 14h00-15h30 {{ gw }} Project development (present on progress) ({{ lab }} or {{ breakout }})
-  - {: .shadow } 14h00 5 and 6, 14h30 7 and 8, 15h00 9
+- 14h00-15h30 {{ gw }} Project development (present on progress) ({{ lab }} or {{ breakout }})
 - 15h30-16h00 {{ break }}
 - 16h00-18h00 {{ prac }} [Review Questions from Lab 4: Study Design for Clinical Trials](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab4_RCT.R) ({% include instructors people="Tutors" %}), [Tutorial 3: Probability Distributions and Control Structures, and review questions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_3.R) ({% include instructors people="Tutors" %}, {{ lab }})
 
@@ -118,8 +117,8 @@ archive: false
 - 09h30-10h30 {{ gw }} Final Group Work ({{ breakout }}) 
 - 10h30-11h00 {{ coffee }}
 - 11h00-13h00 {{ gw }} Practice presentations and feedback (all, {{ main }})
-  - 5 minutes + 2 minutes for questions + 3 minutes for feedback
-  - 11h00-11h10 4, 11h10-11h20 1, 11h20-11h30 2, 11h30-11h40 3, 11h40-11h50 5, 11h50-12h00 6, 12h00-12h10 7, 12h10-12h20 8, 12h20-12h30 9 (with 30 minute buffer for overruns)
+  - {: .shadow } 5 minutes + 2 minutes for questions + 3 minutes for feedback
+  - {: .shadow } 11h00-11h10 4, 11h10-11h20 1, 11h20-11h30 2, 11h30-11h40 3, 11h40-11h50 5, 11h50-12h00 6, 12h00-12h10 7, 12h10-12h20 8, 12h20-12h30 9 (with 30 minute buffer for overruns)
 - 13h00-14h00 {{ lunch }}
 - 14h00-15h00 {{ gw }} Revisions ({{ breakout }})
 - 15h00-15h30 {{ disc }} Preview for next week, Pop Quiz ({{ main }})
