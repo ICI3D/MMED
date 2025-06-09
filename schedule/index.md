@@ -48,24 +48,26 @@ archive: false
   </div>
 </div>
 
-<details markdown="1"><summary>Week 0: MMED Foundations</summary>
+### [Participants](https://drive.google.com/file/d/1UQtxdo2EN2egBiqZqLkICumHhD3_LvCh)
+
+<details markdown="1" open><summary>Week 0: MMED Foundations</summary>
 
 ### Day 1 (Monday, 9 June)
 
-- 09h00-09h20 {{ org }} [Introductions, Overview]() (everyone, {{ main }})
-- 09h20-10h30 {{ disc }} [Public health, epidemiology, and infectious disease modelling]() ({% include instructors people="pearson" %}, {{ main }})
+- 09h00-09h20 {{ org }} [Introductions, Overview](https://docs.google.com/presentation/d/1g7F4kTMvPGq1NobmcAtLj_amwjV76MrFGRrJNURISBM) (everyone, {{ main }})
+- 09h20-10h30 {{ disc }} [Public health, epidemiology, and infectious disease modelling](https://docs.google.com/presentation/d/1Cxt6ZtRCalcu0iV0pX9fwDaW7DeNYi9Zgg58vUD5EfA) ({% include instructors people="pearson" %}, {{ main }})
 - 10h30-11h00 {{ coffee }}
 - 11h00-12h00 {{ lect }} [Introduction to infectious disease dynamics, Part I](https://drive.google.com/file/d/1nbtUAtmsc1SEbKq3-3YAz83_T2q1lYM0) ({% include instructors people="mthombothi" %}, {{ main }})
-- 12h00-13h00 {{ lect }} [Simple Models]() ({% include instructors people="pearson" %}, {{ main }})
+- 12h00-13h00 {{ lect }} [Simple Models](https://docs.google.com/presentation/d/1tFHnRbpf-KBbA_k301pA3WAlS3FbhKlardRRb6jbis4) ({% include instructors people="pearson" %}, {{ main }})
 - 13h00-14h00 {{ lunch }}
 - 14h00-15h30 {{ prac }} [Tutorial 1: Introduction to R and Epidemic curves](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_1.R) ({% include instructors people="Tutors" %}, {{ lab }})
 - 15h30-16h00 {{ break }}
 - 16h00-17h00 {{ prac }} [Tutorial 1 cont.](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_1.R) ({% include instructors people="Tutors" %}, {{ lab }})
-- 17h10-17h45 {{ disc }} [How to read a scientific paper](../MedPH/How_to_read_exRabies.pdf) ({% include instructors people="pearson" %}, {{ main }})
+- 17h00-17h45 {{ disc }} [How to read a scientific paper](../MedPH/How_to_read_exRabies.pdf) ({% include instructors people="pearson" %}, {{ main }})
   - [Reference Paper](https://github.com/ICI3D/MathModelsMedPH/blob/6a85664902283b428ad093701dbd258070bffb2d/readings/Hampson2009.pdf)
-- 17h45-18h00 {{ org }} [Introduction to projects]() ({% include instructors people="pearson" %}, {{ main }})
-  - {: .shadow } [Pilot Project Prompt](../tutorials/pilotproject)
-  - {: .shadow } [Project Groups](https://docs.google.com/spreadsheets/d/1BusASpUW65aKUGAhRl1ODkZWlDdpRwKu)
+- 17h45-18h00 {{ org }} [Introduction to projects](../tutorials/pilotproject) ({% include instructors people="pearson" %}, {{ main }})
+  - [Project Groups](https://docs.google.com/spreadsheets/d/1gLfek_HAcFw-B1raWN6ZPZH_MHC4gtE88sjIf-jaIkc)
+- [End of Day Questions](https://forms.gle/wFNTAMsQU7JEQWrU9)
 
 ### Day 2
 
@@ -80,13 +82,13 @@ archive: false
 - 14h00-15h30 {{ prac }} [Tutorial 2 & benchmark questions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_2.R), and [SEIR & Benchmark questions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/seir.R) ({% include instructors people="Tutors" %}, {{ lab }})
   - {: .shadow } [project development](../tutorials/pilotproject) as available
 - 15h30-16h00 {{ break }}
-- {: .shadow } 16h00-18h00 {{ gw }} [Project development](../tutorials/pilotproject) ({{ breakout }})
-  - {: .shadow } from 17h00, each group will check in with Carl (odd, in 105) or Zinhle (even, lobby): 17h00 1 and 2, 17h12 3 and 4, 17h24 5 and 6, 17h36 7 and 8, 17h48 9
+- 16h00-18h00 {{ gw }} [Project development](../tutorials/pilotproject) ({{ breakout }})
 
 ### Day 3
 
-- 08h30-09h00 {{ disc }} Tutorial 2 & SEIR Review ({% include instructors people="Tutors" %}, {{ lab }})
-- 09h00-10h30 {{ disc }} How did you read a scientific paper? (**mentors**, {{ lab }})
+- 08h30-09h30 {{ gw }} [Project development](../tutorials/pilotproject) ({{ breakout }})
+  - from 08h30, each group will check in with Carl (odd, in 105) or Zinhle (even, lobby): 08h30 1 and 2, 08h50 3 and 4, 09h10 5 and 6
+- 09h30-10h30 {{ disc }} How did you read a scientific paper? (**mentors**, {{ lab }})
   - [Reference Paper](https://github.com/ICI3D/MathModelsMedPH/blob/6a85664902283b428ad093701dbd258070bffb2d/readings/Hampson2009.pdf)
 - 10h30-11h00 {{ coffee }}
 - 11h00-11h45 {{ lect }} [Study Design and Analysis in Epidemiology: Where does modeling fit?]() ({% include instructors people="pearson" %}, {{ main }})
@@ -94,7 +96,7 @@ archive: false
 - 13h00-14h00 {{ lunch }}
 - 14h00-15h30 {{ prac }} [Binomial Distribution Tutorial](https://raw.githubusercontent.com/ICI3D/RTutorials/master/binomialDistribution.R) ({% include instructors people="Tutors" %}, {{ lab }})
 - 15h30-16h00 {{ break }}
-- {: .shadow } 16h00-18h00 {{ gw }} [Project development](../tutorials/pilotproject) ({{ breakout }})
+- 16h00-18h00 {{ gw }} [Project development](../tutorials/pilotproject) ({{ breakout }})
 
 ### Day 4
 
@@ -107,8 +109,7 @@ archive: false
   - {: .shadow } All checkins in the lab. Odd groups check in with Carl, even with Zinhle. Be prepared to show your draft report, slides, poster, and code.
   - {: .shadow } 12h00 1 and 2, 12h30 3 and 4
 - 13h00-14h00 Lunch
-- {: .shadow } 14h00-15h30 {{ gw }} Project development (present on progress) ({{ lab }} or {{ breakout }})
-  - {: .shadow } 14h00 5 and 6, 14h30 7 and 8, 15h00 9
+- 14h00-15h30 {{ gw }} Project development (present on progress) ({{ lab }} or {{ breakout }})
 - 15h30-16h00 {{ break }}
 - 16h00-18h00 {{ prac }} [Review Questions from Lab 4: Study Design for Clinical Trials](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab4_RCT.R) ({% include instructors people="Tutors" %}), [Tutorial 3: Probability Distributions and Control Structures, and review questions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_3.R) ({% include instructors people="Tutors" %}, {{ lab }})
 
@@ -118,8 +119,8 @@ archive: false
 - 09h30-10h30 {{ gw }} Final Group Work ({{ breakout }}) 
 - 10h30-11h00 {{ coffee }}
 - 11h00-13h00 {{ gw }} Practice presentations and feedback (all, {{ main }})
-  - 5 minutes + 2 minutes for questions + 3 minutes for feedback
-  - 11h00-11h10 4, 11h10-11h20 1, 11h20-11h30 2, 11h30-11h40 3, 11h40-11h50 5, 11h50-12h00 6, 12h00-12h10 7, 12h10-12h20 8, 12h20-12h30 9 (with 30 minute buffer for overruns)
+  - {: .shadow } 5 minutes + 2 minutes for questions + 3 minutes for feedback
+  - {: .shadow } 11h00-11h10 4, 11h10-11h20 1, 11h20-11h30 2, 11h30-11h40 3, 11h40-11h50 5, 11h50-12h00 6, 12h00-12h10 7, 12h10-12h20 8, 12h20-12h30 9 (with 30 minute buffer for overruns)
 - 13h00-14h00 {{ lunch }}
 - 14h00-15h00 {{ gw }} Revisions ({{ breakout }})
 - 15h00-15h30 {{ disc }} Preview for next week, Pop Quiz ({{ main }})
