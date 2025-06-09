@@ -24,7 +24,7 @@ For all the submitted elements below, please send them to [Zinhle](mailto:zinhle
 
 ### Practice Presentation: Given Friday Afternoon, submit 10h00 Saturday Morning
 
-A 5-minute presentation that clearly communicates your collaborative work setup, summary of your findings and visualizations, and optionally the extended research question and model implementation. Your group should give that presentation and answer questions. You will then get feedback, which you will have an opportunity to incorporate and then re-present. Use this opportunity to learn: you will want it for the presentation of the full project at the end of the course.
+A short presentation that clearly communicates your collaborative work setup, summary of your findings and visualizations, and optionally the extended research question and model implementation. Your group should give that presentation and answer questions. You will then get feedback, which you will have an opportunity to incorporate and then re-present. Use this opportunity to learn: you will want it for the presentation of the full project at the end of the course.
 
 ### Report: Due 10h00 Saturday Morning
 
@@ -37,6 +37,24 @@ In an appendix (not included in 5 page limit), you should also include a paragra
 An A1 poster that clearly covers your insights and collaborative work setup. Your group will present this poster to the class, rotating through all the members (so you will have an opportunity to see other group posters).
 
 Regarding the extended deliverables of a research question and potentially modelling work: it is *not* necessary for those to be "right", but they should be clearly communicated.
+
+## Advice
+
+### Group Tools
+
+Set up project specific shared drive space for your group to work in - google drive, dropbox, etc.
+
+For manuscript writing, set up a drafting space with support for shared citation work. If you're working in LaTeX, Overleaf is a reasonable choice. Google docs also works. For whichever solution, you'll also want to setup a sharing group for literature review and citations, for example using Zotero (which can connect to Google docs, if using that).
+
+For managing collaborative coding, setup a Github repository.
+
+### Writing
+
+Think about the questions you set out to answer using the [How to Read a Scientific Paper](https://www.ici3d.org/MMED/MedPH/How_to_read_exRabies.pdf) approach. Now imagine you need to *answer* those questions for a reader - make sure your write up makes it easy for readers to do that.
+
+## Resources
+
+[This folder](https://drive.google.com/drive/folders/1x0WQ81ZwYzkBJcyvJ8PRRJqf7_44u-Sj) has is a slide template and the 1918 flu data and associated publication.
 
 <!--
 
