@@ -48,7 +48,7 @@ archive: false
   </div>
 </div>
 
-<details markdown="1"><summary>Week 0: MMED Foundations</summary>
+<details markdown="1" open><summary>Week 0: MMED Foundations</summary>
 
 ### Day 1 (Monday, 9 June)
 
