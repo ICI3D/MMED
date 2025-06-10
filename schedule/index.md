@@ -133,13 +133,13 @@ archive: false
 
 ### Day 0 (Sunday, 15 June)
 
--   14h00–20h00 {{ org }} Registration ({% include instructors people="bruce" %}, {{ lobby }})
+- On arrival {{ org }}, mentors and tutors will assist with direction to accommodations
 - {: .shadow} Faculty meeting and dinner in E313 from 16h30; be sure to save food for late arrivals once known
 
 ### Day 1
 
 - {: .shadow} 0730? whatsapp checkin
-- 08h00-08h25 {{ org }} Registration ({% include instructors people="bruce" %}, {{lobby}})
+- 07h30-08h20 {{ org }} Registration ({% include instructors people="bruce" %}, {{lobby}})
 - 08h30-09h00 [Welcome and Motivation for Workshop]() ({% include instructors people="kassanjee" %}, {{ main }})
 - 09h00-09h45 {{ disc }} [Public health, epidemiology, and models]() ({% include instructors people="pearson" %}, {{ main }})
 - 09h45-10h00 [MMED roadmap and program overview]() ({% include instructors people="kassanjee" %}, {{ main }})
