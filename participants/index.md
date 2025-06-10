@@ -1,11 +1,9 @@
 ---
 layout: redirect
-redirect: https://github.com/ICI3D/MMEDparticipants/blob/master/Resources/MMED_2023_Facebook.pdf
+redirect: https://drive.google.com/file/d/1UQtxdo2EN2egBiqZqLkICumHhD3_LvCh
 tab: Participants
 title: Participants
-subtitle: MMED 2023 Participants
-redirect: ../development
+subtitle: MMED 2025 Participants
 ---
 
-- [List of participants](./participantList)
 - [Participant facebook](./participantFacebook)
