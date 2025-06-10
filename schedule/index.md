@@ -212,7 +212,7 @@ archive: false
 
 - {: .shadow} 0730? whatsapp checkin
 - 08h30-10h00 {{ disc }} [Creating a model world to address a research question]() ({% include instructors people="blumberg|nyamai" %}, {{ sections }})
-  - {: .shadow } note takers: section 1 {% include instructors people="pearson" %}, section 2 {% include instructors people="reiner" %} 
+  - {: .shadow } note takers: section 1 {% include instructors people="pearson" %}
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h15 {{ lect }} [Introduction to likelihood]() ({% include instructors people="schalkwyk" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="pearson|nyamai" %}
@@ -324,7 +324,7 @@ archive: false
   - {: .shadow } note takers: {% include instructors people="kassanjee" %}
   * {: .shadow } [One-study code](https://github.com/ICI3D/RTutorials/blob/master/sampling_JD/study_design.R); [Many-study code](https://github.com/ICI3D/RTutorials/blob/master/sampling_JD/study_design_rep.R)
   - {: .shadow } Get a more direct summary title for this
-- 12h30-14h00 {{ lunch }} _NOTE: Bobby + mentors: technical check with virtual panelists_{: .shadow}
+- 12h30-14h00 {{ lunch }} 
 - 14h00-15h30 {{ gw }} MMED project work ({{ breakout }})
 - 15h30-16h00 {{ tea }}
 - 16h00-17h30 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
