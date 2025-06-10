@@ -81,7 +81,7 @@ archive: false
 - 14h00-15h30 {{ prac }} [Tutorial 2 & benchmark questions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_2.R), and [SEIR & Benchmark questions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/seir.R) ({% include instructors people="Tutors" %}, {{ lab }})
 - 15h30-16h00 {{ break }}
 - 16h00-18h00 {{ gw }} [Project development](../tutorials/pilotproject) ({{ breakout }})
-- {: .shadow } [End of Day Questions](https://forms.gle/cWeCsKXKX6GSWSnk8)
+- [End of Day Questions](https://forms.gle/cWeCsKXKX6GSWSnk8)
 
 ### Day 3
 
