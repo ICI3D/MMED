@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect: https://github.com/ICI3D/MMEDparticipants/raw/master/logistics/MMED2019facebook.pdf
+redirect: https://drive.google.com/file/d/1UQtxdo2EN2egBiqZqLkICumHhD3_LvCh
 ---
