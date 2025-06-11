@@ -113,7 +113,7 @@ archive: false
 - 14h00-15h30 {{ gw }} Project development (present on progress) ({{ lab }} or {{ breakout }})
 - 15h30-16h00 {{ break }}
 - 16h00-18h00 {{ prac }} [Review Questions from Lab 4: Study Design for Clinical Trials](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab4_RCT.R) ({% include instructors people="Tutors" %}), [Tutorial 3: Probability Distributions and Control Structures, and review questions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_3.R) ({% include instructors people="Tutors" %}, {{ lab }})
-- {: .shadow } [Final Fundamentals Week Questions (includes Qs from Friday)]()
+- {: .shadow } [Final Fundamentals Week Questions (includes Qs from Friday)](https://forms.gle/Lrc1GcGbYcqDZZhZA)
 
 ### Day 5
 
