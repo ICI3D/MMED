@@ -1,9 +1,7 @@
 ---
 layout: clinic
-redirect: ../development
+redirect: https://drive.google.com/drive/folders/1C5LW7zhYYU856bHRBPu_s0yl5ToN8yOW
 tab: Roadmap
 title: Roadmap
 subtitle: MMED Road Map
 ---
-
-![MMED Road Map](./MMED2019roadmap.png "MMED Road Map"){:width="65%"}
