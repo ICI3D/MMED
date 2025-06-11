@@ -113,10 +113,11 @@ archive: false
 - 14h00-15h30 {{ gw }} Project development (present on progress) ({{ lab }} or {{ breakout }})
 - 15h30-16h00 {{ break }}
 - 16h00-18h00 {{ prac }} [Review Questions from Lab 4: Study Design for Clinical Trials](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab4_RCT.R) ({% include instructors people="Tutors" %}), [Tutorial 3: Probability Distributions and Control Structures, and review questions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_3.R) ({% include instructors people="Tutors" %}, {{ lab }})
+- {: .shadow } [Final Fundamentals Week Questions (includes Qs from Friday)]()
 
 ### Day 5
 
-- 08h30-09h30 {{ lect }} [Dynamics of vector-borne pathogens]() ({% include instructors people="mthombothi" %}, {{ main }})
+- 08h30-09h30 {{ lect }} [Dynamics of vector-borne pathogens](https://drive.google.com/file/d/1D5kCsgvKuA6VRTl-5kUZs6nJ3mWmcnSe) ({% include instructors people="mthombothi" %}, {{ main }})
 - 09h30-10h30 {{ gw }} Final Group Work ({{ breakout }}) 
 - 10h30-11h00 {{ coffee }}
 - 11h00-13h00 {{ gw }} Practice presentations and feedback (all, {{ main }})
@@ -124,7 +125,7 @@ archive: false
   - {: .shadow } 11h00-11h10 4, 11h10-11h20 1, 11h20-11h30 2, 11h30-11h40 3, 11h40-11h50 5, 11h50-12h00 6, 12h00-12h10 7, 12h10-12h20 8, 12h20-12h30 9 (with 30 minute buffer for overruns)
 - 13h00-14h00 {{ lunch }}
 - 14h00-15h00 {{ gw }} Revisions ({{ breakout }})
-- 15h00-15h30 {{ disc }} Preview for next week, Pop Quiz ({{ main }})
+- 15h00-15h30 {{ disc }} Review / Preview ({{ main }})
 - 15h30-16h00 {{ break }}
 - 16h00-18h00 {{ gw }} Optional: re-present + re-feedback. Optional: poster feedback. ({{ main }})
 
@@ -135,16 +136,16 @@ archive: false
 
 ### Day 0 (Sunday, 15 June)
 
-- On arrival {{ org }}, mentors and tutors will assist with direction to accommodations
+- On arrival {{ org }} mentors and tutors will assist with direction to accommodations
 - {: .shadow} Faculty meeting and dinner in E313 from 16h30; be sure to save food for late arrivals once known
 
 ### Day 1
 
 - {: .shadow} 0730? whatsapp checkin
-- 07h30-08h20 {{ org }} Registration ({% include instructors people="bruce" %}, {{lobby}})
-- 08h30-09h00 [Welcome and Motivation for Workshop]() ({% include instructors people="kassanjee" %}, {{ main }})
+- 07h30-08h20 {{ org }} Registration ({% include instructors people="bruce" %}, {{ lobby }})
+- 08h30-09h00 [Welcome and Motivation for Workshop](https://drive.google.com/file/d/15P91x6rYAw5JW0Yu74YwgDVAtXwNnAef) ({% include instructors people="kassanjee" %}, {{ main }})
 - 09h00-09h45 {{ disc }} [Public health, epidemiology, and models]() ({% include instructors people="pearson" %}, {{ main }})
-- 09h45-10h00 [MMED roadmap and program overview]() ({% include instructors people="kassanjee" %}, {{ main }})
+- 09h45-10h00 [MMED roadmap and program overview](https://drive.google.com/file/d/19e3Issa_z1ATAY_J8shkpx6A6yfvOlug) ({% include instructors people="kassanjee" %}, {{ main }})
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h30 {{ lect }} [Introduction to dynamic modeling]() ({% include instructors people="kassanjee" %}, {{ main }})
 - 11h30-12h30 {{ lect }} [Introduction to infectious disease data]() ({% include instructors people="blumberg" %}, {{ main }})
