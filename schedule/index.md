@@ -87,6 +87,7 @@ archive: false
 
 - 08h30-09h30 {{ gw }} [Project development](../tutorials/pilotproject) ({{ breakout }})
   - from 08h30, each group will check in with Carl (odd, in 105) or Zinhle (even, lobby): 08h30 1 and 2, 08h50 3 and 4, 09h10 5 and 6
+  - [Project Groups](https://docs.google.com/spreadsheets/d/1gLfek_HAcFw-B1raWN6ZPZH_MHC4gtE88sjIf-jaIkc)
 - 09h30-10h30 {{ disc }} How did you read a scientific paper? ({% include instructors people="pearson" %}, {{ lab }})
   - [Reference Paper](https://doi.org/10.1371/journal.pbio.1000053)
 - 10h30-11h00 {{ coffee }}
@@ -105,8 +106,8 @@ archive: false
 - 10h30-11h00 {{ coffee }}
 - 11h00-12h00 {{ lect }} [Transmission in Finite Populations]() ({% include instructors people="mthombothi" %}, {{ main }})
 - {: .shadow } 12h00-13h00 {{ gw }} Project work, with progress checkin ({{ lab }} or {{ breakout }})
-  - {: .shadow } All checkins in the lab. Odd groups check in with Carl, even with Zinhle. Be prepared to show your draft report, slides, poster, and code.
-  - {: .shadow } 12h00 1 and 2, 12h30 3 and 4
+  - All checkins in the lab. Odd groups check in with Carl, even with Zinhle. Be prepared to show your draft report, slides, and poster.
+  - [Project Groups](https://docs.google.com/spreadsheets/d/1gLfek_HAcFw-B1raWN6ZPZH_MHC4gtE88sjIf-jaIkc)
 - 13h00-14h00 Lunch
 - 14h00-15h30 {{ gw }} Project development (present on progress) ({{ lab }} or {{ breakout }})
 - 15h30-16h00 {{ break }}
