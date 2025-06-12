@@ -106,14 +106,14 @@ archive: false
 - 09h15-10h30 {{ prac }} [Lab 4: Study Design for Clinical Trials](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab4_RCT.R) ({% include instructors people="Tutors" %}, {{ lab }})
 - 10h30-11h00 {{ coffee }}
 - 11h00-12h00 {{ lect }} [Transmission in Finite Populations](https://drive.google.com/file/d/1mCqNCQ4Ak78uW6VUYyRRnN0p3Iv3zfEn) ({% include instructors people="mthombothi" %}, {{ main }})
-- {: .shadow } 12h00-13h00 {{ gw }} Project work, with progress checkin ({{ lab }} or {{ breakout }})
+- 12h00-13h00 {{ gw }} [Project development](../tutorials/pilotproject), with progress checkin ({{ lab }})
   - All checkins in the lab. Odd groups check in with Carl, even with Zinhle. Be prepared to show your draft report, slides, and poster.
   - [Project Groups](https://docs.google.com/spreadsheets/d/1gLfek_HAcFw-B1raWN6ZPZH_MHC4gtE88sjIf-jaIkc)
 - 13h00-14h00 Lunch
-- 14h00-15h30 {{ gw }} Project development (present on progress) ({{ lab }} or {{ breakout }})
+- 14h00-15h30 {{ gw }} [Project development](../tutorials/pilotproject)
 - 15h30-16h00 {{ break }}
-- 16h00-18h00 {{ prac }} [Review Questions from Lab 4: Study Design for Clinical Trials](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab4_RCT.R) ({% include instructors people="Tutors" %}), [Tutorial 3: Probability Distributions and Control Structures, and review questions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_3.R) ({% include instructors people="Tutors" %}, {{ lab }})
-- {: .shadow } [Final Fundamentals Week Questions (includes Qs from Friday)](https://forms.gle/Lrc1GcGbYcqDZZhZA)
+- 16h00-18h00 {{ prac }} If incomplete: review questions from [Lab 4: Study Design for Clinical Trials](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab4_RCT.R) ({% include instructors people="Tutors" %}), [Tutorial 3: Probability Distributions and Control Structures, and review questions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_3.R) ({% include instructors people="Tutors" %}, {{ lab }}). Otherwise [Project development](../tutorials/pilotproject)
+- [Final Fundamentals Week Quiz (includes Qs from Friday)](https://forms.gle/Lrc1GcGbYcqDZZhZA)
 
 ### Day 5
 
