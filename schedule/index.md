@@ -225,7 +225,7 @@ archive: false
   - {: .shadow } note takers: {% include instructors people="kassanjee" %}
 - 15h30-16h00 {{ tea }}
 - 16h00-17h00 {{ lect }} [Introduction stochastic simulation models]() ({% include instructors people="kassanjee" %}, {{ main }})
-- 17h00-18h00 {{ disc }} Ex 1 & 2: Stochastic models
+- 17h00-18h00 {{ disc }} [Exercise 1: Stochastic models](https://github.com/ICI3D/RTutorials/blob/master/ICI3D_Ex1_StochasticSpillover.R) ({% include instructors people="kassanjee" %}, {{ lab }})
 - 18h00-18h30 Dinner
 - 18h30-19h00 Finish Model Diagram	
 - 19h00-21h00 {{ sc }} Drumming ({{ main }})
