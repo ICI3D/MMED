@@ -11,11 +11,6 @@ alertmsg: >
   <li>Please update all your presentations to <b>use the ICI3D slide template</b>.</li>
   <li><a href="https://docs.google.com/document/d/1XrMxQPQ5GzI9ULCIbLSBVtCnRYx0wU0zsMAXpCxCNuE/edit">Click here for access to the MMED 2024 General Notes</a></li>
   <li><a href="https://docs.google.com/document/d/1OkLUgMk6ZtgGffxgYD2_DU9oB0VKOa5R_jWZTe56HfY/edit">Click here for access to the MMED 2024 Session Notes</a></li>
-  <li><a href="https://docs.google.com/document/d/1Bt3-caisbAP66fq0pjc1jVx_vinqqKrE_t0c5bjp2-c/edit#">Click here for access to the MMED 2023 Notes GD.</a></li>
-  <li><a href="https://docs.google.com/document/d/1h2CI9CsHRebSMWATKlOg2epHh9x5IuphUovGn7YkF3k/edit#">Click here for access to the MMED 2021 Notes GD.</a></li>
-  <li><a href="https://docs.google.com/document/d/1Q7h5bizBeCY1j_NZZ_bpsJ0bUB0F-wHCawhHUcRaW4A/edit#">Click here for access to the MMED 2019 Notes GD.</a></li>
-  <li><a href="https://github.com/ICI3D/MMED/edit/master/scheduleNotes">Click here for access to the MMED 2018 Notes GD.</a></li>
-  <li><a href="https://github.com/ICI3D/MMED2017/edit/master/scheduleNotes">Click here for access to the MMED 2017 Notes GD.</a></li>
   </ul>
 archive: false
 ---
@@ -118,11 +113,12 @@ archive: false
 ### Day 5
 
 - 08h30-09h30 {{ lect }} [Dynamics of vector-borne pathogens](https://drive.google.com/file/d/1D5kCsgvKuA6VRTl-5kUZs6nJ3mWmcnSe) ({% include instructors people="mthombothi" %}, {{ main }})
-- 09h30-10h30 {{ gw }} Final Group Work ({{ breakout }}) 
+- 09h30-10h30 {{ gw }} Final Group Work ({{ breakout }})
+  - submit slides to [Zinhle](mailto:zinhle@aims.ca.za) by 10h30
 - 10h30-11h00 {{ coffee }}
 - 11h00-13h00 {{ gw }} Practice presentations and feedback (all, {{ main }})
-  - {: .shadow } 5 minutes + 2 minutes for questions + 3 minutes for feedback
-  - {: .shadow } 11h00-11h10 4, 11h10-11h20 1, 11h20-11h30 2, 11h30-11h40 3, 11h40-11h50 5, 11h50-12h00 6, 12h00-12h10 7, 12h10-12h20 8, 12h20-12h30 9 (with 30 minute buffer for overruns)
+  - **Aim** for: 6 minutes, 3-4 minutes for questions, 3-4 minutes for feedback; max 15 minutes
+  - Groups: 11h00-11h15 4, 11h15-11h30 1, 11h30-11h45 3, 11h45-12h00 2, 12h00-12h15 5 (with 45 minute buffer for overruns)
 - 13h00-14h00 {{ lunch }}
 - 14h00-15h00 {{ gw }} Revisions ({{ breakout }})
 - 15h00-15h30 {{ disc }} Review / Preview ({{ main }})
@@ -175,9 +171,9 @@ archive: false
   - {: .shadow } note takers {% include instructors people="kassanjee" %}
 - 14h00-15h00 {{ lect }} [Study design]() ({% include instructors people="kassanjee" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="TBD" %}
-- 14h00-15h30 [R Tutorials](../tutorials): [Tutorial 4 - Visualizing Infectious Disease Data](../tutorials/visualizeData) ({% include instructors people="blumberg|Mentors" %}, {{ lab }})
+- 15h00-17h00 (with tea break) [R Tutorials](../tutorials): [Tutorial 4 - Visualizing Infectious Disease Data](../tutorials/visualizeData) & [Lab 4 - study design II](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab4_RCT.R) ({% include instructors people="blumberg|kassanjee|Mentors" %}, {{ lab }})
+    - [Lab 3 - study design I](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab3_EpiStudyDesign.R) may also be of interest, but is an own-time activity
 - 15h30-16h00 {{ tea }} (poster setup, group 2) ({% include instructors people="nyamai|Mentors" %}, {{ main }})
-- 16h00-17h00 Tutorial 4, cont. & optionally [Lab 3 - study design I](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab3_EpiStudyDesign.R) & [Lab 4 - study design II](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab4_RCT.R)
 - 17h00-18h00 Poster session 2 ({{ main }})
 - 18h00-18h30 Dinner
 - 19h00-20h00 {{ lect }} Guest Lecture [Joseph Challenger](https://scholar.google.com/citations?user=q3Inh-AAAAAJ&hl=en&oi=ao)
