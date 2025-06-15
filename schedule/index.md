@@ -45,7 +45,7 @@ archive: false
 
 ### [Participants](https://drive.google.com/file/d/1UQtxdo2EN2egBiqZqLkICumHhD3_LvCh)
 
-<details markdown="1" open><summary>Week 0: MMED Foundations</summary>
+<details markdown="1"><summary>Week 0: MMED Foundations</summary>
 
 ### Day 1 (Monday, 9 June)
 
@@ -128,7 +128,7 @@ archive: false
 </details>
 
 
-<details markdown="1"><summary>Week 1: Meaningful Modeling of Epidemiological Data (MMED)</summary>
+<details markdown="1" open><summary>Week 1: Meaningful Modeling of Epidemiological Data (MMED)</summary>
 
 ### Day 0 (Sunday, 15 June)
 
@@ -140,7 +140,7 @@ archive: false
 - {: .shadow} 0730? whatsapp checkin
 - 07h30-08h20 {{ org }} Registration ({% include instructors people="bruce" %}, {{ lobby }})
 - 08h30-09h00 [Welcome and Motivation for Workshop](https://drive.google.com/file/d/15P91x6rYAw5JW0Yu74YwgDVAtXwNnAef) ({% include instructors people="kassanjee" %}, {{ main }})
-- 09h00-09h45 {{ disc }} [Public health, epidemiology, and models]() ({% include instructors people="pearson" %}, {{ main }})
+- 09h00-09h45 {{ disc }} [Public health, epidemiology, and models](https://docs.google.com/presentation/d/1LbeHeiB-JlZk1tQq7IjMwnuwXQF7SYZE) ({% include instructors people="pearson" %}, {{ main }})
 - 09h45-10h00 [MMED roadmap and program overview](https://drive.google.com/file/d/19e3Issa_z1ATAY_J8shkpx6A6yfvOlug) ({% include instructors people="kassanjee" %}, {{ main }})
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h30 {{ lect }} [Introduction to dynamic modeling]() ({% include instructors people="kassanjee" %}, {{ main }})
