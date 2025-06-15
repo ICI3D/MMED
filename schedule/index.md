@@ -29,7 +29,7 @@ archive: false
 {%- assign org = "**Organizing Session**:" -%}
 {%- assign coffee = "**Coffee**" -%}
 {%- assign lunch = "**Lunch**" -%}
-{% assign bfast = "- 07h45-08h30 **Breakfast**" %}
+{% assign bfast = "- 07h45-08h15 **Breakfast**" %}
 {% assign dinner = "- 18h00-18h30 **Dinner**" %}
 {%- assign tea = "**Tea**" -%}
 {%- assign break = "**Free - take a walk!**" -%}
