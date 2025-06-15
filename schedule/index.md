@@ -29,6 +29,8 @@ archive: false
 {%- assign org = "**Organizing Session**:" -%}
 {%- assign coffee = "**Coffee**" -%}
 {%- assign lunch = "**Lunch**" -%}
+{% assign bfast = "- 07h45-08h15 **Breakfast**" %}
+{% assign dinner = "- 18h00-18h30 **Dinner**" %}
 {%- assign tea = "**Tea**" -%}
 {%- assign break = "**Free - take a walk!**" -%}
 
@@ -45,10 +47,11 @@ archive: false
 
 ### [Participants](https://drive.google.com/file/d/1UQtxdo2EN2egBiqZqLkICumHhD3_LvCh)
 
-<details markdown="1" open><summary>Week 0: MMED Foundations</summary>
+<details markdown="1"><summary>Week 0: MMED Foundations</summary>
 
 ### Day 1 (Monday, 9 June)
 
+{{ bfast }}
 - 09h00-09h20 {{ org }} [Introductions, Overview](https://docs.google.com/presentation/d/1g7F4kTMvPGq1NobmcAtLj_amwjV76MrFGRrJNURISBM) (everyone, {{ main }})
 - 09h20-10h30 {{ disc }} [Public health, epidemiology, and infectious disease modelling](https://docs.google.com/presentation/d/1Cxt6ZtRCalcu0iV0pX9fwDaW7DeNYi9Zgg58vUD5EfA) ({% include instructors people="pearson" %}, {{ main }})
 - 10h30-11h00 {{ coffee }}
@@ -66,6 +69,7 @@ archive: false
 
 ### Day 2
 
+{{ bfast }}
 - 08h30-09h00 [Reading time for a scientific paper](https://doi.org/10.1371/journal.pbio.1000053)
 - 09h00-10h30 {{ lect }} [Introduction to infectious disease dynamics, Part II](https://drive.google.com/file/d/1SzQnv9haPgZ_o10GbGDT4nmoOvBeVU_T) ({% include instructors people="mthombothi" %}, {{ main }})
   - ["The" R0 paper](https://link.springer.com/article/10.1007/bf00178324) (might need [unpaywall](https://unpaywall.org/products/extension) or similar tools to access)
@@ -80,6 +84,7 @@ archive: false
 
 ### Day 3
 
+{{ bfast }}
 - 08h30-09h30 {{ gw }} [Project development](../tutorials/pilotproject) ({{ breakout }})
   - from 08h30, each group will check in with Carl (odd, in 105) or Zinhle (even, lobby): 08h30 1 and 2, 08h50 3 and 4, 09h10 5 and 6
   - [Project Groups](https://docs.google.com/spreadsheets/d/1gLfek_HAcFw-B1raWN6ZPZH_MHC4gtE88sjIf-jaIkc)
@@ -96,6 +101,7 @@ archive: false
 
 ### Day 4
 
+{{ bfast }}
 - 08h30-09h15 {{ lect }} [Study Design and Analysis, part II: RCT’s](https://docs.google.com/presentation/d/14Vv6XiQjOVgNjGU0vyLeYUFj-9Azf50y) ({% include instructors people="pearson" %}, {{ main }})
   - Side reading: [CDC on the Tuskegee Experiment](https://www.cdc.gov/tuskegee/timeline.htm), [Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/), [Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html)
 - 09h15-10h30 {{ prac }} [Lab 4: Study Design for Clinical Trials](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab4_RCT.R) ({% include instructors people="Tutors" %}, {{ lab }})
@@ -112,6 +118,7 @@ archive: false
 
 ### Day 5
 
+{{ bfast }}
 - 08h30-09h30 {{ lect }} [Dynamics of vector-borne pathogens](https://drive.google.com/file/d/1D5kCsgvKuA6VRTl-5kUZs6nJ3mWmcnSe) ({% include instructors people="mthombothi" %}, {{ main }})
 - 09h30-10h30 {{ gw }} Final Group Work ({{ breakout }})
   - submit slides to [Zinhle](mailto:zinhle@aims.ca.za) by 10h30
@@ -127,8 +134,7 @@ archive: false
 
 </details>
 
-
-<details markdown="1"><summary>Week 1: Meaningful Modeling of Epidemiological Data (MMED)</summary>
+<details markdown="1" open><summary>Week 1: Meaningful Modeling of Epidemiological Data (MMED)</summary>
 
 ### Day 0 (Sunday, 15 June)
 
@@ -139,8 +145,9 @@ archive: false
 
 - {: .shadow} 0730? whatsapp checkin
 - 07h30-08h20 {{ org }} Registration ({% include instructors people="bruce" %}, {{ lobby }})
+{{ bfast }}
 - 08h30-09h00 [Welcome and Motivation for Workshop](https://drive.google.com/file/d/15P91x6rYAw5JW0Yu74YwgDVAtXwNnAef) ({% include instructors people="kassanjee" %}, {{ main }})
-- 09h00-09h45 {{ disc }} [Public health, epidemiology, and models]() ({% include instructors people="pearson" %}, {{ main }})
+- 09h00-09h45 {{ disc }} [Public health, epidemiology, and models](https://docs.google.com/presentation/d/1LbeHeiB-JlZk1tQq7IjMwnuwXQF7SYZE) ({% include instructors people="pearson" %}, {{ main }})
 - 09h45-10h00 [MMED roadmap and program overview](https://drive.google.com/file/d/19e3Issa_z1ATAY_J8shkpx6A6yfvOlug) ({% include instructors people="kassanjee" %}, {{ main }})
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h30 {{ lect }} [Introduction to dynamic modeling]() ({% include instructors people="kassanjee" %}, {{ main }})
@@ -154,11 +161,13 @@ archive: false
 - 16h00-17h00 Dynamical fever exercise, cont. ({{ lab }})
   - [Dynamical fever summary]() ({% include instructors people="nyamai" %}, {{ lab }})
 - 17h00-18h00 Poster session 1 ({{main}})
-- 18h00-18h30 Dinner
+- [End of Day Questions](https://forms.gle/zkufuNG8PhfB2YEg9)
+{{ dinner }}
 - 19h00-20h30 Ice-breaker/Card games ({% include instructors people="bruce" %}, {{ main }})
 
 ### Day 2
 
+{{ bfast }}
 - {: .shadow} 0730? whatsapp checkin
 - 08h30-09h15 [(Hidden) assumptions of simple ODE models]() ({% include instructors people="schalkwyk" %}, {{ main }})
   - {: .shadow } note takers {% include instructors people="nyamai" %}
@@ -166,29 +175,31 @@ archive: false
   - {: .shadow } [Resulting Code]()
   - {: .shadow } note takers {% include instructors people="nyamai" %}
 - 10h00-10h30 {{ coffee }}
-- 10h30-11h30 [R Tutorials](../tutorials): [Lab 1 - ODE Models](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab1_ODEmodels.R) ({% include instructors people="schalkwyk|Mentors" %}, {{ lab }})
+- 10h30-11h30 [R Tutorials](../tutorials): [Lab 1 - ODE Models](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab1_ODEmodels.R) ({% include instructors people="luka" %}, {{ lab }})
 - 11h30-12h30 [Thinking about Data]() ({% include instructors people="nyamai|Mentors" %}, {{main}})
   - {: .shadow } note takers {% include instructors people="kassanjee" %}
+- 12h30-14h00 {{ lunch }}
 - 14h00-15h00 {{ lect }} [Study design]() ({% include instructors people="kassanjee" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="TBD" %}
 - 15h00-17h00 (with tea break) [R Tutorials](../tutorials): [Tutorial 4 - Visualizing Infectious Disease Data](../tutorials/visualizeData) & [Lab 4 - study design II](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab4_RCT.R) ({% include instructors people="blumberg|kassanjee|Mentors" %}, {{ lab }})
     - [Lab 3 - study design I](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab3_EpiStudyDesign.R) may also be of interest, but is an own-time activity
 - 15h30-16h00 {{ tea }} (poster setup, group 2) ({% include instructors people="nyamai|Mentors" %}, {{ main }})
 - 17h00-18h00 Poster session 2 ({{ main }})
-- 18h00-18h30 Dinner
+{{ dinner }}
 - 19h00-20h00 {{ lect }} Guest Lecture [Joseph Challenger](https://scholar.google.com/citations?user=q3Inh-AAAAAJ&hl=en&oi=ao)
 	* Moderator: ({% include instructors people="dushoff" %}, {{ main }})
 
 ### Day 3
 
+{{ bfast }}
 - {: .shadow} 0730? whatsapp checkin
 - 08h30-09h30 {{ lect }} [Consequences of heterogeneity and modelling options]() ({% include instructors people="dushoff" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="nyamai|pearson" %}
-- 09h30-11h00 (with coffee break) {{ prac }} Lab 2 - Consequences of heterogeneity ({% include instructors people="dushoff|Mentors" %}, {{ lab }})
+- 09h30-11h00 (with coffee break) {{ prac }} Lab 2 - Consequences of heterogeneity ({% include instructors people="dushoff" %}, {{ lab }})
   - {: .shadow } note takers: {% include instructors people="dushoff" %}
   - run `ICI3D::heterogeneityTutorial()` at the R prompt
   - If you would like to look under the hood, the relevant code is available [here](https://github.com/ICI3D/ici3d-pkg/blob/master/R/heterogeneityTutorial.R)
-  - Summary ({% include instructors people="pearson" %})
+  - Summary ({% include instructors people="dushoff" %})
 - 10h00-10h30 {{ coffee }}
 - 11h00-14h30 (with lunch break) {{ mlect }} [Introduction to models and data: HIV in Harare]() ({% include instructors people="kassanjee|pearson" %}, {{ lab }})
   - {: .shadow } note takers: {% include instructors people="dushoff|are" %} (also for tutorial, summary etc)
@@ -204,11 +215,12 @@ archive: false
 - 16h00-17h30 {{ lect }} Introduction to statistical philosophy ({% include instructors people="dushoff" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="nyamai" %}
 - 17h30-18h00 Projects: Topic Intro ({{ main }})
-- 18h00-18h30 Dinner
+{{ dinner }}
 - 19h00-20h00 Optional: [Tutorials](../tutorials) catch-up ({% include instructors people="Mentors" %}, {{ lab }})
 
 ### Day 4
 
+{{ bfast }}
 - {: .shadow} 0730? whatsapp checkin
 - 08h30-10h00 {{ disc }} [Creating a model world to address a research question]() ({% include instructors people="blumberg|nyamai" %}, {{ sections }})
   - {: .shadow } note takers: section 1 {% include instructors people="pearson" %}
@@ -226,12 +238,13 @@ archive: false
 - 15h30-16h00 {{ tea }}
 - 16h00-17h00 {{ lect }} [Introduction stochastic simulation models]() ({% include instructors people="kassanjee" %}, {{ main }})
 - 17h00-18h00 {{ disc }} [Exercise 1: Stochastic models](https://github.com/ICI3D/RTutorials/blob/master/ICI3D_Ex1_StochasticSpillover.R) ({% include instructors people="kassanjee" %}, {{ lab }})
-- 18h00-18h30 Dinner
+{{ dinner }}
 - 18h30-19h00 Finish Model Diagram	
 - 19h00-21h00 {{ sc }} Drumming ({{ main }})
 
 ### Day 5
 
+{{ bfast }}
 - {: .shadow} 0730? whatsapp checkin
 - 08h30-10h00 {{ disc }} [Description of proposed model and assumptions]() ({% include instructors people="nyamai|schalkwyk|Mentors" %}, {{ sections }})
   - {: .shadow } note takers: section 1 {% include instructors people="kassanjee" %}, section 2 {% include instructors people="nyamai" %}
@@ -245,19 +258,19 @@ archive: false
   - {: .shadow } Mphatso: TALK
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h15-13h45 {{ lunch }} (note slight shift)
-- 13h45-15h00 {{ prac }} [Lab 6 - MLE fitting of an SIR model to prevalence data](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab6_MLE_SIV_HIV.R) ({% include instructors people="schalkwyk|Mentors" %}, {{ lab }})
-	- 15h30 [Summary]() ({% include instructors people="blumberg" %})
-- 15h00-15h30 [Projects: Topic Qs]() ({% include instructors people="dushoff" %}, {{ main }})
+- 13h45-15h00 {{ prac }} [Lab 6 - MLE fitting of an SIR model to prevalence data](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab6_MLE_SIV_HIV.R) ({% include instructors people="blumberg" %}, {{ lab }})
+- 15h00-15h30 [Projects: Topic Qs]() ({% include instructors people="nyamai" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="kassanjee|pearson" %}
 - 15h30-16h00 {{ tea }}
 - 16h00-17h00 Mid-Clinic Feeback session ({% include instructors people="bruce" %}, {{ main }})
 - 17h00-18h00 [Project selection]() ({{ main }})
   - {: .shadow } note takers: {% include instructors people="kassanjee|pearson" %}
-- 18h00-18h30 Dinner
+{{ dinner }}
 - 19h30-21h30 {{ sc }} Movie Night ({{ main }})
 
 ### Day 6
 
+{{ bfast }}
 - {: .shadow} 0730? whatsapp checkin
 - 09h00-10h30 {{ lc }} Participatory coding for stochastic model ({% include instructors people="dushoff" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="pearson" %}
@@ -277,6 +290,7 @@ archive: false
 
 ### Day 8 (Monday, 23 June)
 
+{{ bfast }}
 - 08h30-08h45 {{ disc }} [Feedback responses; Review Schedule & goals]() ({% include instructors people="kassanjee" %}, {{ main }})
 - 08h45-09h30 {{ lect }} [Life cycle of a modeling project]() ({% include instructors people="pearson" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="kassanjee" %}
@@ -290,11 +304,12 @@ archive: false
   - {: .shadow } note takers: {% include instructors people="pearson|kassanjee" %}
 - 15h30-16h00 {{ tea }}
 - 16h00-17h30 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
-- 18h00-18h30 Dinner
+{{ dinner }}
 - 19h00-20h00 Optional: Github practice and and trouble-shooting / tutorial catch-up ({% include instructors people="pearson|Mentors" %}, {{ lab }})
 
 ### Day 9
 
+{{ bfast }}
 - 08h30-10h00 {{ lect }} [Introduction to Markov Chain Monte Carlo (MCMC)]() ({% include instructors people="pearson" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="TBD" %}
 - 10h00-10h30 {{ coffee }}
@@ -310,10 +325,11 @@ archive: false
   - {: .shadow } note takers: {% include instructors people="dushoff" %}
 - 15h30-16h00 {{ tea }}
 - 16h00-17h30 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
-- 18h00-18h30 Dinner	
+{{ dinner }}	
 
 ### Day 10
 
+{{ bfast }}
 - 08h30-09h30 {{ lect }} [Model assessment]() ({% include instructors people="dushoff" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="kassanjee" %}
 - 09h30-10h00 {{ gw }} MMED project work ({{ breakout }})
@@ -327,11 +343,12 @@ archive: false
 - 14h00-15h30 {{ gw }} MMED project work ({{ breakout }})
 - 15h30-16h00 {{ tea }}
 - 16h00-17h30 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
-- 18h00-18h30 Dinner
+{{ dinner }}
 - 19h00-20h00 Guest Lecture: [Mmamapudi Kubjane]() ({{ main }})
   
 ### Day 11
 
+{{ bfast }}
 - 08h30-10h00 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
 - 10h00-10h30 {{ coffee }}	
 - 10h30-12h30 {{ gw }} MMED project work ({{breakout}})
@@ -341,10 +358,11 @@ archive: false
 - 15h30-16h00 {{ tea }}
 - 16h00-17h30 {{ disc }} Modelling for policy ({% include instructors people="blumberg" %}, {{main}})
   - {: .shadow } note takers: {% include instructors people="dushoff" %}
-- 18h00-18h30 Dinner
+{{ dinner }}
 
 ### Day 12
 
+{{ bfast }}
 - 08h30-10h00 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
 - 10h00-10h30 {{ coffee }}	
 - 10h30-12h30 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
@@ -357,6 +375,6 @@ archive: false
 - 16h00-17h00 {{ disc }} Feedback session II ({% include instructors people="bruce" %}, {{ main }})
 - 17h15-17h45 Closing Remarks ({% include instructors people="kassanjee" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="TBD" %}
-- 18h00-18h30 Dinner
+{{ dinner }}
 
 </details>

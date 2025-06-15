@@ -1,9 +1,7 @@
 ---
 layout: redirect
-redirect: https://drive.google.com/file/d/1UQtxdo2EN2egBiqZqLkICumHhD3_LvCh
+redirect: https://github.com/ICI3D/MMEDparticipants/blob/master/Resources/MMED_2025_Facebook.pdf?raw=true
 tab: Participants
 title: Participants
 subtitle: MMED 2025 Participants
 ---
-
-- [Participant facebook](./participantFacebook)
