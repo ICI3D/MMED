@@ -54,6 +54,7 @@ archive: false
 {{ bfast }}
 - 09h00-09h20 {{ org }} [Introductions, Overview](https://docs.google.com/presentation/d/1g7F4kTMvPGq1NobmcAtLj_amwjV76MrFGRrJNURISBM) (everyone, {{ main }})
 - 09h20-10h30 {{ disc }} [Public health, epidemiology, and infectious disease modelling](https://docs.google.com/presentation/d/1Cxt6ZtRCalcu0iV0pX9fwDaW7DeNYi9Zgg58vUD5EfA) ({% include instructors people="pearson" %}, {{ main }})
+- {: .shadow} Faculty meeting and dinner in E313 from 16h30; be sure to save food for late arrivals once known
 - 10h30-11h00 {{ coffee }}
 - 11h00-12h00 {{ lect }} [Introduction to infectious disease dynamics, Part I](https://drive.google.com/file/d/1nbtUAtmsc1SEbKq3-3YAz83_T2q1lYM0) ({% include instructors people="mthombothi" %}, {{ main }})
 - 12h00-13h00 {{ lect }} [Simple Models](https://docs.google.com/presentation/d/1tFHnRbpf-KBbA_k301pA3WAlS3FbhKlardRRb6jbis4) ({% include instructors people="pearson" %}, {{ main }})
@@ -148,15 +149,23 @@ archive: false
 {{ bfast }}
 - 08h30-09h00 [Welcome and Motivation for Workshop](https://drive.google.com/file/d/15P91x6rYAw5JW0Yu74YwgDVAtXwNnAef) ({% include instructors people="kassanjee" %}, {{ main }})
 - 09h00-09h45 {{ disc }} [Public health, epidemiology, and models](https://docs.google.com/presentation/d/1LbeHeiB-JlZk1tQq7IjMwnuwXQF7SYZE) ({% include instructors people="pearson" %}, {{ main }})
+	- {: .shadow} Notes: Mutono
 - 09h45-10h00 [MMED roadmap and program overview](https://drive.google.com/file/d/19e3Issa_z1ATAY_J8shkpx6A6yfvOlug) ({% include instructors people="kassanjee" %}, {{ main }})
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h30 {{ lect }} [Introduction to dynamic modeling]() ({% include instructors people="kassanjee" %}, {{ main }})
+	- {: .shadow} Notes: Carl
 - 11h30-12h30 {{ lect }} [Introduction to infectious disease data]() ({% include instructors people="blumberg" %}, {{ main }})
+	- {: .shadow} Notes: Carl
 - {: .shadow} 12h30-13h00 faculty meeting
-- 12h30-14h00 {{ lunch }} (technical assistance for participants, {{ lab }})
+- 12h30-14h00 {{ lunch }} 
+- 13h15-13h45 (technical assistance for participants, {{ lab }}
+	- {: .shadow} Led by Carl
 - 14h00-15h00 {{ lect }} [Foundations of dynamical modelling]() ({% include instructors people="dushoff" %}, {{ main }})
+	- {: .shadow} Notes: Seth the Motivator
 - 15h00-15h30 {{ prac }} Dynamical fever exercise ({% include instructors people="nyamai" %}, {{ lab }})
   - Launch from R prompt with `ICI3D::dynamicalFever()`
+	- {: .shadow} assisted by Seth, Carl, Jeremy, Martha
+	- {: .shadow} Stanley should relax!
 - 15h30-16h00 {{ tea }} (poster setup, group 1) ({% include instructors people="nyamai|Mentors" %}, {{main}})
 - 16h00-17h00 Dynamical fever exercise, cont. ({{ lab }})
   - [Dynamical fever summary]() ({% include instructors people="nyamai" %}, {{ lab }})
@@ -169,7 +178,7 @@ archive: false
 
 {{ bfast }}
 - {: .shadow} 0730? whatsapp checkin
-- 08h30-09h15 [(Hidden) assumptions of simple ODE models]() ({% include instructors people="schalkwyk" %}, {{ main }})
+- 08h30-09h15 [(Hidden) assumptions of simple ODE models]() ({% include instructors people="vanschalkwyk" %}, {{ main }})
   - {: .shadow } note takers {% include instructors people="nyamai" %}
 - 09h15-10h00 {{ lc }} [Introduction to model implementation in R]() ({% include instructors people="kassanjee" %}, {{ main }})
   - {: .shadow } [Resulting Code]()
@@ -209,7 +218,7 @@ archive: false
   - {: .shadow }[Summary of Harare tutorial]() ({% include instructors people="pearson" %})
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
-- 14h30-15h30 {{ disc }} [Formulating research questions]() ({% include instructors people="schalkwyk|blumberg" %}, {{ sections }})
+- 14h30-15h30 {{ disc }} [Formulating research questions]() ({% include instructors people="vanschalkwyk|blumberg" %}, {{ sections }})
   - {: .shadow } section 1: {% include instructors people="kassanjee" %}, section 2: {% include instructors people="borchering" %}
 - 15h30-16h00 {{ tea }}
 - 16h00-17h30 {{ lect }} Introduction to statistical philosophy ({% include instructors people="dushoff" %}, {{ main }})
@@ -225,11 +234,11 @@ archive: false
 - 08h30-10h00 {{ disc }} [Creating a model world to address a research question]() ({% include instructors people="blumberg|nyamai" %}, {{ sections }})
   - {: .shadow } note takers: section 1 {% include instructors people="pearson" %}
 - 10h00-10h30 {{ coffee }}
-- 10h30-11h15 {{ lect }} [Introduction to likelihood]() ({% include instructors people="schalkwyk" %}, {{ main }})
+- 10h30-11h15 {{ lect }} [Introduction to likelihood]() ({% include instructors people="vanschalkwyk" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="pearson|nyamai" %}
-- 11h15-12h30 {{ prac }} [Lab 5 - Introduction to likelihood](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab5_introLikelihood.R) ({% include instructors people="schalkwyk|Mentors" %}, {{ lab }})
+- 11h15-12h30 {{ prac }} [Lab 5 - Introduction to likelihood](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab5_introLikelihood.R) ({% include instructors people="vanschalkwyk|Mentors" %}, {{ lab }})
   - {: .shadow } note takers: {% include instructors people="mthombothi|nyamai" %}
-  - {: .shadow } Summary ({% include instructors people="schalkwyk" %})
+  - {: .shadow } Summary ({% include instructors people="vanschalkwyk" %})
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
 - 14h00-15h30 {{ lc }} Participatory coding of a dynamical model ({% include instructors people="pearson" %}, {{ main }})
@@ -246,10 +255,10 @@ archive: false
 
 {{ bfast }}
 - {: .shadow} 0730? whatsapp checkin
-- 08h30-10h00 {{ disc }} [Description of proposed model and assumptions]() ({% include instructors people="nyamai|schalkwyk|Mentors" %}, {{ sections }})
+- 08h30-10h00 {{ disc }} [Description of proposed model and assumptions]() ({% include instructors people="nyamai|vanschalkwyk|Mentors" %}, {{ sections }})
   - {: .shadow } note takers: section 1 {% include instructors people="kassanjee" %}, section 2 {% include instructors people="nyamai" %}
 - 10h00-10h30 {{ coffee }}
-- 10h30-11h15 {{ lect }} [Fitting I]() ({% include instructors people="schalkwyk" %}, {{ main }})
+- 10h30-11h15 {{ lect }} [Fitting I]() ({% include instructors people="vanschalkwyk" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="nyamai" %}
 - 11h15-12h15 Mentor presentations ({% include instructors people="blumberg" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="TBD" %}
