@@ -161,6 +161,7 @@ archive: false
 - 16h00-17h00 Dynamical fever exercise, cont. ({{ lab }})
   - [Dynamical fever summary]() ({% include instructors people="nyamai" %}, {{ lab }})
 - 17h00-18h00 Poster session 1 ({{main}})
+- [End of Day Questions](https://forms.gle/zkufuNG8PhfB2YEg9)
 {{ dinner }}
 - 19h00-20h30 Ice-breaker/Card games ({% include instructors people="bruce" %}, {{ main }})
 
@@ -174,9 +175,10 @@ archive: false
   - {: .shadow } [Resulting Code]()
   - {: .shadow } note takers {% include instructors people="nyamai" %}
 - 10h00-10h30 {{ coffee }}
-- 10h30-11h30 [R Tutorials](../tutorials): [Lab 1 - ODE Models](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab1_ODEmodels.R) ({% include instructors people="schalkwyk|Mentors" %}, {{ lab }})
+- 10h30-11h30 [R Tutorials](../tutorials): [Lab 1 - ODE Models](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab1_ODEmodels.R) ({% include instructors people="luka" %}, {{ lab }})
 - 11h30-12h30 [Thinking about Data]() ({% include instructors people="nyamai|Mentors" %}, {{main}})
   - {: .shadow } note takers {% include instructors people="kassanjee" %}
+- 12h30-14h00 {{ lunch }}
 - 14h00-15h00 {{ lect }} [Study design]() ({% include instructors people="kassanjee" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="TBD" %}
 - 15h00-17h00 (with tea break) [R Tutorials](../tutorials): [Tutorial 4 - Visualizing Infectious Disease Data](../tutorials/visualizeData) & [Lab 4 - study design II](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab4_RCT.R) ({% include instructors people="blumberg|kassanjee|Mentors" %}, {{ lab }})
@@ -193,11 +195,11 @@ archive: false
 - {: .shadow} 0730? whatsapp checkin
 - 08h30-09h30 {{ lect }} [Consequences of heterogeneity and modelling options]() ({% include instructors people="dushoff" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="nyamai|pearson" %}
-- 09h30-11h00 (with coffee break) {{ prac }} Lab 2 - Consequences of heterogeneity ({% include instructors people="dushoff|Mentors" %}, {{ lab }})
+- 09h30-11h00 (with coffee break) {{ prac }} Lab 2 - Consequences of heterogeneity ({% include instructors people="dushoff" %}, {{ lab }})
   - {: .shadow } note takers: {% include instructors people="dushoff" %}
   - run `ICI3D::heterogeneityTutorial()` at the R prompt
   - If you would like to look under the hood, the relevant code is available [here](https://github.com/ICI3D/ici3d-pkg/blob/master/R/heterogeneityTutorial.R)
-  - Summary ({% include instructors people="pearson" %})
+  - Summary ({% include instructors people="dushoff" %})
 - 10h00-10h30 {{ coffee }}
 - 11h00-14h30 (with lunch break) {{ mlect }} [Introduction to models and data: HIV in Harare]() ({% include instructors people="kassanjee|pearson" %}, {{ lab }})
   - {: .shadow } note takers: {% include instructors people="dushoff|are" %} (also for tutorial, summary etc)
@@ -256,9 +258,8 @@ archive: false
   - {: .shadow } Mphatso: TALK
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h15-13h45 {{ lunch }} (note slight shift)
-- 13h45-15h00 {{ prac }} [Lab 6 - MLE fitting of an SIR model to prevalence data](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab6_MLE_SIV_HIV.R) ({% include instructors people="schalkwyk|Mentors" %}, {{ lab }})
-	- 15h30 [Summary]() ({% include instructors people="blumberg" %})
-- 15h00-15h30 [Projects: Topic Qs]() ({% include instructors people="dushoff" %}, {{ main }})
+- 13h45-15h00 {{ prac }} [Lab 6 - MLE fitting of an SIR model to prevalence data](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab6_MLE_SIV_HIV.R) ({% include instructors people="blumberg" %}, {{ lab }})
+- 15h00-15h30 [Projects: Topic Qs]() ({% include instructors people="nyamai" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="kassanjee|pearson" %}
 - 15h30-16h00 {{ tea }}
 - 16h00-17h00 Mid-Clinic Feeback session ({% include instructors people="bruce" %}, {{ main }})
