@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect: https://www.dropbox.com/s/cr0btuv04w3ipfx/mmfNotification.pdf?dl=1
+redirect: MMF-Infection-Notification-2025.pdf?dl=1
 ---
