@@ -166,10 +166,10 @@ archive: false
   - Launch from R prompt with `ICI3D::dynamicalFever()`
 	- {: .shadow} assisted by Seth, Carl, Jeremy, Martha
 	- {: .shadow} Stanley should relax!
-- 15h30-16h00 {{ tea }} (poster setup, group 1) ({% include instructors people="nyamai|Mentors" %}, {{main}})
+- 15h30-16h00 {{ tea }} ([poster setup, group 1](https://drive.google.com/drive/folders/19DlY2bPRbzAsHIux5nSeBibbCSXlKBrU)) ({% include instructors people="nyamai|Mentors" %}, {{main}})
 - 16h00-17h00 Dynamical fever exercise, cont. ({{ lab }})
   - [Dynamical fever summary](https://docs.google.com/presentation/d/18POIDzoVrtrXAlZAYbJ9PiajPpssGu7i) ({% include instructors people="nyamai" %}, {{ lab }})
-- 17h00-18h00 Poster session 1 ({{main}})
+- 17h00-18h00 [Poster session 1](https://drive.google.com/drive/folders/19DlY2bPRbzAsHIux5nSeBibbCSXlKBrU) ({{main}})
 - [End of Day Questions](https://forms.gle/zkufuNG8PhfB2YEg9)
 {{ dinner }}
 - 19h00-20h30 Ice-breaker/Card games ({% include instructors people="bruce" %}, {{ main }})
@@ -190,10 +190,10 @@ archive: false
 - 12h30-14h00 {{ lunch }}
 - 14h00-15h00 {{ lect }} [Study design]() ({% include instructors people="kassanjee" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="TBD" %}
-- 15h00-17h00 (with tea break) [R Tutorials](../tutorials): [Tutorial 4 - Visualizing Infectious Disease Data](../tutorials/visualizeData) & [Lab 4 - study design II](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab4_RCT.R) ({% include instructors people="blumberg|kassanjee|Mentors" %}, {{ lab }})
+- 15h00-17h00 (with tea break) [R Tutorials](../tutorials): [Lab 4 - study design II](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab4_RCT.R) & [Tutorial 4 - Visualizing Infectious Disease Data](../tutorials/visualizeData) ({% include instructors people="blumberg|kassanjee|Mentors" %}, {{ lab }})
     - [Lab 3 - study design I](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab3_EpiStudyDesign.R) may also be of interest, but is an own-time activity
-- 15h30-16h00 {{ tea }} (poster setup, group 2) ({% include instructors people="nyamai|Mentors" %}, {{ main }})
-- 17h00-18h00 Poster session 2 ({{ main }})
+- 15h30-16h00 {{ tea }} ([poster setup, group 2](https://drive.google.com/drive/folders/19DlY2bPRbzAsHIux5nSeBibbCSXlKBrU)) ({% include instructors people="nyamai|Mentors" %}, {{ main }})
+- 17h00-18h00 [Poster session 2](https://drive.google.com/drive/folders/19DlY2bPRbzAsHIux5nSeBibbCSXlKBrU) ({{ main }})
 {{ dinner }}
 - 19h00-20h00 {{ lect }} Guest Lecture [Joseph Challenger](https://scholar.google.com/citations?user=q3Inh-AAAAAJ&hl=en&oi=ao)
 	* Moderator: ({% include instructors people="dushoff" %}, {{ main }})
