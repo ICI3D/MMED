@@ -152,15 +152,15 @@ archive: false
 	- {: .shadow} Notes: Mutono
 - 09h45-10h00 [MMED roadmap and program overview](https://drive.google.com/file/d/19e3Issa_z1ATAY_J8shkpx6A6yfvOlug) ({% include instructors people="kassanjee" %}, {{ main }})
 - 10h00-10h30 {{ coffee }}
-- 10h30-11h30 {{ lect }} [Introduction to dynamic modeling]() ({% include instructors people="kassanjee" %}, {{ main }})
+- 10h30-11h30 {{ lect }} [Introduction to dynamic modelling of infectious disease I](https://drive.google.com/file/d/1z9fvgjnNkFOY0Q3fvis4qvk_71xJqBw8) ({% include instructors people="kassanjee" %}, {{ main }})
 	- {: .shadow} Notes: Carl
-- 11h30-12h30 {{ lect }} [Introduction to infectious disease data]() ({% include instructors people="blumberg" %}, {{ main }})
+- 11h30-12h30 {{ lect }} [Introduction to infectious disease data](https://drive.google.com/file/d/1nl1s1RPi-3Zn5dYclhiPU4LYQ3XVTxxx) ({% include instructors people="blumberg" %}, {{ main }})
 	- {: .shadow} Notes: Carl
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }} 
 - 13h15-13h45 (technical assistance for participants, {{ lab }}
 	- {: .shadow} Led by Carl
-- 14h00-15h00 {{ lect }} [Foundations of dynamical modelling]() ({% include instructors people="dushoff" %}, {{ main }})
+- 14h00-15h00 {{ lect }} [Foundations of dynamical modelling](https://drive.google.com/file/d/1JD6kca4ckUXY22HKjLDSQe2VPF3KZWuG) ({% include instructors people="dushoff" %}, {{ main }})
 	- {: .shadow} Notes: Seth the Motivator
 - 15h00-15h30 {{ prac }} Dynamical fever exercise ({% include instructors people="nyamai" %}, {{ lab }})
   - Launch from R prompt with `ICI3D::dynamicalFever()`
