@@ -154,7 +154,7 @@ archive: false
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h30 {{ lect }} [Introduction to dynamic modelling of infectious disease I](https://drive.google.com/file/d/1z9fvgjnNkFOY0Q3fvis4qvk_71xJqBw8) ({% include instructors people="kassanjee" %}, {{ main }})
 	- {: .shadow} Notes: Carl
-- 11h30-12h30 {{ lect }} [Introduction to infectious disease data](https://drive.google.com/file/d/1nl1s1RPi-3Zn5dYclhiPU4LYQ3XVTxxx) ({% include instructors people="blumberg" %}, {{ main }})
+- 11h30-12h30 {{ lect }} [Introduction to infectious disease data](https://drive.google.com/file/d/1F3QSyDc0SnYBkkBfFdVHk6Cv2qKd_MJE) ({% include instructors people="blumberg" %}, {{ main }})
 	- {: .shadow} Notes: Carl
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }} 
@@ -168,7 +168,7 @@ archive: false
 	- {: .shadow} Stanley should relax!
 - 15h30-16h00 {{ tea }} (poster setup, group 1) ({% include instructors people="nyamai|Mentors" %}, {{main}})
 - 16h00-17h00 Dynamical fever exercise, cont. ({{ lab }})
-  - [Dynamical fever summary]() ({% include instructors people="nyamai" %}, {{ lab }})
+  - [Dynamical fever summary](https://docs.google.com/presentation/d/18POIDzoVrtrXAlZAYbJ9PiajPpssGu7i) ({% include instructors people="nyamai" %}, {{ lab }})
 - 17h00-18h00 Poster session 1 ({{main}})
 - [End of Day Questions](https://forms.gle/zkufuNG8PhfB2YEg9)
 {{ dinner }}
