@@ -160,7 +160,7 @@ archive: false
 - 12h30-14h00 {{ lunch }} 
 - 13h15-13h45 (technical assistance for participants, {{ lab }}
 	- {: .shadow} Led by Carl
-- 14h00-15h00 {{ lect }} [Foundations of dynamical modelling](https://drive.google.com/file/d/1JD6kca4ckUXY22HKjLDSQe2VPF3KZWuG) ({% include instructors people="dushoff" %}, {{ main }})
+- 14h00-15h00 {{ lect }} [Foundations of dynamical modelling](https://drive.google.com/file/d/1_sa6YOal0UqElX3e-uQ6HZvYRfY_RIV8) ({% include instructors people="dushoff" %}, {{ main }})
 	- {: .shadow} Notes: Seth the Motivator
 - 15h00-15h30 {{ prac }} Dynamical fever exercise ({% include instructors people="nyamai" %}, {{ lab }})
   - Launch from R prompt with `ICI3D::dynamicalFever()`
