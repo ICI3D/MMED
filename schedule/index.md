@@ -196,6 +196,7 @@ archive: false
   - [Lab 3 - study design I](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab3_EpiStudyDesign.R) may also be of interest, but is an own-time activity
 - 15h30-16h00 {{ tea }} ([poster setup, group 2](https://drive.google.com/drive/folders/19DlY2bPRbzAsHIux5nSeBibbCSXlKBrU)) ({% include instructors people="nyamai|Mentors" %}, {{ main }})
 - 17h00-18h00 [Poster session 2](https://drive.google.com/drive/folders/19DlY2bPRbzAsHIux5nSeBibbCSXlKBrU) ({{ main }})
+- [End of Day Questions](https://forms.gle/ioZ2PLLsjo9WsJH98)
 {{ dinner }}
 - 19h00-20h00 {{ lect }} Guest Lecture [Joseph Challenger](https://scholar.google.com/citations?user=q3Inh-AAAAAJ&hl=en&oi=ao)
 	* Moderator: ({% include instructors people="dushoff" %}, {{ main }})
