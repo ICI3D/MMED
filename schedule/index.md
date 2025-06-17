@@ -178,7 +178,7 @@ archive: false
 
 {{ bfast }}
 - {: .shadow} 0730? whatsapp checkin
-- 08h30-09h15 [(Hidden) assumptions of simple ODE models]() ({% include instructors people="vanschalkwyk" %}, {{ main }})
+- 08h30-09h15 [(Hidden) assumptions of simple ODE models](https://drive.google.com/file/d/1tYkR9t3bzmq1iD4fesaXzxgZIeJHWeTY) ({% include instructors people="vanschalkwyk" %}, {{ main }})
   - {: .shadow } note takers {% include instructors people="nyamai" %}
 - 09h15-10h00 {{ lc }} [Introduction to model implementation in R](https://drive.google.com/file/d/1YTiZZGaW17Mx92hmJsCS2qV464wkxL9E) ({% include instructors people="kassanjee" %}, {{ main }})
   - [Resulting Code](https://drive.google.com/file/d/1GFA1k7ckK5lvpml-05tW1u4xqE5EQrrJ)
@@ -193,13 +193,14 @@ archive: false
   - {: .shadow } note takers: Jonathan
 - 15h00-17h00 (with tea break) [R Tutorials](../tutorials): [Lab 4 - study design II](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab4_RCT.R) & [Tutorial 4 - Visualizing Infectious Disease Data](../tutorials/visualizeData) ({% include instructors people="blumberg|kassanjee|Mentors" %}, {{ lab }})
   - [Study Design Slides](https://drive.google.com/file/d/1ZrNvXJeJMx8Ei-b4fopwYd_fNG5FAKbG)
+  - [Visualization Summary](https://drive.google.com/file/d/1I_waaz-S3S85s5G0z61ZrIwE-b99oU_N)
   - [Lab 3 - study design I](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab3_EpiStudyDesign.R) may also be of interest, but is an own-time activity
 - 15h30-16h00 {{ tea }} ([poster setup, group 2](https://drive.google.com/drive/folders/19DlY2bPRbzAsHIux5nSeBibbCSXlKBrU)) ({% include instructors people="nyamai|Mentors" %}, {{ main }})
 - 17h00-18h00 [Poster session 2](https://drive.google.com/drive/folders/19DlY2bPRbzAsHIux5nSeBibbCSXlKBrU) ({{ main }})
 - [End of Day Questions](https://forms.gle/ioZ2PLLsjo9WsJH98)
 {{ dinner }}
-- 19h00-20h00 {{ lect }} Guest Lecture [Joseph Challenger](https://scholar.google.com/citations?user=q3Inh-AAAAAJ&hl=en&oi=ao)
-	* Moderator: ({% include instructors people="dushoff" %}, {{ main }})
+- 19h00-20h00 {{ lect }} [Guest Lecture: "Mathematical models of vector-borne diseases: from theory to research"](https://docs.google.com/presentation/d/1Gb49d0V84EljTYoulxPQyuiwEEy2jRSV) [Joseph Challenger](https://scholar.google.com/citations?user=q3Inh-AAAAAJ&hl=en&oi=ao)
+  - Moderator {% include instructors people="dushoff" %}
 
 ### Day 3
 
@@ -212,7 +213,7 @@ archive: false
   - Download <a href="https://github.com/ICI3D/RTutorials/blob/master/ICI3D_Lab_Heterogeneous_Groups.R">lab</a> and <a href="https://github.com/ICI3D/RTutorials/blob/master/ICI3D_Heterogeneous_Groups.R"> supplementary functions</a>
   - Summary ({% include instructors people="dushoff" %})
 - 10h00-10h30 {{ coffee }}
-- 11h00-14h30 (with lunch break) {{ mlect }} [Introduction to models and data: HIV in Harare]() ({% include instructors people="kassanjee|pearson" %}, {{ lab }})
+- 11h00-14h30 (with lunch break) {{ mlect }} [Introduction to models and data: HIV in Harare](https://drive.google.com/file/d/1tFthcPurLo4zvs9j9huFEKJ4pueLICAx) ({% include instructors people="kassanjee|pearson" %}, {{ lab }})
   - {: .shadow } Notes: Mutono
   - Launch from R prompt with `ICI3D::hivTutorial()`
   - If you finish all five versions of the model for the Harare data before lunch, move on to working on data from other countries.
