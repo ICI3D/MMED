@@ -180,18 +180,20 @@ archive: false
 - {: .shadow} 0730? whatsapp checkin
 - 08h30-09h15 [(Hidden) assumptions of simple ODE models]() ({% include instructors people="vanschalkwyk" %}, {{ main }})
   - {: .shadow } note takers {% include instructors people="nyamai" %}
-- 09h15-10h00 {{ lc }} [Introduction to model implementation in R]() ({% include instructors people="kassanjee" %}, {{ main }})
-  - {: .shadow } [Resulting Code]()
+- 09h15-10h00 {{ lc }} [Introduction to model implementation in R](https://drive.google.com/file/d/1YTiZZGaW17Mx92hmJsCS2qV464wkxL9E) ({% include instructors people="kassanjee" %}, {{ main }})
+  - [Resulting Code](https://drive.google.com/file/d/1GFA1k7ckK5lvpml-05tW1u4xqE5EQrrJ)
   - {: .shadow } Notes: Carl
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h30 [R Tutorials](../tutorials): [Lab 1 - ODE Models](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab1_ODEmodels.R) ({% include instructors people="luka" %}, {{ lab }})
-- 11h30-12h30 [Thinking about Data]() ({% include instructors people="nyamai|Mentors" %}, {{main}})
+  - [Lab 1 Summary](https://drive.google.com/file/d/1iHSjqrwj_LsK8pzAka_OZjepVaLGljH3)
+- 11h30-12h30 [Thinking about Data](https://docs.google.com/presentation/d/1zygkn_iRYJT4hVigEJuP3siy1GCGkgXX) ({% include instructors people="nyamai|Mentors" %}, {{main}})
   - {: .shadow } note takers Seth
 - 12h30-14h00 {{ lunch }}
-- 14h00-15h00 {{ lect }} [Study design]() ({% include instructors people="kassanjee" %}, {{ main }})
+- 14h00-15h00 {{ lect }} [Study design](https://drive.google.com/file/d/1de7qMKvnC6djx6CJYIZ8slEt-LOD5-Rh) ({% include instructors people="kassanjee" %}, {{ main }})
   - {: .shadow } note takers: Jonathan
 - 15h00-17h00 (with tea break) [R Tutorials](../tutorials): [Lab 4 - study design II](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab4_RCT.R) & [Tutorial 4 - Visualizing Infectious Disease Data](../tutorials/visualizeData) ({% include instructors people="blumberg|kassanjee|Mentors" %}, {{ lab }})
-    - [Lab 3 - study design I](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab3_EpiStudyDesign.R) may also be of interest, but is an own-time activity
+  - [Study Design Slides](https://drive.google.com/file/d/1ZrNvXJeJMx8Ei-b4fopwYd_fNG5FAKbG)
+  - [Lab 3 - study design I](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab3_EpiStudyDesign.R) may also be of interest, but is an own-time activity
 - 15h30-16h00 {{ tea }} ([poster setup, group 2](https://drive.google.com/drive/folders/19DlY2bPRbzAsHIux5nSeBibbCSXlKBrU)) ({% include instructors people="nyamai|Mentors" %}, {{ main }})
 - 17h00-18h00 [Poster session 2](https://drive.google.com/drive/folders/19DlY2bPRbzAsHIux5nSeBibbCSXlKBrU) ({{ main }})
 {{ dinner }}
