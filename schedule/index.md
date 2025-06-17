@@ -150,7 +150,7 @@ archive: false
 - 08h30-09h00 [Welcome and Motivation for Workshop](https://drive.google.com/file/d/15P91x6rYAw5JW0Yu74YwgDVAtXwNnAef) ({% include instructors people="kassanjee" %}, {{ main }})
 - 09h00-09h45 {{ disc }} [Public health, epidemiology, and models](https://docs.google.com/presentation/d/1LbeHeiB-JlZk1tQq7IjMwnuwXQF7SYZE) ({% include instructors people="pearson" %}, {{ main }})
 	- {: .shadow} Notes: Mutono
-- 09h45-10h00 [MMED roadmap and program overview](https://drive.google.com/file/d/19e3Issa_z1ATAY_J8shkpx6A6yfvOlug) ({% include instructors people="kassanjee" %}, {{ main }})
+- 09h45-10h00 [MMED roadmap and program overview](../roadmap) ({% include instructors people="kassanjee" %}, {{ main }})
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h30 {{ lect }} [Introduction to dynamic modelling of infectious disease I](https://drive.google.com/file/d/1z9fvgjnNkFOY0Q3fvis4qvk_71xJqBw8) ({% include instructors people="kassanjee" %}, {{ main }})
 	- {: .shadow} Notes: Carl
