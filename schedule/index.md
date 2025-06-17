@@ -206,15 +206,13 @@ archive: false
 {{ bfast }}
 - {: .shadow} 0730? whatsapp checkin
 - 08h30-09h30 {{ lect }} [Consequences of heterogeneity and modelling options]() ({% include instructors people="dushoff" %}, {{ main }})
-  - {: .shadow } note takers: {% include instructors people="nyamai|pearson" %}
+  - {: .shadow } Notes: Seth
 - 09h30-11h00 (with coffee break) {{ prac }} Lab 2 - Consequences of heterogeneity ({% include instructors people="dushoff" %}, {{ lab }})
-  - {: .shadow } note takers: {% include instructors people="dushoff" %}
-  - run `ICI3D::heterogeneityTutorial()` at the R prompt
-  - If you would like to look under the hood, the relevant code is available [here](https://github.com/ICI3D/ici3d-pkg/blob/master/R/heterogeneityTutorial.R)
+  - {: .shadow } Mentors, Seth, Joe, CarL
   - Summary ({% include instructors people="dushoff" %})
 - 10h00-10h30 {{ coffee }}
 - 11h00-14h30 (with lunch break) {{ mlect }} [Introduction to models and data: HIV in Harare]() ({% include instructors people="kassanjee|pearson" %}, {{ lab }})
-  - {: .shadow } note takers: {% include instructors people="dushoff|are" %} (also for tutorial, summary etc)
+  - {: .shadow } Notes: Mutono
   - Launch from R prompt with `ICI3D::hivTutorial()`
   - If you finish all five versions of the model for the Harare data before lunch, move on to working on data from other countries.
   -  **Additional info:** [Distributed Delay Models of Survival](../tutorials/distributedDelay.pdf) (Boxcar Models) and [example script](https://www.dropbox.com/s/ykirgmodga2j7m9/distributed_delay_boxcar.R?dl=1)
