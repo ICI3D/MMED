@@ -222,33 +222,37 @@ archive: false
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
 - 14h30-15h30 {{ disc }} [Formulating research questions]() ({% include instructors people="vanschalkwyk|blumberg" %}, {{ sections }})
-  - {: .shadow } section 1: {% include instructors people="kassanjee" %}, section 2: {% include instructors people="borchering" %}
+  - {: .shadow } AIMS in main room assisted by Mutono
+  - {: .shadow } Seth somewhere notes by Rehsma
 - 15h30-16h00 {{ tea }}
 - 16h00-17h30 {{ lect }} Introduction to statistical philosophy ({% include instructors people="dushoff" %}, {{ main }})
-  - {: .shadow } note takers: {% include instructors people="nyamai" %}
-- 17h30-18h00 Projects: Topic Intro ({{ main }})
+  - {: .shadow } note takers: Cari
+- 17h30-18h00 Projects: Topic Intro ({% include instructors people="blumberg" %} {{ main }})
+  - {: .shadow } note takers: Mutono
 {{ dinner }}
 - 19h00-20h00 Optional: [Tutorials](../tutorials) catch-up ({% include instructors people="Mentors" %}, {{ lab }})
+	* This catch-up is open, but please sign up for future catch-ups
 
 ### Day 4
 
 {{ bfast }}
 - {: .shadow} 0730? whatsapp checkin
 - 08h30-10h00 {{ disc }} [Creating a model world to address a research question]() ({% include instructors people="blumberg|nyamai" %}, {{ sections }})
-  - {: .shadow } note takers: section 1 {% include instructors people="pearson" %}
+  - {: .shadow } note takers: Cari, Jonathan
 - 10h00-10h30 {{ coffee }}
+	* Lab 5 checkin
 - 10h30-11h15 {{ lect }} [Introduction to likelihood]() ({% include instructors people="vanschalkwyk" %}, {{ main }})
-  - {: .shadow } note takers: {% include instructors people="pearson|nyamai" %}
+  - {: .shadow } note takers: Carl
 - 11h15-12h30 {{ prac }} [Lab 5 - Introduction to likelihood](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab5_introLikelihood.R) ({% include instructors people="vanschalkwyk|Mentors" %}, {{ lab }})
-  - {: .shadow } note takers: {% include instructors people="mthombothi|nyamai" %}
-  - {: .shadow } Summary ({% include instructors people="vanschalkwyk" %})
 - {: .shadow} 12h30-13h00 faculty meeting
+  - {: .shadow } helping: Jonathan, Seth, mentors
 - 12h30-14h00 {{ lunch }}
-- 14h00-15h30 {{ lc }} Participatory coding of a dynamical model ({% include instructors people="pearson" %}, {{ main }})
+- 14h00-15h30 {{ lc }} Participatory coding of a dynamical model ({% include instructors people="dushoff" %}, {{ main }})
   - [This years results]() (past years generally available [here](https://github.com/ICI3D/RTutorials))
-  - {: .shadow } note takers: {% include instructors people="kassanjee" %}
+  - {: .shadow } note takers: Carl
 - 15h30-16h00 {{ tea }}
 - 16h00-17h00 {{ lect }} [Introduction stochastic simulation models]() ({% include instructors people="kassanjee" %}, {{ main }})
+  - {: .shadow } note takers: Carii
 - 17h00-18h00 {{ disc }} [Exercise 1: Stochastic models](https://github.com/ICI3D/RTutorials/blob/master/ICI3D_Ex1_StochasticSpillover.R) ({% include instructors people="kassanjee" %}, {{ lab }})
 {{ dinner }}
 - 18h30-19h00 Finish Model Diagram	
@@ -259,7 +263,8 @@ archive: false
 {{ bfast }}
 - {: .shadow} 0730? whatsapp checkin
 - 08h30-10h00 {{ disc }} [Description of proposed model and assumptions]() ({% include instructors people="nyamai|vanschalkwyk|Mentors" %}, {{ sections }})
-  - {: .shadow } note takers: section 1 {% include instructors people="kassanjee" %}, section 2 {% include instructors people="nyamai" %}
+  - {: .shadow } note takers: section 1; section 2 {% include instructors people="nyamai" %}
+  - {: .shadow } Telephone!
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h15 {{ lect }} [Fitting I]() ({% include instructors people="vanschalkwyk" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="nyamai" %}
@@ -268,7 +273,7 @@ archive: false
   - {: .shadow } Tumelo: TALK
   - {: .shadow } Jeanette: TALK
   - {: .shadow } Mphatso: TALK
-- {: .shadow} 12h30-13h00 faculty meeting
+- {: .shadow} 12h15-12h45 faculty meeting
 - 12h15-13h45 {{ lunch }} (note slight shift)
 - 13h45-15h00 {{ prac }} [Lab 6 - MLE fitting of an SIR model to prevalence data](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab6_MLE_SIV_HIV.R) ({% include instructors people="blumberg" %}, {{ lab }})
 - 15h00-15h30 [Projects: Topic Qs]() ({% include instructors people="nyamai" %}, {{ main }})
@@ -284,7 +289,7 @@ archive: false
 
 {{ bfast }}
 - {: .shadow} 0730? whatsapp checkin
-- 09h00-10h30 {{ lc }} Participatory coding for stochastic model ({% include instructors people="dushoff" %}, {{ main }})
+- 09h00-10h30 {{ lc }} Participatory coding for stochastic model ({% include instructors people="pearson" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="pearson" %}
 - 10h30-11h00 {{ coffee }}
 - 11h00-11h30 [Projects: Group Assignments]() ({% include instructors people="nyamai" %}, {{lab}})
