@@ -249,7 +249,7 @@ archive: false
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
 - 14h00-15h30 {{ lc }} Participatory coding of a dynamical model ({% include instructors people="dushoff" %}, {{ main }})
-  - [This years results]() (past years generally available [here](https://github.com/ICI3D/RTutorials))
+  - [This years code](https://github.com/ICI3D/RTutorials/blob/master/participatoryDynamics2025.R) (past years generally available [here](https://github.com/ICI3D/RTutorials))
   - {: .shadow } note takers: Carl
 - 15h30-16h00 {{ tea }}
 - 16h00-17h00 {{ lect }} [Introduction stochastic simulation models]() ({% include instructors people="kassanjee" %}, {{ main }})
