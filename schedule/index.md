@@ -241,7 +241,7 @@ archive: false
 - 08h30-10h00 {{ disc }} [Creating a model world to address a research question]() ({% include instructors people="blumberg|nyamai" %}, {{ sections }})
   - {: .shadow } note takers: Cari, Jonathan
 - 10h00-10h30 {{ coffee }}
-	* Lab 5 checkin
+	* {: .shadow} Lab 5 checkin
 - 10h30-11h15 {{ lect }} [Introduction to likelihood]() ({% include instructors people="vanschalkwyk" %}, {{ main }})
   - {: .shadow } note takers: Carl
 - 11h15-12h30 {{ prac }} [Lab 5 - Introduction to likelihood](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab5_introLikelihood.R) ({% include instructors people="vanschalkwyk|Mentors" %}, {{ lab }})
