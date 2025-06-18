@@ -245,8 +245,8 @@ archive: false
 - 10h30-11h15 {{ lect }} [Introduction to likelihood]() ({% include instructors people="vanschalkwyk" %}, {{ main }})
   - {: .shadow } note takers: Carl
 - 11h15-12h30 {{ prac }} [Lab 5 - Introduction to likelihood](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab5_introLikelihood.R) ({% include instructors people="vanschalkwyk|Mentors" %}, {{ lab }})
-- {: .shadow} 12h30-13h00 faculty meeting
   - {: .shadow } helping: Jonathan, Seth, mentors
+- {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
 - 14h00-15h30 {{ lc }} Participatory coding of a dynamical model ({% include instructors people="dushoff" %}, {{ main }})
   - [This years results]() (past years generally available [here](https://github.com/ICI3D/RTutorials))
