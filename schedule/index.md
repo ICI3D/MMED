@@ -221,13 +221,14 @@ archive: false
   - {: .shadow }[Summary of Harare tutorial]() ({% include instructors people="pearson" %})
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
-- 14h30-15h30 {{ disc }} [Formulating research questions]() ({% include instructors people="vanschalkwyk|blumberg" %}, {{ sections }})
+- 14h30-15h30 {{ disc }} Formulating research questions ({% include instructors people="vanschalkwyk|blumberg" %}, {{ sections }})
   - {: .shadow } AIMS in main room assisted by Mutono
   - {: .shadow } Seth somewhere notes by Rehsma
 - 15h30-16h00 {{ tea }}
-- 16h00-17h30 {{ lect }} Introduction to statistical philosophy ({% include instructors people="dushoff" %}, {{ main }})
+- 16h00-17h30 {{ lect }} [Introduction to statistical philosophy](https://drive.google.com/file/d/199YBtpaM6Rl9-UitW7LCyX6OrFLnH1gp) ({% include instructors people="dushoff" %}, {{ main }})
   - {: .shadow } note takers: Cari
-- 17h30-18h00 Projects: Topic Intro ({% include instructors people="blumberg" %} {{ main }})
+- 17h30-18h00 [Projects: Topic Intro](https://docs.google.com/presentation/d/1DzepzN9YnYyzhpiV4JKs6x10b2I6B5Pe) ({% include instructors people="blumberg" %} {{ main }})
+- [End of Day Questions](https://forms.gle/K1hNVfazuXbWVvEbA)
   - {: .shadow } note takers: Mutono
 {{ dinner }}
 - 19h00-20h00 Optional: [Tutorials](../tutorials) catch-up ({% include instructors people="Mentors" %}, {{ lab }})
