@@ -210,7 +210,7 @@ archive: false
   - {: .shadow } Notes: Seth
 - 09h30-11h00 (with coffee break) {{ prac }} Lab 2 - Consequences of heterogeneity ({% include instructors people="dushoff" %}, {{ lab }})
   - {: .shadow } Mentors, Seth, Joe, CarL
-  - Download <a href="https://github.com/ICI3D/RTutorials/blob/master/ICI3D_Lab_Heterogeneous_Groups.R">lab</a> and <a href="https://github.com/ICI3D/RTutorials/blob/master/ICI3D_Heterogeneous_Groups.R"> supplementary functions</a>
+  - Download <a href="https://github.com/ICI3D/RTutorials/blob/master/ICI3D_Lab_Heterogeneous_Groups.R?raw=1">lab</a> and <a href="https://github.com/ICI3D/RTutorials/blob/master/ICI3D_Heterogeneous_Groups.R?raw=1"> supplementary functions</a>
   - Summary ({% include instructors people="dushoff" %})
 - 10h00-10h30 {{ coffee }}
 - 11h00-14h30 (with lunch break) {{ mlect }} [Introduction to models and data: HIV in Harare](https://drive.google.com/file/d/1tFthcPurLo4zvs9j9huFEKJ4pueLICAx) ({% include instructors people="kassanjee|pearson" %}, {{ lab }})
