@@ -254,7 +254,10 @@ archive: false
 - 15h30-16h00 {{ tea }}
 - 16h00-17h00 {{ lect }} [Introduction stochastic simulation models]() ({% include instructors people="kassanjee" %}, {{ main }})
   - {: .shadow } note takers: Carii
+  - {: .shadow } Drum on the drums; remind them about assessment
 - 17h00-18h00 {{ disc }} [Exercise 1: Stochastic models](https://github.com/ICI3D/RTutorials/blob/master/ICI3D_Ex1_StochasticSpillover.R) ({% include instructors people="kassanjee" %}, {{ lab }})
+  - {: .shadow } Support: Mutono, Jonathan, Seth
+
 {{ dinner }}
 - [End of Day Questions](https://forms.gle/WjMN2aD7HksgrZLv7)
 - 18h30-19h00 Finish Model Diagram	
@@ -264,9 +267,9 @@ archive: false
 
 {{ bfast }}
 - {: .shadow} 0730? whatsapp checkin
-- 08h30-10h00 {{ disc }} [Description of proposed model and assumptions]() ({% include instructors people="nyamai|vanschalkwyk|Mentors" %}, {{ sections }})
-  - {: .shadow } note takers: section 1; section 2 {% include instructors people="nyamai" %}
+- 08h30-10h00 {{ disc }} [Description of proposed model and assumptions]() ({% include instructors people="nyamai|vanschalkwyk|blumberg|Mentors" %}, {{ sections }})
   - {: .shadow } Telephone!
+  - {: .shadow } note takers: Team, Reshma
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h15 {{ lect }} [Fitting I]() ({% include instructors people="vanschalkwyk" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="nyamai" %}
@@ -275,15 +278,20 @@ archive: false
   - {: .shadow } Tumelo: TALK
   - {: .shadow } Jeanette: TALK
   - {: .shadow } Mphatso: TALK
+  - {: .shadow } Seth: mention that the break is still 90 minutes but lunch not served until 12:30
 - {: .shadow} 12h15-12h45 faculty meeting
 - 12h15-13h45 {{ lunch }} (note slight shift)
 - 13h45-15h00 {{ prac }} [Lab 6 - MLE fitting of an SIR model to prevalence data](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab6_MLE_SIV_HIV.R) ({% include instructors people="blumberg" %}, {{ lab }})
+  - {: .shadow } Jonathan, Reshma, CarL, Carii, mentors
 - 15h00-15h30 [Projects: Topic Qs]() ({% include instructors people="nyamai" %}, {{ main }})
-  - {: .shadow } note takers: {% include instructors people="kassanjee|pearson" %}
+  - {: .shadow } note takers: Jonathan, Seth
 - 15h30-16h00 {{ tea }}
 - 16h00-17h00 Mid-Clinic Feeback session ({% include instructors people="bruce" %}, {{ main }})
-- 17h00-18h00 [Project selection]() ({{ main }})
-  - {: .shadow } note takers: {% include instructors people="kassanjee|pearson" %}
+- 17h00-18h00 [Optional catchup session]() ({{ lab }})
+  - Let the mentors know your questions
+
+__Project selection form__ due by 1800 __(very important)__.
+
 {{ dinner }}
 - 19h30-21h30 {{ sc }} Movie Night ({{ main }})
 
