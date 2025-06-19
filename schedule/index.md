@@ -290,7 +290,7 @@ archive: false
 - 17h00-18h00 [Optional catchup session]() ({{ lab }})
   - Let the mentors know your questions
 
-__Project selection form__ due by 1800 __(very important)__.
+<a href="https://docs.google.com/forms/d/1RJW6X5RFQ0ZdSu7cqe3T-SvNsoIksQFhpbaaXWCD9NY">__Project selection form__</a> due by 1800 __(very important)__.
 {{ dinner }}
 - 19h30-21h30 {{ sc }} Movie Night ({{ main }})
 
