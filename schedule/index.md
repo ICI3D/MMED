@@ -252,12 +252,12 @@ archive: false
   - [This years code](https://github.com/ICI3D/RTutorials/blob/master/participatoryDynamics2025.R) (past years generally available [here](https://github.com/ICI3D/RTutorials))
   - {: .shadow } note takers: Carl
 - 15h30-16h00 {{ tea }}
-- 16h00-17h00 {{ lect }} [Introduction stochastic simulation models]() ({% include instructors people="kassanjee" %}, {{ main }})
+- 16h00-17h00 {{ lect }} [Introduction stochastic simulation models](https://drive.google.com/file/d/1zMJWRqbgHpT-PhE88qXmurhvHOh-rCth) ({% include instructors people="kassanjee" %}, {{ main }})
   - {: .shadow } note takers: Carii
   - {: .shadow } Drum on the drums; remind them about assessment
 - 17h00-18h00 {{ disc }} [Exercise 1: Stochastic models](https://github.com/ICI3D/RTutorials/blob/master/ICI3D_Ex1_StochasticSpillover.R) ({% include instructors people="kassanjee" %}, {{ lab }})
+  - [Summary](https://drive.google.com/file/d/12Km8PtWUdyHf4FQBSwZtDGAxfOc-76Fv)
   - {: .shadow } Support: Mutono, Jonathan, Seth
-
 {{ dinner }}
 - [End of Day Questions](https://forms.gle/WjMN2aD7HksgrZLv7)
 - 18h30-19h00 Finish Model Diagram	
@@ -282,6 +282,7 @@ archive: false
 - {: .shadow} 12h15-12h45 faculty meeting
 - 12h15-13h45 {{ lunch }} (note slight shift)
 - 13h45-15h00 {{ prac }} [Lab 6 - MLE fitting of an SIR model to prevalence data](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab6_MLE_SIV_HIV.R) ({% include instructors people="blumberg" %}, {{ lab }})
+<<<<<<< HEAD
   - {: .shadow } Jonathan, Reshma, CarL, Carii, mentors
 - 15h00-15h30 [Projects: Topic Qs]() ({% include instructors people="nyamai" %}, {{ main }})
   - {: .shadow } note takers: Jonathan, Seth
@@ -292,6 +293,14 @@ archive: false
 
 __Project selection form__ due by 1800 __(very important)__.
 
+=======
+- 15h00-15h30 [Projects: Topic Qs](https://docs.google.com/presentation/d/1DzepzN9YnYyzhpiV4JKs6x10b2I6B5Pe) ({% include instructors people="nyamai" %}, {{ main }})
+  - {: .shadow } note takers: {% include instructors people="kassanjee|pearson" %}
+- 15h30-16h00 {{ tea }}
+- 16h00-17h00 Mid-Clinic Feeback session ({% include instructors people="bruce" %}, {{ main }})
+- 17h00-18h00 [Project selection](https://docs.google.com/forms/d/e/1FAIpQLScuu-QCRGKFxz7JME0Gy4xB41h_avQrDhaLNtVteNv4swj5Gw) ({{ main }})
+  - {: .shadow } note takers: {% include instructors people="kassanjee|pearson" %}
+>>>>>>> bcc474ee47115b5238c987b05f07c4a935a86061
 {{ dinner }}
 - 19h30-21h30 {{ sc }} Movie Night ({{ main }})
 
@@ -309,7 +318,7 @@ __Project selection form__ due by 1800 __(very important)__.
 
 ### Day 7
 
-- {{ sc }} Social Outing TBD
+- {{ sc }} Social Outing: Cape Point National Park; depart 09h00 sharp
 
 </details>
 
