@@ -256,6 +256,7 @@ archive: false
   - {: .shadow } note takers: Carii
 - 17h00-18h00 {{ disc }} [Exercise 1: Stochastic models](https://github.com/ICI3D/RTutorials/blob/master/ICI3D_Ex1_StochasticSpillover.R) ({% include instructors people="kassanjee" %}, {{ lab }})
 {{ dinner }}
+- [End of Day Questions](https://forms.gle/WjMN2aD7HksgrZLv7)
 - 18h30-19h00 Finish Model Diagram	
 - 19h00-21h00 {{ sc }} Drumming ({{ main }})
 
