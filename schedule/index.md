@@ -30,7 +30,9 @@ archive: false
 {%- assign coffee = "**Coffee**" -%}
 {%- assign lunch = "**Lunch**" -%}
 {% assign bfast = "- 07h45-08h15 **Breakfast**" %}
+{% assign ssbfast = "- 08h00-09h00 **Breakfast**" %}
 {% assign dinner = "- 18h00-18h30 **Dinner**" %}
+{% assign ssdinner = "- 18h00-18h30 **Dinner**" %}
 {%- assign tea = "**Tea**" -%}
 {%- assign break = "**Free - take a walk!**" -%}
 
@@ -295,7 +297,7 @@ archive: false
 
 ### Day 6
 
-{{ bfast }}
+{{ ssbfast }}
 - {: .shadow} 0730? whatsapp checkin
 - 09h00-10h30 {{ lc }} Participatory coding for stochastic model ({% include instructors people="pearson" %}, {{ main }})
   - {: .shadow } note takers: Reshma
@@ -306,9 +308,11 @@ archive: false
 - {: .shadow} 16h30 post-Kalky's all hands faculty meeting in E313; beverages provided
 
 ### Day 7
+{{ ssbfast }}
 
 - {{ sc }} Social Outing: Cape Point National Park; depart 09h00 sharp
 
+{{ ssdinner }}
 </details>
 
 <details markdown="1"><summary>Week 2: MMED Project Focus</summary>
