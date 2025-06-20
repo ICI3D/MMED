@@ -306,6 +306,7 @@ archive: false
 - 11h30-12h30 Optional: [Tutorials](../tutorials) catch-up ({% include instructors people="Mentors" %}, {{ lab }})
 - {{ sc }} Optional: Group Lunch at Kalky's (costs covered)
 - {: .shadow} 16h30 post-Kalky's all hands faculty meeting in E313; beverages provided
+{{ ssdinner }}
 
 ### Day 7
 {{ ssbfast }}
