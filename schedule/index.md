@@ -280,6 +280,7 @@ archive: false
 - 12h15-13h45 {{ lunch }} (note slight shift)
 - 13h45-15h00 {{ prac }} [Lab 6 - MLE fitting of an SIR model to prevalence data](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab6_MLE_SIV_HIV.R) ({% include instructors people="blumberg" %}, {{ lab }})
   - {: .shadow } Jonathan, Reshma, CarL, Carii, mentors
+  - [Intro / Summary Slides](https://docs.google.com/presentation/d/1Yj0a1-2-1M8Cg0HH6PiPrc6cdKGGH1ru)
 - 15h00-15h30 [Projects: Topic Qs](https://docs.google.com/presentation/d/1DzepzN9YnYyzhpiV4JKs6x10b2I6B5Pe) ({% include instructors people="nyamai" %}, {{ main }})
   - {: .shadow } note takers: Jonathan, Seth
 - 15h30-16h00 {{ tea }}
