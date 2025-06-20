@@ -285,6 +285,7 @@ archive: false
   - {: .shadow } note takers: Jonathan, Seth
 - 15h30-16h00 {{ tea }}
 - 16h00-17h00 Mid-Clinic Feeback session ({% include instructors people="bruce" %}, {{ main }})
+- [End of Day Questions](https://forms.gle/55XBgBjKi34jFPVJ9)
 - 17h00-18h00 [Optional catchup session](https://docs.google.com/forms/d/10c8MwOpJYpToRikrSXSHOWjKg80xduucFMKa9A4BDh0) ({{ lab }})
   - Let the mentors know your questions
 - **NO LATER THAN 1800: [__Project selection form__](https://docs.google.com/forms/d/1RJW6X5RFQ0ZdSu7cqe3T-SvNsoIksQFhpbaaXWCD9NY)**
