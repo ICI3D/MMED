@@ -290,7 +290,7 @@ archive: false
   - Let the mentors know your questions
 - **NO LATER THAN 1800: [__Project selection form__](https://docs.google.com/forms/d/1RJW6X5RFQ0ZdSu7cqe3T-SvNsoIksQFhpbaaXWCD9NY)**
 {{ dinner }}
-- 19h30-21h30 {{ sc }} Movie Night ({{ main }})
+- 19h00-21h00 {{ sc }} Movie Night ({{ main }})
 	- {: .shadow} Project group: work on group assignments possibly calling on experts
 
 ### Day 6
