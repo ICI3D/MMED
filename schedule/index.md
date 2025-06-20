@@ -242,7 +242,7 @@ archive: false
   - {: .shadow } note takers: Cari, Jonathan
 - 10h00-10h30 {{ coffee }}
 	* {: .shadow} Lab 5 checkin
-- 10h30-11h15 {{ lect }} [Introduction to likelihood]() ({% include instructors people="vanschalkwyk" %}, {{ main }})
+- 10h30-11h15 {{ lect }} [Introduction to likelihood](https://drive.google.com/file/d/1cQqKXN9DqQ3a3v5HYraWbGOxPbzkGXgX) ({% include instructors people="vanschalkwyk" %}, {{ main }})
   - {: .shadow } note takers: Carl
 - 11h15-12h30 {{ prac }} [Lab 5 - Introduction to likelihood](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab5_introLikelihood.R) ({% include instructors people="vanschalkwyk|Mentors" %}, {{ lab }})
   - {: .shadow } helping: Jonathan, Seth, mentors
@@ -271,7 +271,7 @@ archive: false
   - {: .shadow } Telephone!
   - {: .shadow } note takers: Team, Reshma
 - 10h00-10h30 {{ coffee }}
-- 10h30-11h15 {{ lect }} [Fitting I]() ({% include instructors people="vanschalkwyk" %}, {{ main }})
+- 10h30-11h15 {{ lect }} [Fitting I](https://drive.google.com/file/d/16DyUV6DFqEaHKFNOI3ZPILPNxUWZvMal) ({% include instructors people="vanschalkwyk" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="nyamai" %}
 - 11h15-12h15 Mentor presentations ({% include instructors people="blumberg" %}, {{ main }})
   - {: .shadow } We don't take formal notes here; you are requested to communicate privately with the mentors
@@ -284,10 +284,9 @@ archive: false
   - {: .shadow } note takers: Jonathan, Seth
 - 15h30-16h00 {{ tea }}
 - 16h00-17h00 Mid-Clinic Feeback session ({% include instructors people="bruce" %}, {{ main }})
-- 17h00-18h00 [Optional catchup session]() ({{ lab }})
+- 17h00-18h00 [Optional catchup session](https://docs.google.com/forms/d/10c8MwOpJYpToRikrSXSHOWjKg80xduucFMKa9A4BDh0) ({{ lab }})
   - Let the mentors know your questions
-
-<a href="https://docs.google.com/forms/d/1RJW6X5RFQ0ZdSu7cqe3T-SvNsoIksQFhpbaaXWCD9NY">__Project selection form__</a> due by 1800 __(very important)__.
+- **NO LATER THAN 1800: [__Project selection form__](https://docs.google.com/forms/d/1RJW6X5RFQ0ZdSu7cqe3T-SvNsoIksQFhpbaaXWCD9NY)**
 {{ dinner }}
 - 19h30-21h30 {{ sc }} Movie Night ({{ main }})
 	- {: .shadow} Project group: work on group assignments possibly calling on experts
