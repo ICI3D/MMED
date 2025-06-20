@@ -324,7 +324,7 @@ archive: false
 - 08h30-08h45 {{ disc }} [Feedback responses; Review Schedule & goals]() ({% include instructors people="kassanjee" %}, {{ main }})
 - 08h45-09h30 {{ lect }} [Life cycle of a modeling project]() ({% include instructors people="pearson" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="kassanjee" %}
-- 09h30-10h00 {{ gw }} MMED project work ({{ breakout }})
+- 09h30-10h00 {{ gw }} First meeting of <a href="https://docs.google.com/spreadsheets/d/1oYApOiOTl1C8M2E9QYEJjZeQCL1ErvWmSwrTD8B01AQ/">project groups</a> ({{ breakout }})
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h30 [Introduction to github]() ({% include instructors people="pearson|Mentors" %}, {{ lab }})
   - {: .shadow } note takers: {% include instructors people="TBD" %}
