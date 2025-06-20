@@ -274,11 +274,8 @@ archive: false
 - 10h30-11h15 {{ lect }} [Fitting I]() ({% include instructors people="vanschalkwyk" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="nyamai" %}
 - 11h15-12h15 Mentor presentations ({% include instructors people="blumberg" %}, {{ main }})
-  - {: .shadow } note takers: {% include instructors people="TBD" %}
-  - {: .shadow } Tumelo: TALK
-  - {: .shadow } Jeanette: TALK
-  - {: .shadow } Mphatso: TALK
-  - {: .shadow } Seth: mention that the break is still 90 minutes but lunch not served until 12:30
+  - {: .shadow } We don't take formal notes here; you are requested to communicate privately with the mentors
+  - {: .shadow } Seth: mention that lunch not served until 12:30
 - {: .shadow} 12h15-12h45 faculty meeting
 - 12h15-13h45 {{ lunch }} (note slight shift)
 - 13h45-15h00 {{ prac }} [Lab 6 - MLE fitting of an SIR model to prevalence data](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab6_MLE_SIV_HIV.R) ({% include instructors people="blumberg" %}, {{ lab }})
@@ -293,18 +290,19 @@ archive: false
 <a href="https://docs.google.com/forms/d/1RJW6X5RFQ0ZdSu7cqe3T-SvNsoIksQFhpbaaXWCD9NY">__Project selection form__</a> due by 1800 __(very important)__.
 {{ dinner }}
 - 19h30-21h30 {{ sc }} Movie Night ({{ main }})
+	- {: .shadow} Project group: work on group assignments possibly calling on experts
 
 ### Day 6
 
 {{ bfast }}
 - {: .shadow} 0730? whatsapp checkin
 - 09h00-10h30 {{ lc }} Participatory coding for stochastic model ({% include instructors people="pearson" %}, {{ main }})
-  - {: .shadow } note takers: {% include instructors people="pearson" %}
+  - {: .shadow } note takers: Reshma
 - 10h30-11h00 {{ coffee }}
 - 11h00-11h30 [Projects: Group Assignments]() ({% include instructors people="nyamai" %}, {{lab}})
 - 11h30-12h30 Optional: [Tutorials](../tutorials) catch-up ({% include instructors people="Mentors" %}, {{ lab }})
 - {{ sc }} Optional: Group Lunch at Kalky's (costs covered)
-- {: .shadow} 18h30 post-Kalky's all hands faculty meeting in E313; beverages provided
+- {: .shadow} 16h30 post-Kalky's all hands faculty meeting in E313; beverages provided
 
 ### Day 7
 
