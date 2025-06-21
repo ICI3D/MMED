@@ -303,7 +303,7 @@ archive: false
   - {: .shadow } note takers: Reshma
 - 10h30-11h00 {{ coffee }}
 - 11h00-11h30 [Projects: Group Assignments]() ({% include instructors people="nyamai" %}, {{lab}})
-- 11h30-12h30 Optional: [Tutorials](../tutorials) catch-up ({% include instructors people="Mentors" %}, {{ lab }})
+- 11h30-12h30 Optional: [Tutorials](../tutorials) catch-up or Project Group Work ({% include instructors people="Mentors" %}, {{ lab }})
 - {{ sc }} Optional: Group Lunch at Kalky's (costs covered)
 - {: .shadow} 16h30 post-Kalky's all hands faculty meeting in E313; beverages provided
 {{ ssdinner }}
