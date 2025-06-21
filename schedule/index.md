@@ -323,12 +323,13 @@ archive: false
 
 {{ bfast }}
 - 08h30-08h45 {{ disc }} [Feedback responses; Review Schedule & goals]() ({% include instructors people="kassanjee" %}, {{ main }})
+  - {: .shadow } Notes: Seth	
 - 08h45-09h30 {{ lect }} [Life cycle of a modeling project]() ({% include instructors people="pearson" %}, {{ main }})
-  - {: .shadow } note takers: {% include instructors people="kassanjee" %}
+  - {: .shadow } note takers: Mutono, Joe
 - 09h30-10h00 {{ gw }} First meeting of [project groups](https://docs.google.com/spreadsheets/d/1oYApOiOTl1C8M2E9QYEJjZeQCL1ErvWmSwrTD8B01AQ/) ({{ breakout }})
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h30 [Introduction to github]() ({% include instructors people="pearson|Mentors" %}, {{ lab }})
-  - {: .shadow } note takers: {% include instructors people="TBD" %}
+  - {: .shadow } note takers: Cari
 - 11h30-12h30 {{ gw }} MMED project work ({{ breakout }})
 - 12h30-14h00 {{ lunch }}
 - 14h00-15h30 {{ lect }} [Likelihood fitting and dynamical models II]() ({% include instructors people="blumberg" %}, {{main}})
