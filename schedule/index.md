@@ -205,7 +205,7 @@ archive: false
   - Moderator {% include instructors people="dushoff" %}
 
 ### Day 3
-
+ 
 {{ bfast }}
 - {: .shadow} 0730? whatsapp checkin
 - 08h30-09h30 {{ lect }} [Consequences of heterogeneity and modelling options]() ({% include instructors people="dushoff" %}, {{ main }})
@@ -302,7 +302,7 @@ archive: false
 - 09h00-10h30 {{ lc }} Participatory coding for stochastic model ({% include instructors people="pearson" %}, {{ main }})
   - {: .shadow } note takers: Reshma
 - 10h30-11h00 {{ coffee }}
-- 11h00-11h30 [Projects: Group Assignments]() ({% include instructors people="nyamai" %}, {{lab}})
+- 11h00-11h30 [Projects: Group Assignments](https://docs.google.com/spreadsheets/d/1oYApOiOTl1C8M2E9QYEJjZeQCL1ErvWmSwrTD8B01AQ/) ({% include instructors people="nyamai" %}, {{lab}})
 - 11h30-12h30 Optional: [Tutorials](../tutorials) catch-up ({% include instructors people="Mentors" %}, {{ lab }})
 - {{ sc }} Optional: Group Lunch at Kalky's (costs covered)
 - {: .shadow} 16h30 post-Kalky's all hands faculty meeting in E313; beverages provided
@@ -324,7 +324,7 @@ archive: false
 - 08h30-08h45 {{ disc }} [Feedback responses; Review Schedule & goals]() ({% include instructors people="kassanjee" %}, {{ main }})
 - 08h45-09h30 {{ lect }} [Life cycle of a modeling project]() ({% include instructors people="pearson" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="kassanjee" %}
-- 09h30-10h00 {{ gw }} First meeting of <a href="https://docs.google.com/spreadsheets/d/1oYApOiOTl1C8M2E9QYEJjZeQCL1ErvWmSwrTD8B01AQ/">project groups</a> ({{ breakout }})
+- 09h30-10h00 {{ gw }} First meeting of [project groups](https://docs.google.com/spreadsheets/d/1oYApOiOTl1C8M2E9QYEJjZeQCL1ErvWmSwrTD8B01AQ/) ({{ breakout }})
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h30 [Introduction to github]() ({% include instructors people="pearson|Mentors" %}, {{ lab }})
   - {: .shadow } note takers: {% include instructors people="TBD" %}
