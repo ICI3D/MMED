@@ -290,7 +290,7 @@ archive: false
 - [End of Day Questions](https://forms.gle/55XBgBjKi34jFPVJ9)
 - 17h00-18h00 [Optional catchup session](https://docs.google.com/forms/d/10c8MwOpJYpToRikrSXSHOWjKg80xduucFMKa9A4BDh0) ({{ lab }})
   - Let the mentors know your questions
-- **NO LATER THAN 1800: [__Project selection form__](https://docs.google.com/forms/d/1RJW6X5RFQ0ZdSu7cqe3T-SvNsoIksQFhpbaaXWCD9NY)**
+- **NO LATER THAN 1800: [Project selection form](https://docs.google.com/forms/d/1RJW6X5RFQ0ZdSu7cqe3T-SvNsoIksQFhpbaaXWCD9NY)**
 {{ dinner }}
 - 19h00-21h00 {{ sc }} Movie Night ({{ main }})
 	- {: .shadow} Project group: work on group assignments possibly calling on experts
