@@ -334,7 +334,7 @@ archive: false
 - 14h00-15h30 {{ lect }} [Likelihood fitting and dynamical models II]() ({% include instructors people="blumberg" %}, {{main}})
   - {: .shadow } note takers: {% include instructors people="pearson|kassanjee" %}
 - 15h30-16h00 {{ tea }}
-- 16h00-17h30 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
+- 16h00-17h30 {{ gw }} MMED project work + [mentoring sessions](https://docs.google.com/spreadsheets/d/1jzPPM6DxPewEEFea2nAPiadjunCzKu_dpwgoVei6658) ({{breakout}})
 {{ dinner }}
 - 19h00-20h00 Optional: Github practice and and trouble-shooting / tutorial catch-up ({% include instructors people="pearson|Mentors" %}, {{ lab }})
 
@@ -355,7 +355,7 @@ archive: false
   - [Summary]() ({% include instructors people="Mentors" %})
   - {: .shadow } note takers: {% include instructors people="dushoff" %}
 - 15h30-16h00 {{ tea }}
-- 16h00-17h30 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
+- 16h00-17h30 {{ gw }} MMED project work + [mentoring sessions](https://docs.google.com/spreadsheets/d/1jzPPM6DxPewEEFea2nAPiadjunCzKu_dpwgoVei6658) ({{breakout}})
 {{ dinner }}	
 
 ### Day 10
@@ -373,14 +373,14 @@ archive: false
 - 12h30-14h00 {{ lunch }} 
 - 14h00-15h30 {{ gw }} MMED project work ({{ breakout }})
 - 15h30-16h00 {{ tea }}
-- 16h00-17h30 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
+- 16h00-17h30 {{ gw }} MMED project work + [mentoring sessions](https://docs.google.com/spreadsheets/d/1jzPPM6DxPewEEFea2nAPiadjunCzKu_dpwgoVei6658) ({{breakout}})
 {{ dinner }}
 - 19h00-20h00 Guest Lecture: [Mmamapudi Kubjane]() ({{ main }})
   
 ### Day 11
 
 {{ bfast }}
-- 08h30-10h00 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
+- 08h30-10h00 {{ gw }} MMED project work + [mentoring sessions](https://docs.google.com/spreadsheets/d/1jzPPM6DxPewEEFea2nAPiadjunCzKu_dpwgoVei6658) ({{breakout}})
 - 10h00-10h30 {{ coffee }}	
 - 10h30-12h30 {{ gw }} MMED project work ({{breakout}})
 - 12h30-14h00 {{ lunch }}
@@ -394,9 +394,8 @@ archive: false
 ### Day 12
 
 {{ bfast }}
-- 08h30-10h00 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
-- 10h00-10h30 {{ coffee }}	
-- 10h30-12h30 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
+- 08h30-12h30 {{ gw }} MMED project work + [mentoring sessions](https://docs.google.com/spreadsheets/d/1jzPPM6DxPewEEFea2nAPiadjunCzKu_dpwgoVei6658) ({{breakout}})
+  - 10h00-10h30 {{ coffee }}	
   - 12h30 [Report due]()
   - 13h00 [Presentations due]()
 - 12h30-13h30 {{ lunch }}
