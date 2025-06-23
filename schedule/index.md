@@ -137,7 +137,7 @@ archive: false
 
 </details>
 
-<details markdown="1" open><summary>Week 1: Meaningful Modeling of Epidemiological Data (MMED)</summary>
+<details markdown="1"><summary>Week 1: Meaningful Modeling of Epidemiological Data (MMED)</summary>
 
 ### Day 0 (Sunday, 15 June)
 
@@ -273,7 +273,7 @@ archive: false
   - {: .shadow } Telephone!
   - {: .shadow } note takers: Team, Reshma
 - 10h00-10h30 {{ coffee }}
-- 10h30-11h15 {{ lect }} [Fitting I](https://drive.google.com/file/d/16DyUV6DFqEaHKFNOI3ZPILPNxUWZvMal) ({% include instructors people="vanschalkwyk" %}, {{ main }})
+- 10h30-11h15 {{ lect }} [Fitting I](https://drive.google.com/file/d/1u0wD9ImMKiLtOvbbqQx7QkL3DNENZ_4f) ({% include instructors people="vanschalkwyk" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="nyamai" %}
 - 11h15-12h15 Mentor presentations ({% include instructors people="blumberg" %}, {{ main }})
   - {: .shadow } We don't take formal notes here; you are requested to communicate privately with the mentors
@@ -317,12 +317,13 @@ archive: false
 {{ ssdinner }}
 </details>
 
-<details markdown="1"><summary>Week 2: MMED Project Focus</summary>
+<details markdown="1" open><summary>Week 2: MMED Project Focus</summary>
 
 ### Day 8 (Monday, 23 June)
 
 {{ bfast }}
 - 08h30-08h45 {{ disc }} [Feedback responses; Review Schedule & goals]() ({% include instructors people="kassanjee" %}, {{ main }})
+<<<<<<< HEAD
   - {: .shadow } Notes: Seth	
 - 08h45-09h30 {{ lect }} [Life cycle of a modeling project]() ({% include instructors people="pearson" %}, {{ main }})
   - {: .shadow } note takers: Mutono, Joe
@@ -330,13 +331,21 @@ archive: false
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h30 [Introduction to github]() ({% include instructors people="pearson|Mentors" %}, {{ lab }})
   - {: .shadow } note takers: Cari
+=======
+- 08h45-09h30 {{ lect }} [Life cycle of a modeling project](https://docs.google.com/presentation/d/1QluWYDhtsHUZK4WSY_Ddq7u8tJe3pG7N) ({% include instructors people="pearson" %}, {{ main }})
+  - {: .shadow } note takers: {% include instructors people="kassanjee" %}
+- 09h30-10h00 {{ gw }} First meeting of [project groups](https://docs.google.com/spreadsheets/d/1oYApOiOTl1C8M2E9QYEJjZeQCL1ErvWmSwrTD8B01AQ/) ({{ breakout }})
+- 10h00-10h30 {{ coffee }}
+- 10h30-11h30 [Introduction to github](https://docs.google.com/presentation/d/1Y0pTtI3DPKuE6ZKJ_gyfutFnjTJy3VkD) ({% include instructors people="pearson|Mentors" %}, {{ lab }})
+  - {: .shadow } note takers: {% include instructors people="TBD" %}
+>>>>>>> 0e2d568830e818bc358a144d8d66267e56c54e5d
 - 11h30-12h30 {{ gw }} MMED project work ({{ breakout }})
 - 12h30-14h00 {{ lunch }}
 - 14h00-15h30 {{ lect }} [Likelihood fitting and dynamical models II]() ({% include instructors people="blumberg" %}, {{main}})
   - {: .shadow } Cari, Jonathan
   - {: .shadow } Announce github practice no need to sign up
 - 15h30-16h00 {{ tea }}
-- 16h00-17h30 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
+- 16h00-18h00 {{ gw }} MMED project work + [mentoring sessions](https://docs.google.com/spreadsheets/d/1jzPPM6DxPewEEFea2nAPiadjunCzKu_dpwgoVei6658) ({{breakout}})
 {{ dinner }}
 - 19h00-20h00 Optional: Github practice and and trouble-shooting / tutorial catch-up ({% include instructors people="pearson|Mentors" %}, {{ lab }})
 
@@ -356,8 +365,9 @@ archive: false
   - [Summary]() ({% include instructors people="Mentors" %})
   - {: .shadow } note takers: Mutono, Cari
 - 15h30-16h00 {{ tea }}
-- 16h00-17h30 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
-{{ dinner }}	
+- 16h00-18h00 {{ gw }} MMED project work + [mentoring sessions](https://docs.google.com/spreadsheets/d/1jzPPM6DxPewEEFea2nAPiadjunCzKu_dpwgoVei6658) ({{breakout}})
+{{ dinner }}
+- 19h00-20h00 Optional: Github Trouble-shooting / tutorial catch-up ({% include instructors people="Mentors" %}, {{ lab }})
 
 ### Day 10
 
@@ -374,14 +384,14 @@ archive: false
 - 12h30-14h00 {{ lunch }} 
 - 14h00-15h30 {{ gw }} MMED project work ({{ breakout }})
 - 15h30-16h00 {{ tea }}
-- 16h00-17h30 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
+- 16h00-18h00 {{ gw }} MMED project work + [mentoring sessions](https://docs.google.com/spreadsheets/d/1jzPPM6DxPewEEFea2nAPiadjunCzKu_dpwgoVei6658) ({{breakout}})
 {{ dinner }}
 - 19h00-20h00 Guest Lecture: [Mmamapudi Kubjane]() ({{ main }})
   
 ### Day 11
 
 {{ bfast }}
-- 08h30-10h00 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
+- 08h30-10h00 {{ gw }} MMED project work + [mentoring sessions](https://docs.google.com/spreadsheets/d/1jzPPM6DxPewEEFea2nAPiadjunCzKu_dpwgoVei6658) ({{breakout}})
 - 10h00-10h30 {{ coffee }}	
 - 10h30-12h30 {{ gw }} MMED project work ({{breakout}})
 - 12h30-14h00 {{ lunch }}
@@ -391,13 +401,13 @@ archive: false
 - 16h00-17h30 {{ disc }} Modelling for policy ({% include instructors people="blumberg" %}, {{main}})
   - {: .shadow } note takers: {% include instructors people="dushoff" %}
 {{ dinner }}
+- 19h00-20h00 MMED project work
 
 ### Day 12
 
 {{ bfast }}
-- 08h30-10h00 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
-- 10h00-10h30 {{ coffee }}	
-- 10h30-12h30 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
+- 08h30-12h30 {{ gw }} MMED project work ({{breakout}})
+  - 10h00-10h30 {{ coffee }}	
   - 12h30 [Report due]()
   - 13h00 [Presentations due]()
 - 12h30-13h30 {{ lunch }}
