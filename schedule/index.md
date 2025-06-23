@@ -273,7 +273,7 @@ archive: false
   - {: .shadow } Telephone!
   - {: .shadow } note takers: Team, Reshma
 - 10h00-10h30 {{ coffee }}
-- 10h30-11h15 {{ lect }} [Fitting I](https://drive.google.com/file/d/16DyUV6DFqEaHKFNOI3ZPILPNxUWZvMal) ({% include instructors people="vanschalkwyk" %}, {{ main }})
+- 10h30-11h15 {{ lect }} [Fitting I](https://drive.google.com/file/d/1u0wD9ImMKiLtOvbbqQx7QkL3DNENZ_4f) ({% include instructors people="vanschalkwyk" %}, {{ main }})
   - {: .shadow } note takers: {% include instructors people="nyamai" %}
 - 11h15-12h15 Mentor presentations ({% include instructors people="blumberg" %}, {{ main }})
   - {: .shadow } We don't take formal notes here; you are requested to communicate privately with the mentors
