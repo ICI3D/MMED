@@ -6,6 +6,10 @@ title: Tutorials
 subtitle: ICI3D R tutorials and labs
 ---
 
+## Overall Repository
+
+You can find all the tutorial materials at the [ICI3D/RTutorials](https://github.com/ICI3D/RTutorials) reposiory. In addition to the materials below, this will also include historical versions and materials like live and participatory coding sessions.
+
 ## Tutorials
 
 - Tutorial 0: [Introduction to R Studio](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_0.R) - provides an introduction to the user interface
