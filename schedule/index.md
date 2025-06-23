@@ -323,26 +323,17 @@ archive: false
 
 {{ bfast }}
 - 08h30-08h45 {{ disc }} [Feedback responses; Review Schedule & goals]() ({% include instructors people="kassanjee" %}, {{ main }})
-<<<<<<< HEAD
   - {: .shadow } Notes: Seth	
-- 08h45-09h30 {{ lect }} [Life cycle of a modeling project]() ({% include instructors people="pearson" %}, {{ main }})
+- 08h45-09h30 {{ lect }} [Life cycle of a modeling project](https://docs.google.com/presentation/d/1QluWYDhtsHUZK4WSY_Ddq7u8tJe3pG7N) ({% include instructors people="pearson" %}, {{ main }})
   - {: .shadow } note takers: Mutono, Joe
 - 09h30-10h00 {{ gw }} First meeting of [project groups](https://docs.google.com/spreadsheets/d/1oYApOiOTl1C8M2E9QYEJjZeQCL1ErvWmSwrTD8B01AQ/) ({{ breakout }})
 - 10h00-10h30 {{ coffee }}
-- 10h30-11h30 [Introduction to github]() ({% include instructors people="pearson|Mentors" %}, {{ lab }})
-  - {: .shadow } note takers: Cari
-=======
-- 08h45-09h30 {{ lect }} [Life cycle of a modeling project](https://docs.google.com/presentation/d/1QluWYDhtsHUZK4WSY_Ddq7u8tJe3pG7N) ({% include instructors people="pearson" %}, {{ main }})
-  - {: .shadow } note takers: {% include instructors people="kassanjee" %}
-- 09h30-10h00 {{ gw }} First meeting of [project groups](https://docs.google.com/spreadsheets/d/1oYApOiOTl1C8M2E9QYEJjZeQCL1ErvWmSwrTD8B01AQ/) ({{ breakout }})
-- 10h00-10h30 {{ coffee }}
 - 10h30-11h30 [Introduction to github](https://docs.google.com/presentation/d/1Y0pTtI3DPKuE6ZKJ_gyfutFnjTJy3VkD) ({% include instructors people="pearson|Mentors" %}, {{ lab }})
-  - {: .shadow } note takers: {% include instructors people="TBD" %}
->>>>>>> 0e2d568830e818bc358a144d8d66267e56c54e5d
+  - {: .shadow } note takers: Cari
 - 11h30-12h30 {{ gw }} MMED project work ({{ breakout }})
 - 12h30-14h00 {{ lunch }}
-- 14h00-15h30 {{ lect }} [Likelihood fitting and dynamical models II]() ({% include instructors people="blumberg" %}, {{main}})
-  - {: .shadow } Cari, Jonathan
+- 14h00-15h30 {{ lect }} [Likelihood fitting and dynamical models II](https://docs.google.com/presentation/d/1AdBlXce06jznzo1tyywdiwqNs_UZIN6P) ({% include instructors people="blumberg" %}, {{main}})
+  - {: .shadow } Notes: Cari, Jonathan
   - {: .shadow } Announce github practice no need to sign up
 - 15h30-16h00 {{ tea }}
 - 16h00-18h00 {{ gw }} MMED project work + [mentoring sessions](https://docs.google.com/spreadsheets/d/1jzPPM6DxPewEEFea2nAPiadjunCzKu_dpwgoVei6658) ({{breakout}})
