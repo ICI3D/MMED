@@ -9,7 +9,7 @@ alertmsg: >
   <li>Please make sure that your final slides for the sessions below are added to the <a href="https://drive.google.com/drive/folders/1C5LW7zhYYU856bHRBPu_s0yl5ToN8yOW">ICI3D Google Drive!</a></li>
   <li>Links to R tutorials and exercises are available <a href="../tutorials">here</a>.</li>
   <li>Please update all your presentations to <b>use the ICI3D slide template</b>.</li>
-  <li><a href="https://docs.google.com/document/d/18T2Dot3I6nkBZlh20QVhVtULkF_1-yTNZOC4z-3MFHY/edit?tab=t.0">General Notes</a>; <a href="https://docs.google.com/document/d/1ntKqRhZ8jxj1-fBZigKyAFjzGXYeKE0g6bub1fhUyvM/edit?tab=t.0#heading=h.ew4b253yywvc">Session Notes</a></li>
+  <li><a href="https://docs.google.com/document/d/18T2Dot3I6nkBZlh20QVhVtULkF_1-yTNZOC4z-3MFHY/edit?tab=t.0">General Notes</a>; <a href="https://docs.google.com/document/d/1ntKqRhZ8jxj1-fBZigKyAFjzGXYeKE0g6bub1fhUyvM/edit?tab=t.0#heading=h.ew4b253yywvc">Session Notes; </a><a href="https://docs.google.com/document/d/1SzN91hGNRKig7WMG2c1kMeHruAQbnoDaRz8pKBPVxqg/edit">Pipeline Notes</a></li>
   <li><a href="https://docs.google.com/document/d/1XrMxQPQ5GzI9ULCIbLSBVtCnRYx0wU0zsMAXpCxCNuE/edit">Click here for access to the MMED 2024 General Notes</a> or <a href="https://docs.google.com/document/d/1OkLUgMk6ZtgGffxgYD2_DU9oB0VKOa5R_jWZTe56HfY/edit">Session Notes</a></li>
   </ul>
 archive: false
@@ -333,7 +333,8 @@ archive: false
 - 11h30-12h30 {{ gw }} MMED project work ({{ breakout }})
 - 12h30-14h00 {{ lunch }}
 - 14h00-15h30 {{ lect }} [Likelihood fitting and dynamical models II]() ({% include instructors people="blumberg" %}, {{main}})
-  - {: .shadow } note takers: {% include instructors people="pearson|kassanjee" %}
+  - {: .shadow } Cari, Jonathan
+  - {: .shadow } Announce github practice no need to sign up
 - 15h30-16h00 {{ tea }}
 - 16h00-17h30 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
 {{ dinner }}
@@ -343,18 +344,17 @@ archive: false
 
 {{ bfast }}
 - 08h30-10h00 {{ lect }} [Introduction to Markov Chain Monte Carlo (MCMC)]() ({% include instructors people="pearson" %}, {{ main }})
-  - {: .shadow } note takers: {% include instructors people="TBD" %}
+  - {: .shadow } Seth, Mutono
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h30 {{ prac }} [Lab 7](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab7_MCMC-Binomial.R) & [Lab 8](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab8_MCMC-SI_HIV.R) MCMC model fitting ({% include instructors people="pearson|Mentors" %}, {{lab}})
-  - {: .shadow } note takers: {% include instructors people="kassanjee" %}
+  - {: .shadow} Cari, Seth, Jonathan
 - 11h30-12h30 {{ gw }} MMED project work ({{breakout}})
 - 12h30-14h00 {{ lunch }}
-  - {: .shadow} 1300 ICI3D meeting with remoting adds
 - 14h00-14h45 {{ lect }} [Data management and cleaning]() ({% include instructors people="nyamai" %}, {{ main }})
-  - {: .shadow } note takers: {% include instructors people="dushoff" %}
-- 14h45-15h30 {{ prac }} [Tutorial 5: Data cleaning](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_5_DataCleaning.R), [data](https://github.com/ICI3D/datasets/blob/master/dataCleaning/tutorial5.csv) ({% include instructors people="nyamai|Mentors" %}, {{ lab }})
+  - {: .shadow } Notes: Jonathan
+- 14h45-15h30 {{ prac }} [Tutorial 5: Data cleaning](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_5_DataCleaning.R), [data](https://github.com/ICI3D/datasets/blob/master/dataCleaning/tutorial5.csv) ({% include instructors people="bingham" %}, {{ lab }})
   - [Summary]() ({% include instructors people="Mentors" %})
-  - {: .shadow } note takers: {% include instructors people="dushoff" %}
+  - {: .shadow } note takers: Mutono, Cari
 - 15h30-16h00 {{ tea }}
 - 16h00-17h30 {{ gw }} MMED project work + mentoring sessions ({{breakout}})
 {{ dinner }}	
@@ -368,7 +368,7 @@ archive: false
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h00 {{ gw }} MMED project work ({{ breakout }})
 - 11h00-12h30 {{ lc }} Participatory coding for study design and simulation based validation ({% include instructors people="dushoff" %}, {{ main }})
-  - {: .shadow } note takers: {% include instructors people="kassanjee" %}
+  - {: .shadow } note takers:
   * {: .shadow } [One-study code](https://github.com/ICI3D/RTutorials/blob/master/sampling_JD/study_design.R); [Many-study code](https://github.com/ICI3D/RTutorials/blob/master/sampling_JD/study_design_rep.R)
   - {: .shadow } Get a more direct summary title for this
 - 12h30-14h00 {{ lunch }} 
