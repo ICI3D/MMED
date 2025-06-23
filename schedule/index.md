@@ -331,8 +331,8 @@ archive: false
   - {: .shadow } note takers: {% include instructors people="TBD" %}
 - 11h30-12h30 {{ gw }} MMED project work ({{ breakout }})
 - 12h30-14h00 {{ lunch }}
-- 14h00-15h30 {{ lect }} [Likelihood fitting and dynamical models II]() ({% include instructors people="blumberg" %}, {{main}})
-  - {: .shadow } note takers: {% include instructors people="pearson|kassanjee" %}
+- 14h00-15h30 {{ lect }} [Likelihood fitting and dynamical models II](https://docs.google.com/presentation/d/1AdBlXce06jznzo1tyywdiwqNs_UZIN6P) ({% include instructors people="blumberg" %}, {{main}})
+  - {: .shadow } note takers: {% include instructors people="vanschalkwyk" %}
 - 15h30-16h00 {{ tea }}
 - 16h00-18h00 {{ gw }} MMED project work + [mentoring sessions](https://docs.google.com/spreadsheets/d/1jzPPM6DxPewEEFea2nAPiadjunCzKu_dpwgoVei6658) ({{breakout}})
 {{ dinner }}
