@@ -338,6 +338,7 @@ archive: false
   - {: .shadow } Announce github practice no need to sign up
 - 15h30-16h00 {{ tea }}
 - 16h00-18h00 {{ gw }} MMED project work + [mentoring sessions](https://docs.google.com/spreadsheets/d/1jzPPM6DxPewEEFea2nAPiadjunCzKu_dpwgoVei6658) ({{breakout}})
+- [End of Day Questions](https://forms.gle/ycGw6LvfUfqK3THw7)
 {{ dinner }}
 - 19h00-20h00 Optional: Github practice and and trouble-shooting / tutorial catch-up ({% include instructors people="pearson|Mentors" %}, {{ lab }})
 
