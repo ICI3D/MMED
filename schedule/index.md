@@ -331,6 +331,7 @@ archive: false
 - 10h30-11h30 [Introduction to github](https://docs.google.com/presentation/d/1Y0pTtI3DPKuE6ZKJ_gyfutFnjTJy3VkD) ({% include instructors people="pearson|Mentors" %}, {{ lab }})
   - {: .shadow } note takers: Cari
 - 11h30-12h30 {{ gw }} MMED project work ({{ breakout }})
+	* [Project assignment presentation](https://docs.google.com/presentation/d/12WQnvcHokWOE7drZm7n_ZHiNkOv2gUUv/)
 - 12h30-14h00 {{ lunch }}
 - 14h00-15h30 {{ lect }} [Likelihood fitting and dynamical models II](https://docs.google.com/presentation/d/1AdBlXce06jznzo1tyywdiwqNs_UZIN6P) ({% include instructors people="blumberg" %}, {{main}})
   - {: .shadow } Notes: Cari, Jonathan
