@@ -327,7 +327,7 @@ archive: false
   - {: .shadow } note takers: {% include instructors people="kassanjee" %}
 - 09h30-10h00 {{ gw }} First meeting of [project groups](https://docs.google.com/spreadsheets/d/1oYApOiOTl1C8M2E9QYEJjZeQCL1ErvWmSwrTD8B01AQ/) ({{ breakout }})
 - 10h00-10h30 {{ coffee }}
-- 10h30-11h30 [Introduction to github]() ({% include instructors people="pearson|Mentors" %}, {{ lab }})
+- 10h30-11h30 [Introduction to github](https://docs.google.com/presentation/d/1Y0pTtI3DPKuE6ZKJ_gyfutFnjTJy3VkD) ({% include instructors people="pearson|Mentors" %}, {{ lab }})
   - {: .shadow } note takers: {% include instructors people="TBD" %}
 - 11h30-12h30 {{ gw }} MMED project work ({{ breakout }})
 - 12h30-14h00 {{ lunch }}
