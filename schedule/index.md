@@ -348,6 +348,8 @@ archive: false
 - 08h30-10h00 {{ lect }} [Introduction to Markov Chain Monte Carlo (MCMC)]() ({% include instructors people="pearson" %}, {{ main }})
   - {: .shadow } Seth, Mutono
 - 10h00-10h30 {{ coffee }}
+	* Photo session
+	* [See MMED photo folder (request access if necessary)](https://drive.google.com/drive/folders/1wRuw962aJbImdzHFy6CXqiBo17lKoiX-)
 - 10h30-11h30 {{ prac }} [Lab 7](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab7_MCMC-Binomial.R) & [Lab 8](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab8_MCMC-SI_HIV.R) MCMC model fitting ({% include instructors people="pearson|Mentors" %}, {{lab}})
   - {: .shadow} Cari, Seth, Jonathan
 - 11h30-12h30 {{ gw }} MMED project work ({{breakout}})
