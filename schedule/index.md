@@ -366,12 +366,12 @@ archive: false
 
 {{ bfast }}
 - 08h30-09h30 {{ lect }} [Model assessment]() ({% include instructors people="dushoff" %}, {{ main }})
-  - {: .shadow } note takers: {% include instructors people="kassanjee" %}
+  - {: .shadow } Notes: Joe, Cari
 - 09h30-10h00 {{ gw }} MMED project work ({{ breakout }})
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h00 {{ gw }} MMED project work ({{ breakout }})
 - 11h00-12h30 {{ lc }} Participatory coding for study design and simulation based validation ({% include instructors people="dushoff" %}, {{ main }})
-  - {: .shadow } note takers:
+  - {: .shadow } note takers: Carl
   * {: .shadow } [One-study code](https://github.com/ICI3D/RTutorials/blob/master/sampling_JD/study_design.R); [Many-study code](https://github.com/ICI3D/RTutorials/blob/master/sampling_JD/study_design_rep.R)
   - {: .shadow } Get a more direct summary title for this
 - 12h30-14h00 {{ lunch }} 
