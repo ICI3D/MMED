@@ -352,13 +352,14 @@ archive: false
   - {: .shadow} Cari, Seth, Jonathan
 - 11h30-12h30 {{ gw }} MMED project work ({{breakout}})
 - 12h30-14h00 {{ lunch }}
-- 14h00-14h45 {{ lect }} [Data management and cleaning]() ({% include instructors people="nyamai" %}, {{ main }})
+- 14h00-14h45 {{ lect }} [Data management and cleaning](https://drive.google.com/file/d/1Ub-UmIWcCso-r6p_GZII3c5zigO4NL3Q) ({% include instructors people="nyamai" %}, {{ main }})
   - {: .shadow } Notes: Jonathan
 - 14h45-15h30 {{ prac }} [Tutorial 5: Data cleaning](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_5_DataCleaning.R), [data](https://github.com/ICI3D/datasets/blob/master/dataCleaning/tutorial5.csv) ({% include instructors people="bingham" %}, {{ lab }})
   - [Summary]() ({% include instructors people="Mentors" %})
   - {: .shadow } note takers: Mutono, Cari
 - 15h30-16h00 {{ tea }}
 - 16h00-18h00 {{ gw }} MMED project work + [mentoring sessions](https://docs.google.com/spreadsheets/d/1jzPPM6DxPewEEFea2nAPiadjunCzKu_dpwgoVei6658) ({{breakout}})
+- [End of Day Questions](https://forms.gle/ydGJTpyQuBner1Wd7)
 {{ dinner }}
 - 19h00-20h00 Optional: Github Trouble-shooting / tutorial catch-up ({% include instructors people="Mentors" %}, {{ lab }})
 
@@ -379,7 +380,7 @@ archive: false
 - 15h30-16h00 {{ tea }}
 - 16h00-18h00 {{ gw }} MMED project work + [mentoring sessions](https://docs.google.com/spreadsheets/d/1jzPPM6DxPewEEFea2nAPiadjunCzKu_dpwgoVei6658) ({{breakout}})
 {{ dinner }}
-- 19h00-20h00 Guest Lecture: [Mmamapudi Kubjane]() ({{ main }})
+- 19h00-20h00 Guest Lecture: [Mmamapudi Kubjane](https://www.ici3d.org/DAIDD/team/kubjane/) ({{ main }})
   
 ### Day 11
 
