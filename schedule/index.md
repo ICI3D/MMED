@@ -373,9 +373,8 @@ archive: false
 - 09h30-10h00 {{ gw }} MMED project work ({{ breakout }})
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h00 {{ gw }} MMED project work ({{ breakout }})
-- 11h00-12h30 {{ lc }} Participatory coding for study design and simulation based validation ({% include instructors people="dushoff" %}, {{ main }})
+- 11h00-12h30 **either** {{ gw }} MMED project work **or** {{ lc }} Analysis pipelines ([resulting code]()) ({% include instructors people="pearson" %}, {{breakout}} or {{main}})
   - {: .shadow } note takers: Carl
-  * {: .shadow } [One-study code](https://github.com/ICI3D/RTutorials/blob/master/sampling_JD/study_design.R); [Many-study code](https://github.com/ICI3D/RTutorials/blob/master/sampling_JD/study_design_rep.R)
   - {: .shadow } Get a more direct summary title for this
 - 12h30-14h00 {{ lunch }} 
 - 14h00-15h30 {{ gw }} MMED project work ({{ breakout }})
@@ -392,8 +391,9 @@ archive: false
 - 10h00-10h30 {{ coffee }}	
 - 10h30-12h30 {{ gw }} MMED project work ({{breakout}})
 - 12h30-14h00 {{ lunch }}
-- 14h00-15h30 **either** {{ gw }} MMED project work **or** {{ lc }} [Analysis pipelines (video + transcript)]() ([resulting code]()) ({% include instructors people="pearson" %}, {{breakout}} or {{main}})
-  - {: .shadow } note takers: {% include instructors people="kassanjee" %}
+- 14h00-15h30 **either** {{ gw }} MMED project work **or** {{ lc }} Participatory coding for study design and simulation based validation ({% include instructors people="dushoff" %}, {{ main }})
+  - {: .shadow } note takers: {% include instructors people="pearson" %}
+  - {: .shadow } [One-study code](https://github.com/ICI3D/RTutorials/blob/master/sampling_JD/study_design.R); [Many-study code](https://github.com/ICI3D/RTutorials/blob/master/sampling_JD/study_design_rep.R)
 - 15h30-16h00 {{ tea }}
 - 16h00-17h30 {{ disc }} Modelling for policy ({% include instructors people="blumberg" %}, {{main}})
   - {: .shadow } note takers: {% include instructors people="dushoff" %}
