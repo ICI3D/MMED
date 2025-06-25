@@ -368,7 +368,7 @@ archive: false
 ### Day 10
 
 {{ bfast }}
-- 08h30-09h30 {{ lect }} [Model assessment]() ({% include instructors people="dushoff" %}, {{ main }})
+- 08h30-09h30 {{ lect }} [Model assessment](https://drive.google.com/file/d/1qyncr5wiEdAaR6EP36M9MUYwh8Ktj_Xk) ({% include instructors people="dushoff" %}, {{ main }})
   - {: .shadow } Notes: Joe, Cari
 - 09h30-10h00 {{ gw }} MMED project work ({{ breakout }})
 - 10h00-10h30 {{ coffee }}
