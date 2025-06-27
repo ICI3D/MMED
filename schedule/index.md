@@ -163,6 +163,9 @@ archive: false
 - 13h15-13h45 (technical assistance for participants, {{ lab }}
 	- {: .shadow} Led by Carl
 - 14h00-15h00 {{ lect }} [Foundations of dynamical modelling](https://drive.google.com/file/d/1_sa6YOal0UqElX3e-uQ6HZvYRfY_RIV8) ({% include instructors people="dushoff" %}, {{ main }})
+	* [This year's spreadsheet](https://docs.google.com/spreadsheets/d/1KOPDGUturSLjrAq_QBtwFmLQWBAk10M1a-0GYS9Gr_M/)
+	* [A similar spreadsheet that also implements a stochastic version!](https://docs.google.com/spreadsheets/d/1u3Ik41bKU5UamK-MpB0JF6c-TuBN8nHSdGmpShkoqk4/)
+
 	- {: .shadow} Notes: Seth the Motivator
 - 15h00-15h30 {{ prac }} Dynamical fever exercise ({% include instructors people="nyamai" %}, {{ lab }})
   - Launch from R prompt with `ICI3D::dynamicalFever()`
