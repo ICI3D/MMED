@@ -2,12 +2,12 @@ absoluteurl: //www.ici3d.org
 subdomainurl: //www.ici3d.org/MMED
 baseurl: /MMED
 url: //www.ici3d.org
-title: MMED 2025
+title: MMED 2026
 longtitle: Clinic on Meaningful Modeling of Epidemiological Data
-summary: The 14th MMED clinic ~ June 16-27, 2025 ~ Muizenberg, Cape Town, South Africa
-year: 2025
-takingapps: false
-applink: https://forms.gle/LpQqNa8xwdQEPiXDA
+summary: The 14th MMED clinic ~ June 15-26, 2026 ~ Muizenberg, Cape Town, South Africa
+year: 2026
+takingapps: true
+applink: https://forms.gle/u8yNMsfNQiJSELJt5
 markdown: kramdown
 highlighter: rouge
 includes_dir: ICI3D.github.io/_includes
