@@ -27,7 +27,7 @@ The course registration fee is in ZAR 53 000. The fee includes room and board fo
 
 ## Venue
 
-MMED 2026 will be held at the African Institute of Mathematical Sceinces in Muizenberg, Cape Town, South Africa.
+MMED 2026 will be held at the African Institute of Mathematical Sciences in Muizenberg, Cape Town, South Africa.
 
 ## Schedule
 
