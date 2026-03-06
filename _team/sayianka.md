@@ -1,6 +1,6 @@
 ---
 tab: Team
-type: mentor
+type: inactive
 role: Mentor
 img: transmission.png
 ---
