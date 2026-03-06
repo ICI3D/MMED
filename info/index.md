@@ -35,7 +35,8 @@ MMED 2026 will be held at the African Institute of Mathematical Sciences in Muiz
 
 Schedules from previous years:
 
-- [MMED 2024](../schedule/2024 "MMED 2023 schedule")
+- [MMED 2025](../schedule/2025 "MMED 2025 schedule")
+- [MMED 2024](../schedule/2024 "MMED 2024 schedule")
 - [MMED 2023](../schedule/2023 "MMED 2023 schedule")
 - [MMED 2021](../schedule/2021 "MMED 2021 schedule")
 - [MMED 2019](../schedule/2019 "MMED 2019 schedule")
