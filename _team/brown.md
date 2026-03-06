@@ -1,5 +1,5 @@
 ---
 tab: Team
-type: inactive
-role: MMED Mentor
+type: workshop
+role: MMED Faculty
 ---
