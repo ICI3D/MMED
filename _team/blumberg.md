@@ -1,6 +1,6 @@
 ---
 tab: Team
-type: workshop
+type: inactive
 role: Faculty
 img: transmission.png
 ---
