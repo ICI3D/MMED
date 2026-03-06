@@ -1,5 +1,5 @@
 ---
 tab: Team
-type: support
+type: inactive
 role: Preparation Team
 ---
