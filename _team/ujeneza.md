@@ -1,5 +1,5 @@
 ---
 tab: Team
-type: support
-role: Preparation Team
+type: workshop
+role: Faculty
 ---
