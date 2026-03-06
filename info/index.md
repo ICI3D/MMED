@@ -23,7 +23,7 @@ Selection of participants is based on academic background, unique perspectives t
 
 ## Course fees
 
-The course registration fee is in ZAR 53 000. The fee includes room and board for the two weeks of the Clinic. A small number of scholarships are available for course registration and travel.
+The course registration fee is in ZAR 53 000. The fee includes room and board for the two weeks of the Clinic. A small number of full and partial scholarships are available to applicants of African nationality to cover the course registration fee and travel.
 
 ## Venue
 
