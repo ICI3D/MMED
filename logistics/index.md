@@ -53,7 +53,7 @@ Final details for logistics will be updated in May 2026. For previous year's gui
         Muizenberg 7945
         South Africa
 - [Weather](http://www.accuweather.com/en-us/za/western-cape/muizenberg/quick-look.aspx)
-- [Map][map]
+- [Map](https://maps.app.goo.gl/ASDT7R3C4PTRUMTSA)
 
 ## Facilities
 
