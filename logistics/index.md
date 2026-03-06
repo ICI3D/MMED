@@ -5,34 +5,37 @@ title: Logistics
 subtitle: Logistical information
 ---
 
-Final details for logistics will be updated in May 2025. For previous year's guidance -- which will likely be similar but not the same as this years -- see below.
+Final details for logistics will be updated in May 2026. For previous year's guidance -- which will likely be similar but not the same as this years -- see below.
 
 ## Arrival
 
 ### For everyone
 - {: .shadow} Please review this [important information for visitors to AIMS and South Africa](./ImportantInfoAIMS.pdf) prior to arrival.
 - External participants will be staying in the Empire Building, across the street from AIMS.
-- Check back here for final accommodation guidelines. **Please review the [accommodation guidelines](./accommodationGuidelines) prior to arrival.**{: .shadow}
+- Accommodation guidelines will be emailed. **Please review the [accommodation guidelines](./accommodationGuidelines) prior to arrival.**{: .shadow}
 - {: .shadow} Please complete the [Emergency Contact](./emergencyContact) and [Photo Release](./photoRelease) forms and send completed copies to <forms@ici3d.org> by the end of the day on Monday.
 
 #### For those arriving by air
 
-- We will be providing more details about final ground transport schedule, meeting points, and contact information in the event of mishaps 
-- {: .shadow } Due to the number of arrivals, we have arranged an airport shuttle schedule, and participants arriving at times close to each other will have been put into groups for collection. **If you are arriving on a domestic flight (eg, from Johannesburg), please make your way to the waiting area outside of ABSA Bank, Central Terminal. If you are arriving on an international flight, please wait within the International arrivals terminal. In both cases, you will be met by an AIMS representative, who will be carrying an AIMS sign. Please check the [arrivals and shuttle schedule](./airportTransfers) to find out your shuttle time.**
-- {: .shadow } Please note that the shuttle will only operate at the specified times. You may choose to take a private shuttle/taxi from the airport, but you will not be reimbursed for this expense.
-- {: .shadow } If you have any trouble meeting up with the group (eg, due to a delayed flight), please call AIMS -- from within South Africa, dial 021 787 9262 (calling from abroad, you will need to dial the international dialing code + 27 21 787 9262). This number is for the AIMS office, which is open on Sunday afternoon (12:00-18:00) and during business hours on Monday through Friday (8:30-16:30). If you can’t get through on this number, you can try one of the mobile numbers provided in Weekly Message \#4 to report flight delays or arrival problems. You can also email <arrival@ici3d.org> at any time to communicate about your arrival details.
+- We will be providing more details about final ground transport schedule, meeting points, and contact information in the event of mishaps.
+- Due to the number of arrivals, we have arranged an airport shuttle schedule, and participants arriving at times close to each other will have been put into groups for collection. You will be emailed your schedule.
+- {: .shadow }  **If you are arriving on a domestic flight (eg, from Johannesburg), please make your way to the waiting area outside of ABSA Bank, Central Terminal. If you are arriving on an international flight, please wait within the International arrivals terminal. In both cases, you will be met by an AIMS representative, who will be carrying an AIMS sign. Please check the [arrivals and shuttle schedule](./airportTransfers) to find out your shuttle time.**
+- Please note that the shuttle will only operate at the specified times. You may choose to take a private shuttle/taxi from the airport, but you will not be reimbursed for this expense.
+- If you have any trouble meeting up with the group (eg, due to a delayed flight), please email <admin@ici3d.org>.
+- {: .shadow } from within South Africa, dial 021 787 9262 (calling from abroad, you will need to dial the international dialing code + 27 21 787 9262). This number is for the AIMS office, which is open on Sunday afternoon (12:00-18:00) and during business hours on Monday through Friday (8:30-16:30). If you can’t get through on this number, you can try one of the mobile numbers provided in Weekly Message \#4 to report flight delays or arrival problems. You can also email <arrival@ici3d.org> at any time to communicate about your arrival details.
 
 #### For those arriving by ground
 
-- **All participants without a scheduled airport transfer should plan to arrive between 12:00 and 17:00 (South African local time) on Sunday (16 June), if possible**.
-- When you arrive, please proceed to the AIMS lobby. You will be able to park it in the lot at the Empire Building after checking in.
+- **All participants without a scheduled airport transfer should plan to arrive between 12:00 and 17:00 (South African local time) on Sunday (14 June), if possible**.
+- When you arrive, please proceed to the AIMS lobby. You will be able to park it in the lot at the Empire Building (in your allocated parking bay) after checking in.
 
 ## Welcome and Registration
 
 - If you arrive between 12:00 and 17:00 on Sunday, you are welcome to come by the AIMS lobby to meet some of the MMED mentors and AIMS students and staff. One or more volunteers will be available in the lobby to answer any questions you may have during this time.
-- You must register to receive your welcome packet and name tag. **There are two opportunities for registration**:
-    - If you arrive in Muizenberg on Sunday afternoon, please come to the AIMS lobby for registration _between 14:00 and 18:00 on Sunday (15 June)_.
-    - If you arrive after 18:00 on Sunday, please register on Monday morning. The registration table will be open from _8:00 - 8:25 on Monday_.
+- You must register to receive your welcome packet and name tag. Registration will be open from _8:00 - 8:25 on Monday_.
+- {: .shadow } **There are two opportunities for registration**:
+    - {: .shadow } If you arrive in Muizenberg on Sunday afternoon, please come to the AIMS lobby for registration _between 14:00 and 18:00 on Sunday (15 June)_.
+    - {: .shadow } If you arrive after 18:00 on Sunday, please register on Monday morning. The registration table will be open from _8:00 - 8:25 on Monday_.
 - The first session of the Clinic will start promptly at 8:30 on Monday in the main lecture hall (see [schedule](../schedule)).
 
 ## Ground rules
@@ -59,7 +62,7 @@ Final details for logistics will be updated in May 2025. For previous year's gui
     * *Lunch* is served from 13h00-13h30.  
     * *Dinner* is served from 18h00-18h30.
 
-- **Wireless internet access** is available throughout the main AIMS facility. To connect to the network with your personal computer, you will need to register your computer on the AIMS network. Instructions are available [here](./AIMS_IT.pdf). Wi-fi will also be available in the Empire Building.
+- **Wireless internet access** is available throughout the main AIMS facility. Instructions will be available on arrival. Wi-fi will also be available in the Empire Building.
 
 ## Things to bring or buy
 
