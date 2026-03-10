@@ -1,7 +1,7 @@
 ---
 layout: clinic
 tab: Schedule
-title: MMED 2025
+title: MMED 2026
 subtitle: Clinic Schedule
 alerttype: shadow
 alertmsg: >
