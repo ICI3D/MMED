@@ -5,7 +5,7 @@ tab: Preparation
 title: Preparation
 subtitle: Preparation for the Clinic
 alerttype: success
-alertmsg: Please prepare for the Clinic by completing the following tasks. <b>You will need to be logged into your GitHub account to access some of the materials linked below.</b>
+alertmsg: The information below is relevant to the 2026 participants. Please prepare for the Clinic by completing the following tasks. <b>You will need to be logged into your GitHub account to access some of the materials linked below.</b>
 ---
 
 ### 1. Poster preparation
@@ -13,7 +13,7 @@ alertmsg: Please prepare for the Clinic by completing the following tasks. <b>Yo
 Prepare a poster presentation to share your research.
 
 - Poster preparation guidelines are available [here](../posters).  
-- Be sure to submit your poster by the June 9 deadline, if you would like us to print it for you.
+- Be sure to submit your poster by the June 8 deadline, if you would like us to print it for you.
 - {: .shadow } See [this page](../posters/sessions) for poster session assignments.
 
 ### <a id="#Software"></a> 2. Software installation
