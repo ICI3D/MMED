@@ -5,7 +5,7 @@ tab: Preparation
 title: Preparation
 subtitle: Preparation for the Clinic
 alerttype: success
-alertmsg: The information below is relevant to the 2026 participants. Please prepare for the Clinic by completing the following tasks. <b>You will need to be logged into your GitHub account to access some of the materials linked below.</b>
+alertmsg: The content below relates to 2025, and 2026 information will be provided. Please prepare for the Clinic by completing the following tasks. <b>You will need to be logged into your GitHub account to access some of the materials linked below.</b>
 ---
 
 ### 1. Poster preparation
