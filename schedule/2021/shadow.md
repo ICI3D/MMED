@@ -119,7 +119,7 @@ _Reminder:_
 
 - **Video lecture:** [(Hidden) assumptions of simple ODE models](https://youtu.be/NlpKCelumas) ((pulliam))
 - **Coding demonstration:** [Introduction to model implementation](https://youtu.be/NZqNfvswtyQ) ((vanschalkwyk))
-- [**Computer exercise:** Lab 1 - ODE models in R](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab1_ODEmodels.R) NOTE 45 mins
+- [**Computer exercise:** Lab 1 - ODE models in R](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_ODEmodels.R) NOTE 45 mins
 - **For Track A**
     - **Video lecture:** Introduction to Thinking About Data II ((kassanjee))
         - [Part 1](https://youtu.be/fz_zsswpFrc)
@@ -128,7 +128,7 @@ _Reminder:_
     - [**Computer exercise:** Tutorial 4 - Visualizing Infectious Disease Data in R](../tutorials/visualizeData)
 - **For Track B**
     - **Video lecture:** Basic stochastic simulation model series: [Intro](https://www.youtube.com/watch?v=c5IlaVA8_rw), [Part 1](https://www.youtube.com/watch?v=_eNWZ1sisQE), [Part 2](https://www.youtube.com/watch?v=UxXmkAcAtLo&t=1s) (slides [here](https://www.dropbox.com/s/e7yjs53fjc35e90/BorcheringStochasticSimulation2021.pdf?dl=0) and on Teams) ((borchering))
-    - **Computer exercise:** Exercise 1 - Basic stochastic simulation models: [corresponding video](https://youtu.be/Z_TIjNWe69A), [Rscript](https://github.com/ICI3D/RTutorials/blob/master/ICI3D_Ex1_StochasticSpillover.R) NOTE ((borchering))
+    - **Computer exercise:** Exercise 1 - Basic stochastic simulation models: [corresponding video](https://youtu.be/Z_TIjNWe69A), [Rscript](https://github.com/ICI3D/RTutorials/blob/master/ICI3D_Example_StochasticSpillover.R) NOTE ((borchering))
     - Note: _Track A will do this later in the week_
 - [**Video lecture:** Impact of contact patterns, consequences of heterogeneity, and modeling options](https://www.youtube.com/watch?v=9OhB3WfSpS8) ((dushoff))
 	* [Slides](https://github.com/dushoff/disease_dynamics/blob/master/outputs/heterogeneity.draft.pdf)
@@ -230,7 +230,7 @@ NOTE - 16:30-16:40 Summary and Discussion: Introduction to models and data: HIV 
 - **Computer exercise:** Lab 5 - Introduction to likelihood
 - **For Track A**
     - **Video lecture:** Basic stochastic simulation model series: [Intro](https://www.youtube.com/watch?v=c5IlaVA8_rw), [Part 1](https://www.youtube.com/watch?v=_eNWZ1sisQE), [Part 2](https://www.youtube.com/watch?v=UxXmkAcAtLo&t=1s) (slides [here](https://www.dropbox.com/s/e7yjs53fjc35e90/BorcheringStochasticSimulation2021.pdf?dl=0) and on Teams) ((borchering))
-    - **Computer exercise:** Exercise 1 - Basic stochastic simulation models: [corresponding video](https://youtu.be/Z_TIjNWe69A), [Rscript](https://github.com/ICI3D/RTutorials/blob/master/ICI3D_Ex1_StochasticSpillover.R) NOTE ((borchering))
+    - **Computer exercise:** Exercise 1 - Basic stochastic simulation models: [corresponding video](https://youtu.be/Z_TIjNWe69A), [Rscript](https://github.com/ICI3D/RTutorials/blob/master/ICI3D_Example_StochasticSpillover.R) NOTE ((borchering))
 - **For Track B**
     - **Exercise:** Creating a model world assignment
         - [Step-by-step guide](../tutorials/modelWorld) NOTE **TODO: update (JP/TM)**

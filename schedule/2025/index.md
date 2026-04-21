@@ -95,7 +95,7 @@ archive: false
   - [Reference Paper](https://doi.org/10.1371/journal.pbio.1000053)
 - 10h30-11h00 {{ coffee }}
 - 11h00-11h45 {{ lect }} [Study Design and Analysis in Epidemiology: Where does modeling fit?](https://docs.google.com/presentation/d/15-i4vcP9oIOm3eKfqQs4O2Y7BSce1PI8) ({% include instructors people="pearson" %}, {{ main }})
-- 11h45-13h00 {{ prac }} [Lab 3: Study Design in Epidemiology](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab3_EpiStudyDesign.R) ({% include instructors people="Tutors" %}, {{ lab }})
+- 11h45-13h00 {{ prac }} [Lab 3: Study Design in Epidemiology](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_EpiStudyDesign.R) ({% include instructors people="Tutors" %}, {{ lab }})
 - 13h00-14h00 {{ lunch }}
 - 14h00-15h30 {{ prac }} [Binomial Distribution Tutorial](https://raw.githubusercontent.com/ICI3D/RTutorials/master/binomialDistribution.R) ({% include instructors people="Tutors" %}, {{ lab }})
 - 15h30-16h00 {{ break }}
@@ -107,7 +107,7 @@ archive: false
 {{ bfast }}
 - 08h30-09h15 {{ lect }} [Study Design and Analysis, part II: RCT’s](https://docs.google.com/presentation/d/14Vv6XiQjOVgNjGU0vyLeYUFj-9Azf50y) ({% include instructors people="pearson" %}, {{ main }})
   - Side reading: [CDC on the Tuskegee Experiment](https://www.cdc.gov/tuskegee/timeline.htm), [Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/), [Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html)
-- 09h15-10h30 {{ prac }} [Lab 4: Study Design for Clinical Trials](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab4_RCT.R) ({% include instructors people="Tutors" %}, {{ lab }})
+- 09h15-10h30 {{ prac }} [Lab 4: Study Design for Clinical Trials](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_RCT.R) ({% include instructors people="Tutors" %}, {{ lab }})
 - 10h30-11h00 {{ coffee }}
 - 11h00-12h00 {{ lect }} [Transmission in Finite Populations](https://drive.google.com/file/d/1mCqNCQ4Ak78uW6VUYyRRnN0p3Iv3zfEn) ({% include instructors people="mthombothi" %}, {{ main }})
 - 12h00-13h00 {{ gw }} [Project development](../tutorials/pilotproject), with progress checkin ({{ lab }})
@@ -116,7 +116,7 @@ archive: false
 - 13h00-14h00 Lunch
 - 14h00-15h30 {{ gw }} [Project development](../tutorials/pilotproject)
 - 15h30-16h00 {{ break }}
-- 16h00-18h00 {{ prac }} If incomplete: review questions from [Lab 4: Study Design for Clinical Trials](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab4_RCT.R) ({% include instructors people="Tutors" %}), [Tutorial 3: Probability Distributions and Control Structures, and review questions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_3.R) ({% include instructors people="Tutors" %}, {{ lab }}). Otherwise [Project development](../tutorials/pilotproject)
+- 16h00-18h00 {{ prac }} If incomplete: review questions from [Lab 4: Study Design for Clinical Trials](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_RCT.R) ({% include instructors people="Tutors" %}), [Tutorial 3: Probability Distributions and Control Structures, and review questions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_3.R) ({% include instructors people="Tutors" %}, {{ lab }}). Otherwise [Project development](../tutorials/pilotproject)
 - [Final Fundamentals Week Quiz (includes Qs from Friday)](https://forms.gle/Lrc1GcGbYcqDZZhZA)
 
 ### Day 5
@@ -189,17 +189,17 @@ archive: false
   - [Resulting Code](https://drive.google.com/file/d/1GFA1k7ckK5lvpml-05tW1u4xqE5EQrrJ)
   - {: .shadow } Notes: Carl
 - 10h00-10h30 {{ coffee }}
-- 10h30-11h30 [R Tutorials](../tutorials): [Lab 1 - ODE Models](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab1_ODEmodels.R) ({% include instructors people="luka" %}, {{ lab }})
+- 10h30-11h30 [R Tutorials](../tutorials): [Lab 1 - ODE Models](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_ODEmodels.R) ({% include instructors people="luka" %}, {{ lab }})
   - [Lab 1 Summary](https://drive.google.com/file/d/1iHSjqrwj_LsK8pzAka_OZjepVaLGljH3)
 - 11h30-12h30 [Thinking about Data](https://docs.google.com/presentation/d/1zygkn_iRYJT4hVigEJuP3siy1GCGkgXX) ({% include instructors people="nyamai|Mentors" %}, {{main}})
   - {: .shadow } note takers Seth
 - 12h30-14h00 {{ lunch }}
 - 14h00-15h00 {{ lect }} [Study design](https://drive.google.com/file/d/1de7qMKvnC6djx6CJYIZ8slEt-LOD5-Rh) ({% include instructors people="kassanjee" %}, {{ main }})
   - {: .shadow } note takers: Jonathan
-- 15h00-17h00 (with tea break) [R Tutorials](../tutorials): [Lab 4 - study design II](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab4_RCT.R) & [Tutorial 4 - Visualizing Infectious Disease Data](../tutorials/visualizeData) ({% include instructors people="blumberg|kassanjee|Mentors" %}, {{ lab }})
+- 15h00-17h00 (with tea break) [R Tutorials](../tutorials): [Lab 4 - study design II](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_RCT.R) & [Tutorial 4 - Visualizing Infectious Disease Data](../tutorials/visualizeData) ({% include instructors people="blumberg|kassanjee|Mentors" %}, {{ lab }})
   - [Study Design Slides](https://drive.google.com/file/d/1ZrNvXJeJMx8Ei-b4fopwYd_fNG5FAKbG)
   - [Visualization Summary](https://drive.google.com/file/d/1I_waaz-S3S85s5G0z61ZrIwE-b99oU_N)
-  - [Lab 3 - study design I](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab3_EpiStudyDesign.R) may also be of interest, but is an own-time activity
+  - [Lab 3 - study design I](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_EpiStudyDesign.R) may also be of interest, but is an own-time activity
 - 15h30-16h00 {{ tea }} ([poster setup, group 2](https://drive.google.com/drive/folders/19DlY2bPRbzAsHIux5nSeBibbCSXlKBrU)) ({% include instructors people="nyamai|Mentors" %}, {{ main }})
 - 17h00-18h00 [Poster session 2](https://drive.google.com/drive/folders/19DlY2bPRbzAsHIux5nSeBibbCSXlKBrU) ({{ main }})
 - [End of Day Questions](https://forms.gle/ioZ2PLLsjo9WsJH98)
@@ -249,7 +249,7 @@ archive: false
 	* {: .shadow} Lab 5 checkin
 - 10h30-11h15 {{ lect }} [Introduction to likelihood](https://drive.google.com/file/d/1cQqKXN9DqQ3a3v5HYraWbGOxPbzkGXgX) ({% include instructors people="vanschalkwyk" %}, {{ main }})
   - {: .shadow } note takers: Carl
-- 11h15-12h30 {{ prac }} [Lab 5 - Introduction to likelihood](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab5_introLikelihood.R) ({% include instructors people="vanschalkwyk|Mentors" %}, {{ lab }})
+- 11h15-12h30 {{ prac }} [Lab 5 - Introduction to likelihood](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_introLikelihood.R) ({% include instructors people="vanschalkwyk|Mentors" %}, {{ lab }})
   - {: .shadow } helping: Jonathan, Seth, mentors
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
@@ -260,7 +260,7 @@ archive: false
 - 16h00-17h00 {{ lect }} [Introduction stochastic simulation models](https://drive.google.com/file/d/1zMJWRqbgHpT-PhE88qXmurhvHOh-rCth) ({% include instructors people="kassanjee" %}, {{ main }})
   - {: .shadow } note takers: Carii
   - {: .shadow } Drum on the drums; remind them about assessment
-- 17h00-18h00 {{ disc }} [Exercise 1: Stochastic models](https://github.com/ICI3D/RTutorials/blob/master/ICI3D_Ex1_StochasticSpillover.R) ({% include instructors people="kassanjee" %}, {{ lab }})
+- 17h00-18h00 {{ disc }} [Exercise 1: Stochastic models](https://github.com/ICI3D/RTutorials/blob/master/ICI3D_Example_StochasticSpillover.R) ({% include instructors people="kassanjee" %}, {{ lab }})
   - [Summary](https://drive.google.com/file/d/12Km8PtWUdyHf4FQBSwZtDGAxfOc-76Fv)
   - {: .shadow } Support: Mutono, Jonathan, Seth
 {{ dinner }}
@@ -283,7 +283,7 @@ archive: false
   - {: .shadow } Seth: mention that lunch not served until 12:30
 - {: .shadow} 12h15-12h45 faculty meeting
 - 12h15-13h45 {{ lunch }} (note slight shift)
-- 13h45-15h00 {{ prac }} [Lab 6 - MLE fitting of an SIR model to prevalence data](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab6_MLE_SIV_HIV.R) ({% include instructors people="blumberg" %}, {{ lab }})
+- 13h45-15h00 {{ prac }} [Lab 6 - MLE fitting of an SIR model to prevalence data](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_MLE_SIV_HIV.R) ({% include instructors people="blumberg" %}, {{ lab }})
   - {: .shadow } Jonathan, Reshma, CarL, Carii, mentors
   - [Intro / Summary Slides](https://docs.google.com/presentation/d/1Yj0a1-2-1M8Cg0HH6PiPrc6cdKGGH1ru)
 - 15h00-15h30 [Projects: Topic Qs](https://docs.google.com/presentation/d/1DzepzN9YnYyzhpiV4JKs6x10b2I6B5Pe) ({% include instructors people="nyamai" %}, {{ main }})
@@ -353,7 +353,7 @@ archive: false
 - 10h00-10h30 {{ coffee }}
 	* Photo session
 	* [See MMED photo folder (request access if necessary)](https://drive.google.com/drive/folders/1wRuw962aJbImdzHFy6CXqiBo17lKoiX-)
-- 10h30-11h30 {{ prac }} [Lab 7](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab7_MCMC-Binomial.R) & [Lab 8](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab8_MCMC-SI_HIV.R) MCMC model fitting ({% include instructors people="pearson|Mentors" %}, {{lab}})
+- 10h30-11h30 {{ prac }} [Lab 7](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_MCMC-Binomial.R) & [Lab 8](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_MCMC-SI_HIV.R) MCMC model fitting ({% include instructors people="pearson|Mentors" %}, {{lab}})
   - {: .shadow} Cari, Seth, Jonathan
 - 11h30-12h30 {{ gw }} MMED project work ({{breakout}})
 - 12h30-14h00 {{ lunch }}
