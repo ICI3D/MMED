@@ -34,7 +34,7 @@ This group will address the research question "What is the long-term expectation
 
 ### Tutorials
 
-- Lab 1: [ODE models in R](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab1_ODEmodels.R)
+- Lab 1: [ODE models in R](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_ODEmodels.R)
 - [Stochastic SIR Example - Gillespie Algorithm](./gillespie) (optional)
 - [Stochastic SIR Example - Chain Binomial](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Example_chainBinom.R) (optional)
 
