@@ -26,7 +26,7 @@ vim_session: bash -cl "vmt schedule/index.md"
 Sources += Makefile 
 
 ## Schedule
-Sources += $(wildcard schedule/*.md)
+Sources += $(wildcard schedule/*.md schedule/*/*.md)
 
 ######################################################################
 
@@ -37,7 +37,7 @@ Sources += $(wildcard resources/*.md)
 
 ## Working on projects now
 
-Sources += $(wildcard projects/*.md)
+Sources += $(wildcard projects/*.md projects/*/*.md)
 
 ######################################################################
 
