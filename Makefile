@@ -19,7 +19,7 @@
 current: target
 -include target.mk
 
-vim_session: bash -cl "vmt schedule/index.md"
+vim_session: bash -ic "vmt schedule/index.md"
 
 ##################################################################
 
