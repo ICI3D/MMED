@@ -1,4 +1,4 @@
-## gh-pages branch of MMED is the only one JD is looking at 2025 Jun 13 (Fri)
+## gh-pages branch of MMED is the only one JD is looking at 2026 Jun 14 (Fri)
 ## Navigation
 
 # http://127.0.0.1:4000/schedule?shadow
