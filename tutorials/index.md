@@ -4,6 +4,8 @@ redirect: ../development
 tab: Schedule
 title: Tutorials
 subtitle: ICI3D R tutorials and labs
+alerttype: success
+alertmsg: The information below refers to 2025. Updated tutorials for 2026 will be added shortly. <b>You will need to be logged into your GitHub account to access some of the materials linked below.</b>
 ---
 
 ## Overall Repository
@@ -41,16 +43,17 @@ You can find all the tutorial materials at the [ICI3D/RTutorials](https://github
 
 ## Participatory Coding Archive
 
-### 2023
-
-- Participatory Coding (ODE model) 2023 - What level of vaccination is needed to eliminate domestic dog rabies in Ouagadougou? ([Juliet Pulliam](../team/pulliam))- [Code from session](https://github.com/ICI3D/MMEDparticipants/blob/master/Resources/participatoryCoding_I.R)
-- Participatory Coding (Gillespie model) ([Carl](../team/pearson) - [Code from session](https://github.com/ICI3D/MMEDparticipants/blob/master/Resources/participatoryCoding_II.R))
+### 2025
+- Participatory Coding (ODE model) 2025 - [Introduction to model implementation in R](https://drive.google.com/file/d/1YTiZZGaW17Mx92hmJsCS2qV464wkxL9E) ([Reshma Kassanjee](../team/kassanjee)) - [Code from session](https://drive.google.com/file/d/1GFA1k7ckK5lvpml-05tW1u4xqE5EQrrJ)
+- Participatory Coding (Dynamic modeling) 2025 - ([Jonathan Dushoff](../team/dushoff)) - [Code from session](https://github.com/ICI3D/RTutorials/blob/master/participatoryDynamics2025.R)
+- Participatory coding (Stochastic model) 2025 - [Carl Pearson](../team/pearson) - [Code from session](https://drive.google.com/file/d/1e07o3waYjxz4orKIGhCtJxdKvoVhmhsk/view?usp=drive_link)
 
 ### Pre-2023
-
-- Participatory Coding (Dynamic Modeling) 2018 - What level of rabies vaccination is necessary to eliminate rabies in Tanzanian dogs?
+- Participatory Coding (ODE model) 2023 - What level of vaccination is needed to eliminate domestic dog rabies in Ouagadougou? ([Juliet Pulliam](../team/pulliam))- [Code from session](https://github.com/ICI3D/MMEDparticipants/blob/master/Resources/participatoryCoding_I.R)
+- Participatory Coding (Gillespie model) ([Carl](../team/pearson) - [Code from session](https://github.com/ICI3D/MMEDparticipants/blob/master/Resources/participatoryCoding_II.R))
+- Participatory Coding (Dynamic modeling) 2018 - What level of rabies vaccination is necessary to eliminate rabies in Tanzanian dogs?
     - Deterministic model (Difference equations) ([Carl Pearson](../team/pearson)) - [Code from session](https://github.com/ICI3D/MMEDparticipants/raw/master/Resources/PearsonLiveCoding2021.R)
-- Participatory Coding (Dynamic Modeling) 2018 - What level of rabies vaccination is necessary to eliminate rabies in Tanzanian dogs?
+- Participatory Coding (Dynamic modeling) 2018 - What level of rabies vaccination is necessary to eliminate rabies in Tanzanian dogs?
     - Deterministic model (Difference equations) ([Carl Pearson](../team/pearson)) - [Code from session](https://github.com/ICI3D/MMEDparticipants/raw/master/Resources/PearsonLiveCodingSEIV.zip)
     - Stochastic model (Chain binomial SEIV) ([Carl Pearson](../team/pearson)) - [Code from session](https://github.com/ICI3D/MMEDparticipants/raw/master/Resources/PearsonLiveCodingSEIV_cb.R)
 - Participatory Coding (Sampling Var & Study Design) 2018 - Is aidamycin superior to cotrim for treating malaria (under construction)?
