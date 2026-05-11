@@ -68,8 +68,6 @@ Once you have successfully installed both R and RStudio, please work through the
 If you are unfamiliar with or rusty on your understanding of the [binomial distribution](http://en.wikipedia.org/wiki/Binomial_distribution), you may also want to work through the [Introductory Binomial Distribution Tutorial](https://raw.githubusercontent.com/ICI3D/RTutorials/master/binomialDistribution.R).
 
 > **Tip:** To download all of the tutorials at once into a single directory on your computer, you can clone the [ICI3D R tutorials repository](https://github.com/ICI3D/RTutorials.git). You can get started quickly by opening the RTutorials.Rproj file within that directory.
-> 
-To download all of the tutorials at once into a single directory on your computer, you can [clone the ICI3D R tutorials repository](https://github.com/ICI3D/RTutorials.git). You can get started quickly by opening the RTutorials.Rproj file within that directory.
 
 #### 4.2 **Introduction to Git**
 
