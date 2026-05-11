@@ -5,7 +5,7 @@ title: Logistics
 subtitle: Logistical information
 ---
 
-Final details for logistics will be updated in May 2026. For previous year's guidance -- which will likely be similar but not the same as this years -- see below.
+{: .shadow} Final details for logistics will be updated in May 2026. For previous year's guidance -- which will likely be similar but not the same as this years -- see below.
 
 ## Arrival
 
@@ -27,16 +27,17 @@ Final details for logistics will be updated in May 2026. For previous year's gui
 #### For those arriving by ground
 
 - **All participants without a scheduled airport transfer should plan to arrive between 12:00 and 17:00 (South African local time) on Sunday (14 June), if possible**.
-- When you arrive, please proceed to the AIMS lobby. You will be able to park it in the lot at the Empire Building (in your allocated parking bay) after checking in.
+- When you arrive, please proceed to the AIMS lobby.
+- You will be able to park your vehicle in the lot at the Empire Building (in your allocated parking bay) after checking in.
 
 ## Welcome and Registration
 
-- If you arrive between 12:00 and 17:00 on Sunday, you are welcome to come by the AIMS lobby to meet some of the MMED mentors and AIMS students and staff. One or more volunteers will be available in the lobby to answer any questions you may have during this time.
-- You must register to receive your welcome packet and name tag. Registration will be open from _8:00 - 8:25 on Monday_.
+- {: .shadow } If you arrive between 12:00 and 17:00 on Sunday, you are welcome to come by the AIMS lobby to meet some of the MMED mentors and AIMS students and staff. One or more volunteers will be available in the lobby to answer any questions you may have during this time.
+- Registration will be open from _08:00 - 08:25 on Monday_. You must register to receive your welcome packet and name tag. 
 - {: .shadow } **There are two opportunities for registration**:
     - {: .shadow } If you arrive in Muizenberg on Sunday afternoon, please come to the AIMS lobby for registration _between 14:00 and 18:00 on Sunday (15 June)_.
     - {: .shadow } If you arrive after 18:00 on Sunday, please register on Monday morning. The registration table will be open from _8:00 - 8:25 on Monday_.
-- The first session of the Clinic will start promptly at 8:30 on Monday in the main lecture hall (see [schedule](../schedule)).
+- The first session of the Clinic will start promptly at 08:30 on Monday in the main lecture hall (see [schedule](../schedule)).
 
 ## Ground rules
 
@@ -47,7 +48,7 @@ Final details for logistics will be updated in May 2026. For previous year's gui
 
 ## Muizenberg
 
-- The MMED Clinic is hosted by the African Institute for Mathematical Sciences ([AIMS](http://www.aims.ac.za/)), which is located in the lovely beach town of Muizenberg, near Cape Town. The street address is
+- The MMED Clinic is hosted by the African Institute for Mathematical Sciences - South Africa ([AIMS-SA](http://www.aims.ac.za/)), which is located in the lovely beach town of Muizenberg, near Cape Town. The street address is
 
         6 Melrose Road
         Muizenberg 7945
@@ -66,5 +67,6 @@ Final details for logistics will be updated in May 2026. For previous year's gui
 
 ## Things to bring or buy
 
-- If you are coming from abroad and bringing any electronics with you, you will need appropriate **electrical converters and plug adapters**. Phones and computers (and some digital cameras) usually come with a converter. Plug adapters can be purchased at local shops. If you would like to purchase adapters before you arrive, you can use any of the plug types described on for example [this page](http://www.power-plugs-sockets.com/south-africa/) at AIMS. We recommend purchasing grounded adapters if you have the option.
-- **SIM cards** for mobile phones (GSM only) can be purchased at the airport or local shops. South Africa has strict regulations for registration of SIM cards so you'll need to bring proof of identity (passport) and proof of address (the AIMS address and any printed letter of invitation to the workshop should suffice).
+- If you are coming from abroad and bringing any electronics with you, you will need appropriate **electrical converters and plug adapters**. 
+Phones and computers (and some digital cameras) usually come with a converter. Plug adapters can be purchased at local shops. If you would like to purchase adapters before you arrive, you can use any of the plug types described on for example [this page](http://www.power-plugs-sockets.com/south-africa/) at AIMS. We recommend purchasing grounded adapters if you have the option.
+- **SIM cards** for mobile phones (GSM or e-sim) can be purchased at the airport or local shops. South Africa has strict regulations for registration of SIM cards so you'll need to bring proof of identity (passport) and proof of address (the AIMS address and any printed letter of invitation to the workshop should suffice).
