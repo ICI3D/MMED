@@ -65,7 +65,7 @@ Once you have successfully installed both R and RStudio, please work through the
 - Tutorial 2: [More on Vectors, Data Frames, and Functions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_2.R) (required)
 - Tutorial 3: [Probability Distributions and Control Structures](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_3.R) (required)
 
-If you are unfamiliar with or rusty on your understanding of the [binomial distribution](http://en.wikipedia.org/wiki/Binomial_distribution), you may also want to work through the [Introductory Binomial Distribution Tutorial](https://raw.githubusercontent.com/ICI3D/RTutorials/master/binomialDistribution.R).
+If you are unfamiliar with or rusty on your understanding of the [binomial distribution](http://en.wikipedia.org/wiki/Binomial_distribution), you may also want to work through the Introductory Binomial Distribution Tutorial _(link to follow)_.
 
 > **Tip:** To download all of the tutorials at once into a single directory on your computer, you can clone the [ICI3D R tutorials repository](https://github.com/ICI3D/RTutorials.git). You can get started quickly by opening the RTutorials.Rproj file within that directory.
 
