@@ -1,6 +1,6 @@
 ---
 tab: Team
-type: workshop
+type: mentor
 role: Mentor
 img: transmission.png
 ---
