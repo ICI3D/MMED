@@ -50,7 +50,7 @@ archive: false
 
 ### [Participants](https://drive.google.com/file/d/1UQtxdo2EN2egBiqZqLkICumHhD3_LvCh)
 
-<details markdown="1"><summary>Week 1: Meaningful Modeling of Epidemiological Data (MMED)</summary>
+<details markdown="1" open><summary>Week 1: Meaningful Modeling of Epidemiological Data (MMED)</summary>
 
 ### Day 0 (Sunday, 15 June)
 
@@ -233,7 +233,7 @@ archive: false
 {{ ssdinner }}
 </details>
 
-<details markdown="1" open><summary>Week 2: MMED Project Focus</summary>
+<details markdown="1"><summary>Week 2: MMED Project Focus</summary>
 
 ### Day 8 (Monday, 23 June)
 
