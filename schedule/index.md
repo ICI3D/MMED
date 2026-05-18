@@ -42,8 +42,7 @@ archive: false
       <li>The content below relates to 2025, and 2026 information will be provided shortly.</li>
       <li>Links to R tutorials and exercises are available <a href="../tutorials">here</a>.</li>
       <li>As they become available, session slides will appear in <a href="https://drive.google.com/drive/folders/1C5LW7zhYYU856bHRBPu_s0yl5ToN8yOW">this shared folder</a>.</li>
-		<li>Foundation materials can be found [here](https://www.ici3d.org/MMED/Foundation) 
-		</li>
+	  <li>Foundation materials can be found <a href="https://www.ici3d.org/MMED/Foundation">here</a>.</li>
       <li>Unless otherwise noted, all materials made available through this website are licensed through a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC-BY International License</a>.</li>
     </ul>
   </div>
