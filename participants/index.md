@@ -1,6 +1,6 @@
 ---
 layout: clinic
-redirect: 
+redirect: ../development
 tab: Participants
 title: Participants
 subtitle: MMED 2026 Participants
