@@ -12,4 +12,3 @@ subtitle: MMED 2026 Participants
     </ul>
   </div>
 </div>
-<img width="468" height="127" alt="image" src="https://github.com/user-attachments/assets/274b8cf9-6016-411c-8d5f-79e25e59e19f" />
