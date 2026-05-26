@@ -85,17 +85,17 @@ _Additional/alternative resources_:  More broadly, you can look at all Codecadem
 
 Relevant epidemiological data are crucial to the modelling of infectious disease. To get us thinking about data and the studies that generate them, there are four online lectures to watch before the Clinic:
 
-- Thinking about Data I ([one video](https://youtu.be/hRwWmPfvJNo))
-- Thinking about Data II ([part 1](https://youtu.be/fz_zsswpFrc?si=gAIPerDI_Qx8JUQO), [part 2](https://youtu.be/rtgzcl3uwVk?si=7pG0kqwUGLm46f-g), [part 3](https://youtu.be/9kfshcLBo-8?si=eP0b9BmVyLbz4PGX))
-- Study design and analysis in epidemiology I ([part 1](https://youtu.be/9ejrkLxSXLM), [part 2](https://youtu.be/7qbS42DeTkY), [part 3](https://youtu.be/yOysNjYkqEQ))
-- Study design and analysis in epidemiology II ([part 1](https://youtu.be/-BQ1w9usoAw), [part 2](https://youtu.be/9UlefAZR5Sw), [part 3](https://youtu.be/YYRevVqY_Hc))
+- Thinking about Data I ([one video](https://youtu.be/hRwWmPfvJNo)) - [Slides](https://drive.google.com/file/d/1lXexycea8ScGwq_bydj2GvQq-41hiqZX/view?usp=drive_link)
+- Thinking about Data II ([part 1](https://youtu.be/fz_zsswpFrc?si=gAIPerDI_Qx8JUQO), [part 2](https://youtu.be/rtgzcl3uwVk?si=7pG0kqwUGLm46f-g), [part 3](https://youtu.be/9kfshcLBo-8?si=eP0b9BmVyLbz4PGX)) - Slides
+- Study Design and Analysis in Epidemiology I ([part 1](https://youtu.be/9ejrkLxSXLM), [part 2](https://youtu.be/7qbS42DeTkY), [part 3](https://youtu.be/yOysNjYkqEQ)) - [Slides](https://drive.google.com/file/d/1HLQofjW5-GQseHZddGf-g_Jf3jYzU8LL/view?usp=drive_link)
+- Study Design and Analysis in Epidemiology II ([part 1](https://youtu.be/-BQ1w9usoAw), [part 2](https://youtu.be/9UlefAZR5Sw), [part 3](https://youtu.be/YYRevVqY_Hc)) - Slides
 
 ### 6. _Optional_ Readings
 
 #### For all participants
 
-- Heesterbeek, JAP, RM Anderson, V Andreasen, S Bansal, D De Angelis, C Dye, KTD Eames, WJ Edmunds, SDW Frost, S Funk, TD Hollingsworth, T House, V Isham, P Klepac, J Lessler, JO Lloyd-Smith, CJE Metcalf, D Mollison, L Pellis, **JRC Pulliam**, MG Roberts, C Viboud, and the Isaac Newton Institute IDD Collaboration. [Modeling infectious disease dynamics in the complex landscape of global health](https://github.com/ICI3D/MMEDparticipants/raw/master/Readings/Heesterbeek2015.pdf). Science 2015; 347(6227): aaa4339. doi:10.1126/science.aaa4339
-- We have put together an [introductory overview](https://github.com/ICI3D/MMEDparticipants/raw/master/Readings/ICI3Dintro.pdf), which includes excerpts from the below papers.
+- Heesterbeek, JAP, RM Anderson, V Andreasen, S Bansal, D De Angelis, C Dye, KTD Eames, WJ Edmunds, SDW Frost, S Funk, TD Hollingsworth, T House, V Isham, P Klepac, J Lessler, JO Lloyd-Smith, CJE Metcalf, D Mollison, L Pellis, **JRC Pulliam**, MG Roberts, C Viboud, and the Isaac Newton Institute IDD Collaboration. [Modeling infectious disease dynamics in the complex landscape of global health](https://drive.google.com/file/d/1ncubjs4TBT5Vv0wPflUEt8kzo6LJy8ag/view?usp=drive_link). Science 2015; 347(6227): aaa4339. doi:10.1126/science.aaa4339
+- We have put together an [introductory overview](https://drive.google.com/file/d/1Vf_-W6BiyA-YCRMl3HGiWI7sefSnWlYT/view?usp=drive_link), which includes excerpts from the below papers.
   
     - **Bellan, SE**, **JRC Pulliam**, **JC Scott**, **J Dushoff** and the MMED Organizing Committee. How to make epidemiological training infectious. PLoS Biology 2012; 10: e1001295.
     - Susser, M and E Susser. Choosing a future for epidemiology: I. Eras and paradigms. Am J Public Health 1996; 86: 668–73.
