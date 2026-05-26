@@ -24,3 +24,6 @@ all.time
 *.olddiff
 
 Gemfile.lock
+
+.bundle/*
+vendor/*
