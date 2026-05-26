@@ -86,9 +86,9 @@ _Additional/alternative resources_:  More broadly, you can look at all Codecadem
 Relevant epidemiological data are crucial to the modelling of infectious disease. To get us thinking about data and the studies that generate them, there are four online lectures to watch before the Clinic:
 
 - Thinking about Data I ([one video](https://youtu.be/hRwWmPfvJNo)) - [Slides](https://drive.google.com/file/d/1lXexycea8ScGwq_bydj2GvQq-41hiqZX/view?usp=drive_link)
-- Thinking about Data II ([part 1](https://youtu.be/fz_zsswpFrc?si=gAIPerDI_Qx8JUQO), [part 2](https://youtu.be/rtgzcl3uwVk?si=7pG0kqwUGLm46f-g), [part 3](https://youtu.be/9kfshcLBo-8?si=eP0b9BmVyLbz4PGX)) - Slides
+- Thinking about Data II ([part 1](https://youtu.be/fz_zsswpFrc?si=gAIPerDI_Qx8JUQO), [part 2](https://youtu.be/rtgzcl3uwVk?si=7pG0kqwUGLm46f-g), [part 3](https://youtu.be/9kfshcLBo-8?si=eP0b9BmVyLbz4PGX)) - [Slides](https://drive.google.com/file/d/16Us48Y-_F6JquDHiZpAEDFoIK4Hg_WQ3/view?usp=drive_link)
 - Study Design and Analysis in Epidemiology I ([part 1](https://youtu.be/9ejrkLxSXLM), [part 2](https://youtu.be/7qbS42DeTkY), [part 3](https://youtu.be/yOysNjYkqEQ)) - [Slides](https://drive.google.com/file/d/1HLQofjW5-GQseHZddGf-g_Jf3jYzU8LL/view?usp=drive_link)
-- Study Design and Analysis in Epidemiology II ([part 1](https://youtu.be/-BQ1w9usoAw), [part 2](https://youtu.be/9UlefAZR5Sw), [part 3](https://youtu.be/YYRevVqY_Hc)) - Slides
+- Study Design and Analysis in Epidemiology II ([part 1](https://youtu.be/-BQ1w9usoAw), [part 2](https://youtu.be/9UlefAZR5Sw), [part 3](https://youtu.be/YYRevVqY_Hc)) - [Slides](https://drive.google.com/file/d/1c4iU15DDQ2w4KxJJJowsdW9sKdVWTrQf/view?usp=drive_link)
 
 ### 6. _Optional_ Readings
 
