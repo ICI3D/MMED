@@ -65,7 +65,7 @@ archive: false
 {{ bfast }}
 - 08h30-09h00 [Welcome and Motivation for Workshop]() ({% include instructors people="kassanjee" %}, {{ main }})
 	- {: .shadow} Notes: ??
-- 09h00-09h45 {{ lect }} Public health, epidemiology, and models ({% include instructors people="pearson" %}, {{ main }})
+- 09h00-09h45 {{ lect }} [Public health, epidemiology, and models]() ({% include instructors people="pearson" %}, {{ main }})
 	- {: .shadow} Notes: ??
 - 09h45-10h00 {{ org }} [MMED roadmap and program overview](../roadmap) ({% include instructors people="kassanjee" %}, {{ main }})
 - 10h00-10h30 {{ coffee }}
@@ -75,17 +75,17 @@ archive: false
 	- {: .shadow} Notes: ??
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }} 
-- 13h15-13h45 technical assistance for participants, {{ lab }}
-	- {: .shadow} Led by Mentors
+- 13h15-13h45 Technical assistance for participants ({% include instructors people="mentors" %}, {{ lab }})
+	- {: .shadow} Mentors: all
 - 14h00-15h30 {{ prac }} [Dynamical fever exercise]() ({% include instructors people="nyamai" %}, {{ lab }})
   - Launch from R prompt with `ICI3D::dynamicalFever()`
-	- {: .shadow} assisted by Brian, Shadé, Belinda
+	- {: .shadow} Mentors: all
 	- {: .shadow} Faculty: Jonathan, Carii
   - [Summary: Dynamical fever]() ({% include instructors people="nyamai" %}, {{ lab }})
 - 15h30-16h00 {{ tea }} (poster setup, group 1) ({% include instructors people="bruce|Mentors" %}, {{main}})
 - 16h00-17h00 {{ prac }} [R Tutorials](../tutorials): [Tutorial 4 - Visualizing Infectious Disease Data]() ({% include instructors people="ujeneza|lombard" %}, {{ lab }})
   - {: .shadow} Walkthrough: Belinda  
-  - {: .shadow} assisted by Brian, Shadé
+  - {: .shadow} Mentors: Brian, Shadé
   - {: .shadow} Faculty: CarL, Mutono
   - Study Design Slides
   - [Summary: Visualization]() ({% include instructors people="lombard" %}, {{ lab }})
@@ -110,11 +110,11 @@ archive: false
   - {: .shadow } Notes: ??
 - 11h30-12h15 {{ prac }} [R Tutorials](../tutorials): [Lab 1 - ODE Models](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_ODEmodels.R) ({% include instructors people="vanschalkwyk|njuguna" %}, {{ lab }})
   - {: .shadow} Walkthrough: Brian
-  - {: .shadow} assisted by Shadé, Belinda
+  - {: .shadow} Mentors: Shadé, Belinda
   - {: .shadow} Faculty: Lauren, Reshma
   - [Summary: Lab 1]() ({% include instructors people="njuguna" %}, {{ lab }})
 - 12h15-12h30 Catch-up ({% include instructors people="vanschalkwyk" %}, {{ lab }})
-  - {: .shadow} assisted by Brian, Shadé, Belinda
+  - {: .shadow} Mentors: Brian, Shadé, Belinda
   - {: .shadow} Faculty: Lauren, Reshma
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
@@ -122,7 +122,7 @@ archive: false
   - {: .shadow } Notes: ??
 - 14h45-15h30 {{ prac }} [R Tutorials](../tutorials): [Tutorial 5 - Data Wrangling]() ({% include instructors people="nyamai|horn" %}, {{ lab }})
   - {: .shadow} Walkthrough: Shadé
-  - {: .shadow} assisted by Brian, Belinda
+  - {: .shadow} Mentors: Brian, Belinda
   - {: .shadow} Faculty: CarL, Eva
   - Tutorial 5 Summary ({% include instructors people="horn" %}, {{ lab }})
 - 15h30-16h00 {{ tea }} (poster setup, group 2) ({% include instructors people="bruce|Mentors" %}, {{ main }})
@@ -141,18 +141,18 @@ archive: false
  
 {{ bfast }}
 - {: .shadow} 07h30? whatsapp checkin 
-- 08h30-10h00 {{ prac }} Introduction to models and data: HIV in Harare ({% include instructors people="kassanjee|pearson" %}, {{ lab }})
+- 08h30-10h00 {{ prac }} [Introduction to models and data: HIV in Harare]() ({% include instructors people="kassanjee|pearson" %}, {{ lab }})
   - {: .shadow } Notes: ??
   - Launch from R prompt with `ICI3D::hivTutorial()`
   - If you finish all five versions of the model for the Harare data, move on to working on data from other countries.
   -  **Additional info:** [Distributed Delay Models of Survival](../tutorials/distributedDelay.pdf) (Boxcar Models) and [example script](https://www.dropbox.com/s/ykirgmodga2j7m9/distributed_delay_boxcar.R?dl=1)
   - [Summary of Harare tutorial]() ({% include instructors people="pearson" %})
-  - {: .shadow} assisted by all mentors
+  - {: .shadow} Mentors: all
   - {: .shadow} Faculty: Eva
 - 10h00-10h30 {{ coffee }}
 - 10h30-12h00 {{ lect }} [Introduction to statistical philosophy]() ({% include instructors people="dushoff" %}, {{ main }})
   - {: .shadow } Notes: ??
-- 12h00-12h30  {{ proj}} [Introduction to project topics]() ({% include instructors people="brown" %}, {{ main }})
+- 12h00-12h30 {{ proj}} [Introduction to project topics]() ({% include instructors people="brown" %}, {{ main }})
   - {: .shadow} All
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
@@ -163,7 +163,7 @@ archive: false
 - 16h00-17h00 {{ lect }} [Introduction to likelihood]() ({% include instructors people="vanschalkwyk" %}, {{ main }})
   - {: .shadow } Notes: ??
 - 17h00-18h00 {{ prac }} [Lab 5 - Introduction to likelihood](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_introLikelihood.R) ({% include instructors people="vanschalkwyk|Mentors" %}, {{ lab }})
-  - {: .shadow} assisted by all mentors
+  - {: .shadow} Mentors: all
   - {: .shadow} Faculty: Jonathan, CarL
   - [Summary: Likelihood]() ({% include instructors people="vanschalkwyk" %}, {{ lab }})
 - [End of Day Questions]()
@@ -176,7 +176,7 @@ archive: false
 
 {{ bfast }}
 - {: .shadow} 07h30? whatsapp checkin
-- 08h30-10h00 {{ lc }} Participatory coding of a deterministic model ({% include instructors people="pearson" %}, {{ main }})
+- 08h30-10h00 {{ lc }} Participatory coding: Building a deterministic model ({% include instructors people="pearson" %}, {{ main }})
   - [This year's code]()
   - Previous year's code is generally available [here](https://github.com/ICI3D/RTutorials))
   - {: .shadow } Notes: ??
@@ -185,7 +185,7 @@ archive: false
   - {: .shadow } Notes: ??
 - 11h30-12h30 {{ prac }} [An introduction to stochastic models]() ({% include instructors people="brown|kassanjee" %}, {{ lab }})
   - {: .shadow} Walkthrough: Lauren
-  - {: .shadow} assisted by Shadé, Belinda
+  - {: .shadow} Mentors: Shadé, Belinda
   - {: .shadow} Faculty: Eva, Mutono
   - [Summary: Stochastic models]() ({% include instructors people="brown" %}, {{ lab }})
 - {: .shadow} 12h30-13h00 faculty meeting
@@ -196,7 +196,7 @@ archive: false
 - 14h45-15h30 {{ prac }} [Lab 2 - Consequences of heterogeneity]() ({% include instructors people="dushoff" %}, {{ lab }})
   - Download <a href="https://github.com/ICI3D/RTutorials/blob/master/ICI3D_Lab_Heterogeneous_Groups.R?raw=1">lab</a> and <a href="https://github.com/ICI3D/RTutorials/blob/master/ICI3D_Heterogeneous_Groups.R?raw=1"> supplementary functions</a>
   - {: .shadow} Walkthrough: Jonathan
-  - {: .shadow} assisted by Brian, Belinda
+  - {: .shadow} Mentors: Brian, Belinda
   - {: .shadow} Faculty: CarL, Eva, Mutono
   - [Summary: Heterogeneity]() ({% include instructors people="dushoff" %}, {{ lab }})
 - 15h30-16h00 {{ tea }}
@@ -204,12 +204,12 @@ archive: false
   - {: .shadow } Notes: ??
 - 16h45-18h00 {{ prac }} [Maximum likelihood: fitting of a dynamical model]() ({% include instructors people="vanschalkwyk" %}, {{ lab }})
   - {: .shadow} Walkthrough: Cari
-  - {: .shadow} assisted by Brian, Shadé
+  - {: .shadow} Mentors: Brian, Shadé
   - {: .shadow} Faculty: Jonathan, CarL, Eva
   - [Summary: ML]() ({% include instructors people="vanschalkwyk" %}, {{ lab }})
 - [End of Day Questions]()
 {{ dinner }}
-- 18h30-19h00 Optional: [Tutorials](../tutorials) catch-up session ({% include instructors people="mentors" %}, {{ lab }})
+- 18h30-19h00 Catch up session: [Tutorials](../tutorials) ({% include instructors people="mentors" %}, {{ lab }})
 	* Includes thinking of project questions
  	* Complete model diagram
   - {: .shadow} Faculty: Reshma, Lauren
@@ -218,26 +218,29 @@ archive: false
 ### Day 5 (Friday, 19 June)
 
 {{ bfast }}
-- {: .shadow} 0730? whatsapp checkin
-- 08h30-10h00 {{ disc }} [Description of proposed model and assumptions]() ({% include instructors people="nyamai|vanschalkwyk|blumberg|Mentors" %}, {{ sections }})
+- {: .shadow} 07h30? whatsapp checkin
+- 08h30-10h00 {{ disc }} [Describing a model and its assumptions]() {% include instructors people="vanschalkwyk|ujeneza|brown|nyamai" %}, {{ sections }})
+  - {: .shadow} ICI3D: assisted by Brian, Shadé, Jonathan
+  - {: .shadow} AIMS: assisted by Belinda, Reshma, CarL
   - {: .shadow } Telephone!
-  - {: .shadow } note takers: Team, Reshma
 - 10h00-10h30 {{ coffee }}
-
-- 11h15-12h15 Mentor presentations ({% include instructors people="blumberg" %}, {{ main }})
-  - {: .shadow } We don't take formal notes here; you are requested to communicate privately with the mentors
-  - {: .shadow } Seth: mention that lunch not served until 12:30
-- {: .shadow} 12h15-12h45 faculty meeting
-- 12h15-13h45 {{ lunch }} (note slight shift)
-
-- 15h00-15h30 [Projects: Topic Qs](https://docs.google.com/presentation/d/1DzepzN9YnYyzhpiV4JKs6x10b2I6B5Pe) ({% include instructors people="nyamai" %}, {{ main }})
-  - {: .shadow } note takers: Jonathan, Seth
+- 10h30-12h00 {{ lc }} Participatory coding: Building a stochastic model ({% include instructors people="pearson" %}, {{ main }})
+  - [This year's code]()
+  - {: .shadow } Notes: ??
+- 12h30-12h30 {{ proj }} [Questions for project topics]() ({% include instructors people="brown" %}, {{ main }})
+  - {: .shadow} All
+- {: .shadow} 12h30-13h00 faculty meeting
+- 12h30-14h00 {{ lunch }}
+- 14h00-15h00 {{ lect }} [Fitting dynamical models II]() ({% include instructors people="dushoff" %}, {{ main }})
+  - {: .shadow } Notes: ??
+- 15h00-15h30 Catch up session: [Tutorials](../tutorials) ({% include instructors people="mentors" %}, {{ lab }})
+	* Includes selecting project: [Project selection form]()
+  - {: .shadow} Faculty: Carii, Mutono
 - 15h30-16h00 {{ tea }}
-- 16h00-17h00 Mid-Clinic Feeback session ({% include instructors people="bruce" %}, {{ main }})
-- [End of Day Questions](https://forms.gle/55XBgBjKi34jFPVJ9)
-- 17h00-18h00 [Optional catchup session](https://docs.google.com/forms/d/10c8MwOpJYpToRikrSXSHOWjKg80xduucFMKa9A4BDh0) ({{ lab }})
-  - Let the mentors know your questions
-- **NO LATER THAN 1800: [Project selection form](https://docs.google.com/forms/d/1RJW6X5RFQ0ZdSu7cqe3T-SvNsoIksQFhpbaaXWCD9NY)**
+- 16h00-17h00 Mentor presentations ({% include instructors people="kassanjee" %}, {{ main }})
+  - {: .shadow } We don't take formal notes here; you are requested to communicate privately with the mentors
+- 17h00-18h00 Mid-Clinic Feeback session ({% include instructors people="bruce" %}, {{ main }})
+- [End of Day Questions]()
 {{ dinner }}
 - 19h00-21h00 {{ sc }} Movie Night ({{ main }})
 	- {: .shadow} Project group: work on group assignments possibly calling on experts
@@ -245,22 +248,28 @@ archive: false
 ### Day 6 (Saturday, 20 June)
 
 {{ ssbfast }}
-- {: .shadow} 0730? whatsapp checkin
-- 09h00-10h30 {{ lc }} Participatory coding for stochastic model ({% include instructors people="pearson" %}, {{ main }})
-  - {: .shadow } note takers: Reshma
+- {: .shadow} 07h30? whatsapp checkin
+- 09h00-10h00 {{ prac }} [Introduction to GitHub]() ({% include instructors people="brown" %}, {{ lab }})
+  - {: .shadow} Faculty: Jonathan, Vince, CarL
+- 10h00-10h30 {{ proj }} [Group assignments and expectations]() ({% include instructors people="all" %}, {{main}})
+	* [Slides (includes milestones)]()
 - 10h30-11h00 {{ coffee }}
-- 11h00-11h30 [Projects: Group Assignments](https://docs.google.com/spreadsheets/d/1oYApOiOTl1C8M2E9QYEJjZeQCL1ErvWmSwrTD8B01AQ/) ({% include instructors people="nyamai" %}, {{lab}})
-	* [Slides (includes milestones)](https://docs.google.com/presentation/d/1eDBvawvXSPZq5Z2y9f4BKvIxwSHfNbPy)
-- 11h30-12h30 Optional: [Tutorials](../tutorials) catch-up or Project Group Work ({% include instructors people="Mentors" %}, {{ lab }})
-- {{ sc }} Optional: Group Lunch at Kalky's (costs covered)
-- {: .shadow} 16h30 post-Kalky's all hands faculty meeting in E313; beverages provided
+- 11h00-11h30 {{ proj }} First group meeting - with advisor ({% include instructors people="all" %}, {{main}})
+  - {: .shadow} Group locations
+- 11h30-12h00 {{ prac }} GitHub practice and questions ({% include instructors people="brown" %}, {{ lab }})
+  - {: .shadow} Faculty: Jonathan, Vince, CarL
+- 12h00-12h30 Catch up session: ({% include instructors people="mentors" %}, {{ lab }})
+  - {: .shadow} Faculty: Lauren, Mutono
+- 12h45 {{ sc }} Optional: Group Lunch at Kalky's (costs covered)
+  - {: .shadow} Reminder- no alcohol can be paid for by us
+  - {: .shadow} 16h30 post-Kalky's all hands faculty meeting in E313; beverages provided
 {{ ssdinner }}
+  - {: .shadow} remainder of meeting in E313
 
 ### Day 7 (Sunday, 21 June)
+
 {{ ssbfast }}
-
-- {{ sc }} Social Outing: Cape Point National Park; depart 09h00 sharp
-
+- 09h00 {{ sc }} Social Outing: Cape Point National Park; depart 09h00 sharp
 {{ ssdinner }}
 </details>
 
