@@ -6,11 +6,11 @@ subtitle: Clinic Schedule
 alerttype: shadow
 alertmsg: >
   <ul>
-  <li>Please make sure that your final slides for the sessions below are added to the <a href="https://drive.google.com/drive/folders/1C5LW7zhYYU856bHRBPu_s0yl5ToN8yOW">ICI3D Google Drive!</a></li>
+  <li>Please make sure that your final slides for the sessions below are added to the <a href="https://drive.google.com/drive/folders/1HdbsdJfQROLbvT1_Drb_7_l5urZSMruL?usp=sharing">ICI3D Google Drive!</a></li>
   <li>Links to R tutorials and exercises are available <a href="../tutorials">here</a>.</li>
-  <li>Please update all your presentations to <b>use the ICI3D slide template</b>.</li>
-  <li><a href="https://docs.google.com/document/d/18T2Dot3I6nkBZlh20QVhVtULkF_1-yTNZOC4z-3MFHY/edit?tab=t.0">General Notes</a>; <a href="https://docs.google.com/document/d/1ntKqRhZ8jxj1-fBZigKyAFjzGXYeKE0g6bub1fhUyvM/edit?tab=t.0#heading=h.ew4b253yywvc">Session Notes; </a><a href="https://docs.google.com/document/d/1SzN91hGNRKig7WMG2c1kMeHruAQbnoDaRz8pKBPVxqg/edit">Pipeline Notes</a></li>
-  <li><a href="https://docs.google.com/document/d/1XrMxQPQ5GzI9ULCIbLSBVtCnRYx0wU0zsMAXpCxCNuE/edit">Click here for access to the MMED 2024 General Notes</a> or <a href="https://docs.google.com/document/d/1OkLUgMk6ZtgGffxgYD2_DU9oB0VKOa5R_jWZTe56HfY/edit">Session Notes</a></li>
+  <li>Please update all your presentations to <b>[use the ICI3D slide template](https://drive.google.com/drive/folders/1PxMvFsZBbq72u3cOXZ19kZaCmVljT9qF?usp=drive_link)</b>.</li>
+  <li><a href="https://docs.google.com/document/d/1N5Fc7QFRh7Wdbb5Fl3qG0Qbkux5ECEOTucGF1Q-IxbU/edit?usp=drive_link">General Notes</a>; <a href="https://docs.google.com/document/d/1RZ-TLGReAcHB8EYyXN0_yU1t3FNlKcjm0lQszbzLtcM/edit?usp=drive_link">Session Notes; </a><a href="https://docs.google.com/document/d/1XnYHY8ZV-EYM7FGVBvF8cA71tV2KeOTOAm-eHrE9XK4/edit?usp=drive_link">Pipeline Notes</a></li>
+  <li><a href="https://docs.google.com/document/d/18T2Dot3I6nkBZlh20QVhVtULkF_1-yTNZOC4z-3MFHY/edit?usp=drive_link">Click here for access to the MMED 2025 General Notes</a> or <a href="https://docs.google.com/document/d/1ntKqRhZ8jxj1-fBZigKyAFjzGXYeKE0g6bub1fhUyvM/edit?usp=drive_link">Session Notes</a></li>
   </ul>
 archive: false
 ---
@@ -39,9 +39,9 @@ archive: false
 <div class="alert alert-warning" role="alert">
   <div class="container padding-left=0px padding-right=0px">
     <ul style="font-size:16px; margin:0px;">
-      <li>The content below relates to 2025, and 2026 information will be provided shortly.</li>
+      <li>The content below is for 2026.</li>
       <li>Links to R tutorials and exercises are available <a href="../tutorials">here</a>.</li>
-      <li>As they become available, session slides will appear in <a href="https://drive.google.com/drive/folders/1C5LW7zhYYU856bHRBPu_s0yl5ToN8yOW">this shared folder</a>.</li>
+      <li>As they become available, session slides will appear in <a href="https://drive.google.com/drive/folders/1CeoWN3TkFobDDo1fEX1UL13rr5FTIbfq?usp=drive_link">this shared folder</a>.</li>
 	  <li>Foundation materials can be found <a href="https://www.ici3d.org/MMED/Foundation">here</a>.</li>
       <li>Unless otherwise noted, all materials made available through this website are licensed through a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC-BY International License</a>.</li>
     </ul>
@@ -52,78 +52,94 @@ archive: false
 
 <details markdown="1" open><summary>Week 1: Meaningful Modeling of Epidemiological Data (MMED)</summary>
 
-### Day 0 (Sunday, 15 June)
+### Day 0 (Sunday, 14 June)
 
 - On arrival {{ org }} mentors and tutors will assist with direction to accommodations
 - {: .shadow} Faculty meeting and dinner in E313 from 16h30; be sure to save food for late arrivals once known
 
-### Day 1
+### Day 1 (Monday, 15 June)
 
-- {: .shadow} 0730? whatsapp checkin
-- 07h30-08h20 {{ org }} Registration ({% include instructors people="bruce" %}, {{ lobby }})
+- {: .shadow} 07h30? whatsapp checkin
+- 07h30-08h20 {{ org }} Registration ({% include instructors people="bruce|Mentors" %}, {{ lobby }})
 {{ bfast }}
-- 08h30-09h00 [Welcome and Motivation for Workshop](https://drive.google.com/file/d/15P91x6rYAw5JW0Yu74YwgDVAtXwNnAef) ({% include instructors people="kassanjee" %}, {{ main }})
-- 09h00-09h45 {{ disc }} [Public health, epidemiology, and models](https://docs.google.com/presentation/d/1LbeHeiB-JlZk1tQq7IjMwnuwXQF7SYZE) ({% include instructors people="pearson" %}, {{ main }})
-	- {: .shadow} Notes: Mutono
-- 09h45-10h00 [MMED roadmap and program overview](../roadmap) ({% include instructors people="kassanjee" %}, {{ main }})
+- 08h30-09h00 Welcome and Motivation for Workshop ({% include instructors people="kassanjee" %}, {{ main }})
+	- {: .shadow} Notes: ??
+- 09h00-09h45 {{ lect }} Public health, epidemiology, and models ({% include instructors people="pearson" %}, {{ main }})
+	- {: .shadow} Notes: ??
+- 09h45-10h00 {{ org }} [MMED roadmap and program overview](../roadmap) ({% include instructors people="kassanjee" %}, {{ main }})
 - 10h00-10h30 {{ coffee }}
-- 10h30-11h30 {{ lect }} [Introduction to dynamic modelling of infectious disease I](https://drive.google.com/file/d/1z9fvgjnNkFOY0Q3fvis4qvk_71xJqBw8) ({% include instructors people="kassanjee" %}, {{ main }})
-	- {: .shadow} Notes: Carl
-- 11h30-12h30 {{ lect }} [Introduction to infectious disease data](https://drive.google.com/file/d/1F3QSyDc0SnYBkkBfFdVHk6Cv2qKd_MJE) ({% include instructors people="blumberg" %}, {{ main }})
-	- {: .shadow} Notes: Carl
+- 10h30-11h45 {{ lect }} Introduction to dynamic modelling of infectious disease I ({% include instructors people="kassanjee" %}, {{ main }})
+	- {: .shadow} Notes: ??
+- 11h45-12h30 {{ lect }} Introduction to infectious disease data ({% include instructors people="ujeneza" %}, {{ main }})
+	- {: .shadow} Notes: ??
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }} 
-- 13h15-13h45 (technical assistance for participants, {{ lab }}
-	- {: .shadow} Led by Carl
-- 14h00-15h00 {{ lect }} [Foundations of dynamical modelling](https://drive.google.com/file/d/1_sa6YOal0UqElX3e-uQ6HZvYRfY_RIV8) ({% include instructors people="dushoff" %}, {{ main }})
-	* [This year's spreadsheet](https://docs.google.com/spreadsheets/d/1KOPDGUturSLjrAq_QBtwFmLQWBAk10M1a-0GYS9Gr_M/)
-	* [A similar spreadsheet that also implements a stochastic version!](https://docs.google.com/spreadsheets/d/1u3Ik41bKU5UamK-MpB0JF6c-TuBN8nHSdGmpShkoqk4/)
-
-	- {: .shadow} Notes: Seth the Motivator
-- 15h00-15h30 {{ prac }} Dynamical fever exercise ({% include instructors people="nyamai" %}, {{ lab }})
+- 13h15-13h45 technical assistance for participants, {{ lab }}
+	- {: .shadow} Led by Mentors
+- 14h00-15h30 {{ prac }} Dynamical fever exercise ({% include instructors people="nyamai" %}, {{ lab }})
   - Launch from R prompt with `ICI3D::dynamicalFever()`
-	- {: .shadow} assisted by Seth, Carl, Jeremy, Martha
-	- {: .shadow} Stanley should relax!
-- 15h30-16h00 {{ tea }} ([poster setup, group 1](https://drive.google.com/drive/folders/19DlY2bPRbzAsHIux5nSeBibbCSXlKBrU)) ({% include instructors people="nyamai|Mentors" %}, {{main}})
-- 16h00-17h00 Dynamical fever exercise, cont. ({{ lab }})
-  - [Dynamical fever summary](https://docs.google.com/presentation/d/18POIDzoVrtrXAlZAYbJ9PiajPpssGu7i) ({% include instructors people="nyamai" %}, {{ lab }})
-- 17h00-18h00 [Poster session 1](https://drive.google.com/drive/folders/19DlY2bPRbzAsHIux5nSeBibbCSXlKBrU) ({{main}})
-- [End of Day Questions](https://forms.gle/zkufuNG8PhfB2YEg9)
+	- {: .shadow} assisted by Brian, Shadé, Belinda
+	- {: .shadow} Faculty: Jonathan, Carii
+  - Dynamical fever summary ({% include instructors people="nyamai" %}, {{ lab }})
+- 15h30-16h00 {{ tea }} (poster setup, group 1) ({% include instructors people="bruce|Mentors" %}, {{main}})
+- 16h00-17h00 {{ prac }} [R Tutorials](../tutorials): Tutorial 4 - Visualizing Infectious Disease Data ({% include instructors people="ujeneza|lombard" %}, {{ lab }})
+- {: .shadow} Walkthrough: Belinda  
+- {: .shadow} assisted by Brian, Shadé
+- {: .shadow} Faculty: CarL, Mutono
+  - Study Design Slides
+  - Visualization Summary ({% include instructors people="lombard" %}, {{ lab }})
+  - [Lab 3 - study design I](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_EpiStudyDesign.R) may also be of interest, but is an own-time activity
+- 17h00-18h00 Poster session 1 ({{main}})
+- {: .shadow} Possible feedback printout forms/Google form QR to give feedback?
+- End of Day Questions
 {{ dinner }}
-- 19h00-20h30 Ice-breaker/Card games ({% include instructors people="bruce" %}, {{ main }})
+- 18h45-20h30 Ice-breaker/Card games ({% include instructors people="bruce" %}, {{ main }})
 
-### Day 2
+### Day 2 (Tuesday, 16 June)
 
 {{ bfast }}
-- {: .shadow} 0730? whatsapp checkin
-- 08h30-09h15 [(Hidden) assumptions of simple ODE models](https://drive.google.com/file/d/1tYkR9t3bzmq1iD4fesaXzxgZIeJHWeTY) ({% include instructors people="vanschalkwyk" %}, {{ main }})
-  - {: .shadow } note takers {% include instructors people="nyamai" %}
-- 09h15-10h00 {{ lc }} [Introduction to model implementation in R](https://drive.google.com/file/d/1YTiZZGaW17Mx92hmJsCS2qV464wkxL9E) ({% include instructors people="kassanjee" %}, {{ main }})
-  - [Resulting Code](https://drive.google.com/file/d/1GFA1k7ckK5lvpml-05tW1u4xqE5EQrrJ)
-  - {: .shadow } Notes: Carl
-- 10h00-10h30 {{ coffee }}
-- 10h30-11h30 [R Tutorials](../tutorials): [Lab 1 - ODE Models](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_ODEmodels.R) ({% include instructors people="luka" %}, {{ lab }})
-  - [Lab 1 Summary](https://drive.google.com/file/d/1iHSjqrwj_LsK8pzAka_OZjepVaLGljH3)
-- 11h30-12h30 [Thinking about Data](https://docs.google.com/presentation/d/1zygkn_iRYJT4hVigEJuP3siy1GCGkgXX) ({% include instructors people="nyamai|Mentors" %}, {{main}})
-  - {: .shadow } note takers Seth
+- {: .shadow} 07h30? whatsapp checkin
+- 08h30-09h30 {{ lect }} Introduction to dynamic modelling of infectious disease II ({% include instructors people="dushoff" %}, {{ main }})
+	- {: .shadow} Notes: ??
+- 09h30-10h15 {{ lc }} Introduction to model implementation in R ({% include instructors people="kassanjee" %}, {{ main }})
+  - Resulting Code
+  - {: .shadow } Notes: ??
+- 10h15-10h45 {{ coffee }}
+- 10h45-11h30 {{ lect }} (Hidden) assumptions of simple ODE models ({% include instructors people="vanschalkwyk" %}, {{ main }})
+  - {: .shadow } Notes: ??
+- 11h30-12h15 {{ prac }} [R Tutorials](../tutorials): [Lab 1 - ODE Models](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_ODEmodels.R) ({% include instructors people="vanschalkwyk|njuguna" %}, {{ lab }})
+  - {: .shadow} Walkthrough: Brian
+  - {: .shadow} assisted by Shadé, Belinda
+  - {: .shadow} Faculty: Lauren, Reshma
+  - Lab 1 Summary ({% include instructors people="njuguna" %}, {{ lab }})
+- 12h15-12h30 Catch-up ({% include instructors people="vanschalkwyk" %}, {{ lab }})
+  - {: .shadow} assisted by Brian, Shadé, Belinda
+  - {: .shadow} Faculty: Lauren, Reshma
+- {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
-- 14h00-15h00 {{ lect }} [Study design](https://drive.google.com/file/d/1de7qMKvnC6djx6CJYIZ8slEt-LOD5-Rh) ({% include instructors people="kassanjee" %}, {{ main }})
-  - {: .shadow } note takers: Jonathan
-- 15h00-17h00 (with tea break) [R Tutorials](../tutorials): [Lab 4 - study design II](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_RCT.R) & [Tutorial 4 - Visualizing Infectious Disease Data](../tutorials/visualizeData) ({% include instructors people="blumberg|kassanjee|Mentors" %}, {{ lab }})
-  - [Study Design Slides](https://drive.google.com/file/d/1ZrNvXJeJMx8Ei-b4fopwYd_fNG5FAKbG)
-  - [Visualization Summary](https://drive.google.com/file/d/1I_waaz-S3S85s5G0z61ZrIwE-b99oU_N)
-  - [Lab 3 - study design I](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_EpiStudyDesign.R) may also be of interest, but is an own-time activity
-- 15h30-16h00 {{ tea }} ([poster setup, group 2](https://drive.google.com/drive/folders/19DlY2bPRbzAsHIux5nSeBibbCSXlKBrU)) ({% include instructors people="nyamai|Mentors" %}, {{ main }})
-- 17h00-18h00 [Poster session 2](https://drive.google.com/drive/folders/19DlY2bPRbzAsHIux5nSeBibbCSXlKBrU) ({{ main }})
-- [End of Day Questions](https://forms.gle/ioZ2PLLsjo9WsJH98)
+- 14h00-14h45 {{ lect }} Data management and wrangling ({% include instructors people="nyamai" %}, {{ lab }})
+  - {: .shadow } Notes: ??
+- 14h45-15h30 {{ prac }} [R Tutorials](../tutorials): Tutorial 5 - Data Wrangling ({% include instructors people="nyamai|horn" %}, {{ lab }})
+  - {: .shadow} Walkthrough: Shadé
+  - {: .shadow} assisted by Brian, Belinda
+  - {: .shadow} Faculty: CarL, Eva
+  - Tutorial 5 Summary ({% include instructors people="horn" %}, {{ lab }})
+- 15h30-16h00 {{ tea }} (poster setup, group 2) ({% include instructors people="bruce|Mentors" %}, {{ main }})
+- {: .shadow} Don't move the chairs! Only put the posters up.
+- 16h00-17h00 {{ disc }} Formulating research questions ({% include instructors people="vanschalkwyk|ujeneza|brown|nyamai" %}, {{ sections }})
+- {: .shadow} ICI3D: assisted by Brian, Shadé, Jonathan
+- {: .shadow} AIMS: assisted by Belinda, Reshma, CarL
+- 17h00-17h05 (poster setup, move desks and chairs)
+- 17h05-18h00 Poster session 2 ({{ main }})
+- End of Day Questions
 {{ dinner }}
-- 19h00-20h00 {{ lect }} [Guest Lecture: "Mathematical models of vector-borne diseases: from theory to research"](https://docs.google.com/presentation/d/1Gb49d0V84EljTYoulxPQyuiwEEy2jRSV) [Joseph Challenger](https://scholar.google.com/citations?user=q3Inh-AAAAAJ&hl=en&oi=ao)
-  - Moderator {% include instructors people="dushoff" %}
+- 19h00-20h00 {{ lect }} Guest Lecture: Title, ({% include instructors people="smith" %}, {{ main }})
+- Moderator:  
 
-### Day 3
+### Day 3 (Wednesday, 17 June)
  
 {{ bfast }}
-- {: .shadow} 0730? whatsapp checkin
+- {: .shadow} 07h30? whatsapp checkin
 - 08h30-09h30 {{ lect }} [Consequences of heterogeneity and modelling options]() ({% include instructors people="dushoff" %}, {{ main }})
   - {: .shadow } Notes: Seth
 - 09h30-11h00 (with coffee break) {{ prac }} Lab 2 - Consequences of heterogeneity ({% include instructors people="dushoff" %}, {{ lab }})
@@ -152,7 +168,7 @@ archive: false
 - 19h00-20h00 Optional: [Tutorials](../tutorials) catch-up ({% include instructors people="Mentors" %}, {{ lab }})
 	* This catch-up is open, but please sign up for future catch-ups
 
-### Day 4
+### Day 4 (Thursday, 18 June)
 
 {{ bfast }}
 - {: .shadow} 0730? whatsapp checkin
@@ -181,7 +197,7 @@ archive: false
 - 18h30-19h00 Finish Model Diagram	
 - 19h00-21h00 {{ sc }} Drumming ({{ main }})
 
-### Day 5
+### Day 5 (Friday, 19 June)
 
 {{ bfast }}
 - {: .shadow} 0730? whatsapp checkin
@@ -211,7 +227,7 @@ archive: false
 - 19h00-21h00 {{ sc }} Movie Night ({{ main }})
 	- {: .shadow} Project group: work on group assignments possibly calling on experts
 
-### Day 6
+### Day 6 (Saturday, 20 June)
 
 {{ ssbfast }}
 - {: .shadow} 0730? whatsapp checkin
@@ -225,7 +241,7 @@ archive: false
 - {: .shadow} 16h30 post-Kalky's all hands faculty meeting in E313; beverages provided
 {{ ssdinner }}
 
-### Day 7
+### Day 7 (Sunday, 21 June)
 {{ ssbfast }}
 
 - {{ sc }} Social Outing: Cape Point National Park; depart 09h00 sharp
@@ -235,7 +251,7 @@ archive: false
 
 <details markdown="1"><summary>Week 2: MMED Project Focus</summary>
 
-### Day 8 (Monday, 23 June)
+### Day 8 (Monday, 22 June)
 
 {{ bfast }}
 - 08h30-08h45 {{ disc }} [Feedback responses; Review Schedule & goals]() ({% include instructors people="kassanjee" %}, {{ main }})
@@ -258,7 +274,7 @@ archive: false
 {{ dinner }}
 - 19h00-20h00 Optional: Github practice and and trouble-shooting / tutorial catch-up ({% include instructors people="pearson|Mentors" %}, {{ lab }})
 
-### Day 9
+### Day 9 (Tuesday, 23 June)
 
 {{ bfast }}
 - 08h30-10h00 {{ lect }} [Introduction to Markov Chain Monte Carlo (MCMC)]() ({% include instructors people="pearson" %}, {{ main }})
@@ -281,7 +297,7 @@ archive: false
 {{ dinner }}
 - 19h00-20h00 Optional: Github Trouble-shooting / tutorial catch-up ({% include instructors people="Mentors" %}, {{ lab }})
 
-### Day 10
+### Day 10 (Wednesday, 24 June)
 
 {{ bfast }}
 - 08h30-09h30 {{ lect }} [Model assessment](https://drive.google.com/file/d/1qyncr5wiEdAaR6EP36M9MUYwh8Ktj_Xk) ({% include instructors people="dushoff" %}, {{ main }})
@@ -300,7 +316,7 @@ archive: false
 {{ dinner }}
 - 19h00-20h00 Guest Lecture: [Mmamapudi Kubjane](https://www.ici3d.org/DAIDD/team/kubjane/) ({{ main }})
   
-### Day 11
+### Day 11 (Thursday, 25 June)
 
 {{ bfast }}
 - 08h30-10h00 {{ gw }} MMED project work + [mentoring sessions](https://docs.google.com/spreadsheets/d/1jzPPM6DxPewEEFea2nAPiadjunCzKu_dpwgoVei6658) ({{breakout}})
@@ -317,7 +333,7 @@ archive: false
 {{ dinner }}
 - 19h00-20h00 MMED project work
 
-### Day 12
+### Day 12 (Friday, 26 June)
 
 {{ bfast }}
 - 08h30-12h30 {{ gw }} MMED project work ({{breakout}})
