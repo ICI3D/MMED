@@ -359,7 +359,7 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
   - [Resulting code]()
   - {: .shadow } Notes: ??
 - 15h30-16h00 {{ tea }}
-- 16h00-17h30 {{ disc }} Modelling for policy ({% include instructors people="schalkwyk" %}, {{ main }})
+- 16h00-17h30 {{ disc }} Modelling for policy ({% include instructors people="vanschalkwyk" %}, {{ main }})
   - {: .shadow } Notes: ??
   - {: .shadow } **Reminder**: participants won't have support for the group work after dinner!
 {{ dinner }}
