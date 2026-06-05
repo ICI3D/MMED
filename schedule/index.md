@@ -8,7 +8,7 @@ alertmsg: >
   <ul>
   <li>Please make sure that your final slides for the sessions below are added to the <a href="https://drive.google.com/drive/folders/1HdbsdJfQROLbvT1_Drb_7_l5urZSMruL?usp=sharing">ICI3D Google Drive!</a></li>
   <li>Links to R tutorials and exercises are available <a href="../tutorials">here</a>.</li>
-  <li>Please update all your presentations to <b>[use the ICI3D slide template](https://drive.google.com/drive/folders/1PxMvFsZBbq72u3cOXZ19kZaCmVljT9qF?usp=drive_link)</b>.</li>
+  <li>Please update all your presentations to <b><a href="https://drive.google.com/drive/folders/1PxMvFsZBbq72u3cOXZ19kZaCmVljT9qF?usp=drive_link">use the ICI3D slide template </a></b>.</li>
   <li><a href="https://docs.google.com/document/d/1N5Fc7QFRh7Wdbb5Fl3qG0Qbkux5ECEOTucGF1Q-IxbU/edit?usp=drive_link">General Notes</a>; <a href="https://docs.google.com/document/d/1RZ-TLGReAcHB8EYyXN0_yU1t3FNlKcjm0lQszbzLtcM/edit?usp=drive_link">Session Notes; </a><a href="https://docs.google.com/document/d/1XnYHY8ZV-EYM7FGVBvF8cA71tV2KeOTOAm-eHrE9XK4/edit?usp=drive_link">Pipeline Notes</a></li>
   <li><a href="https://docs.google.com/document/d/18T2Dot3I6nkBZlh20QVhVtULkF_1-yTNZOC4z-3MFHY/edit?usp=drive_link">Click here for access to the MMED 2025 General Notes</a> or <a href="https://docs.google.com/document/d/1ntKqRhZ8jxj1-fBZigKyAFjzGXYeKE0g6bub1fhUyvM/edit?usp=drive_link">Session Notes</a></li>
   </ul>
@@ -49,7 +49,7 @@ archive: false
   </div>
 </div>
 
-### [Participants](https://drive.google.com/file/d/1UQtxdo2EN2egBiqZqLkICumHhD3_LvCh)
+### [Participants](https://drive.google.com/file/d/1dQ-m0jmhCMwqd14ajXlOTpluhJA52YXL/view?usp=drive_link)
 
 <details markdown="1" open><summary>Week 1: Meaningful Modeling of Epidemiological Data (MMED)</summary>
 
