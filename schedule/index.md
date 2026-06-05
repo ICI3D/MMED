@@ -132,7 +132,7 @@ archive: false
 - 16h00-17h00 {{ disc }} Formulating research questions ({% include instructors people="vanschalkwyk|ujeneza|brown|nyamai" %}, {{ sections }})
 - {: .shadow} ICI3D: assisted by Brian, Shadé, Jonathan
 - {: .shadow} AIMS: assisted by Belinda, Reshma, CarL
-- 17h00-17h05 Poster setup: move desks and chairs
+_- 17h00-17h05 Poster setup: move desks and chairs_
 - 17h05-18h00 [Poster session 2]() ({{ main }})
 - [End of Day Questions]()
 {{ dinner }}
@@ -306,15 +306,17 @@ archive: false
 - 08h30-10h00 {{ lect }} [Introduction to Markov Chain Monte Carlo (MCMC)]() ({% include instructors people="pearson" %}, {{ lab }})
 	- {{ prac }} [Lab 7 - Understanding MCMC](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_MCMC-Binomial.R) ({% include instructors people="pearson|Mentors" %}, {{ lab }})
 	- {{ prac }} [Lab 8 - MCMC model fitting](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_MCMC-SI_HIV.R) ({% include instructors people="pearson|Mentors" %}, {{ lab }})
+  - {: .shadow } Notes: ??
   - {: .shadow} Walkthrough: CarL
   - {: .shadow} Mentors: All
   - {: .shadow} Faculty: Carii, Claire, Eva, Jonathan
-  - [Summary: MCMC]() ({% include instructors people="pearson" %}, {{ lab }})
 - 10h00-10h30 {{ coffee }}
-	* Photo session
+	* Group photo - in fornt of AIMS door 
 	* [See MMED photo folder (request access if necessary)]()
-- 10h30-11h30 {{ prac }} Lab 7 and Lab 8 continued ({% include instructors people="pearson|Mentors" %}, {{ lab }})
+- 10h30-11h30 {{ prac }} [Lab 7](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_MCMC-Binomial.R) and [Lab 8](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_MCMC-SI_HIV.R) continued ({% include instructors people="pearson|Mentors" %}, {{ lab }})
 - 11h30-12h30 {{ lect }} [Model assessment]() ({% include instructors people="dushoff" %}, {{ main }})
+  - [Summary: MCMC]() ({% include instructors people="pearson" %}, {{ lab }})
+  - {: .shadow } Notes: ??
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
 - 14h00-15h30 {{ gw }} MMED project work ({{ breakout }})
@@ -322,14 +324,14 @@ archive: false
 - 16h00-18h00 {{ gw }} MMED project work + [mentoring sessions]() ({{ breakout }})
 - [End of Day Questions]()
 {{ dinner }}
-- 12h00-12h30 Catch up session: ({% include instructors people="Mentors" %}, {{ lab }})
+- 12h00-12h30  **Catch-up Session**: ({% include instructors people="Mentors" %}, {{ lab }})
   - {: .shadow} Faculty: CarL, Claire, Lauren
 
 ### Day 10 (Wednesday, 24 June)
 
 {{ bfast }}
-- 08h30-09h30 {{ lect }} [Study design, bias, variability]() ({% include instructors people="dushoff" %}, {{ main }})
-- {{ lc }} Study design and simulation-based validation ({% include instructors people="dushoff" %}, {{ main }})
+- 08h30-09h00 {{ lect }} [Study design, bias, variability]() ({% include instructors people="dushoff" %}, {{ main }})
+- 09h00-10h00 {{ lc }} Study design and simulation-based validation ({% include instructors people="dushoff" %}, {{ main }})
   - [Resulting code]()
   - {: .shadow } Notes: ??
 - 10h00-10h30 {{ coffee }}
@@ -354,12 +356,12 @@ archive: false
 - 12h30-14h00 {{ lunch }}
 - 14h00-15h30 **either** {{ gw }} MMED project work ({{ breakout }})
 - 14h00-15h30 **or** {{ lc }} Building a modelling project pipeline with AI ({% include instructors people="pearson" %}, {{main}})
- - [Resulting code]()
- - {: .shadow } Notes: ??
+  - [Resulting code]()
+  - {: .shadow } Notes: ??
 - 15h30-16h00 {{ tea }}
 - 16h00-17h30 {{ disc }} Modelling for policy ({% include instructors people="schalkwyk" %}, {{ main }})
   - {: .shadow } Notes: ??
-  - {: .shadow } **Reminder**: participants that they won't have support for the group work after dinner!
+  - {: .shadow } **Reminder**: participants won't have support for the group work after dinner!
 {{ dinner }}
 - 19h00-20h00 {{ gw }} MMED project work ({{ breakout }})
 - {: .shadow } Mentor dinner (full team)
@@ -380,13 +382,6 @@ archive: false
 - 17h15-17h45 Closing remarks ({% include instructors people="kassanjee" %}, {{ main }})
   - {: .shadow } Notes: ??
 {{ dinner }}
-
-- ??
-- 14h00-14h45 {{ lect }} [Data management and cleaning](https://drive.google.com/file/d/1Ub-UmIWcCso-r6p_GZII3c5zigO4NL3Q) ({% include instructors people="" %}, {{ main }})
-  - {: .shadow } Notes: ??
-- 14h45-15h30 {{ prac }} [Tutorial 5: Data cleaning](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_5_DataCleaning.R), [data](https://github.com/ICI3D/datasets/blob/master/dataCleaning/tutorial5.csv) ({% include instructors people="" %}, {{ lab }})
-  - [Summary]() ({% include instructors people="Mentors" %})
-  - {: .shadow } Notes: ??
 
 </details>
 
