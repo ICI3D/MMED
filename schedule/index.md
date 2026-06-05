@@ -63,37 +63,37 @@ archive: false
 - {: .shadow} 07h30? whatsapp checkin
 - 07h30-08h20 {{ org }} Registration ({% include instructors people="bruce|Mentors" %}, {{ lobby }})
 {{ bfast }}
-- 08h30-09h00 [Welcome and motivation for workshop]() ({% include instructors people="kassanjee" %}, {{ main }})
+- 08h30-09h00 [Welcome and motivation for workshop] ({% include instructors people="kassanjee" %}, {{ main }})
 	- {: .shadow} Notes: ??
-- 09h00-09h45 {{ lect }} [Public health, epidemiology, and models]() ({% include instructors people="pearson" %}, {{ main }})
+- 09h00-09h45 {{ lect }} [Public health, epidemiology, and models] ({% include instructors people="pearson" %}, {{ main }})
 	- {: .shadow} Notes: ??
 - 09h45-10h00 {{ org }} [MMED roadmap and program overview](../roadmap) ({% include instructors people="kassanjee" %}, {{ main }})
 - 10h00-10h30 {{ coffee }}
-- 10h30-11h45 {{ lect }} [Introduction to dynamic modelling of infectious disease I]() ({% include instructors people="kassanjee" %}, {{ main }})
+- 10h30-11h45 {{ lect }} [Introduction to dynamic modelling of infectious disease I] ({% include instructors people="kassanjee" %}, {{ main }})
 	- {: .shadow} Notes: ??
-- 11h45-12h30 {{ lect }} [Introduction to infectious disease data]() ({% include instructors people="ujeneza" %}, {{ main }})
+- 11h45-12h30 {{ lect }} [Introduction to infectious disease data] ({% include instructors people="ujeneza" %}, {{ main }})
 	- {: .shadow} Notes: ??
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }} 
 - 13h15-13h45 Technical assistance for participants ({% include instructors people="Mentors" %}, {{ lab }})
 	- {: .shadow} Mentors: all
-- 14h00-15h30 {{ prac }} [Dynamical fever exercise]() ({% include instructors people="nyamai" %}, {{ lab }})
-  - Launch from R prompt with `ICI3D::dynamicalFever()`
+- 14h00-15h30 {{ prac }} [Dynamical fever exercise] ({% include instructors people="nyamai" %}, {{ lab }})
+  - Launch from R prompt with `ICI3D::dynamicalFever`
 	- {: .shadow} Mentors: all
 	- {: .shadow} Faculty: Jonathan, Carii
-  - [Summary: Dynamical fever]() ({% include instructors people="nyamai" %}, {{ lab }})
+  - [Summary: Dynamical fever] ({% include instructors people="nyamai" %}, {{ lab }})
 - 15h30-16h00 {{ tea }}
-	- Poster setup: [Group 1]()) ({% include instructors people="bruce|Mentors" %}, {{main}})
-- 16h00-17h00 {{ prac }} [R Tutorials](../tutorials): [Tutorial 4 - Visualizing infectious disease data]() ({% include instructors people="ujeneza|lombard" %}, {{ lab }})
+	- Poster setup: [Group 1]) ({% include instructors people="bruce|Mentors" %}, {{main}})
+- 16h00-17h00 {{ prac }} [R Tutorials](../tutorials): [Tutorial 4 - Visualizing infectious disease data] ({% include instructors people="ujeneza|lombard" %}, {{ lab }})
   - {: .shadow} Walkthrough: Belinda  
   - {: .shadow} Mentors: Brian, Shadé
   - {: .shadow} Faculty: CarL, Mutono
-  - [Slides: Study design]() 
-  - [Summary: Visualization]() ({% include instructors people="lombard" %}, {{ lab }})
+  - [Slides: Study design] 
+  - [Summary: Visualization] ({% include instructors people="lombard" %}, {{ lab }})
   - [Lab 3 - Study design I](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_EpiStudyDesign.R) (may also be of interest, but is an own-time activity)
-- 17h00-18h00 [Poster session 1]() ({{main}})
+- 17h00-18h00 [Poster session 1] ({{main}})
 - {: .shadow} Possible feedback printout forms/Google form QR to give feedback?
-- [End of Day Questions]()
+- [End of Day Questions]
 {{ dinner }}
 - 18h45-20h00 Ice-breaker ({% include instructors people="bruce" %}, {{ main }})
 
@@ -101,40 +101,40 @@ archive: false
 
 {{ bfast }}
 - {: .shadow} 07h30? whatsapp checkin
-- 08h30-09h30 {{ lect }} [Introduction to dynamic modelling of infectious disease II]() ({% include instructors people="dushoff" %}, {{ main }})
+- 08h30-09h30 {{ lect }} [Introduction to dynamic modelling of infectious disease II] ({% include instructors people="dushoff" %}, {{ main }})
 	- {: .shadow} Notes: ??
-- 09h30-10h15 {{ lc }} [Introduction to model implementation in R]() ({% include instructors people="kassanjee" %}, {{ main }})
-  - [Resulting code]()
+- 09h30-10h15 {{ lc }} [Introduction to model implementation in R] ({% include instructors people="kassanjee" %}, {{ main }})
+  - [Resulting code]
   - {: .shadow } Notes: ??
 - 10h15-10h45 {{ coffee }}
-- 10h45-11h30 {{ lect }} [(Hidden) assumptions of simple ODE models]() ({% include instructors people="vanschalkwyk" %}, {{ main }})
+- 10h45-11h30 {{ lect }} [(Hidden) assumptions of simple ODE models] ({% include instructors people="vanschalkwyk" %}, {{ main }})
   - {: .shadow } Notes: ??
 - 11h30-12h15 {{ prac }} [R Tutorials](../tutorials): [Lab 1 - ODE models](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_ODEmodels.R) ({% include instructors people="vanschalkwyk|njuguna" %}, {{ lab }})
   - {: .shadow} Walkthrough: Brian
   - {: .shadow} Mentors: Shadé, Belinda
   - {: .shadow} Faculty: Lauren, Reshma
-  - [Summary: ODE models]() ({% include instructors people="njuguna" %}, {{ lab }})
+  - [Summary: ODE models] ({% include instructors people="njuguna" %}, {{ lab }})
 - 12h15-12h30 Catch-up ({% include instructors people="vanschalkwyk" %}, {{ lab }})
   - {: .shadow} Mentors: Brian, Shadé, Belinda
   - {: .shadow} Faculty: Lauren, Reshma
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
-- 14h00-14h45 {{ lect }} [Data management and wrangling]() ({% include instructors people="nyamai" %}, {{ lab }})
+- 14h00-14h45 {{ lect }} [Data management and wrangling] ({% include instructors people="nyamai" %}, {{ lab }})
   - {: .shadow } Notes: ??
-- 14h45-15h30 {{ prac }} [R Tutorials](../tutorials): [Tutorial 5 - Data wrangling]() ({% include instructors people="nyamai|horn" %}, {{ lab }})
+- 14h45-15h30 {{ prac }} [R Tutorials](../tutorials): [Tutorial 5 - Data wrangling] ({% include instructors people="nyamai|horn" %}, {{ lab }})
   - {: .shadow} Walkthrough: Shadé
   - {: .shadow} Mentors: Brian, Belinda
   - {: .shadow} Faculty: CarL, Eva
-  - [Summary: Data wrangling]() ({% include instructors people="horn" %}, {{ lab }})
+  - [Summary: Data wrangling] ({% include instructors people="horn" %}, {{ lab }})
 - 15h30-16h00 {{ tea }}
-  - Poster setup: [Group 2]() ({% include instructors people="bruce|Mentors" %}, {{ main }})
+  - Poster setup: [Group 2] ({% include instructors people="bruce|Mentors" %}, {{ main }})
   - {: .shadow} Don't move the chairs! Only put the posters up.
 - 16h00-17h00 {{ disc }} Formulating research questions ({% include instructors people="vanschalkwyk|ujeneza|brown|nyamai" %}, {{ sections }})
 - {: .shadow} ICI3D: assisted by Brian, Shadé, Jonathan
 - {: .shadow} AIMS: assisted by Belinda, Reshma, CarL
 _- 17h00-17h05 Poster setup: move desks and chairs_
-- 17h05-18h00 [Poster session 2]() ({{ main }})
-- [End of Day Questions]()
+- 17h05-18h00 [Poster session 2] ({{ main }})
+- [End of Day Questions]
 {{ dinner }}
 - 19h00-20h00 {{ lect }} Guest lecture: Title, ({% include instructors people="smith" %}, {{ main }})
   - Moderator:  
@@ -143,32 +143,32 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
  
 {{ bfast }}
 - {: .shadow} 07h30? whatsapp checkin 
-- 08h30-10h00 {{ prac }} [Introduction to models and data: HIV in Harare]() ({% include instructors people="kassanjee|pearson" %}, {{ lab }})
+- 08h30-10h00 {{ prac }} [Introduction to models and data: HIV in Harare] ({% include instructors people="kassanjee|pearson" %}, {{ lab }})
   - {: .shadow } Notes: ??
-  - Launch from R prompt with `ICI3D::hivTutorial()`
+  - Launch from R prompt with `ICI3D::hivTutorial`
   - If you finish all five versions of the model for the Harare data, move on to working on data from other countries.
   -  **Additional info:** [Distributed delay models of survival](../tutorials/distributedDelay.pdf) (Boxcar Models) and [example script](https://www.dropbox.com/s/ykirgmodga2j7m9/distributed_delay_boxcar.R?dl=1)
-  - [Summary: Harare tutorial]() ({% include instructors people="pearson" %})
+  - [Summary: Harare tutorial] ({% include instructors people="pearson" %})
   - {: .shadow} Mentors: all
   - {: .shadow} Faculty: Eva
 - 10h00-10h30 {{ coffee }}
-- 10h30-12h00 {{ lect }} [Introduction to statistical philosophy]() ({% include instructors people="dushoff" %}, {{ main }})
+- 10h30-12h00 {{ lect }} [Introduction to statistical philosophy] ({% include instructors people="dushoff" %}, {{ main }})
   - {: .shadow } Notes: ??
-- 12h00-12h30 {{ proj}} [Introduction to project topics]() ({% include instructors people="brown" %}, {{ main }})
+- 12h00-12h30 {{ proj}} [Introduction to project topics] ({% include instructors people="brown" %}, {{ main }})
   - {: .shadow} All
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
-- 14h00-15h30 {{ disc }} [Creating a model world to address a research question]() ({% include instructors people="vanschalkwyk|ujeneza|brown|nyamai" %}, {{ sections }})
+- 14h00-15h30 {{ disc }} [Creating a model world to address a research question] ({% include instructors people="vanschalkwyk|ujeneza|brown|nyamai" %}, {{ sections }})
   - {: .shadow} ICI3D: assisted by Brian, Shadé, Jonathan
   - {: .shadow} AIMS: assisted by Belinda, Reshma, CarL
 - 15h30-16h00 {{ tea }}
-- 16h00-17h00 {{ lect }} [Introduction to likelihood]() ({% include instructors people="vanschalkwyk" %}, {{ main }})
+- 16h00-17h00 {{ lect }} [Introduction to likelihood] ({% include instructors people="vanschalkwyk" %}, {{ main }})
   - {: .shadow } Notes: ??
 - 17h00-18h00 {{ prac }} [Lab 5 - Introduction to likelihood](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_introLikelihood.R) ({% include instructors people="vanschalkwyk|Mentors" %}, {{ lab }})
   - {: .shadow} Mentors: all
   - {: .shadow} Faculty: Jonathan, CarL
-  - [Summary: Likelihood]() ({% include instructors people="vanschalkwyk" %}, {{ lab }})
-- [End of Day Questions]()
+  - [Summary: Likelihood] ({% include instructors people="vanschalkwyk" %}, {{ lab }})
+- [End of Day Questions]
 {{ dinner }}
 - 19h00-20h00 **Catch-up Session**: [Tutorials](../tutorials) ({% include instructors people="Mentors" %}, {{ lab }})
 	* This catch-up is open, but please sign up for future catch-ups
@@ -179,37 +179,37 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 {{ bfast }}
 - {: .shadow} 07h30? whatsapp checkin
 - 08h30-10h00 {{ lc }} Participatory coding: Building a deterministic model ({% include instructors people="pearson" %}, {{ main }})
-  - [Resulting code]()
+  - [Resulting code]
   - Previous year's code is generally available [here](https://github.com/ICI3D/RTutorials)
   - {: .shadow } Notes: ??
 - 10h00-10h30 {{ coffee }}
-- 10h30-11h30 {{ lect }} [An introduction to stochastic models]() ({% include instructors people="kassanjee" %}, {{ main }})
+- 10h30-11h30 {{ lect }} [An introduction to stochastic models] ({% include instructors people="kassanjee" %}, {{ main }})
   - {: .shadow } Notes: ??
-- 11h30-12h30 {{ prac }} [An introduction to stochastic models]() ({% include instructors people="brown|kassanjee" %}, {{ lab }})
+- 11h30-12h30 {{ prac }} [An introduction to stochastic models] ({% include instructors people="brown|kassanjee" %}, {{ lab }})
   - {: .shadow} Walkthrough: Lauren
   - {: .shadow} Mentors: Shadé, Belinda
   - {: .shadow} Faculty: Eva, Mutono
-  - [Summary: Stochastic models]() ({% include instructors people="brown" %}, {{ lab }})
+  - [Summary: Stochastic models] ({% include instructors people="brown" %}, {{ lab }})
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
-- 14h00-14h45 {{ lect }} [Consequences of heterogeneity and modelling options]() ({% include instructors people="dushoff" %}, {{ main }})
+- 14h00-14h45 {{ lect }} [Consequences of heterogeneity and modelling options] ({% include instructors people="dushoff" %}, {{ main }})
   - {: .shadow } Notes: ??
   - {: .shadow } Drum on the drums; remind them about assessment
-- 14h45-15h30 {{ prac }} [Lab 2 - Consequences of heterogeneity]() ({% include instructors people="dushoff" %}, {{ lab }})
+- 14h45-15h30 {{ prac }} [Lab 2 - Consequences of heterogeneity] ({% include instructors people="dushoff" %}, {{ lab }})
   - Download <a href="https://github.com/ICI3D/RTutorials/blob/master/ICI3D_Lab_Heterogeneous_Groups.R?raw=1">lab</a> and <a href="https://github.com/ICI3D/RTutorials/blob/master/ICI3D_Heterogeneous_Groups.R?raw=1"> supplementary functions</a>
   - {: .shadow} Walkthrough: Jonathan
   - {: .shadow} Mentors: Brian, Belinda
   - {: .shadow} Faculty: CarL, Eva, Mutono
-  - [Summary: Heterogeneity]() ({% include instructors people="dushoff" %}, {{ lab }})
+  - [Summary: Heterogeneity] ({% include instructors people="dushoff" %}, {{ lab }})
 - 15h30-16h00 {{ tea }}
-- 16h00-16h45 {{ lect }} [Fitting dynamical models I]() ({% include instructors people="vanschalkwyk" %}, {{ main }})
+- 16h00-16h45 {{ lect }} [Fitting dynamical models I] ({% include instructors people="vanschalkwyk" %}, {{ main }})
   - {: .shadow } Notes: ??
-- 16h45-18h00 {{ prac }} [Maximum likelihood: fitting of a dynamical model]() ({% include instructors people="vanschalkwyk" %}, {{ lab }})
+- 16h45-18h00 {{ prac }} [Maximum likelihood: fitting of a dynamical model] ({% include instructors people="vanschalkwyk" %}, {{ lab }})
   - {: .shadow} Walkthrough: Cari
   - {: .shadow} Mentors: Brian, Shadé
   - {: .shadow} Faculty: Jonathan, CarL, Eva
-  - [Summary: Maximum likelihood]() ({% include instructors people="vanschalkwyk" %}, {{ lab }})
-- [End of Day Questions]()
+  - [Summary: Maximum likelihood] ({% include instructors people="vanschalkwyk" %}, {{ lab }})
+- [End of Day Questions]
 {{ dinner }}
 - 18h30-19h00 **Catch-up Session**: [Tutorials](../tutorials) ({% include instructors people="Mentors" %}, {{ lab }})
   - Includes thinking of project questions
@@ -221,28 +221,28 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 
 {{ bfast }}
 - {: .shadow} 07h30? whatsapp checkin
-- 08h30-10h00 {{ disc }} [Describing a model and its assumptions]() ({% include instructors people="vanschalkwyk|ujeneza|brown|nyamai" %}, {{ sections }})
+- 08h30-10h00 {{ disc }} [Describing a model and its assumptions] ({% include instructors people="vanschalkwyk|ujeneza|brown|nyamai" %}, {{ sections }})
   - {: .shadow} ICI3D: assisted by Brian, Shadé, Jonathan
   - {: .shadow} AIMS: assisted by Belinda, Reshma, CarL
   - {: .shadow } Telephone!
 - 10h00-10h30 {{ coffee }}
 - 10h30-12h00 {{ lc }} Participatory coding: Building a stochastic model ({% include instructors people="pearson" %}, {{ main }})
-  - [Resulting code]()
+  - [Resulting code]
   - {: .shadow } Notes: ??
-- 12h30-12h30 {{ proj }} [Questions for project topics]() ({% include instructors people="brown" %}, {{ main }})
+- 12h30-12h30 {{ proj }} [Questions for project topics] ({% include instructors people="brown" %}, {{ main }})
   - {: .shadow} All
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
-- 14h00-15h00 {{ lect }} [Fitting dynamical models II]() ({% include instructors people="dushoff" %}, {{ main }})
+- 14h00-15h00 {{ lect }} [Fitting dynamical models II] ({% include instructors people="dushoff" %}, {{ main }})
   - {: .shadow } Notes: ??
 - 15h00-15h30 **Catch-up Session**: [Tutorials](../tutorials) ({% include instructors people="Mentors" %}, {{ lab }})
-	* Includes selecting project: [Project selection form]()
+	* Includes selecting project: [Project selection form]
   - {: .shadow} Faculty: Carii, Mutono
 - 15h30-16h00 {{ tea }}
 - 16h00-17h00 Mentor presentations ({% include instructors people="kassanjee" %}, {{ main }})
   - {: .shadow } We don't take formal notes here; you are requested to communicate privately with the mentors
 - 17h00-18h00 Mid-clinic feeback session ({% include instructors people="bruce" %}, {{ main }})
-- [End of Day Questions]()
+- [End of Day Questions]
 {{ dinner }}
 - 19h00-21h00 {{ sc }} Movie night ({{ main }})
 	- {: .shadow} Project group: work on group assignments possibly calling on experts
@@ -251,10 +251,10 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 
 {{ ssbfast }}
 - {: .shadow} 07h30? whatsapp checkin
-- 09h00-10h00 {{ prac }} [Introduction to GitHub]() ({% include instructors people="brown" %}, {{ lab }})
+- 09h00-10h00 {{ prac }} [Introduction to GitHub] ({% include instructors people="brown" %}, {{ lab }})
   - {: .shadow} Faculty: Jonathan, Vince, CarL
-- 10h00-10h30 {{ proj }} [Group assignments and expectations]() ({% include instructors people="all" %}, {{ main }})
-	* [Slides (includes milestones)]()
+- 10h00-10h30 {{ proj }} [Group assignments and expectations] ({% include instructors people="all" %}, {{ main }})
+	* [Slides (includes milestones)]
 - 10h30-11h00 {{ coffee }}
 - 11h00-11h30 {{ gw }} First group meeting - with advisor {{ breakout }}
   - {: .shadow} Group locations
@@ -280,30 +280,30 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 ### Day 8 (Monday, 22 June)
 
 {{ bfast }}
-- 08h30-08h45 {{ disc }} [Feedback responses; Review schedule and goals]() ({% include instructors people="kassanjee" %}, {{ main }})
+- 08h30-08h45 {{ disc }} [Feedback responses; Review schedule and goals] ({% include instructors people="kassanjee" %}, {{ main }})
   - {: .shadow } Notes: ??	
-- 08h45-09h30 {{ lect }} [Life cycle of a modeling project]() ({% include instructors people="pearson" %}, {{ main }})
+- 08h45-09h30 {{ lect }} [Life cycle of a modeling project] ({% include instructors people="pearson" %}, {{ main }})
   - {: .shadow } note takers: Mutono, Joe
 - 09h30-10h00 {{ proj }} Recap of expectations ({% include instructors people="brown" %}, {{ main }})
 - 10h00-10h30 {{ coffee }}
-- 10h30-11h30 {{ lect }} [Introduction to health economics in dynamic modelling]() ({% include instructors people="kubjane" %}, {{ main }})
-- 11h30-12h30 {{ prac }} [Introduction to health economics in dynamic modelling]() ({% include instructors people="kubjane|Mentors" %}, {{ lab }})
+- 10h30-11h30 {{ lect }} [Introduction to health economics in dynamic modelling] ({% include instructors people="kubjane" %}, {{ main }})
+- 11h30-12h30 {{ prac }} [Introduction to health economics in dynamic modelling] ({% include instructors people="kubjane|Mentors" %}, {{ lab }})
   - {: .shadow} Walkthrough: Mmamapudi
   - {: .shadow} Mentors: All
   - {: .shadow} Faculty: Carii, (Jonathan and CarL if needed and no other suitable)
-  - [Summary: Health economics]() ({% include instructors people="kubjane" %}, {{ lab }})
+  - [Summary: Health economics] ({% include instructors people="kubjane" %}, {{ lab }})
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
-- 14h00-15h30 {{ gw }}  MMED project work + [mentoring sessions]() ({{breakout}})
+- 14h00-15h30 {{ gw }}  MMED project work + [mentoring sessions] ({{breakout}})
 - 15h30-16h00 {{ tea }}
-- 16h00-18h00 {{ gw }} MMED project work + [mentoring sessions]() ({{breakout}})
-- [End of Day Questions]()
+- 16h00-18h00 {{ gw }} MMED project work + [mentoring sessions] ({{breakout}})
+- [End of Day Questions]
 {{ dinner }}
 
 ### Day 9 (Tuesday, 23 June)
 
 {{ bfast }}
-- 08h30-10h00 {{ lect }} [Introduction to Markov Chain Monte Carlo (MCMC)]() ({% include instructors people="pearson" %}, {{ lab }})
+- 08h30-10h00 {{ lect }} [Introduction to Markov Chain Monte Carlo (MCMC)] ({% include instructors people="pearson" %}, {{ lab }})
 	- {{ prac }} [Lab 7 - Understanding MCMC](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_MCMC-Binomial.R) ({% include instructors people="pearson|Mentors" %}, {{ lab }})
 	- {{ prac }} [Lab 8 - MCMC model fitting](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_MCMC-SI_HIV.R) ({% include instructors people="pearson|Mentors" %}, {{ lab }})
   - {: .shadow } Notes: ??
@@ -312,17 +312,17 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
   - {: .shadow} Faculty: Carii, Claire, Eva, Jonathan
 - 10h00-10h30 {{ coffee }}
 	* Group photo - in fornt of AIMS door 
-	* [See MMED photo folder (request access if necessary)]()
+	* [See MMED photo folder (request access if necessary)]
 - 10h30-11h30 {{ prac }} [Lab 7](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_MCMC-Binomial.R) and [Lab 8](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_MCMC-SI_HIV.R) continued ({% include instructors people="pearson|Mentors" %}, {{ lab }})
-- 11h30-12h30 {{ lect }} [Model assessment]() ({% include instructors people="dushoff" %}, {{ main }})
-  - [Summary: MCMC]() ({% include instructors people="pearson" %}, {{ lab }})
+- 11h30-12h30 {{ lect }} [Model assessment] ({% include instructors people="dushoff" %}, {{ main }})
+  - [Summary: MCMC] ({% include instructors people="pearson" %}, {{ lab }})
   - {: .shadow } Notes: ??
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
 - 14h00-15h30 {{ gw }} MMED project work ({{ breakout }})
 - 15h30-16h00 {{ tea }}
-- 16h00-18h00 {{ gw }} MMED project work + [mentoring sessions]() ({{ breakout }})
-- [End of Day Questions]()
+- 16h00-18h00 {{ gw }} MMED project work + [mentoring sessions] ({{ breakout }})
+- [End of Day Questions]
 {{ dinner }}
 - 12h00-12h30  **Catch-up Session**: ({% include instructors people="Mentors" %}, {{ lab }})
   - {: .shadow} Faculty: CarL, Claire, Lauren
@@ -330,9 +330,9 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 ### Day 10 (Wednesday, 24 June)
 
 {{ bfast }}
-- 08h30-09h00 {{ lect }} [Study design, bias, variability]() ({% include instructors people="dushoff" %}, {{ main }})
+- 08h30-09h00 {{ lect }} [Study design, bias, variability] ({% include instructors people="dushoff" %}, {{ main }})
 - 09h00-10h00 {{ lc }} Study design and simulation-based validation ({% include instructors people="dushoff" %}, {{ main }})
-  - [Resulting code]()
+  - [Resulting code]
   - {: .shadow } Notes: ??
 - 10h00-10h30 {{ coffee }}
 - 10h30-12h30 {{ gw }} MMED project work ({{ breakout }})
@@ -340,8 +340,8 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 - 12h30-14h00 {{ lunch }}
 - 14h00-15h30 {{ gw }} MMED project work ({{ breakout }})
 - 15h30-16h00 {{ tea }}
-- 16h00-18h00 {{ gw }} MMED project work + [mentoring sessions]() ({{ breakout }})
-- [End of Day Questions]()
+- 16h00-18h00 {{ gw }} MMED project work + [mentoring sessions] ({{ breakout }})
+- [End of Day Questions]
 {{ dinner }}
 - 19h00-20h00 {{ lect }} Guest lecture: Title, ({% include instructors people="donkoh" %}, {{ main }})
   - Moderator:  
@@ -351,12 +351,12 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 {{ bfast }}
 - 08h30-10h00 {{ gw }} MMED project work ({{ breakout }})
 - 10h00-10h30 {{ coffee }}	
-- 10h30-12h30 {{ gw }} MMED project work  + [mentoring sessions]() ({{ breakout }})
+- 10h30-12h30 {{ gw }} MMED project work  + [mentoring sessions] ({{ breakout }})
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
 - 14h00-15h30 **either** {{ gw }} MMED project work ({{ breakout }})
 - 14h00-15h30 **or** {{ lc }} Building a modelling project pipeline with AI ({% include instructors people="pearson" %}, {{main}})
-  - [Resulting code]()
+  - [Resulting code]
   - {: .shadow } Notes: ??
 - 15h30-16h00 {{ tea }}
 - 16h00-17h30 {{ disc }} Modelling for policy ({% include instructors people="vanschalkwyk" %}, {{ main }})
@@ -371,8 +371,8 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 {{ bfast }}
 - 08h30-12h30 {{ gw }} MMED project work ({{breakout}})
 - 10h00-10h30 {{ coffee }}	
-  - 12h30 [Report due]()
-  - 13h00 [Presentations due]()
+  - 12h30 [Report due]
+  - 13h00 [Presentations due]
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
 - 13h30-15h30 {{ gw }} Project presentations ({% include instructors people="brown" %}, {{main}})
