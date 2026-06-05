@@ -28,12 +28,13 @@ vim_session: bash -ic "vmt schedule/index.md"
 Sources += Makefile 
 
 ## Schedule
-Sources += $(wildcard schedule/*.md schedule/*/*.md)
+Sources += $(wildcard schedule/*.md)
 
 ######################################################################
 
 ## This seems to be git-tutorial stuff
 Sources += $(wildcard resources/*.md)
+Sources += $(wildcard tutorials/*.md)
 
 ######################################################################
 
