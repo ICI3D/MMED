@@ -4,11 +4,11 @@ title: MMED Foundations
 alerttype: shadow
 alertmsg: >
   <ul>
-  <li>Please make sure that your final slides for the sessions below are added to the <a href="https://drive.google.com/drive/folders/1C5LW7zhYYU856bHRBPu_s0yl5ToN8yOW">ICI3D Google Drive!</a></li>
+  <li>Please make sure that your final slides for the sessions below are added to the <a href="https://drive.google.com/drive/folders/1HdbsdJfQROLbvT1_Drb_7_l5urZSMruL?usp=sharing">ICI3D Google Drive!</a></li>
   <li>Links to R tutorials and exercises are available <a href="../tutorials">here</a>.</li>
-  <li>Please update all your presentations to <b>use the ICI3D slide template</b>.</li>
-  <li><a href="https://docs.google.com/document/d/18T2Dot3I6nkBZlh20QVhVtULkF_1-yTNZOC4z-3MFHY/edit?tab=t.0">General Notes</a>; <a href="https://docs.google.com/document/d/1ntKqRhZ8jxj1-fBZigKyAFjzGXYeKE0g6bub1fhUyvM/edit?tab=t.0#heading=h.ew4b253yywvc">Session Notes; </a><a href="https://docs.google.com/document/d/1SzN91hGNRKig7WMG2c1kMeHruAQbnoDaRz8pKBPVxqg/edit">Pipeline Notes</a></li>
-  <li><a href="https://docs.google.com/document/d/1XrMxQPQ5GzI9ULCIbLSBVtCnRYx0wU0zsMAXpCxCNuE/edit">Click here for access to the MMED 2024 General Notes</a> or <a href="https://docs.google.com/document/d/1OkLUgMk6ZtgGffxgYD2_DU9oB0VKOa5R_jWZTe56HfY/edit">Session Notes</a></li>
+  <li>Please update all your presentations to <b><a href="https://drive.google.com/drive/folders/1PxMvFsZBbq72u3cOXZ19kZaCmVljT9qF?usp=drive_link">use the ICI3D slide template </a></b>.</li>
+  <li><a href="https://docs.google.com/document/d/1N5Fc7QFRh7Wdbb5Fl3qG0Qbkux5ECEOTucGF1Q-IxbU/edit?usp=drive_link">General Notes</a>; <a href="https://docs.google.com/document/d/1RZ-TLGReAcHB8EYyXN0_yU1t3FNlKcjm0lQszbzLtcM/edit?usp=drive_link">Session Notes; </a><a href="https://docs.google.com/document/d/1XnYHY8ZV-EYM7FGVBvF8cA71tV2KeOTOAm-eHrE9XK4/edit?usp=drive_link">Pipeline Notes</a></li>
+  <li><a href="https://docs.google.com/document/d/18T2Dot3I6nkBZlh20QVhVtULkF_1-yTNZOC4z-3MFHY/edit?usp=drive_link">Click here for access to the MMED 2025 General Notes</a> or <a href="https://docs.google.com/document/d/1ntKqRhZ8jxj1-fBZigKyAFjzGXYeKE0g6bub1fhUyvM/edit?usp=drive_link">Session Notes</a></li>
   </ul>
 archive: false
 ---
@@ -39,7 +39,7 @@ archive: false
     <ul style="font-size:16px; margin:0px;">
       <li>The content below relates to the Foundation Week of MMED.</li>
       <li>Links to R tutorials and exercises are available <a href="../tutorials">here</a>.</li>
-      <li>As they become available, session slides will appear in <a href="https://drive.google.com/drive/folders/1C7oVMAczxaUyUo6buBLFShn8Wu2AeUN3?usp=drive_link">this shared folder</a>.</li>
+      <li>As they become available, session slides will appear in <a href="https://drive.google.com/drive/folders/1N7BfpIRn-VhE16wTH2GWzForH-HP9UHD?usp=drive_link">this shared folder</a>.</li>
       <li>Unless otherwise noted, all materials made available through this website are licensed through a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC-BY International License</a>.</li>
     </ul>
   </div>
