@@ -236,7 +236,7 @@ Also: ensure this section documents where to find any code you used, and any dat
       <hr class="pull-left">
       <div class="clearfix"></div>
       <p style="font-size:14px"> <em>{{ member.position }}<br>{{ member.affiliation }}</em></p>
-      <p style="font-size:14px">(<a href="{{ key }}">more info</a>)</p>
+      <p style="font-size:14px">(<a href="{{site.url}}/people/{{ key }}">more info</a>)</p>
   </div><!-- media-body -->
 </div><!-- team-member media -->
 {% endfor %}
