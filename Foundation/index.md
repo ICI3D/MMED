@@ -54,12 +54,11 @@ MMED *Foundations* concerns the concepts we expect all participants to have duri
 ### Day 1
 
 {{ bfast }}
-- 09h00-09h20 {{ org }} [Introductions, Overview](https://docs.google.com/presentation/d/1g7F4kTMvPGq1NobmcAtLj_amwjV76MrFGRrJNURISBM) (everyone, {{ main }})
-- 09h20-10h30 {{ disc }} [Public health, epidemiology, and infectious disease modelling](https://docs.google.com/presentation/d/1Cxt6ZtRCalcu0iV0pX9fwDaW7DeNYi9Zgg58vUD5EfA) ({% include instructors people="pearson" %}, {{ main }})
-- {: .shadow} Faculty meeting and dinner in E313 from 16h30; be sure to save food for late arrivals once known
+- 09h00-09h20 {{ org }} [Introductions, Overview](https://docs.google.com/presentation/d/1zs0FLxIrJnWPDvxaAoa1tWth1fb2tZoeKxmVS-VVu0k) (everyone, {{ main }})
+- 09h20-10h30 {{ disc }} [Public health, epidemiology, and infectious disease modelling](https://docs.google.com/presentation/d/1XfFeHd7fmeN4Vobnx5TsqCvkBVUpR0Tr0fGna0v2E5s) ({% include instructors people="pearson" %}, {{ main }})
 - 10h30-11h00 {{ coffee }}
 - 11h00-12h00 {{ lect }} [Introduction to infectious disease dynamics, Part I](https://drive.google.com/file/d/1nbtUAtmsc1SEbKq3-3YAz83_T2q1lYM0) ({% include instructors people="mthombothi" %}, {{ main }})
-- 12h00-13h00 {{ lect }} [Simple Models](https://docs.google.com/presentation/d/1tFHnRbpf-KBbA_k301pA3WAlS3FbhKlardRRb6jbis4) ({% include instructors people="pearson" %}, {{ main }})
+- 12h00-13h00 {{ lect }} [Simple Models](https://docs.google.com/presentation/d/1oq6NYYGLY4mKoUmpcOYxAIidMDPKCN326EVgPBHtMb8) ({% include instructors people="pearson" %}, {{ main }})
 - 13h00-14h00 {{ lunch }}
 - 14h00-15h30 {{ prac }} [Tutorial 1: Introduction to R and Epidemic curves](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_1.R) ({% include instructors people="Tutors" %}, {{ lab }})
 - 15h30-16h00 {{ break }}
