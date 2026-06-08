@@ -187,8 +187,8 @@ Think about the questions you set out to answer using the [How to Read a Scienti
   
 ## Resources
   
-[This folder](https://drive.google.com/drive/folders/1x0WQ81ZwYzkBJcyvJ8PRRJqf7_44u-Sj) has a slide template and the 1918 flu data and associated publication.
-  
+[This folder](https://drive.google.com/drive/folders/1V9lTRpmi45FZ5T0vNUX_y0ZcYNvYteig) has a slide template and the 1918 flu data and associated publication.
+
 ## Examples
   
 **Title** – The title should describe the topic covered. In general, particularly for public health motivated questions, the title will give an indication of the specific question addressed. In some cases, the title may even go so far as to state the primary conclusion. The following titles are examples from published papers:
