@@ -100,7 +100,7 @@ MMED *Foundations* concerns the concepts we expect all participants to have duri
 - 14h00-15h30 {{ prac }} [Binomial Distribution Tutorial](https://raw.githubusercontent.com/ICI3D/RTutorials/master/binomialDistribution.R) ({% include instructors people="Tutors" %}, {{ lab }})
 - 15h30-16h00 {{ break }}
 - 16h00-18h00 {{ gw }} [Project development](#projects_focus) ({{ breakout }})
-- [End of Day Questions]()
+- [End of Day Questions](https://forms.gle/qrVLMfwFhcimMzax5)
 
 ### Day 4
 
@@ -117,7 +117,7 @@ MMED *Foundations* concerns the concepts we expect all participants to have duri
 - 14h00-15h30 {{ gw }} [Project development](#projects_focus)
 - 15h30-16h00 {{ break }}
 - 16h00-18h00 {{ prac }} If incomplete: review questions from [Lab 4: Study Design for Clinical Trials](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_RCT.R) ({% include instructors people="Tutors" %}), [Tutorial 3: Probability Distributions and Control Structures, and review questions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_3.R) ({% include instructors people="Tutors" %}, {{ lab }}). Otherwise [Project development](#projects_focus)
-- [Final Fundamentals Week Quiz (includes Qs from Friday)]()
+- [Final Fundamentals Week Quiz (includes Qs from Friday)](https://forms.gle/67QuvdnVxvTcbFGP6)
 
 ### Day 5
 
