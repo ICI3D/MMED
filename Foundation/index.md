@@ -57,7 +57,7 @@ MMED *Foundations* concerns the concepts we expect all participants to have duri
 - 09h00-09h20 {{ org }} [Introductions, Overview](https://docs.google.com/presentation/d/1zs0FLxIrJnWPDvxaAoa1tWth1fb2tZoeKxmVS-VVu0k) (everyone, {{ main }})
 - 09h20-10h30 {{ disc }} [Public health, epidemiology, and infectious disease modelling](https://docs.google.com/presentation/d/1XfFeHd7fmeN4Vobnx5TsqCvkBVUpR0Tr0fGna0v2E5s) ({% include instructors people="pearson" %}, {{ main }})
 - 10h30-11h00 {{ coffee }}
-- 11h00-12h00 {{ lect }} [Introduction to infectious disease dynamics, Part I](https://drive.google.com/file/d/1nbtUAtmsc1SEbKq3-3YAz83_T2q1lYM0) ({% include instructors people="mthombothi" %}, {{ main }})
+- 11h00-12h00 {{ lect }} [Introduction to infectious disease dynamics, Part I](https://drive.google.com/file/d/1h6UB1ECaxQnnkuP9FLz4a1Cp5Ko3sMVz) ({% include instructors people="mthombothi" %}, {{ main }})
 - 12h00-13h00 {{ lect }} [Simple Models](https://docs.google.com/presentation/d/1oq6NYYGLY4mKoUmpcOYxAIidMDPKCN326EVgPBHtMb8) ({% include instructors people="pearson" %}, {{ main }})
   - [possibly helpful dice site](https://www.calculator.net/dice-roller.html)
 - 13h00-14h00 {{ lunch }}
@@ -74,7 +74,7 @@ MMED *Foundations* concerns the concepts we expect all participants to have duri
 
 {{ bfast }}
 - 08h30-09h00 [Reading time for a scientific paper](https://doi.org/10.1371/journal.pbio.1000053) ({% include instructors people="Tutors" %})
-- 09h00-10h30 {{ lect }} [Introduction to infectious disease dynamics, Part II](https://drive.google.com/file/d/1SzQnv9haPgZ_o10GbGDT4nmoOvBeVU_T) ({% include instructors people="mthombothi" %}, {{ main }})
+- 09h00-10h30 {{ lect }} [Introduction to infectious disease dynamics, Part II](https://drive.google.com/file/d/11Bh6MeihGihR80xLb6CETRsNazgMU59T) ({% include instructors people="mthombothi" %}, {{ main }})
   - ["The" R0 paper](https://link.springer.com/article/10.1007/bf00178324) (might need [unpaywall](https://unpaywall.org/products/extension) or similar tools to access)
 - 10h30-11h00 {{ coffee }}
 - 11h00-12h00 {{ lect }} [Dynamics of directly transmitted pathogens](https://docs.google.com/presentation/d/1zFQVS4gHNyfFPXKuz8BIvweMzWQNf6c9) ({% include instructors people="pearson" %}, {{ main }})
@@ -109,7 +109,7 @@ MMED *Foundations* concerns the concepts we expect all participants to have duri
   - Side reading: [CDC on the Tuskegee Experiment](https://www.cdc.gov/tuskegee/timeline.htm), [Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/), [Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html)
 - 09h15-10h30 {{ prac }} [Lab 4: Study Design for Clinical Trials](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_RCT.R) ({% include instructors people="Tutors" %}, {{ lab }})
 - 10h30-11h00 {{ coffee }}
-- 11h00-12h00 {{ lect }} [Transmission in Finite Populations](https://drive.google.com/file/d/1mCqNCQ4Ak78uW6VUYyRRnN0p3Iv3zfEn) ({% include instructors people="mthombothi" %}, {{ main }})
+- 11h00-12h00 {{ lect }} [Transmission in Finite Populations](https://drive.google.com/file/d/1bTGFD1ye1_3oDv0N13gY3Q13pN6a-W9O) ({% include instructors people="mthombothi" %}, {{ main }})
 - 12h00-13h00 {{ gw }} [Project development](#projects_focus), with progress checkin ({{ lab }})
   - All checkins in the lab. Odd groups check in with Carl, even with Zinhle. Be prepared to show your draft report, slides, and poster.
   - [Project Groups](https://docs.google.com/spreadsheets/d/1Xqtrpkt6y477ZBZfqV9fTSDTvLsvBDYGPxBQu2Lt1Ag)
