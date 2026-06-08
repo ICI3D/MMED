@@ -65,9 +65,9 @@ MMED *Foundations* concerns the concepts we expect all participants to have duri
 - 16h00-17h00 {{ prac }} [Tutorial 1 cont.](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_1.R) ({% include instructors people="Tutors" %}, {{ lab }})
 - 17h00-17h45 {{ disc }} [How to read a scientific paper](../MedPH/How_to_read_exRabies.pdf) ({% include instructors people="pearson" %}, {{ main }})
   - [Reference Paper](https://doi.org/10.1371/journal.pbio.1000053)
-- 17h45-18h00 {{ org }} [Introduction to projects](../tutorials/pilotproject) ({% include instructors people="pearson" %}, {{ main }})
-  - [Project Groups](https://docs.google.com/spreadsheets/d/1gLfek_HAcFw-B1raWN6ZPZH_MHC4gtE88sjIf-jaIkc)
-- [End of Day Questions](https://forms.gle/wFNTAMsQU7JEQWrU9)
+- 17h45-18h00 {{ org }} [Introduction to projects](#projects_focus) ({% include instructors people="pearson" %}, {{ main }})
+  - [Project Groups]()
+- [End of Day Questions](https://forms.gle/bcrkmpV7h5TiE45f6)
 
 ### Day 2
 
@@ -135,7 +135,7 @@ MMED *Foundations* concerns the concepts we expect all participants to have duri
 
 </details>
 
-<details markdown="1"><summary>Project Focus</summary>
+<details markdown="1" name="projects_focus"><summary>Project Focus</summary>
 
 During the first week of MMED, you will work on a pilot project that will help you prepare for the final project. The pilot project is *not* intended to be new research: it is to familiarize you with collaborative work, foundational technical skills, and to review the introductory concepts from the initial week. It is a short-duration *exercise* with feedback to prepare you for the larger scale, more self-directed MMED project. The pilot project elements are due at the end of the first week of MMED, and you will receive feedback on your pilot project before you start your final project.
   
