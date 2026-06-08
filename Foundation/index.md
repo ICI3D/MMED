@@ -67,7 +67,7 @@ MMED *Foundations* concerns the concepts we expect all participants to have duri
 - 17h00-17h45 {{ disc }} [How to read a scientific paper](https://docs.google.com/presentation/d/1kr6UtkX22JaJx7wqmD0Mox4rWYB1zD9iGkLQK0Ci18Y) ({% include instructors people="pearson" %}, {{ main }})
   - [Reference Paper](https://doi.org/10.1371/journal.pbio.1000053)
 - 17h45-18h00 {{ org }} [Introduction to projects](#projects_focus) ({% include instructors people="pearson" %}, {{ main }})
-  - [Project Groups]()
+  - [Project Groups](https://docs.google.com/spreadsheets/d/1Xqtrpkt6y477ZBZfqV9fTSDTvLsvBDYGPxBQu2Lt1Ag)
 - [End of Day Questions](https://forms.gle/bcrkmpV7h5TiE45f6)
 
 ### Day 2
@@ -90,7 +90,7 @@ MMED *Foundations* concerns the concepts we expect all participants to have duri
 {{ bfast }}
 - 08h30-09h30 {{ gw }} [Project development](#projects_focus) ({{ breakout }})
   - from 08h30, each group will check in with Carl (odd, in 103) or Zinhle (even, lobby): 08h30 1 and 2, 08h50 3 and 4, 09h10 5 and 6
-  - [Project Groups]()
+  - [Project Groups](https://docs.google.com/spreadsheets/d/1Xqtrpkt6y477ZBZfqV9fTSDTvLsvBDYGPxBQu2Lt1Ag)
 - 09h30-10h30 {{ disc }} How did you read a scientific paper? ({% include instructors people="pearson" %}, {{ lab }})
   - [Reference Paper](https://doi.org/10.1371/journal.pbio.1000053)
 - 10h30-11h00 {{ coffee }}
@@ -112,7 +112,7 @@ MMED *Foundations* concerns the concepts we expect all participants to have duri
 - 11h00-12h00 {{ lect }} [Transmission in Finite Populations](https://drive.google.com/file/d/1mCqNCQ4Ak78uW6VUYyRRnN0p3Iv3zfEn) ({% include instructors people="mthombothi" %}, {{ main }})
 - 12h00-13h00 {{ gw }} [Project development](#projects_focus), with progress checkin ({{ lab }})
   - All checkins in the lab. Odd groups check in with Carl, even with Zinhle. Be prepared to show your draft report, slides, and poster.
-  - [Project Groups]()
+  - [Project Groups](https://docs.google.com/spreadsheets/d/1Xqtrpkt6y477ZBZfqV9fTSDTvLsvBDYGPxBQu2Lt1Ag)
 - 13h00-14h00 Lunch
 - 14h00-15h30 {{ gw }} [Project development](#projects_focus)
 - 15h30-16h00 {{ break }}
