@@ -131,7 +131,7 @@ MMED *Foundations* concerns the concepts we expect all participants to have duri
   - Groups: 11h00-11h15 4, 11h15-11h30 1, 11h30-11h45 3, 11h45-12h00 2, 12h00-12h15 5 (with 45 minute buffer for overruns)
 - 13h00-14h00 {{ lunch }}
 - 14h00-15h00 {{ gw }} Revisions ({{ breakout }})
-- 15h00-16h00 {{ disc }} Practice posters and feedback ({{ main }})
+- 15h00-16h00 {{ disc }} Practice posters and feedback; reverse group order, 12 minutes each ({{ main }})
 - 16h00-18h00 {{ gw }} Revise posters; final submission by 21h00
 
 </details>
