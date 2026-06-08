@@ -59,6 +59,7 @@ MMED *Foundations* concerns the concepts we expect all participants to have duri
 - 10h30-11h00 {{ coffee }}
 - 11h00-12h00 {{ lect }} [Introduction to infectious disease dynamics, Part I](https://drive.google.com/file/d/1nbtUAtmsc1SEbKq3-3YAz83_T2q1lYM0) ({% include instructors people="mthombothi" %}, {{ main }})
 - 12h00-13h00 {{ lect }} [Simple Models](https://docs.google.com/presentation/d/1oq6NYYGLY4mKoUmpcOYxAIidMDPKCN326EVgPBHtMb8) ({% include instructors people="pearson" %}, {{ main }})
+  - [possibly helpful dice site](https://www.calculator.net/dice-roller.html)
 - 13h00-14h00 {{ lunch }}
 - 14h00-15h30 {{ prac }} [Tutorial 1: Introduction to R and Epidemic curves](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_1.R) ({% include instructors people="Tutors" %}, {{ lab }})
 - 15h30-16h00 {{ break }}
@@ -72,7 +73,7 @@ MMED *Foundations* concerns the concepts we expect all participants to have duri
 ### Day 2
 
 {{ bfast }}
-- 08h30-09h00 [Reading time for a scientific paper](https://doi.org/10.1371/journal.pbio.1000053)
+- 08h30-09h00 [Reading time for a scientific paper](https://doi.org/10.1371/journal.pbio.1000053) ({% include instructors people="Tutors" %})
 - 09h00-10h30 {{ lect }} [Introduction to infectious disease dynamics, Part II](https://drive.google.com/file/d/1SzQnv9haPgZ_o10GbGDT4nmoOvBeVU_T) ({% include instructors people="mthombothi" %}, {{ main }})
   - ["The" R0 paper](https://link.springer.com/article/10.1007/bf00178324) (might need [unpaywall](https://unpaywall.org/products/extension) or similar tools to access)
 - 10h30-11h00 {{ coffee }}
@@ -81,15 +82,15 @@ MMED *Foundations* concerns the concepts we expect all participants to have duri
 - 13h00-14h00 {{ lunch }}
 - 14h00-15h30 {{ prac }} [Tutorial 2 & benchmark questions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_2.R), and [SEIR & Benchmark questions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/seir.R) ({% include instructors people="Tutors" %}, {{ lab }})
 - 15h30-16h00 {{ break }}
-- 16h00-18h00 {{ gw }} [Project development](../tutorials/pilotproject) ({{ breakout }})
-- [End of Day Questions](https://forms.gle/cWeCsKXKX6GSWSnk8)
+- 16h00-18h00 {{ gw }} [Project development](#projects_focus) ({{ breakout }})
+- [End of Day Questions](https://forms.gle/mfDg3UaPyHhnavPcA)
 
 ### Day 3
 
 {{ bfast }}
-- 08h30-09h30 {{ gw }} [Project development](../tutorials/pilotproject) ({{ breakout }})
-  - from 08h30, each group will check in with Carl (odd, in 105) or Zinhle (even, lobby): 08h30 1 and 2, 08h50 3 and 4, 09h10 5 and 6
-  - [Project Groups](https://docs.google.com/spreadsheets/d/1gLfek_HAcFw-B1raWN6ZPZH_MHC4gtE88sjIf-jaIkc)
+- 08h30-09h30 {{ gw }} [Project development](#projects_focus) ({{ breakout }})
+  - from 08h30, each group will check in with Carl (odd, in 103) or Zinhle (even, lobby): 08h30 1 and 2, 08h50 3 and 4, 09h10 5 and 6
+  - [Project Groups]()
 - 09h30-10h30 {{ disc }} How did you read a scientific paper? ({% include instructors people="pearson" %}, {{ lab }})
   - [Reference Paper](https://doi.org/10.1371/journal.pbio.1000053)
 - 10h30-11h00 {{ coffee }}
@@ -98,8 +99,8 @@ MMED *Foundations* concerns the concepts we expect all participants to have duri
 - 13h00-14h00 {{ lunch }}
 - 14h00-15h30 {{ prac }} [Binomial Distribution Tutorial](https://raw.githubusercontent.com/ICI3D/RTutorials/master/binomialDistribution.R) ({% include instructors people="Tutors" %}, {{ lab }})
 - 15h30-16h00 {{ break }}
-- 16h00-18h00 {{ gw }} [Project development](../tutorials/pilotproject) ({{ breakout }})
-- [End of Day Questions](https://forms.gle/zrD8asaQy6UVP4F68)
+- 16h00-18h00 {{ gw }} [Project development](#projects_focus) ({{ breakout }})
+- [End of Day Questions]()
 
 ### Day 4
 
@@ -109,14 +110,14 @@ MMED *Foundations* concerns the concepts we expect all participants to have duri
 - 09h15-10h30 {{ prac }} [Lab 4: Study Design for Clinical Trials](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_RCT.R) ({% include instructors people="Tutors" %}, {{ lab }})
 - 10h30-11h00 {{ coffee }}
 - 11h00-12h00 {{ lect }} [Transmission in Finite Populations](https://drive.google.com/file/d/1mCqNCQ4Ak78uW6VUYyRRnN0p3Iv3zfEn) ({% include instructors people="mthombothi" %}, {{ main }})
-- 12h00-13h00 {{ gw }} [Project development](../tutorials/pilotproject), with progress checkin ({{ lab }})
+- 12h00-13h00 {{ gw }} [Project development](#projects_focus), with progress checkin ({{ lab }})
   - All checkins in the lab. Odd groups check in with Carl, even with Zinhle. Be prepared to show your draft report, slides, and poster.
-  - [Project Groups](https://docs.google.com/spreadsheets/d/1gLfek_HAcFw-B1raWN6ZPZH_MHC4gtE88sjIf-jaIkc)
+  - [Project Groups]()
 - 13h00-14h00 Lunch
-- 14h00-15h30 {{ gw }} [Project development](../tutorials/pilotproject)
+- 14h00-15h30 {{ gw }} [Project development](#projects_focus)
 - 15h30-16h00 {{ break }}
-- 16h00-18h00 {{ prac }} If incomplete: review questions from [Lab 4: Study Design for Clinical Trials](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_RCT.R) ({% include instructors people="Tutors" %}), [Tutorial 3: Probability Distributions and Control Structures, and review questions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_3.R) ({% include instructors people="Tutors" %}, {{ lab }}). Otherwise [Project development](../tutorials/pilotproject)
-- [Final Fundamentals Week Quiz (includes Qs from Friday)](https://forms.gle/Lrc1GcGbYcqDZZhZA)
+- 16h00-18h00 {{ prac }} If incomplete: review questions from [Lab 4: Study Design for Clinical Trials](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_RCT.R) ({% include instructors people="Tutors" %}), [Tutorial 3: Probability Distributions and Control Structures, and review questions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_3.R) ({% include instructors people="Tutors" %}, {{ lab }}). Otherwise [Project development](#projects_focus)
+- [Final Fundamentals Week Quiz (includes Qs from Friday)]()
 
 ### Day 5
 
