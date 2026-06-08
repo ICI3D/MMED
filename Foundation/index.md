@@ -63,7 +63,7 @@ MMED *Foundations* concerns the concepts we expect all participants to have duri
 - 14h00-15h30 {{ prac }} [Tutorial 1: Introduction to R and Epidemic curves](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_1.R) ({% include instructors people="Tutors" %}, {{ lab }})
 - 15h30-16h00 {{ break }}
 - 16h00-17h00 {{ prac }} [Tutorial 1 cont.](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_1.R) ({% include instructors people="Tutors" %}, {{ lab }})
-- 17h00-17h45 {{ disc }} [How to read a scientific paper](../MedPH/How_to_read_exRabies.pdf) ({% include instructors people="pearson" %}, {{ main }})
+- 17h00-17h45 {{ disc }} [How to read a scientific paper](https://docs.google.com/presentation/d/1kr6UtkX22JaJx7wqmD0Mox4rWYB1zD9iGkLQK0Ci18Y) ({% include instructors people="pearson" %}, {{ main }})
   - [Reference Paper](https://doi.org/10.1371/journal.pbio.1000053)
 - 17h45-18h00 {{ org }} [Introduction to projects](#projects_focus) ({% include instructors people="pearson" %}, {{ main }})
   - [Project Groups]()
