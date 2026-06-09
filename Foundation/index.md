@@ -77,7 +77,7 @@ MMED *Foundations* concerns the concepts we expect all participants to have duri
 - 09h00-10h30 {{ lect }} [Introduction to infectious disease dynamics, Part II](https://drive.google.com/file/d/11Bh6MeihGihR80xLb6CETRsNazgMU59T) ({% include instructors people="mthombothi" %}, {{ main }})
   - ["The" R0 paper](https://link.springer.com/article/10.1007/bf00178324) (might need [unpaywall](https://unpaywall.org/products/extension) or similar tools to access)
 - 10h30-11h00 {{ coffee }}
-- 11h00-12h00 {{ lect }} [Dynamics of directly transmitted pathogens](https://docs.google.com/presentation/d/1zFQVS4gHNyfFPXKuz8BIvweMzWQNf6c9) ({% include instructors people="pearson" %}, {{ main }})
+- 11h00-12h00 {{ lect }} [Dynamics of directly transmitted pathogens](https://docs.google.com/presentation/d/1BWVXXjDTp3H-IpFg7sv7cMR3GMS4umCo5PQx4snpRs4) ({% include instructors people="pearson" %}, {{ main }})
 - 12h00-13h00 {{ prac }} [Tutorial 2: More on Vectors, Data Frames, and Functions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_2.R), and [SEIR](https://raw.githubusercontent.com/ICI3D/RTutorials/master/seir.R) ({% include instructors people="Tutors" %}, {{ lab }})
 - 13h00-14h00 {{ lunch }}
 - 14h00-15h30 {{ prac }} [Tutorial 2 & benchmark questions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_2.R), and [SEIR & Benchmark questions](https://raw.githubusercontent.com/ICI3D/RTutorials/master/seir.R) ({% include instructors people="Tutors" %}, {{ lab }})
@@ -136,7 +136,7 @@ MMED *Foundations* concerns the concepts we expect all participants to have duri
 
 </details>
 
-<details markdown="1" name="projects_focus"><summary>Project Focus</summary>
+<details markdown="1" id="projects_focus"><summary>Project Focus</summary>
 
 During the first week of MMED, you will work on a pilot project that will help you prepare for the final project. The pilot project is *not* intended to be new research: it is to familiarize you with collaborative work, foundational technical skills, and to review the introductory concepts from the initial week. It is a short-duration *exercise* with feedback to prepare you for the larger scale, more self-directed MMED project. The pilot project elements are due at the end of the first week of MMED, and you will receive feedback on your pilot project before you start your final project.
   
