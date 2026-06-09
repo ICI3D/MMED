@@ -94,7 +94,7 @@ MMED *Foundations* concerns the concepts we expect all participants to have duri
 - 09h30-10h30 {{ disc }} How did you read a scientific paper? ({% include instructors people="pearson" %}, {{ lab }})
   - [Reference Paper](https://doi.org/10.1371/journal.pbio.1000053)
 - 10h30-11h00 {{ coffee }}
-- 11h00-11h45 {{ lect }} [Study Design and Analysis in Epidemiology: Where does modeling fit?](https://docs.google.com/presentation/d/15-i4vcP9oIOm3eKfqQs4O2Y7BSce1PI8) ({% include instructors people="pearson" %}, {{ main }})
+- 11h00-11h45 {{ lect }} Study Design and Analysis in Epidemiology I ([part 1](https://youtu.be/9ejrkLxSXLM), [part 2](https://youtu.be/7qbS42DeTkY), [part 3](https://youtu.be/yOysNjYkqEQ)) - [Slides](https://drive.google.com/file/d/1HLQofjW5-GQseHZddGf-g_Jf3jYzU8LL) ({% include instructors people="vanschalkwyk" %}, {{ main }})
 - 11h45-13h00 {{ prac }} [Lab 3: Study Design in Epidemiology](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_EpiStudyDesign.R) ({% include instructors people="Tutors" %}, {{ lab }})
 - 13h00-14h00 {{ lunch }}
 - 14h00-15h30 {{ prac }} [Binomial Distribution Tutorial](https://raw.githubusercontent.com/ICI3D/RTutorials/master/binomialDistribution.R) ({% include instructors people="Tutors" %}, {{ lab }})
@@ -105,7 +105,7 @@ MMED *Foundations* concerns the concepts we expect all participants to have duri
 ### Day 4
 
 {{ bfast }}
-- 08h30-09h15 {{ lect }} [Study Design and Analysis, part II: RCT’s](https://docs.google.com/presentation/d/14Vv6XiQjOVgNjGU0vyLeYUFj-9Azf50y) ({% include instructors people="pearson" %}, {{ main }})
+- 08h30-09h15 {{ lect }} Study Design and Analysis in Epidemiology II ([part 1](https://youtu.be/-BQ1w9usoAw), [part 2](https://youtu.be/9UlefAZR5Sw), [part 3](https://youtu.be/YYRevVqY_Hc)) - [Slides](https://drive.google.com/file/d/1c4iU15DDQ2w4KxJJJowsdW9sKdVWTrQf) ({% include instructors people="kassanjee" %}, {{ main }})
   - Side reading: [CDC on the Tuskegee Experiment](https://www.cdc.gov/tuskegee/timeline.htm), [Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/), [Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html)
 - 09h15-10h30 {{ prac }} [Lab 4: Study Design for Clinical Trials](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_RCT.R) ({% include instructors people="Tutors" %}, {{ lab }})
 - 10h30-11h00 {{ coffee }}
