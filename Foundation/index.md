@@ -100,7 +100,7 @@ MMED *Foundations* concerns the concepts we expect all participants to have duri
 - 14h00-15h30 {{ prac }} [Binomial Distribution Tutorial](https://raw.githubusercontent.com/ICI3D/RTutorials/master/binomialDistribution.R) ({% include instructors people="Tutors" %}, {{ lab }})
 - 15h30-16h00 {{ break }}
 - 16h00-18h00 {{ gw }} [Project development](#projects_focus) ({{ breakout }})
-- [End of Day Questions](https://forms.gle/qrVLMfwFhcimMzax5)
+- [End of Day Questions](https://forms.gle/Y4Vr7k8zortBuLaw5)
 
 ### Day 4
 
