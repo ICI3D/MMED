@@ -24,7 +24,7 @@ subtitle: Resources for during and after the Clinic
 - Learning Git and GitHub
     - [Happy Git with R](https://happygitwithr.com/)
     - [GitHub Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
-    - [An example GitHub workflow for an MMED Project Group](./gitWorkflow.md) - To be added
+- {: .shadow} [An example GitHub workflow for an MMED Project Group](./gitWorkflow.md) - To be added
 - More fun things
     - [xkcd](https://www.xkcd.com/) (comic)
     - [The 100% CI](http://www.the100.ci/) (blog)
@@ -32,3 +32,4 @@ subtitle: Resources for during and after the Clinic
     - [Retraction Watch](http://retractionwatch.com/) (website)
 - Miscellaneous code
     - [Code](../tutorials/dynamicalFever) for the model underlying the Dynamical Fever exercise.
+    - `ICI3D::dynamicalFever()`
