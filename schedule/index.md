@@ -152,7 +152,7 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 - {: .shadow} 07h30? whatsapp checkin 
 - 08h30-10h00 {{ labex }} Introduction to models and data: HIV in Harare ({% include instructors people="kassanjee|pearson" %}, {{ lab }})
   - {: .shadow } Notes: ??
-  - Launch from R prompt with `ICI3D::hivTutorial\()`
+  - Launch from R prompt with `ICI3D::hivTutorial()`
   - If you finish all five versions of the model for the Harare data, move on to working on data from other countries.
   -  **Additional info:** Distributed delay models of survival (Boxcar Models) and example script
 - {: .shadow} Summary: Harare tutorial ({% include instructors people="pearson" %})
