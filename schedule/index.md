@@ -27,6 +27,7 @@ archive: false
 {%- assign rtut = "**R Tutorial**:" -%}
 {%- assign labs = "**Lab**:" -%}
 {%- assign post = "**Posters**:" -%}
+{%- assign catch = "**Catch-up session**:" -%}
 {%- assign prac = "**Comp. Session**:" -%}
 {%- assign gw = "**Group Work**:" -%}
 {%- assign lc = "**Live coding**:" -%}
@@ -120,7 +121,7 @@ archive: false
   - {: .shadow} Mentors: Shadé, Belinda
   - {: .shadow} Faculty: Lauren, Reshma
 - {: .shadow} Summary: ODE models ({% include instructors people="njuguna" %}, {{ lab }})
-- 12h15-12h30 **Catch-up session** ({% include instructors people="Mentors" %}, {{ lab }})
+- 12h15-12h30 {{ catch }} ({% include instructors people="Mentors" %}, {{ lab }})
   - {: .shadow} Mentors: Brian, Shadé, Belinda
   - {: .shadow} Faculty: Lauren, Reshma
 - {: .shadow} 12h30-13h00 faculty meeting
@@ -176,7 +177,7 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 - {: .shadow} Summary: Likelihood ({% include instructors people="vanschalkwyk" %}, {{ lab }})
 - Knowledge Assessment
 {{ dinner }}
-- 19h00-20h00 **Catch-up session** ({% include instructors people="Mentors" %}, {{ lab }})
+- 19h00-20h00 {{ catch }} ({% include instructors people="Mentors" %}, {{ lab }})
   - {: .shadow} This catch-up is open, but please sign up for future catch-ups
   - {: .shadow} Faculty: Eva, Mutono
 
@@ -216,7 +217,7 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 - {: .shadow} Summary: Maximum likelihood ({% include instructors people="vanschalkwyk" %}, {{ lab }})
 - Knowledge Assessment
 {{ dinner }}
-- 18h30-19h00 **Catch-up session** ({% include instructors people="Mentors" %}, {{ lab }})
+- 18h30-19h00 {{ catch }} ({% include instructors people="Mentors" %}, {{ lab }})
   - Includes thinking of project questions
   - Complete model diagram
   - {: .shadow} Faculty: Reshma, Lauren
@@ -240,7 +241,7 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 - 12h30-14h00 {{ lunch }}
 - 14h00-15h00 {{ lect }} Fitting dynamical models II ({% include instructors people="dushoff" %}, {{ main }})
   - {: .shadow } Notes: ??
-- 15h00-15h30 **Catch-up session** ({% include instructors people="Mentors" %}, {{ lab }})
+- 15h00-15h30 {{ catch }} ({% include instructors people="Mentors" %}, {{ lab }})
 	* Includes selecting project: Project selection form
   - {: .shadow} Faculty: Carii, Mutono
 - 15h30-16h00 {{ tea }}
@@ -329,7 +330,7 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 - 16h00-18h00 {{ proj }} MMED project work + mentoring sessions ({{ breakout }})
 - Knowledge Assessment
 {{ dinner }}
-- 12h00-12h30  **Catch-up session** ({% include instructors people="Mentors" %}, {{ lab }})
+- 12h00-12h30  {{ catch }} ({% include instructors people="Mentors" %}, {{ lab }})
   - {: .shadow} Faculty: CarL, Claire, Lauren
 
 ### Day 10 (Wednesday, 24 June)
@@ -359,8 +360,8 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 - 10h30-12h30 {{ proj }} MMED project work  + mentoring sessions ({{ breakout }})
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
-- 14h00-15h30 **either** {{ gw }} MMED project work ({{ breakout }})
-- 14h00-15h30 **or** {{ pc }} Building a modelling project pipeline with AI ({% include instructors people="pearson" %}, {{main}})
+- 14h00-15h30 *either* {{ proj }} MMED project work ({{ breakout }})
+- 14h00-15h30 *or* {{ pc }} Building a modelling project pipeline with AI ({% include instructors people="pearson" %}, {{main}})
   - Resulting code
   - {: .shadow } Notes: ??
 - 15h30-16h00 {{ tea }}
