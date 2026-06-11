@@ -85,7 +85,7 @@ archive: false
 - 13h15-13h45 Technical assistance for participants ({% include instructors people="Mentors" %}, {{ lab }})
 	- {: .shadow} Mentors: all
 - 14h00-15h30 {{ labex }} Dynamical fever ({% include instructors people="nyamai" %}, {{ lab }})
-  - Launch from R prompt with `ICI3D::dynamicalFever\()`
+  - Launch from R prompt with `ICI3D::dynamicalFever()`
 	- {: .shadow} Mentors: all
 	- {: .shadow} Faculty: Jonathan, Carii
 - {: .shadow} Summary: Dynamical fever ({% include instructors people="nyamai" %}, {{ lab }})
