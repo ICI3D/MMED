@@ -85,7 +85,7 @@ archive: false
 - 13h15-13h45 Technical assistance for participants ({% include instructors people="Mentors" %}, {{ lab }})
 	- {: .shadow} Mentors: all
 - 14h00-15h30 {{ labex }} Dynamical fever ({% include instructors people="nyamai" %}, {{ lab }})
-  - Launch from R prompt with `ICI3D::dynamicalFever`
+  - Launch from R prompt with `ICI3D::dynamicalFever\(\)`
 	- {: .shadow} Mentors: all
 	- {: .shadow} Faculty: Jonathan, Carii
 - {: .shadow} Summary: Dynamical fever ({% include instructors people="nyamai" %}, {{ lab }})
@@ -152,7 +152,7 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 - {: .shadow} 07h30? whatsapp checkin 
 - 08h30-10h00 {{ labex }} Introduction to models and data: HIV in Harare ({% include instructors people="kassanjee|pearson" %}, {{ lab }})
   - {: .shadow } Notes: ??
-  - Launch from R prompt with `ICI3D::hivTutorial()`
+  - Launch from R prompt with `ICI3D::hivTutorial\(\)`
   - If you finish all five versions of the model for the Harare data, move on to working on data from other countries.
   -  **Additional info:** Distributed delay models of survival (Boxcar Models) and example script
 - {: .shadow} Summary: Harare tutorial ({% include instructors people="pearson" %})
