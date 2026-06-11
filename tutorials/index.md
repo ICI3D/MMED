@@ -12,6 +12,7 @@ alertmsg: The information below refers to 2025. Updated tutorials for 2026 will 
 
 You can find all the materials below in the [ICI3D/RTutorials](https://github.com/ICI3D/RTutorials) repository. In addition to the materials below, this will also include historical versions and code from participatory coding sessions.
 
+
 # Current tutorials and labs
 
 ## Tutorials
@@ -24,6 +25,7 @@ These are to learn about R, and should be followed in order.
 - Tutorial 3: [Probability Distributions and Control Structures](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_3.R)
 - Tutorial 4: [Visualizing Infectious Disease Data](./visualizeData)
 - Tutorial 5: [Data Wrangling](./dataCleaning)
+
 
 ## Labs
 
@@ -38,10 +40,12 @@ These are to learn about the meaningful modelling of epidemiological data in R.
 - Lab: [MCMC fitting of a dynamic model](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_MCMC-SI_HIV.R)
     - **Note:** Download [this file](https://raw.githubusercontent.com/ICI3D/RTutorials/master/MCMC_SI_runs.Rdata) to avoid having to wait for long MCMC chains to be sampled.
 
+
 ## Application-based labs
 
 - Dynamical fever: `ICI3D::dynamicalFever()`
 - Introduction to models and data: HIV in Harare: `ICI3D::hivTutorial()`
+
 
 # Extra tutorials and labs
 
@@ -50,14 +54,15 @@ These are to learn about the meaningful modelling of epidemiological data in R.
 - Example: [Stochastic SIR model using the Gillespie Algorithm](https://www.ici3d.org/MMED/tutorials/gillespie)
 - Example: [Stochastic SIR model using the Chain Binomial Algorithm](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Example_chainBinom.R)
 
+
 # Participatory Coding Archive
 
-### 2025
+## 2025
 
 - Participatory Coding (Dynamic modeling) 2025 - ([Jonathan Dushoff](../team/dushoff)) - [Code from session](https://github.com/ICI3D/RTutorials/blob/master/participatoryDynamics2025.R)
 - Participatory coding (Stochastic model) 2025 - [Carl Pearson](../team/pearson) - [Code from session](https://drive.google.com/file/d/1e07o3waYjxz4orKIGhCtJxdKvoVhmhsk/view?usp=drive_link)
 
-### Pre-2023
+## Pre-2023
 
 - Participatory Coding (ODE model) 2023 - What level of vaccination is needed to eliminate domestic dog rabies in Ouagadougou? ([Juliet Pulliam](../team/pulliam))- [Code from session](https://github.com/ICI3D/MMEDparticipants/blob/master/Resources/participatoryCoding_I.R)
 - Participatory Coding (Gillespie model) ([Carl](../team/pearson) - [Code from session](https://github.com/ICI3D/MMEDparticipants/blob/master/Resources/participatoryCoding_II.R))
