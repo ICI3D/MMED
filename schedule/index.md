@@ -24,7 +24,7 @@ archive: false
 {%- assign disc = "**Discussion**:" -%}
 {%- assign labex = "**Lab-based exercise**:" -%}
 {%- assign ex = "**Exercise**:" -%}
-{%- assign rtut = "**R Tutorial**:" -%}
+{%- assign rtut = "[**R Tutorial**](../tutorials):" -%}
 {%- assign labs = "**Lab**:" -%}
 {%- assign post = "**Posters**:" -%}
 {%- assign catch = "**Catch-up session**:" -%}
@@ -81,6 +81,7 @@ archive: false
 - 11h45-12h30 {{ lect }} Introduction to infectious disease data ({% include instructors people="ujeneza" %}, {{ main }})
 	- {: .shadow} Notes: ??
 - {: .shadow} 12h30-13h00 faculty meeting
+- [Day 1 AM Quiz Open](https://forms.gle/MMkiwvbrnRoV3zWH6)
 - 12h30-14h00 {{ lunch }} 
 - 13h15-13h45 Technical assistance for participants ({% include instructors people="Mentors" %}, {{ lab }})
 	- {: .shadow} Mentors: all
@@ -100,7 +101,7 @@ archive: false
 - {: .shadow} [Lab 3 - Study design I](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_EpiStudyDesign.R) (may also be of interest, but is an own-time activity)
 - 17h00-18h00  {{ post }} Session 1 ({{main}})
 - {: .shadow} Possible feedback printout forms/Google form QR to give feedback?
-- Knowledge Assessment
+- No Day 1 Afternoon Quiz!
 {{ dinner }}
 - 18h45-20h00 {{ sc }} Ice-breaker ({% include instructors people="bruce" %}, {{ main }})
 
@@ -125,6 +126,7 @@ archive: false
   - {: .shadow} Mentors: Brian, Shadé, Belinda
   - {: .shadow} Faculty: Lauren, Reshma
 - {: .shadow} 12h30-13h00 faculty meeting
+- [Day 2 AM Quiz Open](https://forms.gle/g7KcDwMrZytW7gGA7)
 - 12h30-14h00 {{ lunch }}
 - 14h00-14h45 {{ lect }} Data management and wrangling ({% include instructors people="nyamai" %}, {{ lab }})
   - {: .shadow } Notes: ??
