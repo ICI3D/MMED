@@ -67,7 +67,7 @@ archive: false
 
 ### Day 1 (Monday, 15 June)
 
-- {: .shadow} 07h30? whatsapp checkin
+- {: .shadow} 07h30? whatsapp checkin - Belinda
 - 07h30-08h20 {{ org }} Registration ({% include instructors people="bruce|Mentors" %}, {{ lobby }})
 {{ bfast }}
 - 08h30-09h00 {{ org }} Welcome and motivation for workshop ({% include instructors people="pearson" %}, {{ main }})
@@ -101,7 +101,7 @@ archive: false
 - {: .shadow} Summary: Visualization ({% include instructors people="lombard" %}, {{ lab }})
 - {: .shadow} [Lab 3 - Study design I](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_EpiStudyDesign.R) (may also be of interest, but is an own-time activity)
 - 17h00-18h00  {{ post }} Session 1 ({{main}})
-- {: .shadow} Possible feedback printout forms/Google form QR to give feedback?
+- {: .shadow} Prompt presenters to bring along their own notebooks to keep track of their feedback.
 - No Day 1 Afternoon Quiz!
 {{ dinner }}
 - 18h45-20h00 {{ sc }} Ice-breaker ({% include instructors people="bruce" %}, {{ main }})
@@ -109,26 +109,26 @@ archive: false
 ### Day 2 (Tuesday, 16 June)
 
 {{ bfast }}
-- {: .shadow} 07h30? whatsapp checkin
+- {: .shadow} 07h30? whatsapp checkin - Belinda
 - 08h30-09h30 {{ lect }} Introduction to dynamic modelling of infectious disease II ({% include instructors people="dushoff" %}, {{ main }})
-	- {: .shadow} Notes: ??
-- 09h30-10h15 {{ lc }} Introduction to model implementation in R ({% include instructors people="kassanjee" %}, {{ main }})
+	- {: .shadow} Notes: CarL, Belinda
+- 09h30-10h15 {{ lc }} Introduction to model implementation in R ({% include instructors people="dushoff" %}, {{ main }})
   - Resulting code
-  - {: .shadow } Notes: ??
+  - {: .shadow } Notes: CarL, Belinda
 - 10h15-10h45 {{ coffee }}
-- 10h45-11h30 {{ lect }} (Hidden) assumptions of simple ODE models ({% include instructors people="vanschalkwyk" %}, {{ main }})
-  - {: .shadow } Notes: ??
+- 10h45-11h30 {{ lect }} (Hidden) assumptions of simple ODE models ({% include instructors people="pearson" %}, {{ main }})
+  - {: .shadow } Notes: Jonathan, Belinda
 - 11h30-12h15 {{ labs }} ODE models in R ({% include instructors people="njuguna" %}, {{ lab }})
   - {: .shadow} Walkthrough: Brian
   - {: .shadow} Mentors: Shadé, Belinda
-  - {: .shadow} Faculty: Lauren, Reshma
+  - {: .shadow} Faculty: Lauren, CarL
 - {: .shadow} Summary: ODE models ({% include instructors people="njuguna" %}, {{ lab }})
 - 12h15-12h30 {{ catch }} ({% include instructors people="Mentors" %}, {{ lab }})
   - {: .shadow} Mentors: Brian, Shadé, Belinda
   - {: .shadow} Faculty: Lauren, Reshma
-- {: .shadow} 12h30-13h00 faculty meeting
 - [Day 2 AM Quiz Open](https://forms.gle/g7KcDwMrZytW7gGA7)
 - 12h30-14h00 {{ lunch }}
+- {: .shadow} 13h00-13h30 faculty meeting - 103
 - 14h00-14h45 {{ lect }} Data management and wrangling ({% include instructors people="nyamai" %}, {{ lab }})
   - {: .shadow } Notes: ??
 - 14h45-15h30 {{ rtut }} Tutorial 5 - Data wrangling ({% include instructors people="horn" %}, {{ lab }})
