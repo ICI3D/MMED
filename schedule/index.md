@@ -77,6 +77,7 @@ archive: false
 - 09h15-10h00 {{ lect }} Public health, epidemiology, and models ({% include instructors people="pearson" %}, {{ main }})
 	- {: .shadow} Notes: Jonathan, Shadé
 - 10h00-10h30 {{ coffee }}
+- {: .shadow} check morning's recordings - Faikah
 - 10h30-11h45 {{ lect }} Introduction to dynamic modelling of infectious disease I ({% include instructors people="mthombothi" %}, {{ main }})
 	- {: .shadow} Notes: Jonathan, Brian
 - 11h45-12h30 {{ lect }} Introduction to infectious disease data ({% include instructors people="nyamai" %}, {{ main }})
