@@ -70,25 +70,26 @@ archive: false
 - {: .shadow} 07h30? whatsapp checkin
 - 07h30-08h20 {{ org }} Registration ({% include instructors people="bruce|Mentors" %}, {{ lobby }})
 {{ bfast }}
-- 08h30-09h00 {{ org }} Welcome and motivation for workshop ({% include instructors people="kassanjee" %}, {{ main }})
-	- {: .shadow} Notes: ??
-- 09h00-09h45 {{ lect }} Public health, epidemiology, and models ({% include instructors people="pearson" %}, {{ main }})
-	- {: .shadow} Notes: ??
-- 09h45-10h00 {{ org }} MMED roadmap and program overview ({% include instructors people="kassanjee" %}, {{ main }})
+- 08h30-09h00 {{ org }} Welcome and motivation for workshop ({% include instructors people="pearson" %}, {{ main }})
+	- {: .shadow} Notes: General
+- 09h00-09h15 {{ org }} MMED roadmap and program overview ({% include instructors people="pearson" %}, {{ main }})
+	- {: .shadow} Notes: General
+- 09h15-10h00 {{ lect }} Public health, epidemiology, and models ({% include instructors people="pearson" %}, {{ main }})
+	- {: .shadow} Notes: Jonathan, Shadé
 - 10h00-10h30 {{ coffee }}
-- 10h30-11h45 {{ lect }} Introduction to dynamic modelling of infectious disease I ({% include instructors people="kassanjee" %}, {{ main }})
-	- {: .shadow} Notes: ??
-- 11h45-12h30 {{ lect }} Introduction to infectious disease data ({% include instructors people="ujeneza" %}, {{ main }})
-	- {: .shadow} Notes: ??
-- {: .shadow} 12h30-13h00 faculty meeting
+- 10h30-11h45 {{ lect }} Introduction to dynamic modelling of infectious disease I ({% include instructors people="mthombothi" %}, {{ main }})
+	- {: .shadow} Notes: Jonathan, Brian
+- 11h45-12h30 {{ lect }} Introduction to infectious disease data ({% include instructors people="nyamai" %}, {{ main }})
+	- {: .shadow} Notes: CarL, Shadé
 - [Day 1 AM Quiz Open](https://forms.gle/MMkiwvbrnRoV3zWH6)
 - 12h30-14h00 {{ lunch }} 
-- 13h15-13h45 Technical assistance for participants ({% include instructors people="Mentors" %}, {{ lab }})
-	- {: .shadow} Mentors: all
+- {: .shadow} 13h00-13h30 faculty meeting - 103
+- 13h15-13h45 Technical assistance for participants ({% include instructors people="AIMS tutors" %}, {{ lab }})
+	- {: .shadow} AIMS tutors: to hand over any queries to mentors
 - 14h00-15h30 {{ labex }} Dynamical fever ({% include instructors people="nyamai" %}, {{ lab }})
   - Launch from R prompt with `ICI3D::dynamicalFever()`
 	- {: .shadow} Mentors: all
-	- {: .shadow} Faculty: Jonathan, Carii
+	- {: .shadow} Faculty: Jonathan, Zinhle
 - {: .shadow} Summary: Dynamical fever ({% include instructors people="nyamai" %}, {{ lab }})
 - 15h30-16h00 {{ tea }}
 	- Poster setup: Group 1 ({% include instructors people="bruce|Mentors" %}, {{main}})
