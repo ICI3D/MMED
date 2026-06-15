@@ -4,7 +4,7 @@ redirect: https://github.com/ICI3D/RTutorials/blob/master/dynamicalFeverModelScr
 title: Dynamical Fever
 ---
 
-- [Exercise](https://raw.githubusercontent.com/ICI3D/RTutorials/master/dynamicalFeverScript.R)
-- [Data](https://raw.githubusercontent.com/ICI3D/RTutorials/master/dynamicalFeverData.Rdata)
+- [Exercise](../RTutorials/dynamicalFeverScript.R){:download="dynamicalFeverScript.R"}
+- [Data](../RTutorials/dynamicalFeverData.Rdata){:download="dynamicalFeverData.Rdata"}
 
 ([Shiny version](http://jrcpulliam.shinyapps.io/dynamicalFever))
