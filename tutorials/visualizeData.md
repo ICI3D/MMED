@@ -8,7 +8,7 @@ alertmsg: This tutorial will give you the tools to visualize infectious disease 
 ---
 
 ## Tutorial script
-- [Download](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_4.R)
+- <a href="https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_4.R" download>Download</a>
 	- [Older version](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_previous_VisualizingData.R)
 
 ## Tutorial data
