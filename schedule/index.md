@@ -78,8 +78,8 @@ archive: false
 	- {: .shadow} Notes: Jonathan, Shadé
 - 10h00-10h30 {{ coffee }}
 - {: .shadow} check morning's recordings - Faikah
-- 10h30-11h45 {{ lect }} Introduction to dynamic modelling of infectious disease I ({% include instructors people="mthombothi" %}, {{ main }})
-	- {: .shadow} Notes: Jonathan, Brian
+- 10h30-11h45 {{ lect }} Introduction to dynamic modelling of infectious disease I ({% include instructors people="dushoff" %}, {{ main }})
+	- {: .shadow} Notes: CarL, Brian
 - 11h45-12h30 {{ lect }} Introduction to infectious disease data ({% include instructors people="nyamai" %}, {{ main }})
 	- {: .shadow} Notes: CarL, Shadé
 - [Day 1 AM Quiz Open](https://forms.gle/MMkiwvbrnRoV3zWH6)
@@ -93,7 +93,7 @@ archive: false
 	- {: .shadow} Faculty: Jonathan, Zinhle
 - {: .shadow} Summary: Dynamical fever ({% include instructors people="nyamai" %}, {{ lab }})
 - 15h30-16h00 {{ tea }}
-	- Poster setup: Group 1 ({% include instructors people="bruce|Mentors" %}, {{main}})
+	- Poster setup: [Group 1](https://drive.google.com/file/d/1QbBO-GHThvm35o-fC7hugd32B_jM2YLw/view?usp=drive_link) ({% include instructors people="bruce|Mentors" %}, {{main}})
 - 16h00-17h00 {{ rtut }} Tutorial 4 - Visualizing infectious disease data ({% include instructors people="lombard" %}, {{ lab }})
   - {: .shadow} Walkthrough: Belinda  
   - {: .shadow} Mentors: Brian, Shadé
@@ -101,7 +101,7 @@ archive: false
 - {: .shadow} Slides: Study design
 - {: .shadow} Summary: Visualization ({% include instructors people="lombard" %}, {{ lab }})
 - {: .shadow} [Lab 3 - Study design I](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_EpiStudyDesign.R) (may also be of interest, but is an own-time activity)
-- 17h00-18h00  {{ post }} Session 1 ({{main}})
+- 17h00-18h00  {{ post }} [Session 1](https://drive.google.com/file/d/1QbBO-GHThvm35o-fC7hugd32B_jM2YLw/view?usp=drive_link) ({{main}})
 - {: .shadow} Prompt presenters to bring along their own notebooks to keep track of their feedback.
 - No Day 1 Afternoon Quiz!
 {{ dinner }}
@@ -138,13 +138,13 @@ archive: false
   - {: .shadow} Faculty: CarL, Eva
 - {: .shadow} Summary: Data wrangling ({% include instructors people="horn" %}, {{ lab }})
 - 15h30-16h00 {{ tea }}
-  - Poster setup: Group 2 ({% include instructors people="bruce|Mentors" %}, {{ main }})
+  - Poster setup: [Group 2](https://drive.google.com/file/d/1QbBO-GHThvm35o-fC7hugd32B_jM2YLw/view?usp=drive_link) ({% include instructors people="bruce|Mentors" %}, {{ main }})
   - {: .shadow} Don't move the chairs! Only put the posters up.
 - 16h00-17h00 {{ ex }} Formulating research questions ({% include instructors people="vanschalkwyk|ujeneza|brown|nyamai" %}, {{ sections }})
 - {: .shadow} ICI3D: assisted by Brian, Shadé, Jonathan
 - {: .shadow} AIMS: assisted by Belinda, Reshma, CarL
 _- 17h00-17h05 Poster setup: move desks and chairs_
-- 17h05-18h00 {{ post }} Session 2 ({{ main }})
+- 17h05-18h00 {{ post }} [Session 2](https://drive.google.com/file/d/1QbBO-GHThvm35o-fC7hugd32B_jM2YLw/view?usp=drive_link) ({{ main }})
 - Knowledge Assessment
 {{ dinner }}
 - 19h00-20h00 {{ glect }} Title, ({% include instructors people="smith" %}, {{ main }})
@@ -167,8 +167,8 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
   - {: .shadow } Notes: ??
 - 12h00-12h30 {{ proj }} Introduction to project topics ({% include instructors people="brown" %}, {{ main }})
   - {: .shadow} All
-- {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
+- {: .shadow} 13h00-13h30 faculty meeting - 103
 - 14h00-15h30 {{ ex }} Creating a model world to address a research question ({% include instructors people="vanschalkwyk|ujeneza|brown|nyamai" %}, {{ sections }})
   - {: .shadow} ICI3D: assisted by Brian, Shadé, Jonathan
   - {: .shadow} AIMS: assisted by Belinda, Reshma, CarL
@@ -200,8 +200,8 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
   - {: .shadow} Mentors: Shadé, Belinda
   - {: .shadow} Faculty: Eva, Mutono
 - {: .shadow} Summary: Stochastic models ({% include instructors people="brown" %}, {{ lab }})
-- {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
+- {: .shadow} 13h00-13h30 faculty meeting - 103
 - 14h00-14h45 {{ lect }} Consequences of heterogeneity and modelling options ({% include instructors people="dushoff" %}, {{ main }})
   - {: .shadow } Notes: ??
   - {: .shadow } Drum on the drums; remind them about assessment
@@ -241,8 +241,8 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
   - {: .shadow } Notes: ??
 - 12h30-12h30 {{ proj }} Questions for project topics ({% include instructors people="brown" %}, {{ main }})
   - {: .shadow} All
-- {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
+- {: .shadow} 13h00-13h30 faculty meeting - 103
 - 14h00-15h00 {{ lect }} Fitting dynamical models II ({% include instructors people="dushoff" %}, {{ main }})
   - {: .shadow } Notes: ??
 - 15h00-15h30 {{ catch }} ({% include instructors people="Mentors" %}, {{ lab }})
