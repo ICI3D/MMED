@@ -15,7 +15,7 @@ alertmsg: This tutorial will give you the tools to visualize infectious disease 
 
 The data sets necessary for this tutorial can be downloaded below. You should place all datasets in a single folder on your computer.
 
-- [Botswana HIV Data](https://github.com/ICI3D/datasets/blob/master/visualizingData/HIV_Botswana.csv?raw=true)
-- [London Measles Time Series](https://github.com/ICI3D/datasets/blob/master/visualizingData/MeaslesCleanLon.csv?raw=true)
-- [Liverpool Measles Time Series](https://github.com/ICI3D/datasets/blob/master/visualizingData/MeaslesCleanLP.csv?raw=true)
-- [Hookworm Burden Data](https://github.com/ICI3D/datasets/blob/master/visualizingData/Hookworms.csv?raw=true)
+- [Botswana HIV Data](https://drive.google.com/file/d/1t_qh5OU6TY01dPcOguGq0WqDM_h7l8C5/view?usp=drive_link)
+- [London Measles Time Series](https://drive.google.com/file/d/1qxXEd2inZFqDTFYkdHTBzVgZYvzQXyjP/view?usp=drive_link)
+- [Liverpool Measles Time Series](https://drive.google.com/file/d/16GWDuZaQxVLtzfX_gkcyPxSdlKgPDpbW/view?usp=drive_link)
+- [Hookworm Burden Data](https://drive.google.com/file/d/1WX-I14opRaIeuouAXJQSr2_kc7rWyqT7/view?usp=drive_link)
