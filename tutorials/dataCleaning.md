@@ -1,6 +1,6 @@
 ---
 layout: clinic
-subtitle: Data Cleaning and Management in R
+subtitle: Data Wrangling in R
 alerttype: danger
 alertmsg: For this tutorial, we will be using an example dataset that resembles (but is not) real data from a measles epidemic in Democratic Republic of Congo. <b>The "data" are made available only to ICI3D participants and are for use only during the MMED and DAIDD clinics, and only for the specified purposes.</b>
 ---
@@ -14,5 +14,5 @@ alertmsg: For this tutorial, we will be using an example dataset that resembles 
 
 The data necessary for this tutorial can be downloaded here:
 
-- [Example line list](https://www.github.com/ICI3D/datasets/raw/master/dataCleaning/tutorial5.csv)
-- [Correction table](https://www.github.com/ICI3D/datasets/raw/master/dataCleaning/kasaiCorrectionTable.csv)
+- [Example line list](https://drive.google.com/file/d/1HnKc_clyAte-3_YPIZPnQjeUIvUuUzj0/view?usp=drive_link)
+- [Correction table](https://drive.google.com/file/d/1blne2Z3ZHUxEzeAl5v1bqoj4BvlL8vL4/view?usp=drive_link)
