@@ -70,15 +70,15 @@ archive: false
 - {: .shadow} 07h30? whatsapp checkin - Belinda
 - 07h30-08h20 {{ org }} Registration ({% include instructors people="bruce|Mentors" %}, {{ lobby }})
 {{ bfast }}
-- 08h30-09h00 {{ org }} Welcome and motivation for workshop ({% include instructors people="pearson" %}, {{ main }})
+- 08h30-09h00 {{ org }} [Welcome and motivation for workshop](https://drive.google.com/file/d/1MyfYDqdo0174_MThR4oj-7VCoU0D-6Bj/view?usp=drive_link) ({% include instructors people="pearson" %}, {{ main }})
 	- {: .shadow} Notes: General
-- 09h00-09h15 {{ org }} MMED roadmap and program overview ({% include instructors people="pearson" %}, {{ main }})
+- 09h00-09h15 {{ org }} [MMED roadmap and program overview](https://drive.google.com/file/d/1sGnmfMkzX3ImNhS-OSQlQnDb9O850p8-/view?usp=drive_link) ({% include instructors people="pearson" %}, {{ main }})
 	- {: .shadow} Notes: General
-- 09h15-10h00 {{ lect }} Public health, epidemiology, and models ({% include instructors people="pearson" %}, {{ main }})
+- 09h15-10h00 {{ lect }} [Public health, epidemiology, and models](https://drive.google.com/file/d/14rIjfM2Gz6KppCt0_nztA3Ov5rzUB65a/view?usp=drive_link) ({% include instructors people="pearson" %}, {{ main }})
 	- {: .shadow} Notes: Jonathan, Shadé
 - 10h00-10h30 {{ coffee }}
 - {: .shadow} check morning's recordings - Faikah
-- 10h30-11h45 {{ lect }} Introduction to dynamic modelling of infectious disease I ({% include instructors people="dushoff" %}, {{ main }})
+- 10h30-11h45 {{ lect }} [Introduction to dynamic modelling of infectious disease I](https://drive.google.com/file/d/13GEhJqqenV6zsm8xgQyZHt7qlncyH8b7/view?usp=drive_link) ({% include instructors people="dushoff" %}, {{ main }})
 	- {: .shadow} Notes: CarL, Brian
 - 11h45-12h30 {{ lect }} Introduction to infectious disease data ({% include instructors people="nyamai" %}, {{ main }})
 	- {: .shadow} Notes: CarL, Shadé
