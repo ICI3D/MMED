@@ -8,7 +8,7 @@ alertmsg: For this tutorial, we will be using an example dataset that resembles 
 > You may also want to check out the [R Studio Data Wrangling Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf).
 
 ## Tutorial script
-- [Download](../RTutorials/ICI3D_RTutorial_5_DataCleaning.R){:download="ICI3D_RTutorial_5_DataCleaning.R"}
+- [Download]({{site.url}}/RTutorials/ICI3D_RTutorial_5_DataCleaning.R){:download="ICI3D_RTutorial_5_DataCleaning.R"}
 
 ## Tutorial data
 
