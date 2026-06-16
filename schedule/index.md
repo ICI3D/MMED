@@ -151,7 +151,7 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
  
 {{ bfast }}
 - {: .shadow} 07h30? whatsapp checkin 
-- 08h30-10h00 {{ labex }} Introduction to models and data: HIV in Harare ({% include instructors people="pearson" %}, {{ lab }})
+- 08h30-10h00 {{ labex }} [Introduction to models and data: HIV in Harare](https://drive.google.com/file/d/1e1ZQ9V8TFpVzPzG79ytfBGPiZbbSVOqV/view?usp=drive_link) ({% include instructors people="pearson" %}, {{ lab }})
   - {: .shadow } Notes: Lauren
   - Launch from R prompt with `ICI3D::hivTutorial()`
   - If you finish all five versions of the model for the Harare data, move on to working on data from other countries.
