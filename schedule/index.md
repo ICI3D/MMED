@@ -80,14 +80,14 @@ archive: false
 - {: .shadow} check morning's recordings - Faikah
 - 10h30-11h45 {{ lect }} [Introduction to dynamic modelling of infectious disease I](https://drive.google.com/file/d/13GEhJqqenV6zsm8xgQyZHt7qlncyH8b7/view?usp=drive_link) ({% include instructors people="dushoff" %}, {{ main }})
 	- {: .shadow} Notes: CarL, Brian
-- 11h45-12h30 {{ lect }} Introduction to infectious disease data ({% include instructors people="nyamai" %}, {{ main }})
+- 11h45-12h30 {{ lect }} [Introduction to infectious disease data](https://drive.google.com/file/d/1uxM74xBFFVb-vOt79xeboeYVUrQ3udYe/view?usp=drive_link) ({% include instructors people="nyamai" %}, {{ main }})
 	- {: .shadow} Notes: CarL, Shadé
 - [Day 1 AM Quiz Open](https://forms.gle/MMkiwvbrnRoV3zWH6)
 - 12h30-14h00 {{ lunch }} 
 - {: .shadow} 13h00-13h30 faculty meeting - 103
 - 13h15-13h45 Technical assistance for participants ({% include instructors people="AIMS tutors" %}, {{ lab }})
 	- {: .shadow} AIMS tutors: to hand over any queries to mentors
-- 14h00-15h30 {{ labex }} Dynamical fever ({% include instructors people="nyamai" %}, {{ lab }})
+- 14h00-15h30 {{ labex }} [Dynamical fever](https://drive.google.com/file/d/1V-WGYaaGW4ZLub519vP9Raqmjrp-SW8f/view?usp=drive_link) ({% include instructors people="nyamai" %}, {{ lab }})
   - Launch from R prompt with `ICI3D::dynamicalFever()`
 	- {: .shadow} Mentors: all
 	- {: .shadow} Faculty: Jonathan, CarL
@@ -99,7 +99,7 @@ archive: false
   - {: .shadow} Mentors: Brian, Shadé
   - {: .shadow} Faculty: CarL, Mutono
 - {: .shadow} Slides: Study design
-- {: .shadow} Summary: Visualization ({% include instructors people="lombard" %}, {{ lab }})
+  - Walkthrough: [Visualization](https://drive.google.com/file/d/1JI77txt0njg3ASvlzJCkSvyY0U2Clc0X/view?usp=drive_link)
 - {: .shadow} [Lab 3 - Study design I](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_EpiStudyDesign.R) (may also be of interest, but is an own-time activity)
 - 17h00-18h00  {{ post }} [Session 1](https://drive.google.com/file/d/1QbBO-GHThvm35o-fC7hugd32B_jM2YLw/view?usp=drive_link) ({{main}})
 - {: .shadow} Prompt presenters to bring along their own notebooks to keep track of their feedback.
@@ -147,7 +147,7 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 - 17h05-18h00 {{ post }} [Session 2](https://drive.google.com/file/d/1QbBO-GHThvm35o-fC7hugd32B_jM2YLw/view?usp=drive_link) ({{ main }})
 - Knowledge Assessment
 {{ dinner }}
-- 19h00-20h00 {{ glect }} Title, ({% include instructors people="smith" %}, {{ main }})
+- 19h00-20h00 {{ glect }} Geographic and Age-Based Projection of Immunity: Application to Measles in North Carolina ({% include instructors people="smith" %}, {{ main }})
   - Moderator: ({% include instructors people="pearson" %}) 
 
 ### Day 3 (Wednesday, 17 June)
