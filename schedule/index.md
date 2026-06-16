@@ -95,11 +95,10 @@ archive: false
 - 15h30-16h00 {{ tea }}
 	- Poster setup: [Group 1](https://drive.google.com/file/d/1QbBO-GHThvm35o-fC7hugd32B_jM2YLw/view?usp=drive_link) ({% include instructors people="bruce|Mentors" %}, {{main}})
 - 16h00-17h00 {{ rtut }} Tutorial 4 - Visualizing infectious disease data ({% include instructors people="lombard" %}, {{ lab }})
-  - {: .shadow} Walkthrough: Belinda  
+	- Walkthrough: [Visualization](https://drive.google.com/file/d/1JI77txt0njg3ASvlzJCkSvyY0U2Clc0X/view?usp=drive_link)
   - {: .shadow} Mentors: Brian, Shadé
   - {: .shadow} Faculty: CarL, Mutono
 - {: .shadow} Slides: Study design
-	- Walkthrough: [Visualization](https://drive.google.com/file/d/1JI77txt0njg3ASvlzJCkSvyY0U2Clc0X/view?usp=drive_link)
 - {: .shadow} [Lab 3 - Study design I](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_EpiStudyDesign.R) (may also be of interest, but is an own-time activity)
 - 17h00-18h00  {{ post }} [Session 1](https://drive.google.com/file/d/1QbBO-GHThvm35o-fC7hugd32B_jM2YLw/view?usp=drive_link) ({{main}})
 - {: .shadow} Prompt presenters to bring along their own notebooks to keep track of their feedback.
@@ -114,7 +113,7 @@ archive: false
 - 08h30-09h30 {{ lect }} Introduction to dynamic modelling of infectious disease II ({% include instructors people="dushoff" %}, {{ main }})
 	- {: .shadow} Notes: CarL, Belinda
 - 09h30-10h15 {{ lc }} Introduction to model implementation in R ({% include instructors people="dushoff" %}, {{ main }})
-  - Resulting code
+  - [Resulting code]({{site.url}}/RTutorials/ICI3D_Live_Intro_Implementation.R):download="ICI3D_Live_Intro_Implementation.R"}
   - {: .shadow } Notes: CarL, Belinda
 - 10h15-10h45 {{ coffee }}
 - 10h45-11h30 {{ lect }} (Hidden) assumptions of simple ODE models ({% include instructors people="pearson" %}, {{ main }})
