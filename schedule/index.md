@@ -25,7 +25,7 @@ archive: false
 {%- assign labex = "**Lab-based exercise**:" -%}
 {%- assign ex = "**Exercise**:" -%}
 {%- assign rtut = "[**R Tutorial**](../tutorials):" -%}
-{%- assign labs = "**Lab**:" -%}
+{%- assign labs = "[**Lab**](../tutorials):" -%}
 {%- assign post = "**Posters**:" -%}
 {%- assign catch = "**Catch-up session**:" -%}
 {%- assign prac = "**Comp. Session**:" -%}
@@ -99,7 +99,7 @@ archive: false
   - {: .shadow} Mentors: Brian, Shadé
   - {: .shadow} Faculty: CarL, Mutono
 - {: .shadow} Slides: Study design
-  - Walkthrough: [Visualization](https://drive.google.com/file/d/1JI77txt0njg3ASvlzJCkSvyY0U2Clc0X/view?usp=drive_link)
+	- Walkthrough: [Visualization](https://drive.google.com/file/d/1JI77txt0njg3ASvlzJCkSvyY0U2Clc0X/view?usp=drive_link)
 - {: .shadow} [Lab 3 - Study design I](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_EpiStudyDesign.R) (may also be of interest, but is an own-time activity)
 - 17h00-18h00  {{ post }} [Session 1](https://drive.google.com/file/d/1QbBO-GHThvm35o-fC7hugd32B_jM2YLw/view?usp=drive_link) ({{main}})
 - {: .shadow} Prompt presenters to bring along their own notebooks to keep track of their feedback.
