@@ -162,7 +162,7 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
   - {: .shadow} Faculty: Lauren
 - 10h00-10h30 {{ coffee }}
 - 10h30-12h00 {{ lect }} Introduction to statistical philosophy ({% include instructors people="dushoff" %}, {{ main }})
-  - {: .shadow } Notes: CarL, Lauren
+  - {: .shadow } Notes: CarL, Brian
 - 12h00-12h30 {{ proj }} Introduction to project topics ({% include instructors people="brown" %}, {{ main }})
   - {: .shadow} All
 - 12h30-14h00 {{ lunch }}
