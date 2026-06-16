@@ -144,7 +144,6 @@ archive: false
 - {: .shadow} AIMS: assisted by Belinda, CarL
 _- 17h00-17h05 Poster setup: move desks and chairs_
 - 17h05-18h00 {{ post }} [Session 2](https://drive.google.com/file/d/1QbBO-GHThvm35o-fC7hugd32B_jM2YLw/view?usp=drive_link) ({{ main }})
-- Knowledge Assessment
 {{ dinner }}
 - 19h00-20h00 {{ glect }} Geographic and Age-Based Projection of Immunity: Application to Measles in North Carolina ({% include instructors people="smith" %}, {{ main }})
   - Moderator: ({% include instructors people="pearson" %}) 
