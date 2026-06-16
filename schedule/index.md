@@ -159,10 +159,10 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
   -  **Additional info:** Distributed delay models of survival (Boxcar Models) and example script
 - {: .shadow} Summary: Harare tutorial ({% include instructors people="pearson" %})
   - {: .shadow} Mentors: all
-  - {: .shadow} Faculty: Eva
+  - {: .shadow} Faculty: Lauren
 - 10h00-10h30 {{ coffee }}
 - 10h30-12h00 {{ lect }} Introduction to statistical philosophy ({% include instructors people="dushoff" %}, {{ main }})
-  - {: .shadow } Notes: ??
+  - {: .shadow } Notes: CarL, Lauren
 - 12h00-12h30 {{ proj }} Introduction to project topics ({% include instructors people="brown" %}, {{ main }})
   - {: .shadow} All
 - 12h30-14h00 {{ lunch }}
@@ -172,15 +172,14 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
   - {: .shadow} AIMS: assisted by Belinda, Reshma, CarL
 - 15h30-16h00 {{ tea }}
 - 16h00-17h00 {{ lect }} Introduction to likelihood ({% include instructors people="dushoff" %}, {{ main }})
-  - {: .shadow } Notes: ??
+  - {: .shadow } Notes: CarL, Brian
 - 17h00-18h00 {{ labs }} [Introduction to likelihood](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_introLikelihood.R) ({% include instructors people="dushoff" %}, {{ lab }})
   - {: .shadow} Mentors: all
-  - {: .shadow} Faculty: Jonathan, CarL
+  - {: .shadow} Faculty: CarL
 - {: .shadow} Summary: Likelihood ({% include instructors people="dushoff" %}, {{ lab }})
 {{ dinner }}
 - 19h00-20h00 {{ catch }} ({% include instructors people="Mentors" %}, {{ lab }})
-  - {: .shadow} This catch-up is open, but please sign up for future catch-ups
-  - {: .shadow} Faculty: Eva, Mutono
+  - {: .shadow} Faculty: Mutono
 
 ### Day 4 (Thursday, 18 June)
 
