@@ -113,7 +113,7 @@ archive: false
 - 08h30-09h30 {{ lect }} Introduction to dynamic modelling of infectious disease II ({% include instructors people="dushoff" %}, {{ main }})
 	- {: .shadow} Notes: CarL, Belinda
 - 09h30-10h15 {{ lc }} Introduction to model implementation in R ({% include instructors people="dushoff" %}, {{ main }})
-  - [Resulting code]({{site.url}}/RTutorials/ICI3D_Live_Intro_Implementation.R):download="ICI3D_Live_Intro_Implementation.R"}
+  - [Resulting code]({{site.url}}/RTutorials/ICI3D_Live_Intro_Implementation.R){:download="ICI3D_Live_Intro_Implementation.R"}
   - {: .shadow } Notes: CarL, Belinda
 - 10h15-10h45 {{ coffee }}
 - 10h45-11h30 {{ lect }} (Hidden) assumptions of simple ODE models ({% include instructors people="pearson" %}, {{ main }})
