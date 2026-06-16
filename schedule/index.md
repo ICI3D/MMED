@@ -110,19 +110,18 @@ archive: false
 
 {{ bfast }}
 - {: .shadow} 07h30? whatsapp checkin - Belinda
-- 08h30-09h30 {{ lect }} Introduction to dynamic modelling of infectious disease II ({% include instructors people="dushoff" %}, {{ main }})
+- 08h30-09h30 {{ lect }} [Introduction to dynamic modelling of infectious disease II](https://drive.google.com/file/d/1QSUrAweNceL8UNkt8SwLk6g4oMRrX_Kk/view?usp=drive_link) ({% include instructors people="dushoff" %}, {{ main }})
 	- {: .shadow} Notes: CarL, Belinda
 - 09h30-10h15 {{ lc }} Introduction to model implementation in R ({% include instructors people="dushoff" %}, {{ main }})
   - [Resulting code]({{site.url}}/RTutorials/ICI3D_Live_Intro_Implementation.R){:download="ICI3D_Live_Intro_Implementation.R"}
   - {: .shadow } Notes: CarL, Belinda
 - 10h15-10h45 {{ coffee }}
-- 10h45-11h30 {{ lect }} (Hidden) assumptions of simple ODE models ({% include instructors people="pearson" %}, {{ main }})
+- 10h45-11h30 {{ lect }} [(Hidden) assumptions of simple ODE models](https://drive.google.com/file/d/1zpfx8icG_Kcjw0FhK_Nkfu4AuG7uNVmI/view?usp=drive_link) ({% include instructors people="pearson" %}, {{ main }})
   - {: .shadow } Notes: Jonathan, Belinda
 - 11h30-12h15 {{ labs }} ODE models in R ({% include instructors people="njuguna" %}, {{ lab }})
-  - {: .shadow} Walkthrough: Brian
+	- Walkthrough: [ODE models](https://drive.google.com/file/d/1L0cgSFMWwMOCOHexUDVMXBn2wmkkI6V-/view?usp=drive_link)
   - {: .shadow} Mentors: Shadé, Belinda
   - {: .shadow} Faculty: Lauren, CarL
-- {: .shadow} Summary: ODE models ({% include instructors people="njuguna" %}, {{ lab }})
 - 12h15-12h30 {{ catch }} ({% include instructors people="Mentors" %}, {{ lab }})
   - {: .shadow} Mentors: Brian, Shadé, Belinda
   - {: .shadow} Faculty: Lauren
@@ -145,7 +144,7 @@ archive: false
 _- 17h00-17h05 Poster setup: move desks and chairs_
 - 17h05-18h00 {{ post }} [Session 2](https://drive.google.com/file/d/1QbBO-GHThvm35o-fC7hugd32B_jM2YLw/view?usp=drive_link) ({{ main }})
 {{ dinner }}
-- 19h00-20h00 {{ glect }} Geographic and Age-Based Projection of Immunity: Application to Measles in North Carolina ({% include instructors people="smith" %}, {{ main }})
+- 19h00-20h00 {{ glect }} [Geographic and Age-Based Projection of Immunity: Application to Measles in North Carolina](https://drive.google.com/file/d/1FD0fU9BMbt2MhGW9rzFdM-8N3UM4CscT/view?usp=drive_link) ({% include instructors people="smith" %}, {{ main }})
   - Moderator: ({% include instructors people="pearson" %}) 
 
 ### Day 3 (Wednesday, 17 June)
@@ -161,7 +160,7 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
   - {: .shadow} Mentors: all
   - {: .shadow} Faculty: Lauren
 - 10h00-10h30 {{ coffee }}
-- 10h30-12h00 {{ lect }} Introduction to statistical philosophy ({% include instructors people="dushoff" %}, {{ main }})
+- 10h30-12h00 {{ lect }} [Introduction to statistical philosophy](https://drive.google.com/file/d/1jPZIg9j2tN9cJtNkL0l2tx7lte1B62rv/view?usp=drive_link) ({% include instructors people="dushoff" %}, {{ main }})
   - {: .shadow } Notes: CarL, Brian
 - 12h00-12h30 {{ proj }} Introduction to project topics ({% include instructors people="brown" %}, {{ main }})
   - {: .shadow} All
