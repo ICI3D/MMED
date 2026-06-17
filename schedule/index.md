@@ -173,6 +173,7 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 - 16h00-17h00 {{ lect }} [Introduction to likelihood](https://drive.google.com/file/d/1Q6UU1bYgkcQyCgYEEu3uVFpzt8LVdGfF/view?usp=drive_link) ({% include instructors people="dushoff" %}, {{ main }})
   - {: .shadow } Notes: CarL, Brian
 - 17h00-18h00 {{ labs }} [Introduction to likelihood](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_introLikelihood.R) ({% include instructors people="dushoff" %}, {{ lab }})
+  - [MME calculation script](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_introLikelihood.extras.R)
   - {: .shadow} Mentors: all
   - {: .shadow} Faculty: CarL
 - {: .shadow} Summary: Likelihood ({% include instructors people="dushoff" %}, {{ lab }})
