@@ -131,14 +131,13 @@ archive: false
 - 14h00-14h45 {{ lect }} Data management and wrangling ({% include instructors people="nyamai" %}, {{ lab }})
   - {: .shadow } Notes: CarL, Lauren
 - 14h45-15h30 {{ rtut }} Tutorial 5 - Data wrangling ({% include instructors people="horn" %}, {{ lab }})
-  - {: .shadow} Walkthrough: Shadé
+	- Walkthrough: [Data wrangling](https://drive.google.com/file/d/1FGEhZzAjPkDX4INHUrKVnUB6XenR7ix3/view?usp=drive_link)
   - {: .shadow} Mentors: Brian, Belinda
-  - {: .shadow} Faculty: CarL, Eva
-- {: .shadow} Summary: Data wrangling ({% include instructors people="horn" %}, {{ lab }})
+  - {: .shadow} Faculty: CarL
 - 15h30-16h00 {{ tea }}
   - Poster setup: [Group 2](https://drive.google.com/file/d/1QbBO-GHThvm35o-fC7hugd32B_jM2YLw/view?usp=drive_link) ({% include instructors people="bruce|Mentors" %}, {{ main }})
   - {: .shadow} Don't move the chairs! Only put the posters up.
-- 16h00-17h00 {{ ex }} Formulating research questions ({% include instructors people="brown|dushoff|nyamai|pearson" %}, {{ sections }})
+- 16h00-17h00 {{ ex }} [Formulating research questions](https://drive.google.com/file/d/1LfiWmC_JBRKN7BSYOVNAlpq2h84KBkmd/view?usp=drive_link) ({% include instructors people="brown|dushoff|nyamai|pearson" %}, {{ sections }})
 - {: .shadow} ICI3D: assisted by Brian, Shadé, Jonathan
 - {: .shadow} AIMS: assisted by Belinda, CarL
 _- 17h00-17h05 Poster setup: move desks and chairs_
@@ -162,15 +161,15 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 - 10h00-10h30 {{ coffee }}
 - 10h30-12h00 {{ lect }} [Introduction to statistical philosophy](https://drive.google.com/file/d/1jPZIg9j2tN9cJtNkL0l2tx7lte1B62rv/view?usp=drive_link) ({% include instructors people="dushoff" %}, {{ main }})
   - {: .shadow } Notes: CarL, Brian
-- 12h00-12h30 {{ proj }} Introduction to project topics ({% include instructors people="brown" %}, {{ main }})
+- 12h00-12h30 {{ proj }} [Introduction to project topics](https://drive.google.com/file/d/1YyDT4XFx4lwqbhqKzFRh86bvmrlqlYB4/view?usp=drive_link) ({% include instructors people="brown" %}, {{ main }})
   - {: .shadow} All
 - 12h30-14h00 {{ lunch }}
 - {: .shadow} 13h00-13h30 faculty meeting - 103
-- 14h00-15h30 {{ ex }} Creating a model world to address a research question ({% include instructors people="brown|dushoff|nyamai|pearson" %}, {{ sections }})
+- 14h00-15h30 {{ ex }} [Creating a model world to address a research question](https://drive.google.com/file/d/19ski0WypF8ykg8OqBHuy7MxDTSRZsO4X/view?usp=drive_link) ({% include instructors people="brown|dushoff|nyamai|pearson" %}, {{ sections }})
   - {: .shadow} ICI3D: assisted by Brian, Shadé, Jonathan
   - {: .shadow} AIMS: assisted by Belinda, Reshma, CarL
 - 15h30-16h00 {{ tea }}
-- 16h00-17h00 {{ lect }} Introduction to likelihood ({% include instructors people="dushoff" %}, {{ main }})
+- 16h00-17h00 {{ lect }} [Introduction to likelihood](https://drive.google.com/file/d/1Q6UU1bYgkcQyCgYEEu3uVFpzt8LVdGfF/view?usp=drive_link) ({% include instructors people="dushoff" %}, {{ main }})
   - {: .shadow } Notes: CarL, Brian
 - 17h00-18h00 {{ labs }} [Introduction to likelihood](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_introLikelihood.R) ({% include instructors people="dushoff" %}, {{ lab }})
   - {: .shadow} Mentors: all
