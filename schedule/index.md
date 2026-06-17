@@ -163,6 +163,7 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
   - {: .shadow } Notes: CarL, Brian
 - 12h00-12h30 {{ proj }} [Introduction to project topics](https://drive.google.com/file/d/1-Ko96oZK_zu7kQqWduF82Y3hkp3c_-Sn/view?usp=drive_link) ({% include instructors people="brown" %}, {{ main }})
   - {: .shadow} All
+- [Day 3 AM Quiz Open](https://forms.gle/b9fnyjtaBjLBf7kw6)
 - 12h30-14h00 {{ lunch }}
 - {: .shadow} 13h00-13h30 faculty meeting - 103
 - 14h00-15h30 {{ ex }} [Creating a model world to address a research question](https://drive.google.com/file/d/19ski0WypF8ykg8OqBHuy7MxDTSRZsO4X/view?usp=drive_link) ({% include instructors people="brown|dushoff|nyamai|pearson" %}, {{ sections }})
