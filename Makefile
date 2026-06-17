@@ -12,8 +12,6 @@
 ## http://www.ici3d.org/MMED/schedule
 ## http://www.ici3d.org/MMED/schedule?shadow
 
-## http://www.ici3d.org/mmed/ ## DOES NOT EXIST (good)
-
 ######################################################################
 
 ### Hooks for the editor to set the default target
