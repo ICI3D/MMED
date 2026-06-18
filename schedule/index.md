@@ -34,7 +34,7 @@ archive: false
 {%- assign pc = "**Participatory coding**:" -%}
 {%- assign sc = "**Social event**:" -%}
 {%- assign org = "**Organizational session**:" -%}
-{%- assign proj = "**Projects**:" -%}
+{%- assign proj = "[**Projects**](../projects):" -%}
 {%- assign coffee = "**Coffee**" -%}
 {%- assign lunch = "**Lunch**" -%}
 {% assign bfast = "- 07h45-08h15 **Breakfast**" %}
@@ -192,10 +192,10 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
   - [Resulting code]({{site.url}}/RTutorials/MMED_2026_PC1.R)
   - {: .shadow } Notes: Shadé, Belinda, Mutono
 - 10h00-10h30 {{ coffee }}
-- 10h30-11h30 {{ lect }} [An introduction to stochastic models](https://drive.google.com/file/d/1dssLPljRrMaCrmKKtw_SVE56FDpChLah/view?usp=drive_link) ({% include instructors people="kassanjee|brown" %}, {{ main }})
+- 10h30-11h30 {{ lect }} [An introduction to stochastic models](https://drive.google.com/file/d/1dssLPljRrMaCrmKKtw_SVE56FDpChLah/view?usp=drive_link) ({% include instructors people="kassanjee" %}, {{ main }})
   - {: .shadow } Notes: CarL, Shadé
 - 11h30-12h30 {{ labs }} An introduction to stochastic models ({% include instructors people="brown" %}, {{ lab }})
-  - {: .shadow} Walkthrough: Stochastic models
+	- Walkthrough: [Stochastic models](https://drive.google.com/file/d/10RNh6VTZFIjz57SuoxcdDoH4bQFzs_hF/view?usp=drive_link)
   - {: .shadow} Mentors: Shadé, Belinda
   - {: .shadow} Faculty: Mutono
 - 12h30-14h00 {{ lunch }}
@@ -210,7 +210,7 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
   - {: .shadow} Faculty: CarL, Reshma, Mutono
 - {: .shadow} Summary: Heterogeneity ({% include instructors people="dushoff" %}, {{ lab }})
 - 15h30-16h00 {{ tea }}
-- 16h00-16h45 {{ lect }} Fitting dynamical models I ({% include instructors people="pearson" %}, {{ main }})
+- 16h00-16h45 {{ lect }} [Fitting dynamical models I](https://drive.google.com/file/d/1-H5u62V4vhTujq3Av_i5JQjNC-G8EJGB/view?usp=drive_link) ({% include instructors people="pearson" %}, {{ main }})
   - {: .shadow } Notes: Belinda, Lauren, Jonathan
 - 16h45-18h00 {{ labs }} Maximum likelihood: fitting of a dynamical model ({% include instructors people="pearson" %}, {{ lab }})
   - {: .shadow} Walkthrough: CarL
@@ -219,7 +219,7 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 - {: .shadow} Summary: Maximum likelihood ({% include instructors people="pearson" %}, {{ lab }})
 {{ dinner }}
 - 18h30-19h00 {{ catch }} ({% include instructors people="Mentors" %}, {{ lab }})
-  - Includes thinking of project questions
+  - Includes thinking of [project questions](../projects)
   - Complete model diagram
   - {: .shadow} Faculty: Reshma, Lauren
 - 19h00-21h00 {{ sc }} Drumming ({{ main }})
