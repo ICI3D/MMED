@@ -201,13 +201,13 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 - 12h30-14h00 {{ lunch }}
 - {: .shadow} 13h00-13h30 faculty meeting - 103
 - 14h00-14h45 {{ lect }} Consequences of heterogeneity and modelling options ({% include instructors people="dushoff" %}, {{ main }})
-  - {: .shadow } Notes: Lauren, Shadé, Belinda, Brian
+  - {: .shadow } Notes: Lauren, Mutono, Belinda, Brian
   - {: .shadow } Drum on the drums; remind them about assessment
 - 14h45-15h30 {{ labs }} Consequences of heterogeneity ({% include instructors people="dushoff" %}, {{ lab }})
-  - Download <a href="https://github.com/ICI3D/RTutorials/blob/master/ICI3D_Lab_Heterogeneous_Groups.R?raw=1">lab</a> and <a href="https://github.com/ICI3D/RTutorials/blob/master/ICI3D_Heterogeneous_Groups.R?raw=1"> supplementary functions</a>
+  - Download [lab]({{site.url}}/RTutorials/ICI3D_Lab_Heterogeneous_Groups.R){:download="ICI3D_Lab_Heterogeneous_Groups.R"} and [supplementary functions]({{site.url}}/RTutorials/ICI3D_Heterogeneous_Groups.R){:download="ICI3D_Heterogeneous_Groups.R"}
   - {: .shadow} Walkthrough: Jonathan
   - {: .shadow} Mentors: Brian, Belinda
-  - {: .shadow} Faculty: CarL, Eva, Mutono
+  - {: .shadow} Faculty: CarL, Reshma, Mutono
 - {: .shadow} Summary: Heterogeneity ({% include instructors people="dushoff" %}, {{ lab }})
 - 15h30-16h00 {{ tea }}
 - 16h00-16h45 {{ lect }} Fitting dynamical models I ({% include instructors people="pearson" %}, {{ main }})
@@ -216,7 +216,7 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
   - {: .shadow} Walkthrough: CarL
   - {: .shadow} Mentors: Brian, Shadé
   - {: .shadow} Faculty: Jonathan, CarL, Mutono
-- {: .shadow} Summary: Maximum likelihood ({% include instructors people="vanschalkwyk" %}, {{ lab }})
+- {: .shadow} Summary: Maximum likelihood ({% include instructors people="pearson" %}, {{ lab }})
 {{ dinner }}
 - 18h30-19h00 {{ catch }} ({% include instructors people="Mentors" %}, {{ lab }})
   - Includes thinking of project questions
@@ -233,25 +233,26 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
   - {: .shadow} AIMS: assisted by Belinda, Reshma, CarL
   - {: .shadow } Telephone!
 - 10h00-10h30 {{ coffee }}
-- 10h30-12h00 {{ pc }} Building a stochastic model ({% include instructors people="pearson" %}, {{ main }})
+- 10h30-11h45 {{ pc }} Building a stochastic model ({% include instructors people="pearson" %}, {{ main }})
   - Resulting code
-  - {: .shadow } Notes: ??
-- 12h30-12h30 {{ proj }} Questions for project topics ({% include instructors people="brown" %}, {{ main }})
+  - {: .shadow } Notes: Lauren, Belinda
+- 11h45-12h30 {{ proj }} Questions for project topics ({% include instructors people="brown" %}, {{ main }})
   - {: .shadow} All
 - 12h30-14h00 {{ lunch }}
 - {: .shadow} 13h00-13h30 faculty meeting - 103
 - 14h00-15h00 {{ lect }} Fitting dynamical models II ({% include instructors people="dushoff" %}, {{ main }})
-  - {: .shadow } Notes: ??
+  - {: .shadow } Notes: CarL, Belinda, Lauren
 - 15h00-15h30 {{ catch }} ({% include instructors people="Mentors" %}, {{ lab }})
-	* Includes selecting project: Project selection form
-  - {: .shadow} Faculty: Carii, Mutono
+	* Includes selecting project: [Project selection form](https://forms.gle/xZKKcq789LWUQpDB8)
+  - {: .shadow} Faculty: Lauren, Mutono
 - 15h30-16h00 {{ tea }}
-- 16h00-17h00 **Mentor presentations** (Chair: {% include instructors people="nyamai" %}, {{ main }})
+- 16h00-17h00 **Mentor presentations** (Chair: {% include instructors people="kassanjee" %}, {{ main }})
   - {: .shadow } We don't take formal notes here; you are requested to communicate privately with the mentors
 - 17h00-18h00 **Course evaluation**: Mid-clinic feedback session ({% include instructors people="bruce" %}, {{ main }})
+	- {: .shadow} Project group: work on group assignments possibly calling on experts
+	- {: .shadow} Jonathan, Mutono
 {{ dinner }}
 - 19h00-21h00 {{ sc }} Movie night ({{ main }})
-	- {: .shadow} Project group: work on group assignments possibly calling on experts
 
 ### Day 6 (Saturday, 20 June)
 
