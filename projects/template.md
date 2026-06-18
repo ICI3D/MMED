@@ -5,40 +5,45 @@ title: Potential project
 subtitle: Project Title
 ---
 
-## Overview
+## Project summary for faculty
 
-Include a problem statement.
+To please be completed/ drafted 3 weeks before the start of MMED (25 May) as to give time for review of projects and updates if need be. 
 
-This group will ...
+## Project title
 
-## Things to consider
+Please insert title here
 
-- List anything participants should take into account when deciding whether or not to join this group.
+## Project lead(s)
 
-- _This group is recommended for:_
-    - List characteristics of participants who would be a good fit for this group.
+Name(s):	
+Institution: 
+Email: 
 
-- _This group will have the opportunity to engage in any of the following:_
-    - Describe some of the things the group might do
+## Project pitch
 
-- List (and link to) any sessions that are particularly important for group members to attend or review before 
-Week 2.
+Briefly describe the project, what participants are expected to know prior to the project, and what the students will be expected to do. 
 
-## Background
+## Research area(s)
 
-More detailed background information...
+E.g., Infectious disease dynamics
 
 ## Data
 
-- Link to data/potential data sources
+Type of data (e.g., real/ simulated/ hybrid)
+
+### Source:
+
+Description and status of data (ready to use, needs cleaning, will be simulated)
+
+## Software
+
+What software or approaches are you thinking of? Do participants need experience in the particular tool(s)?
+
+## Potential research question(s)
+
 
 ## Resources
 
-### References
+List papers or websites you might share with the participants
 
-- Provide links to references that will be helpful to the group as they get started
-
-### Tutorials
-
-- Provide links to training materials that will help participants learn to do necessary analyses
 
