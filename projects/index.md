@@ -40,6 +40,6 @@ Please be sure to select your top 3 project choices, no later than **18h00 on Fr
 - [Potential Population-level Health Impact and Cost-effectiveness of an Adult TB Vaccine in South Africa](./TBvaccCostEff)
     -  Lead:
     -  Participants:
-- [Impact of Switching from Three to Two Dose Regimen for Pneumococcal Vaccine in Kenya](./PneumococcalVaccKenya)
+- [Impact of Switching from Three- to Two-Dose Regimen for Pneumococcal Vaccine in Kenya](./PneumococcalVaccKenya)
     -  Lead:
     -  Participants:
