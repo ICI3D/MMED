@@ -1,7 +1,7 @@
 ---
-layout: redirect
+layout: clinic
 redirect: ../development
-subtitle: MMED 2025 Projects
+subtitle: MMED 2026 Projects
 tab: Projects
 title: Projects
 alerttype: success
@@ -12,32 +12,34 @@ prevalertmsg: >
   </ul>
 ---
 
-Information about the 2025 projects will be posted here when available.
+## Project Selection
 
-- [Using transmission models to inform trial design for dengue](./dengueTrials) _(Main lecture hall)_
-    -  Faculty: Bobby
-    -  Mentor: Tumelo
-    -  Participants: Brian, Manar, Mariken
-- [Heterogeneity or behaviour modification: Can we tell?](./heterogeneity) _(Lobby)_
-    -  Faculty: Sam
-    -  Participants: Cameline, Dilip, Kassahun, Martha
-- [Birth dose Hepatitis B vaccine](./hepb) _(Main lecture hall)_
-    -  Faculty: Cari, Reshma
-    -  Participants: Akim, Njoki, Sebentile, Shelina, Tonderai
-- [Seasonal transmission meets seasonal reporting](./seasonalData) _(Library_
-    -  Faculty: Becky, Jonathan
-    -  Participants: Mphatso, Nicholas, Robert
-- [Synthetic Population Evaluation](./synthetic) _(Dining hall)_
-    -  Faculty: Carl
-    -  Mentor: Evans
-    -  Participants: Carvin, Khai, Tasmin, Wingston
-- [Outbreak Investigation](./mmf) _(Library)_
-    -  Faculty: Ivy, Juliet
-    -  Mentor: Lauren
-    -  Participants: Emma, Sara, Sizeka
-- [Enhancing Trachoma elimination](./trachoma) _(Main computer lab)_
-    -  Faculty: Thumbi, Zinhle
-    -  Participants: Anita, Chenoa, Fola, Jordan, Yuri
-- [COVID in prisons and other congregate populations](./covid_prisons) _(Main computer lab)_
-    -  Faculty: Seth, Mutono
-    -  Participants: Bianca, Fiona, Liliwe, Rashidul
+Please be sure to select your top 3 project choices, no later than **18h00 on Friday, 19 June**.
+- [Selection form](https://forms.gle/aQPsAahN7uG6dExEA) 
+
+## Projects
+
+- [Respiratory Pathogen Scenario Analysis](./RespPathogen) 
+    -  Lead: 
+    -  Participants: 
+- [Predicting Epidemic Size](./PredictEpiSize) 
+    -  Lead: 
+    -  Participants:
+- [Assessing the Impact of Missing Data for Within Household Transmission Models](./MissingData)
+    -  Lead: 
+    -  Participants: 
+- [Measles Transmission Dynamics: Model Fitting with Real Surveillance Data](./MeaslesFitting) 
+    -  Lead: 
+    -  Participants: 
+- [Mpox Transmission Dynamics in South Kivu, DRC](./MPoxDRC) 
+    -  Lead: 
+    -  Participants: 
+- [Outbreak Investigation](./MMF2026) 
+    -  Lead:
+    -  Participants:
+- [Potential Population-level Health Impact and Cost-effectiveness of an Adult TB Vaccine in South Africa](./TBvaccCostEff)
+    -  Lead:
+    -  Participants:
+- [Impact of Switching from Three to Two Dose Regimen for Pneumococcal Vaccine in Kenya](./PneumococcalVaccKenya)
+    -  Lead:
+    -  Participants:
