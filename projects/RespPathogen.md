@@ -11,20 +11,24 @@ Participants will work with a modeling pipeline tool, _flepimop_, which enables 
 
 ## Research area(s)
 
-Infectious disease dynamics, scenario analysis, seasonal pathogens
+- Infectious disease dynamics
+- Scenario analysis
+- Seasonal pathogens
 
 ## Data
 
 ### Type of data
 
-- simulated
-- local surveillance data as available (e.g. South Africa COVID time series)
+- Simulated
+- Local surveillance data as available (e.g. South Africa COVID time series)
 
 ### Source
-- Participants would self-generate simulated data
+
+- Participants would self-generate simulated data.
 
 ### Description and status of data
-- To be simulated (or curated, if using local data)
+
+- To be simulated (or curated, if using local data).
 
 ## Software
 
@@ -33,7 +37,9 @@ Infectious disease dynamics, scenario analysis, seasonal pathogens
 
 ## Potential research question(s)
 
-Some sort of scenario analysis - e.g. earlier introduction of vaccination to South Africa - or model selection questions (e.g. which HIV Harare in model)
+- Some sort of scenario analysis, for example:
+  - Earlier introduction of vaccination to South Africa
+  - Model selection questions (e.g. which HIV Harare model)
 
 ## Resources
 
