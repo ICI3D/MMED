@@ -39,6 +39,3 @@ Participants will R software (packages will depend on the participants choice).
 
 - [Omame (2026)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12857396/)
 
-
-- [flepimop2](https://github.com/ACCIDDA/flepimop2)
-- [flepimop2: documentation](https://accidda.github.io/flepimop2)
