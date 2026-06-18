@@ -34,7 +34,7 @@ These are to learn about the meaningful modelling of epidemiological data in R.
 - Lab: [ODE models in R]({{site.url}}/RTutorials/ICI3D_Lab_ODEmodels.R){:download="ICI3D_Lab_ODEmodels.R"}
 - Lab: [Introduction to Likelihood]({{site.url}}/RTutorials/ICI3D_Lab_introLikelihood.R){:download="ICI3D_Lab_introLikelihood.R"}
 - Lab: [An introduction to stochastic simulation models (stochastic `spillover)]({{site.url}}/RTutorials/ICI3D_Example_StochasticSpillover.R){:download="ICI3D_Example_StochasticSpillover.R"}
-- Lab: Consequences of heterogeneity
+- Lab: [Consequences of heterogeneity]({{site.url}}/RTutorials/ICI3D_Lab_Heterogeneous_Groups.R){:download="ICI3D_Lab_Heterogeneous_Groups.R"}
 - Lab: [Maximum likelihood fitting of a dynamic model]({{site.url}}/RTutorials/ICI3D_Lab_MLE_HIVmodel.R){:download="ICI3D_Lab_MLE_HIVmodel.R"}
 - Lab: [Understanding MCMC]({{site.url}}/RTutorials/ICI3D_Lab_MCMC-Binomial.R){:download="ICI3D_Lab_MCMC-Binomial.R"}
 - Lab: [MCMC fitting of a dynamic model]({{site.url}}/RTutorials/ICI3D_Lab_MCMC-SI_HIV.R){:download="ICI3D_Lab_MCMC-SI_HIV.R"}
