@@ -174,9 +174,9 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
   - {: .shadow } Notes: CarL, Brian
 - 17h00-18h00 {{ labs }} [Introduction to likelihood](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_introLikelihood.R) ({% include instructors people="dushoff" %}, {{ lab }})
   - [MME calculation script](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_introLikelihood.extras.R)
+  - Walkthrough: [Likelihood](https://drive.google.com/file/d/18cikxXQipGSaQoUjaMRaEFixGocLSZWI/view?usp=drive_link)
   - {: .shadow} Mentors: all
   - {: .shadow} Faculty: CarL
-- {: .shadow} Summary: Likelihood ({% include instructors people="dushoff" %}, {{ lab }})
 {{ dinner }}
 - 19h00-20h00 {{ catch }} ({% include instructors people="Mentors" %}, {{ lab }})
 	- Participants should show up in the first 10 minutes. If nobody shows up in that time, the session will be cancelled.
@@ -190,13 +190,12 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
   - Resulting code
   - {: .shadow } Notes: Shadé, Belinda, Mutono
 - 10h00-10h30 {{ coffee }}
-- 10h30-11h30 {{ lect }} An introduction to stochastic models ({% include instructors people="brown" %}, {{ main }})
+- 10h30-11h30 {{ lect }} [An introduction to stochastic models](https://drive.google.com/file/d/1dssLPljRrMaCrmKKtw_SVE56FDpChLah/view?usp=drive_link) ({% include instructors people="brown" %}, {{ main }})
   - {: .shadow } Notes: CarL, Shadé
-- 11h30-12h30 {{ labs }} An introduction to stochastic models ({% include instructors people="brown" %}, {{ lab }})
-  - {: .shadow} Walkthrough: Lauren
+- 11h30-12h30 {{ labs }} An introduction to stochastic models ({% include instructors people="kassanjee|brown" %}, {{ lab }})
+  - {: .shadow} Walkthrough: Stochastic models
   - {: .shadow} Mentors: Shadé, Belinda
   - {: .shadow} Faculty: Mutono
-- {: .shadow} Summary: Stochastic models ({% include instructors people="brown" %}, {{ lab }})
 - 12h30-14h00 {{ lunch }}
 - {: .shadow} 13h00-13h30 faculty meeting - 103
 - 14h00-14h45 {{ lect }} Consequences of heterogeneity and modelling options ({% include instructors people="dushoff" %}, {{ main }})
