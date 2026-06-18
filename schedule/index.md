@@ -230,7 +230,7 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 {{ bfast }}
 - {: .shadow} 07h30? whatsapp checkin
 - 08h30-10h00 {{ ex }} Describing a model and its assumptions ({% include instructors people="brown|dushoff|nyamai|pearson" %}, {{ sections }})
-  - {: .shadow} NB: AIMS venue is the **Computer Lab**, and NOT Fritz Hahne
+  - {: .shadow} NB: Fritz Hahne room has been confirmed for the AIMS participants
   - {: .shadow} ICI3D: assisted by Brian, Shadé, Jonathan
   - {: .shadow} AIMS: assisted by Belinda, Reshma, CarL
   - {: .shadow } Telephone!
