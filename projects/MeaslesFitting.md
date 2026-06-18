@@ -2,7 +2,7 @@
 layout: clinic
 tab: Projects
 title: Potential project
-subtitle: Measles Transmission Dynamics: Model Fitting with Real Surveillance Data
+subtitle: Measles Transmission Dynamics\: Model Fitting with Real Surveillance Data
 ---
 
 ## Project pitch
