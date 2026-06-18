@@ -162,6 +162,7 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 - 10h30-12h00 {{ lect }} [Introduction to statistical philosophy](https://drive.google.com/file/d/1jPZIg9j2tN9cJtNkL0l2tx7lte1B62rv/view?usp=drive_link) ({% include instructors people="dushoff" %}, {{ main }})
   - {: .shadow } Notes: CarL, Brian
 - 12h00-12h30 {{ proj }} [Introduction to project topics](https://drive.google.com/file/d/1-Ko96oZK_zu7kQqWduF82Y3hkp3c_-Sn/view?usp=drive_link) ({% include instructors people="brown" %}, {{ main }})
+- [Sign-up for projects](https://forms.gle/MY8cRTY8rVTofZty7)
   - {: .shadow} All
 - [Day 3 AM Quiz Open](https://forms.gle/b9fnyjtaBjLBf7kw6)
 - 12h30-14h00 {{ lunch }}
