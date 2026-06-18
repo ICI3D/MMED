@@ -33,7 +33,7 @@ Must have some experience using R.
 
 ## Potential research question(s)
 
-- What are the estimated transmission rate (&beta) and recovery rate (&gamma), and hence (R<sub>0</sub>), for measles in the chosen setting, and how well does a simple SIR model fit the observed data?
+- What are the estimated transmission rate (&beta;) and recovery rate (&gamma;), and hence (R<sub>0</sub>), for measles in the chosen setting, and how well does a simple SIR model fit the observed data?
 
 - Potential (additional) questions depending on the structure they choose:
   - Does adding an exposed/latent class improve the model fit? What does this tell us about model structure and identifiability?
