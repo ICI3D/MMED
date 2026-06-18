@@ -7,7 +7,7 @@ subtitle: Measles Transmission Dynamics: Model Fitting with Real Surveillance Da
 
 ## Project pitch
 
-Measles is one of the most contagious infectious diseases known, with a basic reproduction number (R₀) of 12-18 , far higher than COVID-19 or influenza. Despite a safe, effective vaccine, large outbreaks have continued globally due to gaps in vaccination coverage. The 2019 DRC outbreak (>300,000 suspected cases, >6,000 deaths) represents a low-income, high-burden country with chronically low vaccination coverage. This project uses these real, recent, messy datasets to practice the core MMED skills of model building, likelihood-based fitting, and critical interpretation.
+Measles is one of the most contagious infectious diseases known, with a basic reproduction number (R<sub>0</sub0) of 12-18 , far higher than COVID-19 or influenza. Despite a safe, effective vaccine, large outbreaks have continued globally due to gaps in vaccination coverage. The 2019 DRC outbreak (\>300,000 suspected cases, \>6,000 deaths) represents a low-income, high-burden country with chronically low vaccination coverage. This project uses these real, recent, messy datasets to practice the core MMED skills of model building, likelihood-based fitting, and critical interpretation.
 
 ## Research area(s)
 
@@ -33,7 +33,7 @@ Must have some experience using R.
 
 ## Potential research question(s)
 
-- What are the estimated transmission rate (β) and recovery rate (γ), and hence R₀, for measles in the chosen setting, and how well does a simple SIR model fit the observed data?
+- What are the estimated transmission rate (&beta) and recovery rate (&gamma), and hence (R<sub>0</sub0), for measles in the chosen setting, and how well does a simple SIR model fit the observed data?
 
 - Potential (additional) questions depending on the structure they choose:
   - Does adding an exposed/latent class improve the model fit? What does this tell us about model structure and identifiability?
