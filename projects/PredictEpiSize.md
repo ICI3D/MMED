@@ -37,6 +37,3 @@ Participants will use methods in R similar to those employed during the workshop
 - [BVD data](https://github.com/wzmli/ebola_2026/blob/main/drc_sitrep.csv)
 - [Canadian respiratory virus data](https://www.canada.ca/en/public-health/services/surveillance/respiratory-virus-detections-canada.html)
 
-
-- [flepimop2](https://github.com/ACCIDDA/flepimop2)
-- [flepimop2: documentation](https://accidda.github.io/flepimop2)
