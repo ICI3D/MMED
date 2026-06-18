@@ -189,7 +189,7 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 {{ bfast }}
 - {: .shadow} 07h30? whatsapp checkin
 - 08h30-10h00 {{ pc }} Building a deterministic model ({% include instructors people="pearson" %}, {{ main }})
-  - Resulting code
+  - [Resulting code]({{site.url}}/RTutorials/MMED_2026_PC1.R)
   - {: .shadow } Notes: Shadé, Belinda, Mutono
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h30 {{ lect }} [An introduction to stochastic models](https://drive.google.com/file/d/1dssLPljRrMaCrmKKtw_SVE56FDpChLah/view?usp=drive_link) ({% include instructors people="kassanjee|brown" %}, {{ main }})
