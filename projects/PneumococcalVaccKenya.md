@@ -2,7 +2,7 @@
 layout: clinic
 tab: Projects
 title: Potential project
-subtitle: Impact of Switching from Three to Two Dose Regimen for Pneumococcal Vaccine in Kenya
+subtitle: "Impact of Switching from Three- to Two-Dose Regimen for Pneumococcal Vaccine in Kenya"
 ---
 
 ## Project pitch
