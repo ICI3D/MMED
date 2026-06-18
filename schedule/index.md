@@ -190,9 +190,9 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
   - Resulting code
   - {: .shadow } Notes: Shadé, Belinda, Mutono
 - 10h00-10h30 {{ coffee }}
-- 10h30-11h30 {{ lect }} [An introduction to stochastic models](https://drive.google.com/file/d/1dssLPljRrMaCrmKKtw_SVE56FDpChLah/view?usp=drive_link) ({% include instructors people="brown" %}, {{ main }})
+- 10h30-11h30 {{ lect }} [An introduction to stochastic models](https://drive.google.com/file/d/1dssLPljRrMaCrmKKtw_SVE56FDpChLah/view?usp=drive_link) ({% include instructors people="kassanjee|brown" %}, {{ main }})
   - {: .shadow } Notes: CarL, Shadé
-- 11h30-12h30 {{ labs }} An introduction to stochastic models ({% include instructors people="kassanjee|brown" %}, {{ lab }})
+- 11h30-12h30 {{ labs }} An introduction to stochastic models ({% include instructors people="brown" %}, {{ lab }})
   - {: .shadow} Walkthrough: Stochastic models
   - {: .shadow} Mentors: Shadé, Belinda
   - {: .shadow} Faculty: Mutono
