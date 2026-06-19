@@ -168,7 +168,7 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 - 12h30-14h00 {{ lunch }}
 - {: .shadow} 13h00-13h30 faculty meeting - 103
 - 14h00-15h30 {{ ex }} [Creating a model world to address a research question](https://drive.google.com/file/d/19ski0WypF8ykg8OqBHuy7MxDTSRZsO4X/view?usp=drive_link) ({% include instructors people="brown|dushoff|nyamai|pearson" %}, {{ sections }})
-	- [Example](https://drive.google.com/file/d/1w5hjLdh-fyxPEPk4bnFgGIdXWBo6qCPD/view?usp=drive_link)
+	- [Example](https://drive.google.com/file/d/1osub38zgAd6PnZaP4MBZrVdFixofknVD/view?usp=drive_link)
   - {: .shadow} ICI3D: assisted by Brian, Shadé, Jonathan
   - {: .shadow} AIMS: assisted by Belinda, Reshma, CarL
 - 15h30-16h00 {{ tea }}
