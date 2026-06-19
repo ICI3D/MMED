@@ -19,7 +19,7 @@ Please be sure to select your top 3 project choices, no later than **17h00 on Fr
 
 ## Projects
 
-- [VPD Immunity Estimation & Outbreak Estimation](./RespPathogen) 
+- [VPD Immunity Estimation & Outbreak Estimation](./VPD) 
     -  Lead: 
     -  Participants: 
 - [Predicting Epidemic Size](./PredictEpiSize) 
