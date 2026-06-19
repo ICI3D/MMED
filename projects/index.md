@@ -14,7 +14,7 @@ prevalertmsg: >
 
 ## Project Selection
 
-Please be sure to select your top 3 project choices, no later than **18h00 on Friday, 19 June**.
+Please be sure to select your top 3 project choices, no later than **17h00 on Friday, 19 June**.
 - [Selection form](https://forms.gle/aQPsAahN7uG6dExEA) 
 
 ## Projects
