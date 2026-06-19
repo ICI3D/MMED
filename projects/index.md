@@ -19,7 +19,7 @@ Please be sure to select your top 3 project choices, no later than **18h00 on Fr
 
 ## Projects
 
-- [Respiratory Pathogen Scenario Analysis](./RespPathogen) 
+- [VPD Immunity Estimation & Outbreak Estimation](./RespPathogen) 
     -  Lead: 
     -  Participants: 
 - [Predicting Epidemic Size](./PredictEpiSize) 
