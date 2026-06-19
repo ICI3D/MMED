@@ -217,7 +217,7 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
   - {: .shadow} Mentors: Brian, Shadé
   - {: .shadow} Faculty: Jonathan, CarL, Mutono
 - {: .shadow} Summary: Maximum likelihood ({% include instructors people="pearson" %}, {{ lab }})
-- [Day 5 Quiz Open!](https://forms.gle/17LruA2HERrCHtfX7)
+- [Day 4 Quiz Open!](https://forms.gle/17LruA2HERrCHtfX7)
 {{ dinner }}
 - 18h30-19h00 {{ catch }} ({% include instructors people="Mentors" %}, {{ lab }})
   - Includes thinking of [project questions](../projects)
@@ -236,7 +236,7 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
   - {: .shadow } Telephone!
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h45 {{ pc }} Building a stochastic model ({% include instructors people="pearson" %}, {{ main }})
-  - Resulting code
+  - [Resulting code]({{site.url}}/RTutorials/MMED_2026_PC2.R)
   - {: .shadow } Notes: Lauren, Belinda
 - 11h45-12h30 {{ proj }} Questions for project topics ({% include instructors people="brown" %}, {{ main }})
   - {: .shadow} All
