@@ -260,7 +260,7 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 
 {{ ssbfast }}
 - {: .shadow} 07h30? whatsapp checkin
-- 09h00-10h00 {{ proj }} Introduction to GitHub ({% include instructors people="brown" %}, {{ lab }})
+- 09h00-10h00 {{ proj }} [Introduction to GitHub](https://drive.google.com/file/d/1kEBxLeEbX1Wr9nWhJIzZkltoh2DpZ8CI/view?usp=drive_link) ({% include instructors people="brown" %}, {{ lab }})
   - {: .shadow} Faculty: Jonathan, Vince, CarL
 - 10h00-10h30 {{ proj }} Group assignments and expectations ({% include instructors people="all" %}, {{ main }})
 	* Slides (includes milestones)
