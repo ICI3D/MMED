@@ -58,7 +58,7 @@ archive: false
 
 ### [Participants](https://drive.google.com/file/d/1dQ-m0jmhCMwqd14ajXlOTpluhJA52YXL/view?usp=drive_link)
 
-<details markdown="1" open><summary>Week 1</summary>
+<details markdown="1"><summary>Week 1</summary>
 
 ### Day 0 (Sunday, 14 June)
 
@@ -284,29 +284,32 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 {{ ssdinner }}
 </details>
 
-<details markdown="1"><summary>Week 2</summary>
+<details markdown="1" open><summary>Week 2</summary>
 
 ### Day 8 (Monday, 22 June)
 
 {{ bfast }}
 - 08h30-08h45 {{ org }} Feedback responses; review schedule and goals ({% include instructors people="kassanjee" %}, {{ main }})
-  - {: .shadow } Notes: ??	
+  - {: .shadow } Notes: Lauren, Shadé
 - 08h45-09h30 {{ lect }} Life cycle of a modeling project ({% include instructors people="pearson" %}, {{ main }})
-  - {: .shadow } note takers: Mutono, Joe
+  - {: .shadow } Notes: Lauren, Reshma
 - 09h30-10h00 {{ proj }} Recap of expectations ({% include instructors people="brown" %}, {{ main }})
+  - {: .shadow } Notes: Reshma, Brian
 - 10h00-10h30 {{ coffee }}
 - 10h30-11h30 {{ lect }} Introduction to health economics in dynamic modelling ({% include instructors people="kubjane" %}, {{ main }})
+  - {: .shadow } Notes: Mutono, Brian, Jonathan, Belinda
 - 11h30-12h30 {{ labs }} Introduction to health economics in dynamic modelling ({% include instructors people="kubjane" %}, {{ lab }})
   - {: .shadow} Walkthrough: Mmamapudi
   - {: .shadow} Mentors: All
-  - {: .shadow} Faculty: Carii, (Jonathan and CarL if needed and no other suitable)
+  - {: .shadow} Faculty: Mutono, Lauren
 - {: .shadow} Summary: Health economics ({% include instructors people="kubjane" %}, {{ lab }})
-- {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
+- {: .shadow} 13h00-13h30 faculty meeting - 103
 - 14h00-15h30 {{ proj }}  MMED project work + mentoring sessions ({{breakout}})
+- {: .shadow} Faikah will post the session on the door
+- {: .shadow} Link to mentoring session: [here](https://docs.google.com/spreadsheets/d/1_0m_LYpGoTjp484VrMd7LJfpkiWO_XihcjesVMJnY18/edit?usp=sharing)
 - 15h30-16h00 {{ tea }}
 - 16h00-18h00 {{ proj }} MMED project work + mentoring sessions ({{breakout}})
-- Knowledge Assessment
 {{ dinner }}
 
 ### Day 9 (Tuesday, 23 June)
@@ -315,10 +318,9 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 - 08h30-10h00 {{ lect }} Introduction to Markov Chain Monte Carlo (MCMC) ({% include instructors people="pearson" %}, {{ lab }})
 	- {{ labs }} [Understanding MCMC](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_MCMC-Binomial.R) ({% include instructors people="pearson" %}, {{ lab }})
 	- {{ labs }} [MCMC model fitting](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_MCMC-SI_HIV.R) ({% include instructors people="pearson" %}, {{ lab }})
-  - {: .shadow } Notes: ??
   - {: .shadow} Walkthrough: CarL
   - {: .shadow} Mentors: All
-  - {: .shadow} Faculty: Carii, Claire, Eva, Jonathan
+  - {: .shadow} Faculty: Mutono, Claire Eva
 - 10h00-10h30 {{ coffee }}
 	* Group photo - in front of AIMS door 
 	* See MMED photo folder (request access if necessary)
@@ -331,9 +333,10 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 - 14h00-15h30 {{ proj }} MMED project work ({{ breakout }})
 - 15h30-16h00 {{ tea }}
 - 16h00-18h00 {{ proj }} MMED project work + mentoring sessions ({{ breakout }})
-- Knowledge Assessment
+- {: .shadow} Faikah will post the session on the door
+- {: .shadow} Link to mentoring session: [here](https://docs.google.com/spreadsheets/d/1_0m_LYpGoTjp484VrMd7LJfpkiWO_XihcjesVMJnY18/edit?usp=sharing)
 {{ dinner }}
-- 12h00-12h30  {{ catch }} ({% include instructors people="Mentors" %}, {{ lab }})
+- 18h30-19h30  {{ catch }} ({% include instructors people="Mentors" %}, {{ lab }})
   - {: .shadow} Faculty: CarL, Claire, Lauren
 
 ### Day 10 (Wednesday, 24 June)
