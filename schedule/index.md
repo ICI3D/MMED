@@ -363,8 +363,9 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 - 10h30-12h30 {{ proj }} MMED project work  + mentoring sessions ({{ breakout }})
 - {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
-- 14h00-15h30 *either* {{ proj }} MMED project work ({{ breakout }})
-- 14h00-15h30 *or* {{ pc }} Building a modelling project pipeline with AI ({% include instructors people="pearson" %}, {{main}})
+- 14h00-15h30 Options:
+	- *either* {{ proj }} MMED project work ({{ breakout }})
+	- *or* {{ pc }} Building a modelling project pipeline with AI ({% include instructors people="pearson" %}, {{main}})
   - Resulting code
   - {: .shadow } Notes: ??
 - 15h30-16h00 {{ tea }}
