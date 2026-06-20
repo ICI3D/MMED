@@ -273,7 +273,7 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
   - {: .shadow} Faculty: Lauren, Mutono
 - 12h45 {{ sc }} Optional: Group lunch at Kalky's (costs covered)
   - {: .shadow} Reminder - no alcohol can be paid for by us
-  - {: .shadow} 16h30 post-Kalky's all hands faculty meeting in E313; beverages provided
+  - {: .shadow} 16h30 post-Kalky's all hands faculty meeting in E313;
 {{ ssdinner }}
   - {: .shadow} remainder of meeting in E313
 
