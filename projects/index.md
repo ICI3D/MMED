@@ -12,6 +12,12 @@ prevalertmsg: >
   </ul>
 ---
 
+## Templates
+
+- ({{site.url}}https://docs.google.com/presentation/d/1H8Jg5Y2G-AHyAbxm5PSEG4FuR5HnelFg/edit?usp=drive_link&ouid=117410836582929752754&rtpof=true&sd=true){:download="Presentation Slide Template"}
+- Report
+
+## Projects 
 - [VPD Immunity Estimation & Outbreak Estimation](./VPD) 
     -  Lead: Carl Pearson
     -  Participants: Usama Makhlouf, Ethel Phiri, Tommy Alan Ravelojoelitafika, Angélica Tomás David Sotomane, Mija Niaina Andrinajoro
