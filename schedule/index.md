@@ -333,8 +333,9 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 - 14h00-15h30 {{ proj }} MMED project work ({{ breakout }})
 - 15h30-16h00 {{ tea }}
 - 16h00-18h00 {{ proj }} MMED project work + mentoring sessions ({{ breakout }})
-- {: .shadow} Faikah will post the session on the door
+	- {: .shadow} 16h00-16h45 - [Switch up day](https://docs.google.com/document/d/17lSUsdXhZD-rPGJjtK81Kc_yJgNLYCXqBZ7PEEWdcPQ/edit?usp=drive_link)
 - {: .shadow} Link to mentoring session: [here](https://docs.google.com/spreadsheets/d/1_0m_LYpGoTjp484VrMd7LJfpkiWO_XihcjesVMJnY18/edit?usp=sharing)
+- {: .shadow} Faikah will post the session on the door
 {{ dinner }}
 - 18h30-19h30  {{ catch }} ({% include instructors people="Mentors" %}, {{ lab }})
 - [Sign up form](https://forms.gle/b1BB3d4q8QXf6kSG7)
