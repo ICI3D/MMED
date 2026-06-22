@@ -337,6 +337,7 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 - {: .shadow} Link to mentoring session: [here](https://docs.google.com/spreadsheets/d/1_0m_LYpGoTjp484VrMd7LJfpkiWO_XihcjesVMJnY18/edit?usp=sharing)
 {{ dinner }}
 - 18h30-19h30  {{ catch }} ({% include instructors people="Mentors" %}, {{ lab }})
+- [Sign up form](https://forms.gle/b1BB3d4q8QXf6kSG7)
   - {: .shadow} Faculty: CarL, Claire, Lauren
 
 ### Day 10 (Wednesday, 24 June)
