@@ -47,7 +47,7 @@ archive: false
 <div class="alert alert-warning" role="alert">
   <div class="container padding-left=0px padding-right=0px">
     <ul style="font-size:16px; margin:0px;">
-      <li> **Catch up session**: [sign up](https://forms.gle/b1BB3d4q8QXf6kSG7)</li>
+      <li> **Catch up session**: <a href="https://forms.gle/b1BB3d4q8QXf6kSG">sign up</a></li>
 	  <li>The content below is for 2026.</li>
       <li>Links to R tutorials and exercises are available <a href="../tutorials">here</a>.</li>
       <li>As they become available, session slides will appear in <a href="https://drive.google.com/drive/folders/1CeoWN3TkFobDDo1fEX1UL13rr5FTIbfq?usp=drive_link">this shared folder</a>.</li>
