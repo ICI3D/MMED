@@ -349,7 +349,8 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
   - Resulting code
   - {: .shadow } Notes: ??
 - 10h00-10h30 {{ coffee }}
-	* Group photo - in front of AIMS door 
+	* Group photo - in front of AIMS door
+ 	* [Shared Google photos folder (only for 2026)](https://drive.google.com/drive/folders/1ZFHlh6DcQHdc4HtZL3IHRnX5RUOQ3L-r?usp=drive_link)
 - 10h30-12h30 {{ proj }} MMED project work ({{ breakout }})
 - 12h30-14h00 {{ lunch }}
 - {: .shadow} 13h00-13h30 faculty meeting - 103
