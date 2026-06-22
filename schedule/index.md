@@ -47,7 +47,8 @@ archive: false
 <div class="alert alert-warning" role="alert">
   <div class="container padding-left=0px padding-right=0px">
     <ul style="font-size:16px; margin:0px;">
-      <li> **Catch up session**: <a href="https://forms.gle/b1BB3d4q8QXf6kSG">sign up</a></li>
+      <li> **Revision session**: <a href="https://forms.gle/sCJA6MKXymmxByjN9">questions and topics</a></li>
+	  <li> **Extra catch up sessions**: <a href="https://forms.gle/b1BB3d4q8QXf6kSG7">sign up here</a></li>
 	  <li>The content below is for 2026.</li>
       <li>Links to R tutorials and exercises are available <a href="../tutorials">here</a>.</li>
       <li>As they become available, session slides will appear in <a href="https://drive.google.com/drive/folders/1CeoWN3TkFobDDo1fEX1UL13rr5FTIbfq?usp=drive_link">this shared folder</a>.</li>
@@ -326,7 +327,7 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 	* Group photo - in front of AIMS door 
 	* See MMED photo folder (request access if necessary)
 - 10h30-11h30 {{ labs }} above continued ({% include instructors people="pearson" %}, {{ lab }})
-- 11h30-12h30 {{ lect }} Model assessment ({% include instructors people="dushoff" %}, {{ main }})
+- 11h30-12h30 {{ lect }} Revision session ({% include instructors people="dushoff" %}, {{ main }})
 - {: .shadow} Summary: MCMC ({% include instructors people="pearson" %}, {{ lab }})
   - {: .shadow } Notes: ??
 - {: .shadow} 12h30-13h00 faculty meeting
