@@ -305,7 +305,7 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 - {: .shadow} Summary: Health economics ({% include instructors people="kubjane" %}, {{ lab }})
 - 12h30-14h00 {{ lunch }}
 - {: .shadow} 13h00-13h30 faculty meeting - 103
-- 14h00-15h30 {{ proj }}  MMED project work + mentoring sessions ({{breakout}})
+- 14h00-15h30 {{ proj }}  MMED project work ({{breakout}})
 - {: .shadow} Faikah will post the session on the door
 - {: .shadow} Link to mentoring session: [here](https://docs.google.com/spreadsheets/d/1_0m_LYpGoTjp484VrMd7LJfpkiWO_XihcjesVMJnY18/edit?usp=sharing)
 - 15h30-16h00 {{ tea }}
