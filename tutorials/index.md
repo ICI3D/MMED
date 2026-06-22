@@ -39,7 +39,7 @@ These are to learn about the meaningful modelling of epidemiological data in R.
 - Lab: [Understanding MCMC]({{site.url}}/RTutorials/ICI3D_Lab_MCMC-Binomial.R){:download="ICI3D_Lab_MCMC-Binomial.R"}
 - Lab: [MCMC fitting of a dynamic model]({{site.url}}/RTutorials/ICI3D_Lab_MCMC-SI_HIV.R){:download="ICI3D_Lab_MCMC-SI_HIV.R"}
     - **Note:** Download [this file]({{site.url}}/RTutorials/MCMC_SI_runs.Rdata){:download="MCMC_SI_runs.Rdata"} to avoid having to wait for long MCMC chains to be sampled.
-
+- Lab: [Introduction to health economics in dynamical modelling]({{site.url}}/RTutorials/ICI3D_Lab_HealthEcosModelling.R){:download="ICI3D_Lab_HealthEcosModelling.R"}
 
 ## Application-based labs
 
