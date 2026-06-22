@@ -353,7 +353,6 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 - 14h00-15h30 {{ proj }} MMED project work ({{ breakout }})
 - 15h30-16h00 {{ tea }}
 - 16h00-18h00 {{ proj }} MMED project work + mentoring sessions ({{ breakout }})
-- Knowledge Assessment
 {{ dinner }}
 - 19h00-20h00 {{ glect }} Title, ({% include instructors people="donkoh" %}, {{ main }})
   - Moderator:  
