@@ -28,7 +28,7 @@ prevalertmsg: >
     -  Lead: Jonathan Dushoff
     -  Participants: Jude Yatuwa, Vhugala Ramabaga, Stephen Longa Chanda, Dagmawi Misker Gedamu, Nkgomeleng Lekodeba
 
-- [Assessing the Impact of Missing Data for Within Household Transmission Models](./MissingData) (_Outside Compueter Lab_)
+- [Assessing the Impact of Missing Data for Within Household Transmission Models](./MissingData) (_Outside Computer Lab_)
     -  Lead: Claire Smith
     -  Participants: Lebogang Francinah Ramotshela, Kimberley Maringa, Chekwube Utomi, Abraham Awortwe, Rediet Eristu Teklu
 
