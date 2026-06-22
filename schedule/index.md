@@ -201,23 +201,21 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
   - {: .shadow} Faculty: Mutono
 - 12h30-14h00 {{ lunch }}
 - {: .shadow} 13h00-13h30 faculty meeting - 103
-- 14h00-14h45 {{ lect }} Consequences of heterogeneity and modelling options ({% include instructors people="dushoff" %}, {{ main }})
+- 14h00-14h45 {{ lect }} [Consequences of heterogeneity and modelling options](https://drive.google.com/file/d/1b_WDUxgPQY2puLaMM2idE5J4oSAafAox/view?usp=drive_link) ({% include instructors people="dushoff" %}, {{ main }})
   - {: .shadow } Notes: Lauren, Mutono, Belinda, Brian
   - {: .shadow } Drum on the drums; remind them about assessment
 - 14h45-15h30 {{ labs }} Consequences of heterogeneity ({% include instructors people="dushoff" %}, {{ lab }})
   - Download [lab]({{site.url}}/RTutorials/ICI3D_Lab_Heterogeneous_Groups.R){:download="ICI3D_Lab_Heterogeneous_Groups.R"} and [supplementary functions]({{site.url}}/RTutorials/ICI3D_Heterogeneous_Groups.R){:download="ICI3D_Heterogeneous_Groups.R"}
-  - {: .shadow} Walkthrough: Jonathan
+    - Walkthrough: [Heterogeneity](https://drive.google.com/file/d/1KkLUKLEnAsaPzwUzE0B725DhEuw8P9T5/view?usp=drive_link)
   - {: .shadow} Mentors: Brian, Belinda
   - {: .shadow} Faculty: CarL, Reshma, Mutono
-- {: .shadow} Summary: Heterogeneity ({% include instructors people="dushoff" %}, {{ lab }})
 - 15h30-16h00 {{ tea }}
 - 16h00-16h45 {{ lect }} [Fitting dynamical models I](https://drive.google.com/file/d/1-H5u62V4vhTujq3Av_i5JQjNC-G8EJGB/view?usp=drive_link) ({% include instructors people="pearson" %}, {{ main }})
   - {: .shadow } Notes: Belinda, Lauren, Jonathan
 - 16h45-18h00 {{ labs }} Maximum likelihood: fitting of a dynamical model ({% include instructors people="pearson" %}, {{ lab }})
-  - {: .shadow} Walkthrough: CarL
+    - {: .shadow} Walkthrough: CarL
   - {: .shadow} Mentors: Brian, Shadé
   - {: .shadow} Faculty: Jonathan, CarL, Mutono
-- {: .shadow} Summary: Maximum likelihood ({% include instructors people="pearson" %}, {{ lab }})
 - [Day 4 Quiz Open!](https://forms.gle/17LruA2HERrCHtfX7)
 {{ dinner }}
 - 18h30-19h00 {{ catch }} ({% include instructors people="Mentors" %}, {{ lab }})
@@ -243,7 +241,7 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
   - {: .shadow} All
 - 12h30-14h00 {{ lunch }}
 - {: .shadow} 13h00-13h30 faculty meeting - 103
-- 14h00-15h00 {{ lect }} Fitting dynamical models II ({% include instructors people="dushoff" %}, {{ main }})
+- 14h00-15h00 {{ lect }} [Fitting dynamical models II](https://drive.google.com/file/d/1YHBEg8ULT08jLDqNsVVZd0Oq6Xu1SyDS/view?usp=drive_link) ({% include instructors people="dushoff" %}, {{ main }})
   - {: .shadow } Notes: CarL, Belinda, Lauren
 - 15h00-15h30 {{ catch }} ({% include instructors people="Mentors" %}, {{ lab }})
 	* Includes selecting project: [Project selection form](https://forms.gle/xZKKcq789LWUQpDB8)
@@ -303,7 +301,6 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 	- Walkthrough: [Health Economics Model](https://drive.google.com/file/d/14AyGa-niMipVoAiHtfyeeBTcjF__of7H/view?usp=drive_link)
   - {: .shadow} Mentors: All
   - {: .shadow} Faculty: Mutono, Lauren
-- {: .shadow} Summary: Health economics ({% include instructors people="kubjane" %}, {{ lab }})
 - 12h30-14h00 {{ lunch }}
 - {: .shadow} 13h00-13h30 faculty meeting - 103
 - 14h00-15h30 {{ proj }}  MMED project work ({{breakout}})
