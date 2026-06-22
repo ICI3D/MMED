@@ -24,7 +24,7 @@ prevalertmsg: >
     -  Lead: Carl Pearson
     -  Participants: Usama Makhlouf, Ethel Phiri, Tommy Alan Ravelojoelitafika, Angélica Tomás David Sotomane, Mija Niaina Andrinajoro
 
-- [Predicting Epidemic Size](./PredictEpiSize) (_Dining Area (kitchen)_)
+- [Predicting Epidemic Size](./PredictEpiSize) (_Main Hall_)
     -  Lead: Jonathan Dushoff
     -  Participants: Jude Yatuwa, Vhugala Ramabaga, Stephen Longa Chanda, Dagmawi Misker Gedamu, Nkgomeleng Lekodeba
 
