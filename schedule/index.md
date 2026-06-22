@@ -290,7 +290,7 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 {{ bfast }}
 - 08h30-08h45 {{ org }} Feedback responses; review schedule and goals ({% include instructors people="kassanjee" %}, {{ main }})
   - {: .shadow } Notes: Lauren, Shadé
-- 08h45-09h30 {{ lect }} Life cycle of a modeling project ({% include instructors people="pearson" %}, {{ main }})
+- 08h45-09h30 {{ lect }} [Life cycle of a modeling project](https://drive.google.com/file/d/1fifCNAwuE8nchFKMmP4aQDTSl1j2Hpv6/view?usp=drive_link) ({% include instructors people="pearson" %}, {{ main }})
   - {: .shadow } Notes: Lauren, Reshma
 - 09h30-10h00 {{ proj }} Recap of expectations ({% include instructors people="brown" %}, {{ main }})
   - {: .shadow } Notes: Reshma, Brian
