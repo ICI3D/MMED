@@ -296,10 +296,10 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 - 09h30-10h00 {{ proj }} Recap of expectations ({% include instructors people="brown" %}, {{ main }})
   - {: .shadow } Notes: Reshma, Brian
 - 10h00-10h30 {{ coffee }}
-- 10h30-11h30 {{ lect }} Introduction to health economics in dynamic modelling ({% include instructors people="kubjane" %}, {{ main }})
+- 10h30-11h30 {{ lect }} [Introduction to health economics in dynamic modelling](https://drive.google.com/file/d/1LxTI27XJWiHlKEoD3P3mMmxnXhTcSVcw/view?usp=drive_link) ({% include instructors people="kubjane" %}, {{ main }})
   - {: .shadow } Notes: Mutono, Brian, Jonathan, Belinda
 - 11h30-12h30 {{ labs }} Introduction to health economics in dynamic modelling ({% include instructors people="kubjane" %}, {{ lab }})
-  - {: .shadow} Walkthrough: Mmamapudi
+	- Walkthrough: [Health Economics Model](https://drive.google.com/file/d/14AyGa-niMipVoAiHtfyeeBTcjF__of7H/view?usp=drive_link)
   - {: .shadow} Mentors: All
   - {: .shadow} Faculty: Mutono, Lauren
 - {: .shadow} Summary: Health economics ({% include instructors people="kubjane" %}, {{ lab }})
