@@ -308,10 +308,10 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 - 12h30-14h00 {{ lunch }}
 - {: .shadow} 13h00-13h30 faculty meeting - 103
 - 14h00-15h30 {{ proj }}  MMED project work ({{breakout}})
-- {: .shadow} Faikah will post the session on the door
-- {: .shadow} Link to mentoring session: [here](https://docs.google.com/spreadsheets/d/1_0m_LYpGoTjp484VrMd7LJfpkiWO_XihcjesVMJnY18/edit?usp=sharing)
 - 15h30-16h00 {{ tea }}
 - 16h00-18h00 {{ proj }} MMED project work + mentoring sessions ({{breakout}})
+- {: .shadow} Faikah will post the session on the door
+- {: .shadow} Link to mentoring session: [here](https://docs.google.com/spreadsheets/d/1_0m_LYpGoTjp484VrMd7LJfpkiWO_XihcjesVMJnY18/edit?usp=sharing)
 {{ dinner }}
 
 ### Day 9 (Tuesday, 23 June)
@@ -324,14 +324,12 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
   - {: .shadow} Mentors: All
   - {: .shadow} Faculty: Mutono, Claire Eva
 - 10h00-10h30 {{ coffee }}
-	* Group photo - in front of AIMS door 
-	* See MMED photo folder (request access if necessary)
 - 10h30-11h30 {{ labs }} above continued ({% include instructors people="pearson" %}, {{ lab }})
-- 11h30-12h30 {{ lect }} Revision session ({% include instructors people="dushoff" %}, {{ main }})
 - {: .shadow} Summary: MCMC ({% include instructors people="pearson" %}, {{ lab }})
+- 11h30-12h30 {{ lect }} Revision session ({% include instructors people="dushoff" %}, {{ main }})
   - {: .shadow } Notes: ??
-- {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
+- {: .shadow} 13h00-13h30 faculty meeting - 103
 - 14h00-15h30 {{ proj }} MMED project work ({{ breakout }})
 - 15h30-16h00 {{ tea }}
 - 16h00-18h00 {{ proj }} MMED project work + mentoring sessions ({{ breakout }})
@@ -350,9 +348,10 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
   - Resulting code
   - {: .shadow } Notes: ??
 - 10h00-10h30 {{ coffee }}
+	* Group photo - in front of AIMS door 
 - 10h30-12h30 {{ proj }} MMED project work ({{ breakout }})
-- {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
+- {: .shadow} 13h00-13h30 faculty meeting - 103
 - 14h00-15h30 {{ proj }} MMED project work ({{ breakout }})
 - 15h30-16h00 {{ tea }}
 - 16h00-18h00 {{ proj }} MMED project work + mentoring sessions ({{ breakout }})
@@ -366,8 +365,8 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 - 08h30-10h00 {{ proj }} MMED project work ({{ breakout }})
 - 10h00-10h30 {{ coffee }}	
 - 10h30-12h30 {{ proj }} MMED project work  + mentoring sessions ({{ breakout }})
-- {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
+- {: .shadow} 13h00-13h30 faculty meeting - 103
 - 14h00-15h30 Options:
 	- *either* {{ proj }} MMED project work ({{ breakout }})
 	- *or* {{ pc }} Building a modelling project pipeline with AI ({% include instructors people="pearson" %}, {{main}})
@@ -388,8 +387,8 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 - 10h00-10h30 {{ coffee }}	
   - 12h30 Report due
   - 13h00 Presentations due
-- {: .shadow} 12h30-13h00 faculty meeting
 - 12h30-14h00 {{ lunch }}
+- {: .shadow} 13h00-13h30 faculty meeting - 103
 - 13h30-15h30 {{ proj }} Project presentations ({% include instructors people="brown" %}, {{main}})
   - {: .shadow } Notes: ??
 - 15h30-16h00 {{ tea }}
