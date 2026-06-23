@@ -354,7 +354,7 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 - 15h30-16h00 {{ tea }}
 - 16h00-18h00 {{ proj }} MMED project work + mentoring sessions ({{ breakout }})
 {{ dinner }}
-- 19h00-20h00 {{ glect }} Title, ({% include instructors people="donkoh" %}, {{ main }})
+- 19h00-20h00 {{ glect }} [Navigating Shared Modelling](https://drive.google.com/file/d/1WaaKEJzBGtqRT1_fFtq1UxICGgWq_Dk0/view?usp=drive_link), ({% include instructors people="donkoh" %}, {{ main }})
   - Moderator:  
 
 ### Day 11 (Thursday, 25 June)
