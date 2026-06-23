@@ -323,10 +323,11 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 - 10h30-11h30 {{ labs }} above continued ({% include instructors people="pearson" %}, {{ lab }})
 - {: .shadow} Summary: MCMC ({% include instructors people="pearson" %}, {{ lab }})
 - 11h30-12h30 {{ lect }} Revision session ({% include instructors people="dushoff" %}, {{ main }})
-  - {: .shadow } Notes: ??
+  - {: .shadow } Notes: 
 - 12h30-14h00 {{ lunch }}
 - {: .shadow} 13h00-13h30 faculty meeting - 103
 - 14h00-15h30 {{ proj }} MMED project work ({{ breakout }})
+- {: .shadow} Link for keeping track of projects - [Final outputs](https://drive.google.com/drive/folders/1tEfV2tVSepoPVY_aQWK5m9oGFHtYJcqk?usp=drive_link)
 - 15h30-16h00 {{ tea }}
 - 16h00-18h00 {{ proj }} MMED project work + mentoring sessions ({{ breakout }})
 	- {: .shadow} 16h00-16h45 - [Switch up day](https://docs.google.com/document/d/17lSUsdXhZD-rPGJjtK81Kc_yJgNLYCXqBZ7PEEWdcPQ/edit?usp=drive_link)
@@ -341,9 +342,9 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 
 {{ bfast }}
 - 08h30-09h00 {{ lect }} Study design, bias, variability ({% include instructors people="dushoff" %}, {{ main }})
+  - {: .shadow } Notes: Reshma, Belinda, Reshma, Lauren
 - 09h00-10h00 {{ pc }} Study design and simulation-based validation ({% include instructors people="dushoff" %}, {{ main }})
   - Resulting code
-  - {: .shadow } Notes: ??
 - 10h00-10h30 {{ coffee }}
 	* Group photo - in front of AIMS door
  	* [Shared Google photos folder (only for 2026)](https://drive.google.com/drive/folders/1ZFHlh6DcQHdc4HtZL3IHRnX5RUOQ3L-r?usp=drive_link)
@@ -353,9 +354,10 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 - 14h00-15h30 {{ proj }} MMED project work ({{ breakout }})
 - 15h30-16h00 {{ tea }}
 - 16h00-18h00 {{ proj }} MMED project work + mentoring sessions ({{ breakout }})
+- {: .shadow} Link to mentoring session: [here](https://docs.google.com/spreadsheets/d/1_0m_LYpGoTjp484VrMd7LJfpkiWO_XihcjesVMJnY18/edit?usp=sharing)
 {{ dinner }}
 - 19h00-20h00 {{ glect }} [Navigating Shared Modelling](https://drive.google.com/file/d/1WaaKEJzBGtqRT1_fFtq1UxICGgWq_Dk0/view?usp=drive_link), ({% include instructors people="donkoh" %}, {{ main }})
-  - Moderator:  
+  - Moderator: Jonathan
 
 ### Day 11 (Thursday, 25 June)
 
@@ -363,16 +365,16 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 - 08h30-10h00 {{ proj }} MMED project work ({{ breakout }})
 - 10h00-10h30 {{ coffee }}	
 - 10h30-12h30 {{ proj }} MMED project work  + mentoring sessions ({{ breakout }})
+- {: .shadow} Link to mentoring session: [here](https://docs.google.com/spreadsheets/d/1_0m_LYpGoTjp484VrMd7LJfpkiWO_XihcjesVMJnY18/edit?usp=sharing)
 - 12h30-14h00 {{ lunch }}
 - {: .shadow} 13h00-13h30 faculty meeting - 103
 - 14h00-15h30 Options:
 	- *either* {{ proj }} MMED project work ({{ breakout }})
 	- *or* {{ pc }} Building a modelling project pipeline with AI ({% include instructors people="pearson" %}, {{main}})
   - Resulting code
-  - {: .shadow } Notes: ??
+  - {: .shadow } Notes: Shadé, Lauren, Brian, 
 - 15h30-16h00 {{ tea }}
-- 16h00-17h30 **Panel discussion**: Modelling for policy ({% include instructors people="vanschalkwyk" %}, {{ main }})
-  - {: .shadow } Notes: ??
+- 16h00-17h30 **Panel discussion**: Modelling for policy ({% include instructors people="ujeneza" %}, {{ main }})
   - {: .shadow } **Reminder**: participants won't have support for the group work after dinner!
 {{ dinner }}
 - 19h00-20h00 {{ proj }} MMED project work ({{ breakout }})
