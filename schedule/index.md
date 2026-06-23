@@ -314,8 +314,8 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 
 {{ bfast }}
 - 08h30-10h00 {{ lect }} Introduction to Markov Chain Monte Carlo (MCMC) ({% include instructors people="pearson" %}, {{ lab }})
-	- {{ labs }} [Understanding MCMC](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_MCMC-Binomial.R) ({% include instructors people="pearson" %}, {{ lab }})
-	- {{ labs }} [MCMC model fitting](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_MCMC-SI_HIV.R) ({% include instructors people="pearson" %}, {{ lab }})
+	- {{ labs }} [Understanding MCMC]({{site.url}}/RTutorials/ICI3D_Lab_MCMC-Binomial.R) ({% include instructors people="pearson" %}, {{ lab }})
+	- {{ labs }} [MCMC model fitting]({{site.url}}/RTutorials/ICI3D_Lab_MCMC-SI_HIV.R) ({% include instructors people="pearson" %}, {{ lab }})
   - {: .shadow} Walkthrough: CarL
   - {: .shadow} Mentors: All
   - {: .shadow} Faculty: Mutono, Claire Eva
