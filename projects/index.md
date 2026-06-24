@@ -12,6 +12,10 @@ prevalertmsg: >
   </ul>
 ---
 
+## Project submission
+
+Please upload your presentation and report **no later than 12h30** on Friday, 26 June, [at this link](https://forms.gle/8PrNbjL9189zr5MZA).
+
 ## Templates and Examples
 
 - [Presentation Slide Template](https://docs.google.com/presentation/d/1H8Jg5Y2G-AHyAbxm5PSEG4FuR5HnelFg/edit?usp=drive_link&ouid=117410836582929752754&rtpof=true&sd=true)
