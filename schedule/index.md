@@ -341,7 +341,7 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 ### Day 10 (Wednesday, 24 June)
 
 {{ bfast }}
-- 08h30-09h00 {{ lect }} Study design, bias, variability ({% include instructors people="dushoff" %}, {{ main }})
+- 08h30-09h00 {{ lect }} [Study design, bias, variability](https://drive.google.com/file/d/1D8vcfpxTi3X7nvqV98hQ4hsNhmqsJDvm/view?usp=drive_link) ({% include instructors people="dushoff" %}, {{ main }})
   - {: .shadow } Notes: Reshma, Belinda, Reshma, Lauren
 - 09h00-10h00 {{ pc }} Study design and simulation-based validation ({% include instructors people="dushoff" %}, {{ main }})
   - Resulting code
