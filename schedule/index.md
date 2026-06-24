@@ -385,8 +385,7 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 {{ bfast }}
 - 08h30-12h30 {{ proj }} MMED project work ({{breakout}})
 - 10h00-10h30 {{ coffee }}	
-  - 12h30 Report due - Upload here
-  - 12h30 Presentations due - Upload here
+  - 12h30 Report and presentation due - [upload here](https://forms.gle/8PrNbjL9189zr5MZA)
 - 12h30-14h00 {{ lunch }}
 - {: .shadow} 13h00-13h30 faculty meeting - 103
 - 13h30-15h30 {{ proj }} Project presentations ({% include instructors people="brown" %}, {{main}})
