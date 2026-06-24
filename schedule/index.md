@@ -344,7 +344,7 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 - 08h30-09h00 {{ lect }} [Study design, bias, variability](https://drive.google.com/file/d/1D8vcfpxTi3X7nvqV98hQ4hsNhmqsJDvm/view?usp=drive_link) ({% include instructors people="dushoff" %}, {{ main }})
   - {: .shadow } Notes: Reshma, Belinda, Reshma, Lauren
 - 09h00-10h00 {{ pc }} Study design and simulation-based validation ({% include instructors people="dushoff" %}, {{ main }})
-  - Resulting code
+  - [Resulting code]({{site.url}}/RTutorials/ICI3D_Participatory_Design_2026_pertussis.R)
 - 10h00-10h30 {{ coffee }}
 	* Group photo - in front of AIMS door
  	* [Shared Google photos folder (only for 2026)](https://drive.google.com/drive/folders/1ZFHlh6DcQHdc4HtZL3IHRnX5RUOQ3L-r?usp=drive_link)
