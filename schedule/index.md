@@ -374,7 +374,7 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
   - Resulting code
   - {: .shadow } Notes: Shadé, Lauren, Brian
 - 15h30-16h00 {{ tea }}
-- 16h00-17h30 **Panel discussion**: Modelling for policy ({% include instructors people="ujeneza" %}, {{ main }})
+- 16h00-17h30 **Panel discussion**: [Modelling for policy](https://drive.google.com/file/d/17n7b1gMgtv1a7qILVUMGDaSJmWrdAH8G/view?usp=drive_link) ({% include instructors people="ujeneza" %}, {{ main }})
   - {: .shadow } **Reminder**: participants won't have support for the group work after dinner!
 {{ dinner }}
 - 19h00-20h00 {{ proj }} MMED project work ({{ breakout }})
