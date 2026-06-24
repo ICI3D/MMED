@@ -12,9 +12,10 @@ prevalertmsg: >
   </ul>
 ---
 
-## Project submission
+## Project Submission
 
 Please upload your presentation and report **no later than 12h30** on Friday, 26 June, [at this link](https://forms.gle/8PrNbjL9189zr5MZA).
+
 
 ## Templates and Examples
 
@@ -23,7 +24,9 @@ Please upload your presentation and report **no later than 12h30** on Friday, 26
 
 - [2025 Examples](https://drive.google.com/drive/folders/1zNtKEcVN2uYlLm72xD3whfGjCbDd1PUA?usp=drive_link)
 
+
 ## Projects 
+
 - [VPD Immunity Estimation & Outbreak Estimation](./VPD) (_Main Hall_) 
     -  Lead: Carl Pearson
     -  Participants: Usama Makhlouf, Ethel Phiri, Tommy Alan Ravelojoelitafika, Angélica Tomás David Sotomane, Mija Niaina Andrinajoro
