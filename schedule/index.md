@@ -372,28 +372,31 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 	- *either* {{ proj }} MMED project work ({{ breakout }})
 	- *or* {{ pc }} Building a modelling project pipeline with AI ({% include instructors people="pearson" %}, {{main}})
   - Resulting code
-  - {: .shadow } Notes: Shadé, Lauren, Brian
+  - {: .shadow } Notes: Shadé, Jonathan, Brian
 - 15h30-16h00 {{ tea }}
 - 16h00-17h30 **Panel discussion**: [Modelling for policy](https://drive.google.com/file/d/17n7b1gMgtv1a7qILVUMGDaSJmWrdAH8G/view?usp=drive_link) ({% include instructors people="ujeneza" %}, {{ main }})
+  - {: .shadow } Belinda, Brian - mics for Q&A
   - {: .shadow } **Reminder**: participants won't have support for the group work after dinner!
 {{ dinner }}
 - 19h00-20h00 {{ proj }} MMED project work ({{ breakout }})
 - {: .shadow } Mentor dinner (full team)
+- {: .shadow } meet in front of Empire from 17h50
 
 ### Day 12 (Friday, 26 June)
 
 {{ bfast }}
+- 08h30-08h40 {{ org }} Closing - AIMS Director ({{ main }})
 - 08h30-12h30 {{ proj }} MMED project work ({{breakout}})
 - 10h00-10h30 {{ coffee }}	
   - 12h30 Report and presentation due - [upload here](https://forms.gle/8PrNbjL9189zr5MZA)
 - 12h30-14h00 {{ lunch }}
 - {: .shadow} 13h00-13h30 faculty meeting - 103
 - 13h30-15h30 {{ proj }} Project presentations ({% include instructors people="brown" %}, {{main}})
-  - {: .shadow } Notes: ??
+  - {: .shadow } Remember assessment!
 - 15h30-16h00 {{ tea }}
 - 16h00-17h00 **Course evaluation**: Feedback session II ({% include instructors people="bruce" %}, {{ main }})
-- 17h15-17h45 {{ org }} Closing remarks ({% include instructors people="kassanjee" %}, {{ main }})
-  - {: .shadow } Notes: ??
+  - {: .shadow } Faculty Meeting; Pipeline, etc. 
+- 17h15-17h30 {{ org }} Closing remarks ({% include instructors people="kassanjee" %}, {{ main }})
 {{ dinner }}
 
 </details>
