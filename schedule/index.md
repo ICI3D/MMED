@@ -392,7 +392,7 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 - 12h30-14h00 {{ lunch }}
 - {: .shadow} 13h00-13h30 faculty meeting - 103
 - 13h30-15h30 {{ proj }} Project presentations ({% include instructors people="brown" %}, {{main}})
-  - {: .shadow } Remember assessment!
+  - {: .shadow } Remember assessment! [Link to sheet](https://docs.google.com/spreadsheets/d/1A1ybPMfojPMwERxSoq2vD9lKdzC2fkLG/edit?usp=drive_link&ouid=117410836582929752754&rtpof=true&sd=true)
 - 15h30-16h00 {{ tea }}
 - 16h00-17h00 **Course evaluation**: Feedback session II ({% include instructors people="bruce" %}, {{ main }})
   - {: .shadow } Faculty Meeting; Pipeline, etc. 
