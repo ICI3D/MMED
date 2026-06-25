@@ -388,10 +388,10 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 - 08h30-08h40 {{ org }} Closing - AIMS Director ({{ main }})
 - 08h40-12h30 {{ proj }} MMED project work ({{breakout}})
 - 10h00-10h30 {{ coffee }}	
-  - 12h30 Report and presentation due - [upload here](https://forms.gle/8PrNbjL9189zr5MZA)
-- 12h30-13h30 {{ lunch }}
+  - **12h30** Report and presentation due - [upload here](https://forms.gle/8PrNbjL9189zr5MZA)
+- 12h30-**13h30** {{ lunch }}
 - {: .shadow} 13h00-13h30 faculty meeting - 103
-- 13h30-15h30 {{ proj }} Project presentations ({% include instructors people="brown" %}, {{main}})
+- **13h30**-15h30 {{ proj }} Project presentations ({% include instructors people="brown" %}, {{main}})
   - {: .shadow } Remember assessment! [Link to sheet](https://docs.google.com/spreadsheets/d/1A1ybPMfojPMwERxSoq2vD9lKdzC2fkLG/edit?usp=drive_link&ouid=117410836582929752754&rtpof=true&sd=true)
 - 15h30-16h00 {{ tea }}
 - 16h00-17h00 **Course evaluation**: Feedback session II ({% include instructors people="bruce" %}, {{ main }})
