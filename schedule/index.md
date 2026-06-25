@@ -386,7 +386,7 @@ _- 17h00-17h05 Poster setup: move desks and chairs_
 
 {{ bfast }}
 - 08h30-08h40 {{ org }} Closing - AIMS Director ({{ main }})
-- 08h30-12h30 {{ proj }} MMED project work ({{breakout}})
+- 08h40-12h30 {{ proj }} MMED project work ({{breakout}})
 - 10h00-10h30 {{ coffee }}	
   - 12h30 Report and presentation due - [upload here](https://forms.gle/8PrNbjL9189zr5MZA)
 - 12h30-14h00 {{ lunch }}
