@@ -1,0 +1,38 @@
+# Validate MMED's schedule data (#54) with the SHARED validator.
+#
+# MMED keeps its own schedule data in _data/schedule/mmed/<year>.yml, but the
+# validation logic (schema, referential checks, role tokens, people data) lives
+# once in ICI3D.github.io, which MMED already vendors as a submodule. This
+# workflow just checks the submodule out and calls the shared composite action,
+# so there is nothing clinic-specific to maintain here beyond this stub.
+#
+# NB: this requires the ICI3D.github.io submodule to point at a commit that
+# includes .github/actions/validate-schedule (ICI3D/ICI3D.github.io#59). Until
+# that PR is merged and MMED's submodule pointer is bumped to it, this workflow
+# will not find the action.
+name: Validate schedule data
+
+on:
+  pull_request:
+    paths:
+      - '_data/schedule/**'
+  push:
+    branches: ['gh-pages']
+    paths:
+      - '_data/schedule/**'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (with the ICI3D.github.io submodule = the shared validator)
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+
+      - name: Validate MMED's schedule data
+        uses: ./ICI3D.github.io/.github/actions/validate-schedule
