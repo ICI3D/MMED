@@ -1,0 +1,19 @@
+# Validate MMED's schedule data against the shared, versioned ICI3D schema.
+#
+# The validator, JSON Schema, and role vocabulary live once in ICI3D.github.io and
+# are pulled in here as a pinned pre-commit hook (no vendoring). Contributors get the
+# same check CI runs, locally on every commit:
+#
+#     pip install pre-commit && pre-commit install
+#
+# Instructor keys resolve against the shared people records from the ICI3D.github.io
+# submodule (--people-dir), the same records the Jekyll build reads. When MMED owns
+# its own _data/team, drop the submodule and the --people-dir override.
+repos:
+  # INTERIM: points at the fork branch until ICI3D/ICI3D.github.io#59 merges; then
+  # flip repo -> https://github.com/ICI3D/ICI3D.github.io and rev -> the merge sha/tag.
+  - repo: https://github.com/WestonVoglesonger/ICI3D.github.io
+    rev: 271a817244057f0b90fb64a2724e645b20827099
+    hooks:
+      - id: validate-schedule
+        args: [--people-dir, ICI3D.github.io/_data/team]
