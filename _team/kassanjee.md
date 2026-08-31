@@ -1,5 +1,5 @@
 ---
 tab: Team
-type: director
-role: Director
+type: workshop
+role: faculty
 ---
