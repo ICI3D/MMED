@@ -29,6 +29,9 @@ Sources += Makefile
 ## Schedule
 Sources += $(wildcard schedule/*.md)
 
+subup:
+	git submodule update -i
+
 ######################################################################
 
 ## This seems to be git-tutorial stuff
