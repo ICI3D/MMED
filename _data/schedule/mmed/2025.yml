@@ -1,0 +1,1651 @@
+clinic: mmed
+year: 2025
+status: published
+title: MMED 2025
+timezone: Africa/Johannesburg
+display_timezones:
+- Africa/Johannesburg
+tracks:
+- main
+- Section 1
+- Section 2
+locations:
+  main-hall: Main Hall
+  comp-lab: Comp. Lab
+  group-breakouts: Group Breakouts
+  lobby: Lobby
+  sections: Section 1 / Section 2
+meal_defaults:
+  breakfast:
+    start: '07:45'
+    end: '08:15'
+  dinner:
+    start: '18:00'
+    end: '18:30'
+weeks:
+- title: 'Week 0: MMED Foundations'
+  collapsible: true
+  open: false
+  days:
+  - date: '2025-06-09'
+    label: Day 1 (Monday, 9 June)
+    sessions:
+    - start: '09:00'
+      end: '09:20'
+      kind: organizing
+      track: main
+      title: Introductions, Overview
+      instructors:
+      - everyone
+      location: main-hall
+      links:
+      - text: Introductions, Overview
+        url: https://docs.google.com/presentation/d/1g7F4kTMvPGq1NobmcAtLj_amwjV76MrFGRrJNURISBM
+    - start: '09:20'
+      end: '10:30'
+      kind: discussion
+      track: main
+      title: Public health, epidemiology, and infectious disease modelling
+      instructors:
+      - pearson
+      location: main-hall
+      links:
+      - text: Public health, epidemiology, and infectious disease modelling
+        url: https://docs.google.com/presentation/d/1Cxt6ZtRCalcu0iV0pX9fwDaW7DeNYi9Zgg58vUD5EfA
+    - start: '10:30'
+      end: '11:00'
+      kind: coffee
+      track: main
+    - start: '11:00'
+      end: '12:00'
+      kind: lecture
+      track: main
+      title: Introduction to infectious disease dynamics, Part I
+      instructors:
+      - mthombothi
+      location: main-hall
+      links:
+      - text: Introduction to infectious disease dynamics, Part I
+        url: https://drive.google.com/file/d/1nbtUAtmsc1SEbKq3-3YAz83_T2q1lYM0
+    - start: '12:00'
+      end: '13:00'
+      kind: lecture
+      track: main
+      title: Simple Models
+      instructors:
+      - pearson
+      location: main-hall
+      links:
+      - text: Simple Models
+        url: https://docs.google.com/presentation/d/1tFHnRbpf-KBbA_k301pA3WAlS3FbhKlardRRb6jbis4
+    - start: '13:00'
+      end: '14:00'
+      kind: meal
+      meal: lunch
+      track: main
+    - start: '14:00'
+      end: '15:30'
+      kind: computer-session
+      track: main
+      title: 'Tutorial 1: Introduction to R and Epidemic curves'
+      instructors:
+      - Tutors
+      location: comp-lab
+      links:
+      - text: 'Tutorial 1: Introduction to R and Epidemic curves'
+        url: https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_1.R
+    - start: '15:30'
+      end: '16:00'
+      kind: break
+      track: main
+    - start: '16:00'
+      end: '17:00'
+      kind: computer-session
+      track: main
+      title: Tutorial 1 cont.
+      instructors:
+      - Tutors
+      location: comp-lab
+      links:
+      - text: Tutorial 1 cont.
+        url: https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_1.R
+    - start: '17:00'
+      end: '17:45'
+      kind: discussion
+      track: main
+      title: How to read a scientific paper
+      instructors:
+      - pearson
+      location: main-hall
+      links:
+      - text: How to read a scientific paper
+        url: ../MedPH/How_to_read_exRabies.pdf
+      notes:
+      - '[Reference Paper](https://doi.org/10.1371/journal.pbio.1000053)'
+    - start: '17:45'
+      end: '18:00'
+      kind: organizing
+      track: main
+      title: Introduction to projects
+      instructors:
+      - pearson
+      location: main-hall
+      links:
+      - text: Introduction to projects
+        url: ../tutorials/pilotproject
+      notes:
+      - '[Project Groups](https://docs.google.com/spreadsheets/d/1gLfek_HAcFw-B1raWN6ZPZH_MHC4gtE88sjIf-jaIkc)'
+    links:
+    - text: End of Day Questions
+      url: https://forms.gle/wFNTAMsQU7JEQWrU9
+    notes:
+    - text: Faculty meeting and dinner in E313 from 16h30; be sure to save food for late arrivals once
+        known
+      shadow: true
+  - date: '2025-06-10'
+    label: Day 2
+    sessions:
+    - start: '08:30'
+      end: '09:00'
+      kind: activity
+      track: main
+      title: Reading time for a scientific paper
+      links:
+      - text: Reading time for a scientific paper
+        url: https://doi.org/10.1371/journal.pbio.1000053
+    - start: '09:00'
+      end: '10:30'
+      kind: lecture
+      track: main
+      title: Introduction to infectious disease dynamics, Part II
+      instructors:
+      - mthombothi
+      location: main-hall
+      links:
+      - text: Introduction to infectious disease dynamics, Part II
+        url: https://drive.google.com/file/d/1SzQnv9haPgZ_o10GbGDT4nmoOvBeVU_T
+      notes:
+      - '["The" R0 paper](https://link.springer.com/article/10.1007/bf00178324) (might need [unpaywall](https://unpaywall.org/products/extension)
+        or similar tools to access)'
+    - start: '10:30'
+      end: '11:00'
+      kind: coffee
+      track: main
+    - start: '11:00'
+      end: '12:00'
+      kind: lecture
+      track: main
+      title: Dynamics of directly transmitted pathogens
+      instructors:
+      - pearson
+      location: main-hall
+      links:
+      - text: Dynamics of directly transmitted pathogens
+        url: https://docs.google.com/presentation/d/1zFQVS4gHNyfFPXKuz8BIvweMzWQNf6c9
+    - start: '12:00'
+      end: '13:00'
+      kind: computer-session
+      track: main
+      title: 'Tutorial 2: More on Vectors, Data Frames, and Functions, and SEIR'
+      instructors:
+      - Tutors
+      location: comp-lab
+      links:
+      - text: 'Tutorial 2: More on Vectors, Data Frames, and Functions'
+        url: https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_2.R
+      - text: SEIR
+        url: https://raw.githubusercontent.com/ICI3D/RTutorials/master/seir.R
+    - start: '13:00'
+      end: '14:00'
+      kind: meal
+      meal: lunch
+      track: main
+    - start: '14:00'
+      end: '15:30'
+      kind: computer-session
+      track: main
+      title: Tutorial 2 & benchmark questions, and SEIR & Benchmark questions
+      instructors:
+      - Tutors
+      location: comp-lab
+      links:
+      - text: Tutorial 2 & benchmark questions
+        url: https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_2.R
+      - text: SEIR & Benchmark questions
+        url: https://raw.githubusercontent.com/ICI3D/RTutorials/master/seir.R
+    - start: '15:30'
+      end: '16:00'
+      kind: break
+      track: main
+    - start: '16:00'
+      end: '18:00'
+      kind: group-work
+      track: main
+      title: Project development
+      location: group-breakouts
+      links:
+      - text: Project development
+        url: ../tutorials/pilotproject
+    links:
+    - text: End of Day Questions
+      url: https://forms.gle/cWeCsKXKX6GSWSnk8
+  - date: '2025-06-11'
+    label: Day 3
+    sessions:
+    - start: '08:30'
+      end: '09:30'
+      kind: group-work
+      track: main
+      title: Project development
+      location: group-breakouts
+      links:
+      - text: Project development
+        url: ../tutorials/pilotproject
+      notes:
+      - 'from 08h30, each group will check in with Carl (odd, in 105) or Zinhle (even, lobby): 08h30 1
+        and 2, 08h50 3 and 4, 09h10 5 and 6'
+      - '[Project Groups](https://docs.google.com/spreadsheets/d/1gLfek_HAcFw-B1raWN6ZPZH_MHC4gtE88sjIf-jaIkc)'
+    - start: '09:30'
+      end: '10:30'
+      kind: discussion
+      track: main
+      title: How did you read a scientific paper?
+      instructors:
+      - pearson
+      location: comp-lab
+      notes:
+      - '[Reference Paper](https://doi.org/10.1371/journal.pbio.1000053)'
+    - start: '10:30'
+      end: '11:00'
+      kind: coffee
+      track: main
+    - start: '11:00'
+      end: '11:45'
+      kind: lecture
+      track: main
+      title: 'Study Design and Analysis in Epidemiology: Where does modeling fit?'
+      instructors:
+      - pearson
+      location: main-hall
+      links:
+      - text: 'Study Design and Analysis in Epidemiology: Where does modeling fit?'
+        url: https://docs.google.com/presentation/d/15-i4vcP9oIOm3eKfqQs4O2Y7BSce1PI8
+    - start: '11:45'
+      end: '13:00'
+      kind: computer-session
+      track: main
+      title: 'Lab 3: Study Design in Epidemiology'
+      instructors:
+      - Tutors
+      location: comp-lab
+      links:
+      - text: 'Lab 3: Study Design in Epidemiology'
+        url: https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_EpiStudyDesign.R
+    - start: '13:00'
+      end: '14:00'
+      kind: meal
+      meal: lunch
+      track: main
+    - start: '14:00'
+      end: '15:30'
+      kind: computer-session
+      track: main
+      title: Binomial Distribution Tutorial
+      instructors:
+      - Tutors
+      location: comp-lab
+      links:
+      - text: Binomial Distribution Tutorial
+        url: https://raw.githubusercontent.com/ICI3D/RTutorials/master/binomialDistribution.R
+    - start: '15:30'
+      end: '16:00'
+      kind: break
+      track: main
+    - start: '16:00'
+      end: '18:00'
+      kind: group-work
+      track: main
+      title: Project development
+      location: group-breakouts
+      links:
+      - text: Project development
+        url: ../tutorials/pilotproject
+    links:
+    - text: End of Day Questions
+      url: https://forms.gle/zrD8asaQy6UVP4F68
+  - date: '2025-06-12'
+    label: Day 4
+    sessions:
+    - start: '08:30'
+      end: '09:15'
+      kind: lecture
+      track: main
+      title: 'Study Design and Analysis, part II: RCT’s'
+      instructors:
+      - pearson
+      location: main-hall
+      links:
+      - text: 'Study Design and Analysis, part II: RCT’s'
+        url: https://docs.google.com/presentation/d/14Vv6XiQjOVgNjGU0vyLeYUFj-9Azf50y
+      notes:
+      - 'Side reading: [CDC on the Tuskegee Experiment](https://www.cdc.gov/tuskegee/timeline.htm), [Declaration
+        of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/),
+        [Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html)'
+    - start: '09:15'
+      end: '10:30'
+      kind: computer-session
+      track: main
+      title: 'Lab 4: Study Design for Clinical Trials'
+      instructors:
+      - Tutors
+      location: comp-lab
+      links:
+      - text: 'Lab 4: Study Design for Clinical Trials'
+        url: https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_RCT.R
+    - start: '10:30'
+      end: '11:00'
+      kind: coffee
+      track: main
+    - start: '11:00'
+      end: '12:00'
+      kind: lecture
+      track: main
+      title: Transmission in Finite Populations
+      instructors:
+      - mthombothi
+      location: main-hall
+      links:
+      - text: Transmission in Finite Populations
+        url: https://drive.google.com/file/d/1mCqNCQ4Ak78uW6VUYyRRnN0p3Iv3zfEn
+    - start: '12:00'
+      end: '13:00'
+      kind: group-work
+      track: main
+      title: Project development, with progress checkin
+      location: comp-lab
+      links:
+      - text: Project development
+        url: ../tutorials/pilotproject
+      notes:
+      - All checkins in the lab. Odd groups check in with Carl, even with Zinhle. Be prepared to show
+        your draft report, slides, and poster.
+      - '[Project Groups](https://docs.google.com/spreadsheets/d/1gLfek_HAcFw-B1raWN6ZPZH_MHC4gtE88sjIf-jaIkc)'
+    - start: '13:00'
+      end: '14:00'
+      kind: activity
+      track: main
+      title: Lunch
+    - start: '14:00'
+      end: '15:30'
+      kind: group-work
+      track: main
+      title: Project development
+      links:
+      - text: Project development
+        url: ../tutorials/pilotproject
+    - start: '15:30'
+      end: '16:00'
+      kind: break
+      track: main
+    - start: '16:00'
+      end: '18:00'
+      kind: computer-session
+      track: main
+      title: 'If incomplete: review questions from Lab 4: Study Design for Clinical Trials , Tutorial
+        3: Probability Distributions and Control Structures, and review questions . Otherwise Project
+        development'
+      instructors:
+      - Tutors
+      location: comp-lab
+      links:
+      - text: 'Lab 4: Study Design for Clinical Trials'
+        url: https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_RCT.R
+      - text: 'Tutorial 3: Probability Distributions and Control Structures, and review questions'
+        url: https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_3.R
+      - text: Project development
+        url: ../tutorials/pilotproject
+    links:
+    - text: Final Fundamentals Week Quiz (includes Qs from Friday)
+      url: https://forms.gle/Lrc1GcGbYcqDZZhZA
+  - date: '2025-06-13'
+    label: Day 5
+    sessions:
+    - start: '08:30'
+      end: '09:30'
+      kind: lecture
+      track: main
+      title: Dynamics of vector-borne pathogens
+      instructors:
+      - mthombothi
+      location: main-hall
+      links:
+      - text: Dynamics of vector-borne pathogens
+        url: https://drive.google.com/file/d/1D5kCsgvKuA6VRTl-5kUZs6nJ3mWmcnSe
+    - start: '09:30'
+      end: '10:30'
+      kind: group-work
+      track: main
+      title: Final Group Work
+      location: group-breakouts
+      notes:
+      - submit slides to [Zinhle](mailto:zinhle@aims.ca.za) by 10h30
+    - start: '10:30'
+      end: '11:00'
+      kind: coffee
+      track: main
+    - start: '11:00'
+      end: '13:00'
+      kind: group-work
+      track: main
+      title: Practice presentations and feedback
+      instructors:
+      - all
+      location: main-hall
+      notes:
+      - '**Aim** for: 6 minutes, 3-4 minutes for questions, 3-4 minutes for feedback; max 15 minutes'
+      - 'Groups: 11h00-11h15 4, 11h15-11h30 1, 11h30-11h45 3, 11h45-12h00 2, 12h00-12h15 5 (with 45 minute
+        buffer for overruns)'
+    - start: '13:00'
+      end: '14:00'
+      kind: meal
+      meal: lunch
+      track: main
+    - start: '14:00'
+      end: '15:00'
+      kind: group-work
+      track: main
+      title: Revisions
+      location: group-breakouts
+    - start: '15:00'
+      end: '15:30'
+      kind: discussion
+      track: main
+      title: Review / Preview
+      location: main-hall
+    - start: '15:30'
+      end: '16:00'
+      kind: break
+      track: main
+    - start: '16:00'
+      end: '18:00'
+      kind: group-work
+      track: main
+      title: 'Optional: re-present + re-feedback. Optional: poster feedback.'
+      location: main-hall
+- title: 'Week 1: Meaningful Modeling of Epidemiological Data (MMED)'
+  collapsible: true
+  open: false
+  days:
+  - date: '2025-06-15'
+    label: Day 0 (Sunday, 15 June)
+    sessions: []
+    notes:
+    - On arrival {{ org }} mentors and tutors will assist with direction to accommodations
+    - text: Faculty meeting and dinner in E313 from 16h30; be sure to save food for late arrivals once
+        known
+      shadow: true
+  - date: '2025-06-16'
+    label: Day 1
+    sessions:
+    - start: '07:30'
+      end: '08:20'
+      kind: organizing
+      track: main
+      title: Registration
+      instructors:
+      - bruce
+      location: lobby
+    - start: '08:30'
+      end: '09:00'
+      kind: activity
+      track: main
+      title: Welcome and Motivation for Workshop
+      instructors:
+      - kassanjee
+      location: main-hall
+      links:
+      - text: Welcome and Motivation for Workshop
+        url: https://drive.google.com/file/d/15P91x6rYAw5JW0Yu74YwgDVAtXwNnAef
+    - start: '09:00'
+      end: '09:45'
+      kind: discussion
+      track: main
+      title: Public health, epidemiology, and models
+      instructors:
+      - pearson
+      location: main-hall
+      links:
+      - text: Public health, epidemiology, and models
+        url: https://docs.google.com/presentation/d/1LbeHeiB-JlZk1tQq7IjMwnuwXQF7SYZE
+      notes:
+      - text: 'Notes: Mutono'
+        shadow: true
+    - start: '09:45'
+      end: '10:00'
+      kind: activity
+      track: main
+      title: MMED roadmap and program overview
+      instructors:
+      - kassanjee
+      location: main-hall
+      links:
+      - text: MMED roadmap and program overview
+        url: ../roadmap
+    - start: '10:00'
+      end: '10:30'
+      kind: coffee
+      track: main
+    - start: '10:30'
+      end: '11:30'
+      kind: lecture
+      track: main
+      title: Introduction to dynamic modelling of infectious disease I
+      instructors:
+      - kassanjee
+      location: main-hall
+      links:
+      - text: Introduction to dynamic modelling of infectious disease I
+        url: https://drive.google.com/file/d/1z9fvgjnNkFOY0Q3fvis4qvk_71xJqBw8
+      notes:
+      - text: 'Notes: Carl'
+        shadow: true
+    - start: '11:30'
+      end: '12:30'
+      kind: lecture
+      track: main
+      title: Introduction to infectious disease data
+      instructors:
+      - blumberg
+      location: main-hall
+      links:
+      - text: Introduction to infectious disease data
+        url: https://drive.google.com/file/d/1F3QSyDc0SnYBkkBfFdVHk6Cv2qKd_MJE
+      notes:
+      - text: 'Notes: Carl'
+        shadow: true
+    - start: '12:30'
+      end: '13:00'
+      kind: activity
+      track: main
+      title: faculty meeting
+      shadow: true
+    - start: '12:30'
+      end: '14:00'
+      kind: meal
+      meal: lunch
+      track: main
+    - start: '13:15'
+      end: '13:45'
+      kind: activity
+      track: main
+      title: (technical assistance for participants
+      notes:
+      - text: Led by Carl
+        shadow: true
+    - start: '14:00'
+      end: '15:00'
+      kind: lecture
+      track: main
+      title: Foundations of dynamical modelling
+      instructors:
+      - dushoff
+      location: main-hall
+      links:
+      - text: Foundations of dynamical modelling
+        url: https://drive.google.com/file/d/1_sa6YOal0UqElX3e-uQ6HZvYRfY_RIV8
+      notes:
+      - text: 'Notes: Seth the Motivator'
+        shadow: true
+    - start: '15:00'
+      end: '15:30'
+      kind: computer-session
+      track: main
+      title: Dynamical fever exercise
+      instructors:
+      - nyamai
+      location: comp-lab
+      notes:
+      - Launch from R prompt with `ICI3D::dynamicalFever()`
+      - text: assisted by Seth, Carl, Jeremy, Martha
+        shadow: true
+      - text: Stanley should relax!
+        shadow: true
+    - start: '15:30'
+      end: '16:00'
+      kind: tea
+      track: main
+      title: (poster setup, group 1)
+      instructors:
+      - nyamai
+      - Mentors
+      location: main-hall
+      links:
+      - text: poster setup, group 1
+        url: https://drive.google.com/drive/folders/19DlY2bPRbzAsHIux5nSeBibbCSXlKBrU
+    - start: '16:00'
+      end: '17:00'
+      kind: activity
+      track: main
+      title: Dynamical fever exercise, cont.
+      location: comp-lab
+      notes:
+      - '[Dynamical fever summary](https://docs.google.com/presentation/d/18POIDzoVrtrXAlZAYbJ9PiajPpssGu7i)
+        ({% include instructors people="nyamai" %}, {{ lab }})'
+    - start: '17:00'
+      end: '18:00'
+      kind: activity
+      track: main
+      title: Poster session 1
+      location: main-hall
+      links:
+      - text: Poster session 1
+        url: https://drive.google.com/drive/folders/19DlY2bPRbzAsHIux5nSeBibbCSXlKBrU
+    - start: '19:00'
+      end: '20:30'
+      kind: activity
+      track: main
+      title: Ice-breaker/Card games
+      instructors:
+      - bruce
+      location: main-hall
+    links:
+    - text: End of Day Questions
+      url: https://forms.gle/zkufuNG8PhfB2YEg9
+    notes:
+    - text: 0730? whatsapp checkin
+      shadow: true
+  - date: '2025-06-17'
+    label: Day 2
+    sessions:
+    - start: '08:30'
+      end: '09:15'
+      kind: activity
+      track: main
+      title: (Hidden) assumptions of simple ODE models
+      instructors:
+      - vanschalkwyk
+      location: main-hall
+      links:
+      - text: (Hidden) assumptions of simple ODE models
+        url: https://drive.google.com/file/d/1tYkR9t3bzmq1iD4fesaXzxgZIeJHWeTY
+      notes:
+      - text: note takers {% include instructors people="nyamai" %}
+        shadow: true
+    - start: '09:15'
+      end: '10:00'
+      kind: live-coding
+      track: main
+      title: Introduction to model implementation in R
+      instructors:
+      - kassanjee
+      location: main-hall
+      links:
+      - text: Introduction to model implementation in R
+        url: https://drive.google.com/file/d/1YTiZZGaW17Mx92hmJsCS2qV464wkxL9E
+      notes:
+      - '[Resulting Code](https://drive.google.com/file/d/1GFA1k7ckK5lvpml-05tW1u4xqE5EQrrJ)'
+      - text: 'Notes: Carl'
+        shadow: true
+    - start: '10:00'
+      end: '10:30'
+      kind: coffee
+      track: main
+    - start: '10:30'
+      end: '11:30'
+      kind: activity
+      track: main
+      title: 'R Tutorials: Lab 1 - ODE Models'
+      instructors:
+      - luka
+      location: comp-lab
+      links:
+      - text: R Tutorials
+        url: ../tutorials
+      - text: Lab 1 - ODE Models
+        url: https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_ODEmodels.R
+      notes:
+      - '[Lab 1 Summary](https://drive.google.com/file/d/1iHSjqrwj_LsK8pzAka_OZjepVaLGljH3)'
+    - start: '11:30'
+      end: '12:30'
+      kind: activity
+      track: main
+      title: Thinking about Data
+      instructors:
+      - nyamai
+      - Mentors
+      location: main-hall
+      links:
+      - text: Thinking about Data
+        url: https://docs.google.com/presentation/d/1zygkn_iRYJT4hVigEJuP3siy1GCGkgXX
+      notes:
+      - text: note takers Seth
+        shadow: true
+    - start: '12:30'
+      end: '14:00'
+      kind: meal
+      meal: lunch
+      track: main
+    - start: '14:00'
+      end: '15:00'
+      kind: lecture
+      track: main
+      title: Study design
+      instructors:
+      - kassanjee
+      location: main-hall
+      links:
+      - text: Study design
+        url: https://drive.google.com/file/d/1de7qMKvnC6djx6CJYIZ8slEt-LOD5-Rh
+      notes:
+      - text: 'note takers: Jonathan'
+        shadow: true
+    - start: '15:00'
+      end: '17:00'
+      kind: activity
+      track: main
+      title: '(with tea break) R Tutorials: Lab 4 - study design II & Tutorial 4 - Visualizing Infectious
+        Disease Data'
+      instructors:
+      - blumberg
+      - kassanjee
+      - Mentors
+      location: comp-lab
+      links:
+      - text: R Tutorials
+        url: ../tutorials
+      - text: Lab 4 - study design II
+        url: https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_RCT.R
+      - text: Tutorial 4 - Visualizing Infectious Disease Data
+        url: ../tutorials/visualizeData
+      notes:
+      - '[Study Design Slides](https://drive.google.com/file/d/1ZrNvXJeJMx8Ei-b4fopwYd_fNG5FAKbG)'
+      - '[Visualization Summary](https://drive.google.com/file/d/1I_waaz-S3S85s5G0z61ZrIwE-b99oU_N)'
+      - '[Lab 3 - study design I](https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_EpiStudyDesign.R)
+        may also be of interest, but is an own-time activity'
+    - start: '15:30'
+      end: '16:00'
+      kind: tea
+      track: main
+      title: (poster setup, group 2)
+      instructors:
+      - nyamai
+      - Mentors
+      location: main-hall
+      links:
+      - text: poster setup, group 2
+        url: https://drive.google.com/drive/folders/19DlY2bPRbzAsHIux5nSeBibbCSXlKBrU
+    - start: '17:00'
+      end: '18:00'
+      kind: activity
+      track: main
+      title: Poster session 2
+      location: main-hall
+      links:
+      - text: Poster session 2
+        url: https://drive.google.com/drive/folders/19DlY2bPRbzAsHIux5nSeBibbCSXlKBrU
+    - start: '19:00'
+      end: '20:00'
+      kind: lecture
+      track: main
+      title: 'Guest Lecture: "Mathematical models of vector-borne diseases: from theory to research" Joseph
+        Challenger'
+      links:
+      - text: 'Guest Lecture: "Mathematical models of vector-borne diseases: from theory to research"'
+        url: https://docs.google.com/presentation/d/1Gb49d0V84EljTYoulxPQyuiwEEy2jRSV
+      - text: Joseph Challenger
+        url: https://scholar.google.com/citations?user=q3Inh-AAAAAJ&hl=en&oi=ao
+      notes:
+      - Moderator {% include instructors people="dushoff" %}
+    links:
+    - text: End of Day Questions
+      url: https://forms.gle/ioZ2PLLsjo9WsJH98
+    notes:
+    - text: 0730? whatsapp checkin
+      shadow: true
+  - date: '2025-06-18'
+    label: Day 3
+    sessions:
+    - start: '08:30'
+      end: '09:30'
+      kind: lecture
+      track: main
+      title: Consequences of heterogeneity and modelling options
+      instructors:
+      - dushoff
+      location: main-hall
+      notes:
+      - text: 'Notes: Seth'
+        shadow: true
+    - start: '09:30'
+      end: '11:00'
+      kind: computer-session
+      track: main
+      title: (with coffee break) Lab 2 - Consequences of heterogeneity
+      instructors:
+      - dushoff
+      location: comp-lab
+      notes:
+      - text: Mentors, Seth, Joe, CarL
+        shadow: true
+      - Download <a href="https://github.com/ICI3D/RTutorials/blob/master/ICI3D_Lab_Heterogeneous_Groups.R?raw=1">lab</a>
+        and <a href="https://github.com/ICI3D/RTutorials/blob/master/ICI3D_Heterogeneous_Groups.R?raw=1">
+        supplementary functions</a>
+      - '[Summary _updated_](https://drive.google.com/file/d/1rSE_99TIUySW-ra0iSb0muFCxR7KbyEb/view?usp=drive_link)
+        ({% include instructors people="dushoff" %})'
+    - start: '10:00'
+      end: '10:30'
+      kind: coffee
+      track: main
+    - start: '11:00'
+      end: '14:30'
+      kind: computer-session
+      track: main
+      title: 'Introduction to models and data: HIV in Harare'
+      instructors:
+      - kassanjee
+      - pearson
+      location: comp-lab
+      links:
+      - url: https://drive.google.com/file/d/1tFthcPurLo4zvs9j9huFEKJ4pueLICAx
+      notes:
+      - 'runs 11:00-14:30 with a lunch break; triaged from an undefined {{ mlect }} macro that rendered empty in the wall'
+      - text: 'Notes: Mutono'
+        shadow: true
+      - Launch from R prompt with `ICI3D::hivTutorial()`
+      - If you finish all five versions of the model for the Harare data before lunch, move on to working
+        on data from other countries.
+      - '**Additional info:** [Distributed Delay Models of Survival](../tutorials/distributedDelay.pdf)
+        (Boxcar Models) and [example script](https://www.dropbox.com/s/ykirgmodga2j7m9/distributed_delay_boxcar.R?dl=1)'
+      - text: '[Summary of Harare tutorial]() ({% include instructors people="pearson" %})'
+        shadow: true
+    - start: '12:30'
+      end: '13:00'
+      kind: activity
+      track: main
+      title: faculty meeting
+      shadow: true
+    - start: '12:30'
+      end: '14:00'
+      kind: meal
+      meal: lunch
+      track: main
+    - start: '14:30'
+      end: '15:30'
+      kind: discussion
+      track: main
+      title: Formulating research questions
+      instructors:
+      - vanschalkwyk
+      - blumberg
+      location: sections
+      notes:
+      - text: AIMS in main room assisted by Mutono
+        shadow: true
+      - text: Seth somewhere notes by Rehsma
+        shadow: true
+    - start: '15:30'
+      end: '16:00'
+      kind: tea
+      track: main
+    - start: '16:00'
+      end: '17:30'
+      kind: lecture
+      track: main
+      title: Introduction to statistical philosophy
+      instructors:
+      - dushoff
+      location: main-hall
+      links:
+      - text: Introduction to statistical philosophy
+        url: https://drive.google.com/file/d/199YBtpaM6Rl9-UitW7LCyX6OrFLnH1gp
+      notes:
+      - text: 'note takers: Cari'
+        shadow: true
+    - start: '17:30'
+      end: '18:00'
+      kind: activity
+      track: main
+      title: 'Projects: Topic Intro'
+      instructors:
+      - blumberg
+      location: main-hall
+      links:
+      - text: 'Projects: Topic Intro'
+        url: https://docs.google.com/presentation/d/1DzepzN9YnYyzhpiV4JKs6x10b2I6B5Pe
+      notes:
+      - text: 'note takers: Mutono'
+        shadow: true
+    - start: '19:00'
+      end: '20:00'
+      kind: activity
+      track: main
+      title: 'Optional: Tutorials catch-up'
+      instructors:
+      - Mentors
+      location: comp-lab
+      links:
+      - text: Tutorials
+        url: ../tutorials
+    links:
+    - text: End of Day Questions
+      url: https://forms.gle/K1hNVfazuXbWVvEbA
+    notes:
+    - text: 0730? whatsapp checkin
+      shadow: true
+  - date: '2025-06-19'
+    label: Day 4
+    sessions:
+    - start: '08:30'
+      end: '10:00'
+      kind: discussion
+      track: main
+      title: Creating a model world to address a research question
+      instructors:
+      - blumberg
+      - nyamai
+      location: sections
+      notes:
+      - text: 'note takers: Cari, Jonathan'
+        shadow: true
+    - start: '10:00'
+      end: '10:30'
+      kind: coffee
+      track: main
+    - start: '10:30'
+      end: '11:15'
+      kind: lecture
+      track: main
+      title: Introduction to likelihood
+      instructors:
+      - vanschalkwyk
+      location: main-hall
+      links:
+      - text: Introduction to likelihood
+        url: https://drive.google.com/file/d/1cQqKXN9DqQ3a3v5HYraWbGOxPbzkGXgX
+      notes:
+      - text: 'note takers: Carl'
+        shadow: true
+    - start: '11:15'
+      end: '12:30'
+      kind: computer-session
+      track: main
+      title: Lab 5 - Introduction to likelihood
+      instructors:
+      - vanschalkwyk
+      - Mentors
+      location: comp-lab
+      links:
+      - text: Lab 5 - Introduction to likelihood
+        url: https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_introLikelihood.R
+      notes:
+      - text: 'helping: Jonathan, Seth, mentors'
+        shadow: true
+    - start: '12:30'
+      end: '13:00'
+      kind: activity
+      track: main
+      title: faculty meeting
+      shadow: true
+    - start: '12:30'
+      end: '14:00'
+      kind: meal
+      meal: lunch
+      track: main
+    - start: '14:00'
+      end: '15:30'
+      kind: live-coding
+      track: main
+      title: Participatory coding of a dynamical model
+      instructors:
+      - dushoff
+      location: main-hall
+      notes:
+      - '[This years code](https://github.com/ICI3D/RTutorials/blob/master/participatoryDynamics2025.R)
+        (past years generally available [here](https://github.com/ICI3D/RTutorials))'
+      - text: 'note takers: Carl'
+        shadow: true
+    - start: '15:30'
+      end: '16:00'
+      kind: tea
+      track: main
+    - start: '16:00'
+      end: '17:00'
+      kind: lecture
+      track: main
+      title: Introduction stochastic simulation models
+      instructors:
+      - kassanjee
+      location: main-hall
+      links:
+      - text: Introduction stochastic simulation models
+        url: https://drive.google.com/file/d/1zMJWRqbgHpT-PhE88qXmurhvHOh-rCth
+      notes:
+      - text: 'note takers: Carii'
+        shadow: true
+      - text: Drum on the drums; remind them about assessment
+        shadow: true
+    - start: '17:00'
+      end: '18:00'
+      kind: discussion
+      track: main
+      title: 'Exercise 1: Stochastic models'
+      instructors:
+      - kassanjee
+      location: comp-lab
+      links:
+      - text: 'Exercise 1: Stochastic models'
+        url: https://github.com/ICI3D/RTutorials/blob/master/ICI3D_Example_StochasticSpillover.R
+      notes:
+      - '[Summary](https://drive.google.com/file/d/12Km8PtWUdyHf4FQBSwZtDGAxfOc-76Fv)'
+      - text: 'Support: Mutono, Jonathan, Seth'
+        shadow: true
+    - start: '18:30'
+      end: '19:00'
+      kind: activity
+      track: main
+      title: Finish Model Diagram
+    - start: '19:00'
+      end: '21:00'
+      kind: social
+      track: main
+      title: Drumming
+      location: main-hall
+    links:
+    - text: End of Day Questions
+      url: https://forms.gle/WjMN2aD7HksgrZLv7
+    notes:
+    - text: 0730? whatsapp checkin
+      shadow: true
+  - date: '2025-06-20'
+    label: Day 5
+    sessions:
+    - start: '08:30'
+      end: '10:00'
+      kind: discussion
+      track: main
+      title: Description of proposed model and assumptions
+      instructors:
+      - nyamai
+      - vanschalkwyk
+      - blumberg
+      - Mentors
+      location: sections
+      notes:
+      - text: Telephone!
+        shadow: true
+      - text: 'note takers: Team, Reshma'
+        shadow: true
+    - start: '10:00'
+      end: '10:30'
+      kind: coffee
+      track: main
+    - start: '10:30'
+      end: '11:15'
+      kind: lecture
+      track: main
+      title: Fitting I
+      instructors:
+      - vanschalkwyk
+      location: main-hall
+      links:
+      - text: Fitting I
+        url: https://drive.google.com/file/d/1u0wD9ImMKiLtOvbbqQx7QkL3DNENZ_4f
+      notes:
+      - text: 'note takers: {% include instructors people="nyamai" %}'
+        shadow: true
+    - start: '11:15'
+      end: '12:15'
+      kind: activity
+      track: main
+      title: Mentor presentations
+      instructors:
+      - blumberg
+      location: main-hall
+      notes:
+      - text: We don't take formal notes here; you are requested to communicate privately with the mentors
+        shadow: true
+      - text: 'Seth: mention that lunch not served until 12:30'
+        shadow: true
+    - start: '12:15'
+      end: '12:45'
+      kind: activity
+      track: main
+      title: faculty meeting
+      shadow: true
+    - start: '12:15'
+      end: '13:45'
+      kind: meal
+      meal: lunch
+      track: main
+      title: (note slight shift)
+    - start: '13:45'
+      end: '15:00'
+      kind: computer-session
+      track: main
+      title: Lab 6 - MLE fitting of an SIR model to prevalence data
+      instructors:
+      - blumberg
+      location: comp-lab
+      links:
+      - text: Lab 6 - MLE fitting of an SIR model to prevalence data
+        url: https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_MLE_SIV_HIV.R
+      notes:
+      - text: Jonathan, Reshma, CarL, Carii, mentors
+        shadow: true
+      - '[Intro / Summary Slides](https://docs.google.com/presentation/d/1Yj0a1-2-1M8Cg0HH6PiPrc6cdKGGH1ru)'
+    - start: '15:00'
+      end: '15:30'
+      kind: activity
+      track: main
+      title: 'Projects: Topic Qs'
+      instructors:
+      - nyamai
+      location: main-hall
+      links:
+      - text: 'Projects: Topic Qs'
+        url: https://docs.google.com/presentation/d/1DzepzN9YnYyzhpiV4JKs6x10b2I6B5Pe
+      notes:
+      - text: 'note takers: Jonathan, Seth'
+        shadow: true
+    - start: '15:30'
+      end: '16:00'
+      kind: tea
+      track: main
+    - start: '16:00'
+      end: '17:00'
+      kind: activity
+      track: main
+      title: Mid-Clinic Feeback session
+      instructors:
+      - bruce
+      location: main-hall
+    - start: '17:00'
+      end: '18:00'
+      kind: activity
+      track: main
+      title: Optional catchup session
+      location: comp-lab
+      links:
+      - text: Optional catchup session
+        url: https://docs.google.com/forms/d/10c8MwOpJYpToRikrSXSHOWjKg80xduucFMKa9A4BDh0
+      notes:
+      - Let the mentors know your questions
+    - start: '19:00'
+      end: '21:00'
+      kind: social
+      track: main
+      title: Movie Night
+      location: main-hall
+      notes:
+      - text: 'Project group: work on group assignments possibly calling on experts'
+        shadow: true
+    links:
+    - text: End of Day Questions
+      url: https://forms.gle/55XBgBjKi34jFPVJ9
+    notes:
+    - text: 0730? whatsapp checkin
+      shadow: true
+    - '**NO LATER THAN 1800: [Project selection form](https://docs.google.com/forms/d/1RJW6X5RFQ0ZdSu7cqe3T-SvNsoIksQFhpbaaXWCD9NY)**'
+  - date: '2025-06-21'
+    label: Day 6
+    sessions:
+    - start: '09:00'
+      end: '10:30'
+      kind: live-coding
+      track: main
+      title: Participatory coding for stochastic model
+      instructors:
+      - pearson
+      location: main-hall
+      notes:
+      - text: 'note takers: Reshma'
+        shadow: true
+    - start: '10:30'
+      end: '11:00'
+      kind: coffee
+      track: main
+    - start: '11:00'
+      end: '11:30'
+      kind: activity
+      track: main
+      title: 'Projects: Group Assignments'
+      instructors:
+      - nyamai
+      location: comp-lab
+      links:
+      - text: 'Projects: Group Assignments'
+        url: https://docs.google.com/spreadsheets/d/1oYApOiOTl1C8M2E9QYEJjZeQCL1ErvWmSwrTD8B01AQ/
+    - start: '11:30'
+      end: '12:30'
+      kind: activity
+      track: main
+      title: 'Optional: Tutorials catch-up or Project Group Work'
+      instructors:
+      - Mentors
+      location: comp-lab
+      links:
+      - text: Tutorials
+        url: ../tutorials
+    notes:
+    - text: 0730? whatsapp checkin
+      shadow: true
+    - '{{ sc }} Optional: Group Lunch at Kalky''s (costs covered)'
+    - text: 16h30 post-Kalky's all hands faculty meeting in E313; beverages provided
+      shadow: true
+  - date: '2025-06-22'
+    label: Day 7
+    sessions: []
+    notes:
+    - '{{ sc }} Social Outing: Cape Point National Park; depart 09h00 sharp'
+- title: 'Week 2: MMED Project Focus'
+  collapsible: true
+  open: true
+  days:
+  - date: '2025-06-23'
+    label: Day 8 (Monday, 23 June)
+    sessions:
+    - start: '08:30'
+      end: '08:45'
+      kind: discussion
+      track: main
+      title: Feedback responses; Review Schedule & goals
+      instructors:
+      - kassanjee
+      location: main-hall
+      notes:
+      - text: 'Notes: Seth'
+        shadow: true
+    - start: '08:45'
+      end: '09:30'
+      kind: lecture
+      track: main
+      title: Life cycle of a modeling project
+      instructors:
+      - pearson
+      location: main-hall
+      links:
+      - text: Life cycle of a modeling project
+        url: https://docs.google.com/presentation/d/1QluWYDhtsHUZK4WSY_Ddq7u8tJe3pG7N
+      notes:
+      - text: 'note takers: Mutono, Joe'
+        shadow: true
+    - start: '09:30'
+      end: '10:00'
+      kind: group-work
+      track: main
+      title: First meeting of project groups
+      location: group-breakouts
+      links:
+      - text: project groups
+        url: https://docs.google.com/spreadsheets/d/1oYApOiOTl1C8M2E9QYEJjZeQCL1ErvWmSwrTD8B01AQ/
+    - start: '10:00'
+      end: '10:30'
+      kind: coffee
+      track: main
+    - start: '10:30'
+      end: '11:30'
+      kind: activity
+      track: main
+      title: Introduction to github
+      instructors:
+      - pearson
+      - Mentors
+      location: comp-lab
+      links:
+      - text: Introduction to github
+        url: https://docs.google.com/presentation/d/1Y0pTtI3DPKuE6ZKJ_gyfutFnjTJy3VkD
+      notes:
+      - text: 'note takers: Cari'
+        shadow: true
+    - start: '11:30'
+      end: '12:30'
+      kind: group-work
+      track: main
+      title: MMED project work
+      location: group-breakouts
+    - start: '12:30'
+      end: '14:00'
+      kind: meal
+      meal: lunch
+      track: main
+    - start: '14:00'
+      end: '15:30'
+      kind: lecture
+      track: main
+      title: Likelihood fitting and dynamical models II
+      instructors:
+      - blumberg
+      location: main-hall
+      links:
+      - text: Likelihood fitting and dynamical models II
+        url: https://docs.google.com/presentation/d/1AdBlXce06jznzo1tyywdiwqNs_UZIN6P
+      notes:
+      - text: 'Notes: Cari, Jonathan'
+        shadow: true
+      - text: Announce github practice no need to sign up
+        shadow: true
+    - start: '15:30'
+      end: '16:00'
+      kind: tea
+      track: main
+    - start: '16:00'
+      end: '18:00'
+      kind: group-work
+      track: main
+      title: MMED project work + mentoring sessions
+      location: group-breakouts
+      links:
+      - text: mentoring sessions
+        url: https://docs.google.com/spreadsheets/d/1jzPPM6DxPewEEFea2nAPiadjunCzKu_dpwgoVei6658
+    - start: '19:00'
+      end: '20:00'
+      kind: activity
+      track: main
+      title: 'Optional: Github practice and and trouble-shooting / tutorial catch-up'
+      instructors:
+      - pearson
+      - Mentors
+      location: comp-lab
+    links:
+    - text: End of Day Questions
+      url: https://forms.gle/ycGw6LvfUfqK3THw7
+  - date: '2025-06-24'
+    label: Day 9
+    sessions:
+    - start: '08:30'
+      end: '10:00'
+      kind: lecture
+      track: main
+      title: Introduction to Markov Chain Monte Carlo (MCMC)
+      instructors:
+      - pearson
+      location: main-hall
+      notes:
+      - text: Seth, Mutono
+        shadow: true
+    - start: '10:00'
+      end: '10:30'
+      kind: coffee
+      track: main
+    - start: '10:30'
+      end: '11:30'
+      kind: computer-session
+      track: main
+      title: Lab 7 & Lab 8 MCMC model fitting
+      instructors:
+      - pearson
+      - Mentors
+      location: comp-lab
+      links:
+      - text: Lab 7
+        url: https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_MCMC-Binomial.R
+      - text: Lab 8
+        url: https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_Lab_MCMC-SI_HIV.R
+      notes:
+      - text: Cari, Seth, Jonathan
+        shadow: true
+    - start: '11:30'
+      end: '12:30'
+      kind: group-work
+      track: main
+      title: MMED project work
+      location: group-breakouts
+    - start: '12:30'
+      end: '14:00'
+      kind: meal
+      meal: lunch
+      track: main
+    - start: '14:00'
+      end: '14:45'
+      kind: lecture
+      track: main
+      title: Data management and cleaning
+      instructors:
+      - nyamai
+      location: main-hall
+      links:
+      - text: Data management and cleaning
+        url: https://drive.google.com/file/d/1Ub-UmIWcCso-r6p_GZII3c5zigO4NL3Q
+      notes:
+      - text: 'Notes: Jonathan'
+        shadow: true
+    - start: '14:45'
+      end: '15:30'
+      kind: computer-session
+      track: main
+      title: 'Tutorial 5: Data cleaning, data'
+      instructors:
+      - bingham
+      location: comp-lab
+      links:
+      - text: 'Tutorial 5: Data cleaning'
+        url: https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_5_DataCleaning.R
+      - text: data
+        url: https://github.com/ICI3D/datasets/blob/master/dataCleaning/tutorial5.csv
+      notes:
+      - '[Summary]() ({% include instructors people="Mentors" %})'
+      - text: 'note takers: Mutono, Cari'
+        shadow: true
+    - start: '15:30'
+      end: '16:00'
+      kind: tea
+      track: main
+    - start: '16:00'
+      end: '18:00'
+      kind: group-work
+      track: main
+      title: MMED project work + mentoring sessions
+      location: group-breakouts
+      links:
+      - text: mentoring sessions
+        url: https://docs.google.com/spreadsheets/d/1jzPPM6DxPewEEFea2nAPiadjunCzKu_dpwgoVei6658
+    - start: '19:00'
+      end: '20:00'
+      kind: activity
+      track: main
+      title: 'Optional: Github Trouble-shooting / tutorial catch-up'
+      instructors:
+      - Mentors
+      location: comp-lab
+    links:
+    - text: End of Day Questions
+      url: https://forms.gle/ydGJTpyQuBner1Wd7
+  - date: '2025-06-25'
+    label: Day 10
+    sessions:
+    - start: '08:30'
+      end: '09:30'
+      kind: lecture
+      track: main
+      title: Model assessment
+      instructors:
+      - dushoff
+      location: main-hall
+      links:
+      - text: Model assessment
+        url: https://drive.google.com/file/d/1qyncr5wiEdAaR6EP36M9MUYwh8Ktj_Xk
+      notes:
+      - text: 'Notes: Joe, Cari'
+        shadow: true
+    - start: '09:30'
+      end: '10:00'
+      kind: group-work
+      track: main
+      title: MMED project work
+      location: group-breakouts
+    - start: '10:00'
+      end: '10:30'
+      kind: coffee
+      track: main
+    - start: '10:30'
+      end: '11:00'
+      kind: group-work
+      track: main
+      title: MMED project work
+      location: group-breakouts
+    - start: '11:00'
+      end: '12:30'
+      kind: group-work
+      track: main
+      title: '**either** MMED project work **or** Analysis pipelines (resulting code)'
+      instructors:
+      - pearson
+      location: group-breakouts
+      notes:
+      - text: 'note takers: Carl'
+        shadow: true
+      - text: Get a more direct summary title for this
+        shadow: true
+    - start: '12:30'
+      end: '14:00'
+      kind: meal
+      meal: lunch
+      track: main
+    - start: '14:00'
+      end: '15:30'
+      kind: group-work
+      track: main
+      title: MMED project work
+      location: group-breakouts
+    - start: '15:30'
+      end: '16:00'
+      kind: tea
+      track: main
+    - start: '16:00'
+      end: '18:00'
+      kind: group-work
+      track: main
+      title: MMED project work + mentoring sessions
+      location: group-breakouts
+      links:
+      - text: mentoring sessions
+        url: https://docs.google.com/spreadsheets/d/1jzPPM6DxPewEEFea2nAPiadjunCzKu_dpwgoVei6658
+    - start: '19:00'
+      end: '20:00'
+      kind: activity
+      track: main
+      title: 'Guest Lecture: Mmamapudi Kubjane'
+      location: main-hall
+      links:
+      - text: Mmamapudi Kubjane
+        url: https://www.ici3d.org/DAIDD/team/kubjane/
+    links:
+    - text: End of Day Questions
+      url: https://forms.gle/MUPLB5WP9RUqWUA47
+  - date: '2025-06-26'
+    label: Day 11
+    sessions:
+    - start: '08:30'
+      end: '10:00'
+      kind: group-work
+      track: main
+      title: MMED project work + mentoring sessions
+      location: group-breakouts
+      links:
+      - text: mentoring sessions
+        url: https://docs.google.com/spreadsheets/d/1jzPPM6DxPewEEFea2nAPiadjunCzKu_dpwgoVei6658
+    - start: '10:00'
+      end: '10:30'
+      kind: coffee
+      track: main
+    - start: '10:30'
+      end: '12:30'
+      kind: group-work
+      track: main
+      title: MMED project work
+      location: group-breakouts
+    - start: '12:30'
+      end: '14:00'
+      kind: meal
+      meal: lunch
+      track: main
+    - start: '14:00'
+      end: '15:30'
+      kind: group-work
+      track: main
+      title: '**either** MMED project work **or** Participatory coding for study design and simulation
+        based validation'
+      instructors:
+      - dushoff
+      location: main-hall
+      notes:
+      - text: 'note takers: {% include instructors people="pearson" %}'
+        shadow: true
+      - text: '[One-study code](https://github.com/ICI3D/RTutorials/blob/master/sampling_JD/study_design.R);
+          [Many-study code](https://github.com/ICI3D/RTutorials/blob/master/sampling_JD/study_design_rep.R)'
+        shadow: true
+    - start: '15:30'
+      end: '16:00'
+      kind: tea
+      track: main
+    - start: '16:00'
+      end: '17:30'
+      kind: discussion
+      track: main
+      title: Modelling for policy
+      instructors:
+      - blumberg
+      location: main-hall
+      notes:
+      - text: 'note takers: {% include instructors people="dushoff" %}'
+        shadow: true
+    - start: '19:00'
+      end: '20:00'
+      kind: activity
+      track: main
+      title: MMED project work
+  - date: '2025-06-27'
+    label: Day 12
+    sessions:
+    - start: '08:30'
+      end: '12:30'
+      kind: group-work
+      track: main
+      title: MMED project work
+      location: group-breakouts
+    - start: '10:00'
+      end: '10:30'
+      kind: coffee
+      track: main
+      notes:
+      - 12h30 [Report due]()
+      - 13h00 [Presentations due]()
+    - start: '12:30'
+      end: '13:30'
+      kind: meal
+      meal: lunch
+      track: main
+    - start: '13:30'
+      end: '15:30'
+      kind: group-work
+      track: main
+      title: Project presentations
+      instructors:
+      - nyamai
+      location: main-hall
+      notes:
+      - text: 'note takers: {% include instructors people="dushoff" %}'
+        shadow: true
+    - start: '15:30'
+      end: '16:00'
+      kind: tea
+      track: main
+    - start: '16:00'
+      end: '17:00'
+      kind: discussion
+      track: main
+      title: Feedback session II
+      instructors:
+      - bruce
+      location: main-hall
+    - start: '17:15'
+      end: '17:45'
+      kind: activity
+      track: main
+      title: Closing Remarks
+      instructors:
+      - kassanjee
+      location: main-hall
+      notes:
+      - text: 'note takers: {% include instructors people="TBD" %}'
+        shadow: true
